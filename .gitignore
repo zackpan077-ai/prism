@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 gitout.txt
 .env
+daily.log

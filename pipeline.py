@@ -263,15 +263,14 @@ def run_analyze() -> None:
 # ---------------------------------------------------------------------------
 
 def run_render() -> None:
-    from render import render_page
+    from render import render_page, render_archive
     analysis = json.loads((DATA / f"analysis_{TODAY}.json").read_text(encoding="utf-8"))
-    html = render_page(analysis)
     site = Path(__file__).parent / "site"
     site.mkdir(exist_ok=True)
-    daily = site / f"{TODAY}.html"
-    daily.write_text(html, encoding="utf-8")
-    (site / "index.html").write_text(html, encoding="utf-8")
-    print(f"wrote {daily} (+ index.html)")
+    (site / f"{TODAY}.html").write_text(render_page(analysis), encoding="utf-8")
+    # index.html becomes an archive of all issues; glm45.html is a model-comparison artifact
+    (site / "index.html").write_text(render_archive(site), encoding="utf-8")
+    print(f"wrote site/{TODAY}.html and archive index")
 
 
 STAGES = {"fetch": run_top, "plan": run_plan, "align": run_align, "analyze": run_analyze, "render": run_render}

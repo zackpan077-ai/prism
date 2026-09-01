@@ -169,6 +169,59 @@ def render_page(a: dict) -> str:
 </html>"""
 
 
+CSS_ARCHIVE = """
+body { background: var(--bg); color: var(--text);
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  line-height: 1.7; font-size: 15px; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 48px 20px 80px; }
+.brand { font-size: 13px; letter-spacing: 2px; color: var(--text3); text-transform: uppercase; }
+h1 { font-size: 26px; margin: 8px 0 20px; font-weight: 650; }
+.issue { display: block; border: 1px solid var(--border); border-radius: 8px;
+  padding: 14px 18px; margin-bottom: 10px; text-decoration: none; }
+.issue:hover { border-color: var(--text3); }
+.issue .date { color: var(--text3); font-size: 12.5px; }
+.issue .t { color: var(--text); font-size: 16px; font-weight: 600; margin: 2px 0; }
+.issue .e { color: var(--text2); font-size: 13px; }
+"""
+
+
+def render_archive(site_dir) -> str:
+    """Index page listing every rendered issue, newest first."""
+    import re as _re
+    from pathlib import Path as _Path
+
+    issues = []
+    for f in _Path(site_dir).glob("????-??-??.html"):
+        m = _re.search(r"<h1>(.*?)</h1>", f.read_text(encoding="utf-8"), _re.DOTALL)
+        title = m.group(1) if m else f.stem
+        sub = _re.search(r"class=\"sub\">(.*?)</p>", f.read_text(encoding="utf-8"), _re.DOTALL)
+        event = sub.group(1) if sub else ""
+        issues.append((f.stem, title, event))
+    issues.sort(reverse=True)
+    rows = "".join(
+        f"<a class='issue' href='{d}.html'><span class='date'>{d}</span>"
+        f"<div class='t'>{t}</div><div class='e'>{e}</div></a>"
+        for d, t, e in issues
+    )
+    return f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prism 棱镜 · 每日一事件 · 十国视角</title>
+<style>{CSS}{CSS_ARCHIVE}</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand">Prism 棱镜</div>
+  <h1>一个事件，十国视角</h1>
+  {rows}
+  <footer>数据：Google News 十国分版 RSS · 分析：GLM · 所有标题可点回原文核对</footer>
+</div>
+</body>
+</html>"""
+
+
 if __name__ == "__main__":
     import sys
     from pathlib import Path
