@@ -31,6 +31,22 @@ from pathlib import Path
 
 from fetch_news import EDITIONS, fetch_rss, search_url, run_top, DATA
 
+
+def _load_dotenv() -> None:
+    """Load KEY=VALUE lines from ./.env into os.environ (no override)."""
+    env_file = Path(__file__).parent / ".env"
+    if not env_file.exists():
+        return
+    for line in env_file.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        k, _, v = line.partition("=")
+        os.environ.setdefault(k.strip(), v.strip())
+
+
+_load_dotenv()
+
 TODAY = date.today().isoformat()
 COUNTRY_IDS = [label for label, *_ in EDITIONS]
 
