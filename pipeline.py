@@ -61,7 +61,7 @@ def llm(system: str, user: str, max_tokens: int = 4000) -> str:
         sys.exit("PRISM_API_KEY is not set. Set it (and optionally PRISM_BASE_URL / PRISM_MODEL) first.")
     base = os.environ.get("PRISM_BASE_URL", "https://api.openai.com/v1").rstrip("/")
     model = os.environ.get("PRISM_MODEL", "gpt-4o-mini")
-    body = json.dumps({
+    payload = {
         "model": model,
         "messages": [
             {"role": "system", "content": system},
@@ -69,25 +69,58 @@ def llm(system: str, user: str, max_tokens: int = 4000) -> str:
         ],
         "temperature": 0.3,
         "max_tokens": max_tokens,
-    }).encode("utf-8")
+        # Stream so slow generation can't hit a single read timeout.
+        "stream": True,
+    }
+    if "bigmodel.cn" in base:
+        # GLM-4.5+ enables deep thinking by default, which is far too slow on
+        # the free tier. This task doesn't need it.
+        payload["thinking"] = {"type": "disabled"}
+    body = json.dumps(payload).encode("utf-8")
     req = urllib.request.Request(
         f"{base}/chat/completions",
         data=body,
         headers={"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"},
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=180) as resp:
-        out = json.loads(resp.read().decode("utf-8"))
-    return out["choices"][0]["message"]["content"]
+    chunks: list[str] = []
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        for raw_line in resp:
+            line = raw_line.decode("utf-8").strip()
+            if not line.startswith("data:"):
+                continue
+            data = line[5:].strip()
+            if data == "[DONE]":
+                break
+            delta = json.loads(data)["choices"][0].get("delta", {})
+            piece = delta.get("content")
+            if piece:
+                chunks.append(piece)
+    return "".join(chunks)
 
 
-def llm_json(system: str, user: str, max_tokens: int = 4000) -> dict:
-    """Call the LLM and parse a JSON object from the reply (tolerates ``` fences)."""
+def _repair_json(s: str) -> dict:
+    """Parse JSON, iteratively escaping unescaped inner double quotes on failure."""
+    for _ in range(500):
+        try:
+            return json.loads(s)
+        except json.JSONDecodeError as e:
+            q = s.rfind('"', 0, e.pos)
+            if q <= 0:
+                raise
+            s = s[:q] + '\\"' + s[q + 1:]
+    raise ValueError("JSON repair did not converge")
+
+
+def llm_json(system: str, user: str, max_tokens: int = 4000, tag: str = "reply") -> dict:
+    """Call the LLM and parse a JSON object from the reply (tolerates ``` fences,
+    repairs unescaped quotes). Raw reply is saved for debugging/recovery."""
     text = llm(system, user, max_tokens)
+    (DATA / f"raw_{tag}_{TODAY}.txt").write_text(text, encoding="utf-8")
     m = re.search(r"\{.*\}", text, re.DOTALL)
     if not m:
         raise ValueError(f"LLM reply contained no JSON object:\n{text[:500]}")
-    return json.loads(m.group(0))
+    return _repair_json(m.group(0))
 
 
 # ---------------------------------------------------------------------------
@@ -115,7 +148,7 @@ def run_plan() -> None:
     for country, items in top.items():
         lines.append(f"## {country}")
         lines.extend(f"- {i['title']}" for i in items)
-    plan = llm_json(PLAN_SYSTEM, "\n".join(lines))
+    plan = llm_json(PLAN_SYSTEM, "\n".join(lines), tag="plan")
     missing = [c for c in COUNTRY_IDS if c not in plan.get("queries", {})]
     if missing:
         raise ValueError(f"plan is missing queries for: {missing}")
@@ -160,6 +193,7 @@ ANALYZE_SYSTEM = """你是「Prism 棱镜」的分析引擎。输入是同一事
 - 「谁没报 / 谁没上头版」是最有价值的信号，必须检查。
 - 关注：各国强调什么、回避什么、关键措辞差异（同一句话/同一行为的不同译法与定性词）、只有某国才有的独家角度。
 - 所有分析用中文写，引用原文时保留原文并附中文翻译。
+- JSON 字符串内部禁止出现英文双引号：引用原文或强调时一律用『』，原文中的双引号也替换成『』。
 
 严格输出 JSON，不要任何其他文字：
 {
@@ -175,29 +209,46 @@ ANALYZE_SYSTEM = """你是「Prism 棱镜」的分析引擎。输入是同一事
       "name": "美国",
       "frame": "主导框架，一句话（中文）",
       "unique": "别国没有的角度（中文）",
-      "headlines": [{"source": "媒体名", "original": "标题原文", "zh": "中文翻译（原文即中文时留空字符串）", "link": "原文链接"}]
+      "headlines": [{"source": "媒体名", "original": "标题原文（一字不改地照抄输入）", "zh": "中文翻译（原文即中文时留空字符串）"}]
     }
   },
   "limitation": "本期数据的局限性提示（中文一句话）"
 }
-findings 给 3-5 个，每个国家 headlines 挑 2-3 条最能代表该国视角的。countries 覆盖所有有数据的国家。"""
+findings 给 3-5 个，每个国家 headlines 挑 2-3 条最能代表该国视角的，original 必须与输入完全一致（用于回链）。
+不要输出任何 URL。countries 覆盖所有有数据的国家。"""
 
 
 def run_analyze() -> None:
     event = json.loads((DATA / f"event_{TODAY}.json").read_text(encoding="utf-8"))
     top = json.loads((DATA / f"top_{TODAY}.json").read_text(encoding="utf-8"))
-    lines = [f"# 事件：{event['event']}", "", "# 各国对齐报道（标题 | 媒体 | 链接）"]
+    lines = [f"# 事件：{event['event']}", "", "# 各国对齐报道（标题 | 媒体）"]
     for country, block in event["countries"].items():
         lines.append(f"## {country}（搜索词：{block['query']}）")
         if not block["items"]:
             lines.append("（无结果）")
-        lines.extend(f"- {i['title']} | {i['source']} | {i['link']}" for i in block["items"])
+        lines.extend(f"- {i['title']} | {i['source']}" for i in block["items"])
     lines.append("")
     lines.append("# 各国当天头版前10条（用于判断显著度与'谁没上头版'）")
     for country, items in top.items():
         lines.append(f"## {country}")
         lines.extend(f"- {i['title']}" for i in items[:10])
-    analysis = llm_json(ANALYZE_SYSTEM, "\n".join(lines), max_tokens=8000)
+    analysis = llm_json(ANALYZE_SYSTEM, "\n".join(lines), max_tokens=8000, tag="analysis")
+
+    # Recover source links by fuzzy title match (the LLM never sees URLs).
+    all_items = [i for block in event["countries"].values() for i in block["items"]]
+    all_items += [i for items in top.values() for i in items]
+
+    def link_for(fragment: str) -> str:
+        frag = (fragment or "")[:60].lower()
+        for it in all_items:
+            if frag and frag in it["title"].lower():
+                return it["link"]
+        return ""
+
+    for c in analysis.get("countries", {}).values():
+        for h in c.get("headlines", []):
+            h["link"] = link_for(h.get("original", ""))
+
     analysis["event"] = event["event"]
     analysis["event_title"] = event.get("event_title", "")
     analysis["date"] = TODAY

@@ -1,0 +1,17 @@
+{
+  "event": "美国与伊朗在波斯湾地区爆发军事冲突，双方互相打击对方目标",
+  "event_title": "美伊军事冲突",
+  "why": "被10国共同报道，各国视角差异大，涉及地缘政治、能源安全等多重议题",
+  "queries": {
+    "US": "Iran US strikes",
+    "UK": "Middle East conflict",
+    "India": "US Iran war",
+    "Japan": "米イラン衝突",
+    "France": "Conflit Iran USA",
+    "Germany": "Iran USA Konflikt",
+    "Brazil": "Conflito Irã EUA",
+    "Russia": "США Иран конфликт",
+    "Egypt": "الصراع الأمريكي الإيراني",
+    "China": "美伊军事冲突"
+  }
+}
