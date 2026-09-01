@@ -1,0 +1,305 @@
+{
+  "findings": [
+    {
+      "title": "经济视角差异显著",
+      "body": "日本媒体几乎完全从经济角度报道美伊冲突，标题中反复出现「原油先物2.5％超高」「供給不安」「原油価格急騰」等经济影响词汇，而其他国家则更多关注政治军事层面。这反映了日本作为能源进口国对油价波动的敏感关注。"
+    },
+    {
+      "title": "特朗普言论的报道差异",
+      "body": "各国对特朗普「hit Iran hard」言论的翻译和强调程度不同。美国媒体普遍使用「hit hard」或「smack」等强硬措辞，如『Trump vows to hit Iran hard』；法国媒体则翻译为『menacer de riposter』（威胁报复）；而中国媒体则相对克制，翻译为「将狠狠打击」。这反映了不同国家对特朗普言论的解读和传播策略差异。"
+    },
+    {
+      "title": "冲突持续时间的报道差异",
+      "body": "英国和德国媒体特别强调冲突已持续「six months」或「sechs Monate」，如『Six months of war in Iran has left the Pentagon depleted』和『Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest』，而美国媒体则更多关注「first time in weeks/month」的时间点，显示不同国家对冲突阶段性的认知差异。"
+    },
+    {
+      "title": "地区影响报道的侧重",
+      "body": "阿联酋和约旦作为冲突周边国家，其行动被多国报道，如『United Arab Emirates says it intercepted an Iranian drone』和『Iran attacks US bases in Jordan』，但埃及媒体则更关注地区格局变化，如『كيف سيُعيد الصراع الأمريكي-الإيراني تشكيل العالم؟』，显示不同地区国家关注点的差异。"
+    },
+    {
+      "title": "头版显著度差异",
+      "body": "美伊冲突在美国、英国、印度和埃及的头版新闻中占据重要位置，如美国的『Army secretary submits resignation to Trump after repeated clashes with Hegseth』与美伊冲突并列；而在日本、巴西和中国的头版中，该事件未进入前10条，显示该事件在不同国家的显著度差异。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "对比各国对特朗普「hit Iran hard」言论的报道差异",
+    "rows": [
+      [
+        "美国 · CBS News",
+        "『Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks』",
+        "直接引用原文，强调特朗普的强硬立场"
+      ],
+      [
+        "英国 · The Guardian",
+        "『Trump says US will 'hit Iran hard' as hostilities resume – as it happened』",
+        "保留原文引述，但添加了「as it happened」的实时报道框架"
+      ],
+      [
+        "法国 · Le Monde.fr",
+        "『Donald Trump menace de riposter aux attaques de missiles iraniens』",
+        "翻译为「威胁报复」，弱化了原文的强硬程度"
+      ],
+      [
+        "中国 · 东方财富",
+        "『特朗普称将'狠狠打击'伊朗』",
+        "使用相对克制的翻译，未使用原文中的'hard'一词"
+      ]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "聚焦特朗普的强硬表态和冲突升级",
+      "unique": "特别关注阿联酋拦截伊朗无人机的事件，显示地区盟友的参与",
+      "headlines": [
+        {
+          "source": "CBS News",
+          "original": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks",
+          "zh": "实时更新：特朗普誓言在美伊数周来首次互相打击后对伊朗进行强硬打击",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5"
+        },
+        {
+          "source": "Fox News",
+          "original": "Retaliation on Kharg Island weighed as US-Iran hostilies reignite",
+          "zh": "美敌对状态重启，考虑对哈尔格岛进行报复",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUV3N3pka3VwNzBqTDlCV19ZZ0QtMXRpOHBLLU9aRjVuMUpLa3hqOWtSdE1uNkRoZHV6QW50dkZDdjUxaUNXWUJxNkhETS1PTW1CREt0b3R0WUdWbU1ZUlhCakN1WTJJVlZCNF9hQm5xdjVaU2dyeEZ1eFRyZF9TRG9aODNGc25JNjBleV82RQ?oc=5"
+        },
+        {
+          "source": "NBC News",
+          "original": "Trump threatens to hit Iran 'hard' after U.S. and Iran trade strikes for first time in a month",
+          "zh": "美伊一个月来首次互相打击后，特朗普威胁对伊朗进行'强硬打击'",
+          "link": ""
+        }
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "强调冲突持续时间和地区经济影响",
+      "unique": "特别关注冲突已持续六个月的背景，以及能源市场波动",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "US and Iran trade strikes for first time in weeks",
+          "zh": "美伊数周来首次互相打击",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5"
+        },
+        {
+          "source": "The Independent",
+          "original": "Disaster of Trump's war in Iran laid bare six months on: Thousands dead, economic chaos and a region in flames",
+          "zh": "特朗普对伊朗战争灾难六个月后显现：数千人死亡，经济混乱，地区陷入火焰",
+          "link": ""
+        },
+        {
+          "source": "Reuters",
+          "original": "Oil prices rise as latest fighting revives Mideast supply disruption risks",
+          "zh": "最新战斗重燃中东供应中断风险，油价上涨",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "关注冲突对印度战略和经济的影响",
+      "unique": "特别强调印度在美伊冲突中的战略处境和挑战",
+      "headlines": [
+        {
+          "source": "NDTV",
+          "original": "US-Iran War Live Updates: Iran Says It Wants To Go Back To June Truce As Trump Threatens More Attacks",
+          "zh": "美伊战争实时更新：伊朗表示希望回到六月停火，同时特朗普威胁更多攻击",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjJPUTBQRGdidnNueUJNNlRFeXhyenhLVzl0RDZILUtzbTkxWklfbkF2WHVMcVdlMkZKc0VHMGI0ZFVuZ0habXozcEQ5Wi1JaDUxYl85ZWhmT2s4TTBZd05UYVNUTXF3MkVBZTBiM2s4T3hmVXFZZkExSUxHQzdyU0NGcGNtRmRKWkZQZ1VfbThKLWRhenI1UTh0UXYzNE1iOXptWFB30gGuAUFVX3lxTE9Kal96VzZVQTMtZzJWR3BUUllIV3B0RWpfYmh6REtXbThNMnF3X25ONHdzTjEtdk00Z21IZmVaR2RrU0pDM2tZWDdvM1BXZTJjN2c5TTBmaXVtRENZY2MzaEc0dEJIT2xkaXd6SlhDSXZfN1JMZ2tIZzNEczk5dzhmdEM3TlVVcVdZZ29HellSMDAyZW5xZ255OGQtWThITUU5NUM1N1p3TlZDR0Fldw?oc=5"
+        },
+        {
+          "source": "Hindustan Times",
+          "original": "Six months into US-Iran war: Strait of Hormuz crisis, global economic shock and India's strategic test",
+          "zh": "美伊战争六个月后：霍尔木兹海峡危机、全球经济冲击和印度的战略考验",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb1p4M3ZFWnNuZVlaOElsU2lrSEMyOTZfNHlIRW9ERDllaFN3Nm5JNlpsQ3NBa0pMVnV5VkpmZFd0djhUenFhYk12a18za3FGSEZDQnZwNjNmcmJ3SVNJNjhYYmRCUnBTUjFwY0VHeFRBUTJHbHhlMHJZVGd2RFhPRzdaVGQ2QlJ3dXhUYU13MVRpdTdveHRaMzB2VDVoX3lVYVZBdG5WSm80YWtQWVFnNUZ4Q0NVbGZxRkNHQW54QUxGWmF5X2x0LUZYTnM5empKVlVDdThqY1NMMEVEMFB6Vi1mX21KaDRWUEZxeE1CUzZjdnlq0gH6AUFVX3lxTE9NSDFXWm9helgzMUdvNW12RjZITFBQU1NsQWwtOFhmcnNqTVlJUDhpb3hfNEplNnpmbzE0ZjY1TVFBNFZoRkVSa3dtR0RZNHBqZWNxOG1hdWI3TXRyZ2t1UHp0Vnh0b1dKWDBlWXdfTDFTbVkySExkT3FaV2RHUkVXVWYyYzBld1hFMFNLZmJsQkQ0bVU0SGVJVzlNdTlHaHJIS3NLTTdTanNuSGZnUFRUbXpzUWJhc2JLVmtFdVVwMk5vSUc4NEZBVi15REhjbjJFVUt4bF9WNXNGME85b19UankwMEtBNjNtNVZuQ1FZaWZaaUstQTdJS0E?oc=5"
+        },
+        {
+          "source": "MS NOW",
+          "original": "6 months into Iran war, Trump's threats to allies deepen U.S. isolation",
+          "zh": "伊朗战争六个月后，特朗普对盟友的威胁加深美国孤立",
+          "link": ""
+        }
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "完全从经济角度报道，关注油价波动",
+      "unique": "几乎所有标题都聚焦原油价格和经济影响，几乎没有政治军事分析",
+      "headlines": [
+        {
+          "source": "ロイター",
+          "original": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安",
+          "zh": "原油期货上涨2.5%，美伊军事冲突再燃引发供应担忧",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MZlVVMDVzTGRuaF81RlFERWFyTGhhRENYLTdiVGxOLVBuODktYzZPamUtZU0tbTM3OVRyaDhsTlItV3JrYlF0alIyUTAyWGc3aW1pajAyemZrcUlxZFJvYV9pZmt1d3VIdjVWWm41QTFrMVpnZWRSMw?oc=5"
+        },
+        {
+          "source": "日本経済新聞",
+          "original": "米・イラン衝突再燃で国際原油価格が急騰…韓国精油株が一斉に上昇",
+          "zh": "美伊冲突再燃导致国际原油价格急涨…韩国炼油股集体上涨",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZNDFkZEhqWWJPckxWZFJfQ1k4dkduTjJ4QkVmdGZOUXBLTlJBS3MxTmt4TGpzWVdQVVVKSHFLWkk2VWJoc3dKd041VzNqd2x6QmlkRGM2TGtGVTdyMkY2YnNnV1EzcTd1TF9jMHd2dEVsTVVm?oc=5"
+        },
+        {
+          "source": "産経ニュース",
+          "original": "NY原油反発、終値85ドル台 米イラン軍事衝突激化に伴う供給途絶警戒で買い優勢",
+          "zh": "纽约原油反弹，收于85美元区间，因美伊军事冲突加剧引发供应中断担忧，买盘占优",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RmNTNDJlZzlRS1lmN196RmE3clREem9DbGo4VXVPRlVUel9BcElqME8wT2dXVXJDakxRbHFhdXQtWV9VNDB6eDFZcHRncjJvMENONVRBdGs1WEZrN21YajhRdzdrZGlBWU9Td2dnWUtab09NUUE?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "关注冲突对中东格局和法国战略的影响",
+      "unique": "特别强调法国在中东的战略利益和特朗普政策对法国的影响",
+      "headlines": [
+        {
+          "source": "Le Monde.fr",
+          "original": "Etats-Unis et Iran : Donald Trump menace de riposter aux attaques de missiles iraniens contre des cibles américaines au Moyen-Orient",
+          "zh": "美国和伊朗：唐纳德·特朗普威胁对伊朗导弹攻击美国在中东目标进行报复",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX3RsTnFkelBUbjZ2N3A1dU10dk5RajNVSGJpYWl4ejZ6NkpkZG1qQ1FXWGFtci1CWnlyVG5sWE5MT2JIWTJNd2VUZ0FWdTNBTkh4VlJOVlRYekFUYllsd1h5NjBCekw5a1lWdjlRdS02YzI4TjdBdUpPSHBXNWZZemFxWnVHZkszS1JTTkY4OWNza2haNHV1NFVVSUNIXzVnZXNGQk52aFRZXzhuQVRidy05ajh5MUVneTJqVmRIQ1ZBd3VYU1dlaEdvVEtZeDZ2bFAwNFRTZVU1Uk1pZ1llUnZISEMtS2daaWk2cHZMbV8?oc=5"
+        },
+        {
+          "source": "Le Figaro",
+          "original": "Avec sa guerre contre l'Iran, Donald Trump parachève le recul stratégique de l'Amérique au Moyen-Orient",
+          "zh": "通过对伊朗的战争，唐纳德·特朗普完成了美国在中东的战略退缩",
+          "link": ""
+        },
+        {
+          "source": "RTBF",
+          "original": "Six mois de guerre entre les Etats-Unis et l'Iran : que reste-t-il des objectifs de Donald Trump",
+          "zh": "美国和伊朗之间的战争六个月：唐纳德·特朗普的目标还剩下什么",
+          "link": ""
+        }
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "关注冲突持续时间和能源安全",
+      "unique": "特别关注霍尔木兹海峡航运受阻和能源供应问题",
+      "headlines": [
+        {
+          "source": "ZDFheute",
+          "original": "Erstmals seit Wochen wieder Angriffe zwischen Iran und USA",
+          "zh": "数周来首次伊朗和美国之间再次发生攻击",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PSVFhWG5HVGd6TjdMbHpWUzh3U2ZVaWdUbExlbUM1czFzemlZOWcybXZIMWNQQnp5T3FfYTNBYjZsQzdhSkg1MGhvTFhXNmsxd1JtWFkwX1p5bEhtcXVyZlhPWEVxN0w0N0tjUzZoUHlZdTJ5Z2Y2ejRROFRvZw?oc=5"
+        },
+        {
+          "source": "Spiegel",
+          "original": "Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest",
+          "zh": "伊朗战争：约400艘船只仍被困在波斯湾",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGdHN2FKT3dXcWRaRXlVSnhQZ0FQTmhRLVpvZTRobHpIUVNVQ1hVQ1JxRDBGOXIzazhTMzE1NzBFN3o2Q3YyUUxTQ1ZIU0VmSDlJZnBrWlRvY0hqQ2ItQ2pvYklTNVFnbmV2M0xEbVJ2bENBN3VOS1ZxYzQ1bkRoVFpPV0Z3MTNVZVRvdU1ZMXRBTzBITWVQQnF6SDVjd1psWWFCRFZVbWR2NVdVVzRJVlRNQVpaTG5WYUpqRFY1cXN5VHFOMlI1RkRjQ1hhZHBlbjhR?oc=5"
+        },
+        {
+          "source": "Euronews.com",
+          "original": "Ölpreise steigen: USA-Iran-Konflikt eskaliert, Warsh schürt Zinserhöhungserwartungen",
+          "zh": "油价上涨：美伊冲突升级，沃什引发加息预期",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1ZUVEVPMEFtb1JCYmdWWFI5Y2lMbVVDN2U5X0xHUDZ5V2dHV19EODVYSjNlb1dvRWpxbEhGQkxodmNxVng5SFZudFgzcVlEUnBXaE9teXpleEFYbm52d3Y4b0NhdFhETkJXM1NIWVljRm93ZG1nZ3NJWG1tcEZ2TDFCaFlGX2phNDh4eGgzTDlmTE81blJQNTJBdURMTy1ZYWtkNk1JVG1aVUxiMXdUekFiaU1pejda?oc=5"
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "关注冲突经济影响和地区局势",
+      "unique": "特别强调冲突对巴西经济的影响，尤其是石油价格波动",
+      "headlines": [
+        {
+          "source": "G1",
+          "original": "Trump diz que EUA vão atacar o Irã 'com força'; Teerã manda sinais contraditórios",
+          "zh": "特朗普表示美国将'用强力'攻击伊朗；德黑兰发出矛盾信号",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcU5hWFA4YzI5Vl9NYUJBanozNGpVNVo4UnJITHBwWHBhOWwyMzdqUzhvQVkxNHFxcjR0TkhNYV9XOW9RaGVuYWNVd0pKbmJhY3JkTGhKVElCRnNOWjdBb3pkTG8xZnhyT01QM19TY3JFbE9CMlhCbHBNbENsbHY0c3pqUHhHZ1hNekpLeDkwSno0V0RTdjFPTDhmU0xfT0tuQVEteFlYQTBjaGZ3YV85cUFkQU3SAcMBQVVfeXFMUFZ3UFo1ZWIwZ1NJa2xlZ2lYYTNwZzBqWVBYSWhBWFlMX1dGcE4xbHBMVlA0cmxDZXdhenpoa2ZXR1NZWXdPQjB2VWpVZzRMbEhXUHM4SFJGQi1uSkE1bllicEJTMWVobDd0UGFGUXlYUGdZdE9qWnpWbVNnNlpOTjVHNk1Oc2J4Ml9rb3dGaHlwUVRBQUxsalpJQTk0NndQNWNGc2o4WERXV3VvRVNXOWRPVlVkN09lSHoyWkE4V0lkOHZF?oc=5"
+        },
+        {
+          "source": "VEJA",
+          "original": "Irã retalia primeiro ataque dos EUA em um mês e conflito no Oriente Médio volta a escalar",
+          "zh": "伊朗对美国一个月来的首次攻击进行报复，中东冲突再次升级",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFhtdGpiTWdjbW9odmNUVjNITXppYUVSbmlodjcxQnpZaDl6eWY2RG5TYTU5eGFxeXlXbVF3QW9uVlhfLWRYVjZ3bXN1T1c2bU1TdldncmktRWwyZXFuQ0NWaUIxMWhuWHl6Y1NJaE9kQjFGTXpGSnpNU0c5cTNMTjI2UWlBeEp2WE1yV0pkMEZLeDF1S1ZXVjJJRTB2V3lYbkhiSlNzbVRPQ1VicG5WZnhFb1F1cHY1NjdyM1JJZw?oc=5"
+        },
+        {
+          "source": "Bora Investir",
+          "original": "Mercados hoje: conflito entre EUA e Irã eleva preço do petróleo e mantém investidores cautelosos",
+          "zh": "今日市场：美国和伊朗之间的冲突推高石油价格，使投资者保持谨慎",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON1FYUTNMYVllODdLNFlTV0NEN180SVRBUi03VU1KcUdrSXpTT2Z2OVZzNFBGX3ZlRW5uLWNvc1pxSDJ2NE9YSVd2OTZwOFczOFRkWV9iN1Y4UGVwaFNzVjZjTkFHSGZ6YldkSHRSNFBCcTZDZm81dWNaN0s3VTFRTkZuZGxnelNPR2JGRkt0T29aWXladGd3T3gyc0R3WnhvUkdvdzVWdUQtZ2xKaUQyQ3dXbUJJQXRwT1BiNEphVDZXZnU2RUt5dnZPb2hfeWc0TG5kcWljQ3B6VjFM?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "关注冲突持续时间和地区影响",
+      "unique": "特别强调冲突对全球能源市场的影响，以及美国战略目标",
+      "headlines": [
+        {
+          "source": "Meduza",
+          "original": "США и Иран впервые за месяц обменялись ударами",
+          "zh": "美国和伊朗一个月来首次互相打击",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVZJODVnNmVlWmUwUDZoVW1GVVBsUnRNWjh0TjdnRmtEbDdIM2cydzVhSW1qTUhSb2FPWFZWWnZNcWQzb2NGWEFjSlpjdEplVTkwYjZxbTg3Ml9ENHE2TEFFV1A5ZVNXZ3lLZmQxNGY0NXcwQTcyaGtyaElwSkpJak1waWpJV1VwTFVhVEVyVdIBlAFBVV95cUxNWk5YeVhjVTB6Rmg1WUd5TE1QZlZkZVNJYUVySXAycEhpS1d2V2pFR1RCRE5WX0RBNEtnOU93TkNGc2doY2xqMXdGM21lTER6S3Z0ekhUeHFrTGdPbU5WVmEwbFhDbzhQdWp4dUVLemtWZTk0Zk1FcHBqb0hmUGNhNWU1MXhZUFpKaTFvVWhCYWNPMjYz?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "Иран и США атакуют друг друга: чего Трамп добился за полгода конфликта?",
+          "zh": "伊朗和美国互相攻击：特朗普在半年冲突中取得了什么？",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OQnI2V1V1WHFTS3prWjlhb0d3RUJJOEJ2Q0ppNEZBbERGbnFjUUdRMFdwd0Q1VzhkMzJWR25WbjRkTnJvelF0NC0yR3lQdW42WFhQelZ3YkdNajZMeHl2X0xBa2U?oc=5"
+        },
+        {
+          "source": "NV Бизнес",
+          "original": "Новые удары США и Ирана всколыхнули нефтяной рынок — цены пошли вверх",
+          "zh": "美国和伊朗的新打击震撼了石油市场——价格上涨",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDF1U0dLZkRHa3dsV3J3YXAtbEpsaGNiRFljV3lTSm5zZ2dyUXg5cF9yTGdFU3Zhd3kwWm9TMjRTQjFpSk5Fa2JORExkSGhXbzFxVzlhVVpMVkx3MElseVB3eVZyNHJOdEtndUdRQ2NfRXBMNHZVVl9vR2YzVExzOVlUcU1kNEhzVHhZb29WM3p6YUU5M0tZTHN5VkZxUXYwOUVJUnVMWmFPOTVPVXJySGgyRXh4Uk5kQk55WWJB0gG4AUFVX3lxTE1ROWdKX0hzRV96bXgwMGxTT0c3UG9OOTQzY1dYdlNHTTFTY1pkX3B2QXgySWo0U2hzLUdyVkdCVjNYWjcwSmNoaDZpSDZCTU5aZjN1VjVKcnNtV1pSTkZiZlRyRHBUcXFaanhMN1NYZ25mNENUT05rc1ZwLTV0YWtSakpEUndwQzFIOVdZNWI2QXVZLXhCX3lWT3hPTlg2cFJrMVVWN1d1bWZnTnV4eG0xcWFvQkZPY3I?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "关注地区格局变化和战略影响",
+      "unique": "特别关注冲突对中东地区格局的长期影响",
+      "headlines": [
+        {
+          "source": "Investing.com",
+          "original": "كيف سيُعيد الصراع الأمريكي-الإيراني تشكيل العالم؟",
+          "zh": "美伊冲突将如何重塑世界？",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mYmk1djZUd05DSHdEdjVfd1RwOEROZlRhcXk3ajlPNkpOS1czQlJvQzFkcEdBUWVwZGxCSjY5WU0xVmppZkwxSXZaREdPZzM3ZzhWXzgtZy1RZmZKSnVtSUk0bjlxakFKVHc?oc=5"
+        },
+        {
+          "source": "arabic.cnn.com",
+          "original": "تحليل: صراع داخل إيران قد يحسم موعد نهاية حرب ترامب",
+          "zh": "分析：伊朗内部冲突可能决定特朗普战争的结束日期",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVo3R281bDU1YTN6ZmFkZ2tWOFlMbTRUNVdraGNMSEd0eVlvbnlzbExSLTVRcGVzb2lJeEtQcjIwWW14S0tVVl9fSkNZZTVEUzIwd2pIeXBXOE5hMEt5XzB2WW5GSGd1aEREdE5oWVZKQ3Z4c0trSnFPQXlaaXg1dllNZVpUc2taN01TY094Q3NlQkxkSk9ISjc0ZGNrMlQ4NUZwUXhmRVhCaF91WVpRaFZR0gG8AUFVX3lxTFBDQTB6U1g4NHV2Z2gxNk51UXlBLWx6eUpFd2YtYjlRQ1RRYlFPSmdzaG5NTkVvRHBDWGZ1VzYyVlQ0Zjh2ZFFhMENOMDhDSFdkZGMxVEpDcTJ1M0NoaUMxTmtFb0RyOEZVc0hNSkZQVFBhbVhoS1c2Zi0xNUtPM0hBRTdnRVpuM1I0ZmU3SnY1R0QyaEZ0eE5kVVU2dlQxZHBQREdyQks2cnQ3cjBwZVJncHpmX25JREg0ZHNQ?oc=5"
+        },
+        {
+          "source": "Reuters",
+          "original": "تحليل-بعد 6 أشهر.. الصراع مع إيران يؤول إلى حالة جمود مكلفة",
+          "zh": "分析——六个月后...与伊朗的冲突导致昂贵的僵持状态",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xUm1Oa25ubFVZVy1WQUx6N2wzODhqUmdGaEJqalNsSVZkdjlfdmx0c2pnWEt2YnpUM0dteXI2TEdXTUZfdmh0SlZpSEpxUm9lYnUwUzhoQTZtVjQ3enFNYmoycjBUNUNHTjlTV1AzLUNCcmlsZ25BMzA0Zw?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "关注冲突对全球经济和地区稳定的影响",
+      "unique": "特别强调冲突对全球经济的影响，以及中国的应对",
+      "headlines": [
+        {
+          "source": "新华网",
+          "original": "国际观察丨美伊'中局'博弈的考量与变量",
+          "zh": "国际观察丨美伊'中局'博弈的考量与变量",
+          "link": ""
+        },
+        {
+          "source": "中国经济网",
+          "original": "国际观察丨美伊战事半年，如何冲击世界？",
+          "zh": "国际观察丨美伊战事半年，如何冲击世界？",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80YndnWFVNRWJKbG5HZ3B3WU5GaktjS3RiZFNucjZkd2FXaEFMamhtZUJTTndzT010THQyQmJvNW5NMzBlMVloeVJJSW9YWFFGOE5UOFR4R1Fva0hyeVhlMWY1VQ?oc=5"
+        },
+        {
+          "source": "FX168财经",
+          "original": "美伊局势骤然升级！美国和伊朗时隔一个月再度交火后 特朗普发出重大威胁",
+          "zh": "美伊局势骤然升级！美国和伊朗时隔一个月再度交火后 特朗普发出重大威胁",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xS2NPRk1ubVA3Vk1nNHotNU4xbUMyQUFyNndHMjRkRUkwNXh1OHZTZVkxSU1JNXlvdm15TnlaX0tQUVFUV1ZZaVpJQ1ZHZFhwN014VGZhQ0dDT3RiN2p4UDlZRWhwbW1rRnFHOE1LVFprM253QmFqdw?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "部分国家如日本、巴西的报道样本较少，可能不足以全面反映该国视角；头版头条数据可能无法完全反映事件在各国的实际显著度。",
+  "event": "美国与伊朗在波斯湾地区爆发军事冲突，双方互相打击对方目标",
+  "event_title": "美伊军事冲突",
+  "date": "2026-09-01"
+}
