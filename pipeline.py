@@ -4,12 +4,22 @@ prism - daily pipeline: fetch -> pick event -> align -> analyze -> render.
 
 Stages (each writes an intermediate file under data/, so any stage can be re-run):
 
-  python pipeline.py fetch     -> data/top_<date>.json        (no LLM)
-  python pipeline.py plan      -> data/plan_<date>.json       (LLM call 1: pick event + localized queries)
-  python pipeline.py align     -> data/event_<date>.json      (no LLM)
-  python pipeline.py analyze   -> data/analysis_<date>.json   (LLM call 2: cross-country analysis)
-  python pipeline.py render    -> site/<date>.html + site/index.html
+  python pipeline.py fetch     -> data/top_<date>_<slot>.json        (no LLM)
+  python pipeline.py plan      -> data/plan_<date>_<slot>.json       (LLM call 1: pick event + localized queries)
+  python pipeline.py align     -> data/event_<date>_<slot>.json      (no LLM)
+  python pipeline.py analyze   -> data/analysis_<date>_<slot>.json   (LLM call 2: cross-country analysis)
+  python pipeline.py render    -> site/<date>_<slot>.html + site/index.html
   python pipeline.py all       -> run every stage in order
+
+Three issues per day (slot):
+  morning  早刊  07:30 trigger
+  noon     午刊  12:00 trigger
+  evening  晚刊  18:00 trigger
+`python pipeline.py all` picks the slot automatically from the current Beijing time
+(5:00-10:59 -> morning, 11:00-15:59 -> noon, 16:00-22:59 -> evening; anything else
+falls back to morning and is marked 补跑 catch-up). Override explicitly with
+`python pipeline.py all --slot morning|noon|evening` (required in CI where the
+runner timezone differs from Beijing).
 
 LLM configuration (OpenAI-compatible chat completions):
   PRISM_API_KEY    required for plan/analyze
@@ -26,10 +36,32 @@ import os
 import re
 import sys
 import urllib.request
-from datetime import date
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from fetch_news import EDITIONS, fetch_rss, search_url, run_top, DATA
+
+BEIJING_TZ = timezone(timedelta(hours=8))  # UTC+8, no DST
+
+SLOTS = ("morning", "noon", "evening")
+SLOT_LABELS = {"morning": "早刊", "noon": "午刊", "evening": "晚刊"}
+# Slot boundaries in Beijing local hour. 5:00-10:59 morning, 11:00-15:59 noon,
+# 16:00-22:59 evening; 23:00-4:59 is a catch-up run -> morning (marked 补跑).
+SLOT_HOURS = {"morning": range(5, 11), "noon": range(11, 16), "evening": range(16, 23)}
+
+
+def pick_slot(now: datetime | None = None) -> tuple[str, bool]:
+    """Pick the slot from current Beijing time.
+
+    Returns (slot, is_catch_up). 5:00-10:59 -> morning, 11:00-15:59 -> noon,
+    16:00-22:59 -> evening; 23:00-4:59 has no scheduled slot, so a run at that
+    time is treated as a catch-up morning issue (marked 补跑 on the page).
+    """
+    hour = (now.astimezone(BEIJING_TZ) if now else datetime.now(BEIJING_TZ)).hour
+    for slot, hours in SLOT_HOURS.items():
+        if hour in hours:
+            return slot, False
+    return "morning", True
 
 
 def _load_dotenv() -> None:
@@ -47,7 +79,11 @@ def _load_dotenv() -> None:
 
 _load_dotenv()
 
-TODAY = date.today().isoformat()
+# Beijing date by default so CI runners (UTC) stamp the same day the issue
+# belongs to (e.g. UTC 23:30 is already the next day in Beijing).
+TODAY = datetime.now(BEIJING_TZ).date().isoformat()
+SUFFIX = ""                               # set per-run: "" or "_<slot>"
+CATCHUP = False                           # True when auto-run outside all slot windows
 COUNTRY_IDS = [label for label, *_ in EDITIONS]
 
 
@@ -116,7 +152,7 @@ def llm_json(system: str, user: str, max_tokens: int = 4000, tag: str = "reply")
     """Call the LLM and parse a JSON object from the reply (tolerates ``` fences,
     repairs unescaped quotes). Raw reply is saved for debugging/recovery."""
     text = llm(system, user, max_tokens)
-    (DATA / f"raw_{tag}_{TODAY}.txt").write_text(text, encoding="utf-8")
+    (DATA / f"raw_{tag}_{TODAY}{SUFFIX}.txt").write_text(text, encoding="utf-8")
     m = re.search(r"\{.*\}", text, re.DOTALL)
     if not m:
         raise ValueError(f"LLM reply contained no JSON object:\n{text[:500]}")
@@ -143,7 +179,7 @@ queries 的 key 必须是这 10 个：US, UK, India, Japan, France, Germany, Bra
 
 
 def run_plan() -> None:
-    top = json.loads((DATA / f"top_{TODAY}.json").read_text(encoding="utf-8"))
+    top = json.loads((DATA / f"top_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
     lines = []
     for country, items in top.items():
         lines.append(f"## {country}")
@@ -152,7 +188,7 @@ def run_plan() -> None:
     missing = [c for c in COUNTRY_IDS if c not in plan.get("queries", {})]
     if missing:
         raise ValueError(f"plan is missing queries for: {missing}")
-    path = DATA / f"plan_{TODAY}.json"
+    path = DATA / f"plan_{TODAY}{SUFFIX}.json"
     path.write_text(json.dumps(plan, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"event: {plan['event']}")
     print(f"wrote {path}")
@@ -163,7 +199,7 @@ def run_plan() -> None:
 # ---------------------------------------------------------------------------
 
 def run_align() -> None:
-    plan = json.loads((DATA / f"plan_{TODAY}.json").read_text(encoding="utf-8"))
+    plan = json.loads((DATA / f"plan_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
     editions = {label: (hl, gl, ceid) for label, hl, gl, ceid in EDITIONS}
     out = {"event": plan["event"], "event_title": plan.get("event_title", ""), "countries": {}}
     for label, q in plan["queries"].items():
@@ -175,7 +211,7 @@ def run_align() -> None:
             items = []
         out["countries"][label] = {"query": q, "items": items}
         print(f"  {label:8s} {len(items)} items")
-    path = DATA / f"event_{TODAY}.json"
+    path = DATA / f"event_{TODAY}{SUFFIX}.json"
     path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"wrote {path}")
 
@@ -219,8 +255,8 @@ findings 给 3-5 个，每个国家 headlines 挑 2-3 条最能代表该国视�
 
 
 def run_analyze() -> None:
-    event = json.loads((DATA / f"event_{TODAY}.json").read_text(encoding="utf-8"))
-    top = json.loads((DATA / f"top_{TODAY}.json").read_text(encoding="utf-8"))
+    event = json.loads((DATA / f"event_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
+    top = json.loads((DATA / f"top_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
     lines = [f"# 事件：{event['event']}", "", "# 各国对齐报道（标题 | 媒体）"]
     for country, block in event["countries"].items():
         lines.append(f"## {country}（搜索词：{block['query']}）")
@@ -252,7 +288,11 @@ def run_analyze() -> None:
     analysis["event"] = event["event"]
     analysis["event_title"] = event.get("event_title", "")
     analysis["date"] = TODAY
-    path = DATA / f"analysis_{TODAY}.json"
+    if SUFFIX:
+        analysis["slot"] = SUFFIX[1:]  # strip leading "_"
+    if CATCHUP:
+        analysis["catchup"] = True
+    path = DATA / f"analysis_{TODAY}{SUFFIX}.json"
     path.write_text(json.dumps(analysis, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"findings: {len(analysis.get('findings', []))}, countries: {len(analysis.get('countries', {}))}")
     print(f"wrote {path}")
@@ -264,20 +304,46 @@ def run_analyze() -> None:
 
 def run_render() -> None:
     from render import render_page, render_archive
-    analysis = json.loads((DATA / f"analysis_{TODAY}.json").read_text(encoding="utf-8"))
+    analysis = json.loads((DATA / f"analysis_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
     site = Path(__file__).parent / "site"
     site.mkdir(exist_ok=True)
-    (site / f"{TODAY}.html").write_text(render_page(analysis), encoding="utf-8")
+    (site / f"{TODAY}{SUFFIX}.html").write_text(render_page(analysis), encoding="utf-8")
     # index.html becomes an archive of all issues; glm45.html is a model-comparison artifact
     (site / "index.html").write_text(render_archive(site), encoding="utf-8")
-    print(f"wrote site/{TODAY}.html and archive index")
+    print(f"wrote site/{TODAY}{SUFFIX}.html and archive index")
 
 
-STAGES = {"fetch": run_top, "plan": run_plan, "align": run_align, "analyze": run_analyze, "render": run_render}
+def run_fetch() -> None:
+    run_top(suffix=SUFFIX)
+
+
+STAGES = {"fetch": run_fetch, "plan": run_plan, "align": run_align, "analyze": run_analyze, "render": run_render}
 
 if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
-    mode = sys.argv[1] if len(sys.argv) > 1 else "all"
+    args = sys.argv[1:]
+    mode = args[0] if args else "all"
+
+    # --slot morning|noon|evening : explicit slot (CI/passing runs). Without it,
+    # the slot is chosen from current Beijing time (see pick_slot).
+    slot = None
+    if "--slot" in args:
+        i = args.index("--slot")
+        if i + 1 >= len(args) or args[i + 1] not in SLOTS:
+            sys.exit(f"--slot expects one of: {', '.join(SLOTS)}")
+        slot = args[i + 1]
+
+    if mode in STAGES or mode == "all":
+        if slot:
+            SUFFIX = f"_{slot}"
+            note = ""
+        else:
+            slot, catch_up = pick_slot()
+            SUFFIX = f"_{slot}"
+            CATCHUP = catch_up
+            note = " (补跑 catch-up)" if catch_up else ""
+        print(f"slot: {slot} {SLOT_LABELS[slot]}{note} -> files *_{TODAY}{SUFFIX}.*")
+
     if mode == "all":
         for name, fn in STAGES.items():
             print(f"=== {name} ===")

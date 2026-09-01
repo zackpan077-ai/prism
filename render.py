@@ -3,6 +3,8 @@
 import html
 import json
 
+SLOT_LABELS = {"morning": "早刊", "noon": "午刊", "evening": "晚刊"}
+
 
 def esc(s: str) -> str:
     return html.escape(str(s or ""))
@@ -87,6 +89,15 @@ def render_page(a: dict) -> str:
     countries = a.get("countries", {})
     n_headlines = sum(len(c.get("headlines", [])) for c in countries.values())
 
+    slot = a.get("slot", "")
+    slot_label = SLOT_LABELS.get(slot, "")
+    catchup = " · 补跑" if a.get("catchup") else ""
+    date_html = esc(a.get("date", ""))
+    if slot_label:
+        date_html += f" · {esc(slot_label)}{esc(catchup)}"
+    elif catchup:
+        date_html += esc(catchup)
+
     findings_html = ""
     for i, f in enumerate(a.get("findings", []), 1):
         findings_html += f"<h3>{i} · {esc(f['title'])}</h3><p>{esc(f['body'])}</p>"
@@ -143,7 +154,7 @@ def render_page(a: dict) -> str:
   <div class="brand">Prism 棱镜 · 每日一事件 · 十国视角</div>
   <h1>{esc(a.get('event_title') or '今日事件')}</h1>
   <p class="sub">{esc(a.get('event', ''))}</p>
-  <p class="meta">{esc(a.get('date', ''))} · 数据：Google News 十国分版 RSS · 分析由 LLM 生成，所有标题可点回原文核对</p>
+  <p class="meta">{date_html} · 数据：Google News 十国分版 RSS · 分析由 LLM 生成，所有标题可点回原文核对</p>
 
   <div class="stats">
     <div class="stat"><b>{len(countries)}</b><span>国家版信息流</span></div>
@@ -180,29 +191,49 @@ h1 { font-size: 26px; margin: 8px 0 20px; font-weight: 650; }
   padding: 14px 18px; margin-bottom: 10px; text-decoration: none; }
 .issue:hover { border-color: var(--text3); }
 .issue .date { color: var(--text3); font-size: 12.5px; }
+.issue .slot { display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 99px;
+  border: 1px solid var(--border); color: var(--text2); font-size: 11.5px; }
 .issue .t { color: var(--text); font-size: 16px; font-weight: 600; margin: 2px 0; }
 .issue .e { color: var(--text2); font-size: 13px; }
 """
 
 
+def _slot_of(stem: str) -> str:
+    """'2026-09-01_morning' -> 'morning'; '2026-09-01' -> ''."""
+    return stem.split("_", 1)[1] if "_" in stem else ""
+
+
 def render_archive(site_dir) -> str:
-    """Index page listing every rendered issue, newest first."""
+    """Index page listing every rendered issue, newest first.
+
+    Understands both new slot-stamped files (2026-09-01_morning.html) and
+    legacy date-only files (2026-09-01.html).
+    """
     import re as _re
     from pathlib import Path as _Path
 
     issues = []
-    for f in _Path(site_dir).glob("????-??-??.html"):
-        m = _re.search(r"<h1>(.*?)</h1>", f.read_text(encoding="utf-8"), _re.DOTALL)
+    for f in _Path(site_dir).glob("*.html"):
+        if not _re.fullmatch(r"\d{4}-\d{2}-\d{2}(_[a-z0-9]+)?", f.stem):
+            continue  # index.html, glm45.html, etc.
+        text = f.read_text(encoding="utf-8")
+        m = _re.search(r"<h1>(.*?)</h1>", text, _re.DOTALL)
         title = m.group(1) if m else f.stem
-        sub = _re.search(r"class=\"sub\">(.*?)</p>", f.read_text(encoding="utf-8"), _re.DOTALL)
+        sub = _re.search(r"class=\"sub\">(.*?)</p>", text, _re.DOTALL)
         event = sub.group(1) if sub else ""
         issues.append((f.stem, title, event))
-    issues.sort(reverse=True)
-    rows = "".join(
-        f"<a class='issue' href='{d}.html'><span class='date'>{d}</span>"
-        f"<div class='t'>{t}</div><div class='e'>{e}</div></a>"
-        for d, t, e in issues
-    )
+    # Sort by (date, slot order). Within one date: evening > noon > morning;
+    # legacy date-only stems get -1 so they sort after all slot issues.
+    order = {"morning": 0, "noon": 1, "evening": 2}
+    issues.sort(key=lambda x: (x[0][:10], order.get(x[0][11:] if len(x[0]) > 10 else "", -1)), reverse=True)
+    rows = ""
+    for stem, t, e in issues:
+        slot = _slot_of(stem)
+        badge = f"<span class='slot'>{SLOT_LABELS[slot]}</span>" if slot in SLOT_LABELS else ""
+        rows += (
+            f"<a class='issue' href='{stem}.html'><span class='date'>{stem[:10]}</span>{badge}"
+            f"<div class='t'>{t}</div><div class='e'>{e}</div></a>"
+        )
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>

@@ -65,7 +65,7 @@ def search_url(query: str, hl: str, gl: str, ceid: str) -> str:
     return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
 
 
-def run_top() -> None:
+def run_top(suffix: str = "") -> None:
     out = {}
     for label, hl, gl, ceid in EDITIONS:
         try:
@@ -76,7 +76,7 @@ def run_top() -> None:
             out[label] = []
             print(f"  {label:8s} FAILED: {e}")
         time.sleep(1)
-    path = DATA / f"top_{date.today().isoformat()}.json"
+    path = DATA / f"top_{date.today().isoformat()}{suffix}.json"
     path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"wrote {path}")
 

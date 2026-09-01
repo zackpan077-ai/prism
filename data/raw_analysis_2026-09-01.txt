@@ -1,1 +1,124 @@
-{"findings": [{"title": "美国头版几乎未给冲突留位置", "body": "美国当天头版前10条没有一条是美伊冲突，最相关的是国内政治新闻『Army secretary submits resignation to Trump after repeated clashes with Hegseth』（陆军部长因与赫格塞斯反复冲突向特朗普递交辞呈）。冲突本身只出现在搜索结果中以『Live Updates』滚动形式呈现，主导框架是特朗普的个人威胁言论——『Trump vows to hit Iran hard』出现在CBS、The Independent、Time、NBC等多家标题中，而打击目标（拉腊克岛/哈尔克岛）仅在Fox News『Retaliation on Kharg Island weighed』和Axios『curb Hormuz attacks』中可见。"}, {"title": "日本以油价与市场框架完全替换军事框架", "body": "日本12条标题中至少8条是原油、金价、日经、道指的市场报道，如『原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安』（ Reuters，且被多个门户原样转载）、『NYダウ374ドル安、米イラン衝突再燃で原油・金利が重荷』。日本头版前10条也没有冲突相关条目。唯一直接描述军事行动的是日本经济新闻『米軍、1カ月ぶりイラン攻撃 周辺国に報復で衝突拡大の懸念』，其框架是冲突外溢的担忧而非美国立场。newspicks的『米軍が先制攻撃』（美军先发攻击）是少数明确把首击归于美方的措辞。"}, {"title": "同一军事行动，目标地名的不同写法", "body": "美国打击的岛屿在不同国家报道中写作Kharg Island（美Fox）、Larak（印度Al Jazeera、法Le Figaro『l'île de Larak』、俄Euronews『острова Ларак』、阿语『جزيرة لارك』）、中国则出现两种：『拉腊克岛』（华尔街见闻）与『霍尔木兹岛』（firstonline）——后者与其他国家报道不一致，可能是地名讹误或另一指称，值得标注。埃及今日第七报的专家解读将其定性为『رسالة أمريكية لإيران』（美国发给伊朗的信号）。"}, {"title": "伊朗回击目标在各国标题中的不对称呈现", "body": "伊朗反击的目标（约旦境内美军基地、以及据firstonline所称对约旦和阿联酋的袭击）出现在多数国家的标题里：印度Al Jazeera『Iran attacks US bases in Jordan after US strikes Larak Island』、巴西BBC『Teerã responde lançando mísseis contra bases na Jordânia』、德国RND『Iran übt Vergeltung in Jordanien』。但美国本土搜索结果的前排标题几乎全部只聚焦特朗普的威胁言论，仅有AP一条间接提及伊朗无人机进入阿联酋水域，未在标题层面呈现伊朗对美军基地的直接打击。"}, {"title": "区域与经济视角的独家角度", "body": "印度Hindustan Times将冲突与自身战略绑定：『Six months into US-Iran war: Strait of Hormuz crisis, global economic shock and India's strategic test』，且头版同时挂着该话题与『GDP growth beats estimates at 7.8% despite US-Iran war』。法国独家角度是战略衰落与经济战：Le Figaro『Donald Trump parachève le recul stratégique de l'Amérique au Moyen-Orient』、l'Opinion『place à la guerre économique』。中国独有期货产业链角度『美伊再起军事冲突，聚酯产业链上涨』（新浪财经）与官方通讯社的战略评述『美伊「中局」博弈的考量与变量』。俄罗斯列表中出现一条转引Tasnim（伊朗媒体）的『Афганистан — урок, который США должны усвоить』（阿富汗是美国的教训），只有俄语区搜索结果携带这一伊朗官方叙事入口。"}], "quote_comparison": {"intro": "对比特朗普威胁性表态与冲突定性的措辞差异，以及事件发起方的归因方式", "rows": [["US · CBS News", "Live Updates: Trump vows to hit Iran hard", "以特朗普第一人称威胁为标题主体，军事行动细节被压缩为『exchange strikes』，双方对等表述"], ["US · Fox News", "Retaliation on Kharg Island weighed", "『Retaliation』（报复）暗示此前伊朗有攻击，为美方行动提供正当性框架"], ["India · Al Jazeera", "Iran attacks US bases in Jordan after US strikes Larak Island", "明确时序：美国先打击拉腊克岛，伊朗随后攻击，归因链最完整"], ["Brazil · G1", "Trump diz que EUA vão atacar o Irã 'com força'; Teerã manda sinais contraditórios", "同引特朗普表态，但补充『德黑兰发出矛盾信号』，呈现双方的不确定性而非单方叙事"], ["Japan · newspicks", "【世界のニュース７選】米イラン衝突再燃 米軍が先制攻撃", "『米軍が先制攻撃』（美军先发攻击）是各国标题中唯一直白使用『先制』定性的"], ["Germany · ZDFheute", "Iran: Haben volle Kontrolle über Straße von Hormus - USA \"lügen\"", "引伊朗方声明称完全控制霍尔木兹海峡并斥美国『说谎』，罕见的直接呈现伊朗指控"], ["Egypt · اليوم السابع", "خبير عسكري: استهداف جزيرة لارك رسالة أمريكية لإيران", "军事专家框架：把打击解读为『信息传递』而非战争行为，弱化升级叙事"]]}, "countries": {"US": {"name": "美国", "frame": "以特朗普个人言论为核心的滚动战报，军事细节后置", "unique": "Fox News讨论对哈尔克岛打击的选项；RFE报道伊朗总统之子称伊朗可在不浓缩铀的情况下生存", "headlines": [{"source": "CBS News", "original": "Live Updates: Trump vows to hit Iran hard after U.S., Tehran exchange strikes for the first time in weeks - CBS News", "zh": "实时更新：数周来美国与德黑兰首次互射后，特朗普誓言重击伊朗"}, {"source": "Fox News", "original": "Retaliation on Kharg Island weighed as US-Iran hostilies reignite - Fox News", "zh": "美伊敌对重燃之际，美国权衡对哈尔克岛的报复打击"}, {"source": "AP News", "original": "United Arab Emirates says it intercepted an Iranian drone over its territorial waters - AP News", "zh": "阿联酋称在其领水拦截一架伊朗无人机"}]}, "UK": {"name": "英国", "frame": "战况播报叠加六个月战争代价与市场影响的复盘框架", "unique": "多家聚焦战争对航运、油市、防务产业的长期影响（FT、Reuters、Al-Monitor），以及Pentagon depleted（五角大楼被消耗）的角度", "headlines": [{"source": "The Guardian", "original": "Trump says US will ‘hit Iran hard’ as hostilities resume – as it happened - The Guardian", "zh": "敌对重启之际特朗普称将『重击伊朗』——实时回顾"}, {"source": "The Independent", "original": "Disaster of Trump’s war in Iran laid bare six months on: Thousands dead, economic chaos and a region in flames - The Independent", "zh": "六个月后特朗普伊朗战争之灾难暴露无遗：数千人死亡、经济混乱、地区陷入火海"}, {"source": "Reuters", "original": "Oil prices rise as latest fighting revives Mideast supply disruption risks - Reuters", "zh": "最新战斗重现中东供应中断风险，油价上涨"}]}, "India": {"name": "印度", "frame": "强调六个月战争、霍尔木兹危机与对印度自身的战略考验", "unique": "Hindustan Times把冲突直接与『India's strategic test』绑定，且头版出现GDP在战争中仍增长7.8%的叙事", "headlines": [{"source": "Al Jazeera", "original": "Iran attacks US bases in Jordan after US strikes Larak Island - Al Jazeera", "zh": "美国打击拉腊克岛后，伊朗攻击驻约旦美军基地"}, {"source": "NDTV", "original": "US-Iran War Live Updates: Iran Says It Wants To Go Back To June Truce As Trump Threatens More Attacks - NDTV", "zh": "美伊战争实时更新：特朗普威胁更多攻击之际，伊朗称希望回到六月停火"}, {"source": "Hindustan Times", "original": "Six months into US-Iran war: Strait of Hormuz crisis, global economic shock and India’s strategic test - Hindustan Times", "zh": "美伊战争六个月：霍尔木兹海峡危机、全球经济冲击与印度的战略考验"}]}, "Japan": {"name": "日本", "frame": "能源与金融市场冲击为主，军事冲突仅作为油价上涨的原因出现", "unique": "12条标题中8条以上是油价、日经、道指等市场报道；唯一直述军事行动的日经标题聚焦周边国家遭报复的扩散担忧", "headlines": [{"source": "ロイター", "original": "原油先物2.5％超高、米・イラン軍事衝突再燃で供給不安 - ロイター", "zh": "原油期货大涨2.5%，美伊军事冲突再燃引发供应不安"}, {"source": "日本経済新聞", "original": "米軍、1カ月ぶりイラン攻撃 周辺国に報復で衝突拡大の懸念 - 日本経済新聞", "zh": "美军一个月来首次攻击伊朗，周边国家遭报复引发冲突扩大担忧"}, {"source": "株探", "original": "日経平均1200円安、米イラン軍事衝突再開 韓国株急落 - 株探", "zh": "日经平均下跌1200日元，美伊军事冲突重启，韩国股市暴跌"}]}, "France": {"name": "法国", "frame": "美国中东战略衰退与经济战争的分析框架", "unique": "Le Figaro称特朗普『parachève le recul stratégique de l'Amérique』（完成美国战略后撤）；l'Opinion提出『guerre économique』（经济战争）；tv5monde报道伊朗坚称霍尔木兹海峡『restera iranien』", "headlines": [{"source": "Le Figaro", "original": "Avec sa guerre contre l’Iran, Donald Trump parachève le recul stratégique de l’Amérique au Moyen-Orient - Le Figaro", "zh": "通过与伊朗的战争，特朗普完成了美国在中东的战略后撤"}, {"source": "Le Figaro", "original": "Guerre en Iran : les États-Unis frappent l’île de Larak, les Gardiens de la révolution promettent une riposte - Le Figaro", "zh": "伊朗战争：美国打击拉腊克岛，革命卫队誓言回击"}, {"source": "tv5monde", "original": "Guerre au Moyen-Orient: le détroit d'Ormuz 'restera iranien' réaffirme l'Iran après les propos de Donald Trump - tv5monde", "zh": "中东战争：特朗普发言后伊朗重申霍尔木兹海峡『仍将属于伊朗』"}]}, "Germany": {"name": "德国", "frame": "冲突无解、长期化的悲观评估与地区外溢（阿联酋、霍尔木兹海峡）", "unique": "ZDF直接引伊朗方称完全控制霍尔木兹海峡并斥美国『lügen』（说谎）；RND独家细节：伊朗向阿联酋方向发射无人机、约400艘船滞留波斯湾；Kurier报道特朗普发布AI视频", "headlines": [{"source": "ZDFheute", "original": "Iran: Haben volle Kontrolle über Straße von Hormus - USA \"lügen\" - ZDFheite", "zh": "伊朗：我们完全控制霍尔木兹海峡——美国在『说谎』"}, {"source": "ZDFheute", "original": "\"Eher Jahre als Monate\": Experte Stephan Bierling glaubt nicht an schnelles Kriegende in Iran - ZDFheute", "zh": "『是几年而非几个月』：专家Stephan Bierling不相信伊朗战争会迅速结束"}, {"source": "RND.de", "original": "Iran feuert Drohne in Richtung Vereinigte Arabischen Emirate ab +++ Erneut Tanker in Straße von Hormus angegriffen - RND.de", "zh": "伊朗向阿联酋方向发射无人机，霍尔木兹海峡又有油轮遇袭"}]}, "Brazil": {"name": "巴西", "frame": "冲突重新军事化与战争可持续性的质疑", "unique": "CNN Brasil引五角大楼报告称延长战争『insustentável』（不可持续）；Brasil de Fato提出战争『deixa de ser bilateral』（不再只是双边）；另关注美关税争端同日登上头版", "headlines": [{"source": "G1", "original": "Trump diz que EUA vão atacar o Irã 'com força'; Teerã manda sinais contraditórios - G1", "zh": "特朗普称美国将『强力』打击伊朗；德黑兰发出矛盾信号"}, {"source": "BBC", "original": "EUA atacam Irã pela primeira vez desde julho; Teerã responde lançando mísseis contra bases na Jordânia - BBC", "zh": "美国自七月以来首次攻击伊朗；德黑兰向驻约旦基地发射导弹回应"}, {"source": "CNN Brasil", "original": "Relatório do Pentágono alerta que prolongar guerra com Irã é insustentável - CNN Brasil", "zh": "五角大楼报告警告：延长对伊战争不可持续"}]}, "Russia": {"name": "俄罗斯", "frame": "中立事实性交火报道为主，附油价与冲突目标评估", "unique": "搜索结果中出现转引伊朗Tasnim通讯社的『阿富汗是美国的教训』叙事入口；Interfax独家报道Vance称美国在冲突中有『两大目标』；头版出现『特朗普排除对伊朗使用核武器』", "headlines": [{"source": "Meduza", "original": "США и Иран впервые за месяц обменялись ударами - Meduza", "zh": "美国与伊朗一个月来首次互射打击"}, {"source": "Euronews.com", "original": "Иран наносит ответные удары после атаки США на остров Ларак в Ормузском проливе - Euronews.com", "zh": "美国攻击霍尔木兹海峡拉拉克岛后，伊朗实施回击"}, {"source": "تسنیم", "original": "The New York Times: Афганистан — урок, который США должны усвоить в войне с Ираном - تسنیم", "zh": "《纽约时报》：阿富汗是美国在伊朗战争中应吸取的教训"}]}, "Egypt": {"name": "埃及", "frame": "冲突是地区性重组与观望博弈，强调外交遏制与买时间", "unique": "阿语区独有的专家框架：打击是『信号』、双方都在『شراء الوقت』（争取时间）；关注上合组织受此冲突考验；头版同时挂着习近平访埃与特朗普被问核武器问题的新闻", "headlines": [{"source": "الجزيرة نت", "original": "صراع النفط والوقت.. ماذا بعد الاستهداف الأمريكي للحرس الثوري في لارك؟ - الجزيرة نت", "zh": "石油与时间的较量……美国打击拉腊克革命卫队之后如何？"}, {"source": "اليوم السابع", "original": "خبير عسكري: استهداف جزيرة لارك رسالة أمريكية لإيران - اليوم السابع", "zh": "军事专家：打击拉腊克岛是美国发给伊朗的信号"}, {"source": "مونت كارلو الدولية", "original": "ضربات أميركية على جزيرة لارك ورد إيراني على دول المنطقة.. هل يعود التصعيد؟ - مونت كارلو الدولية", "zh": "美军打击拉腊克岛、伊朗报复地区国家……升级会回归吗？"}]}, "China": {"name": "中国", "frame": "宏观博弈评述与商品市场影响并重，官方媒体定性为『中局』", "unique": "期货产业链视角（聚酯上涨）；新华网『中局』博弈的战略分析框架；另有军事自媒体角度『美国海军9万吨巨舰沦为笑柄』；头版仅一条相关且与上合峰会并列", "headlines": [{"source": "新华网", "original": "国际观察丨美伊“中局”博弈的考量与变量 - 新华网", "zh": ""}, {"source": "华尔街见闻", "original": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高 - 华尔街见闻", "zh": ""}, {"source": "新浪财经", "original": "华泰期货：美伊再起军事冲突，聚酯产业链上涨 - 新浪财经", "zh": ""}]}}, "limitation": "各国搜索词不同（如美国搜『Iran US strikes』、日本搜『米イラン衝突』），导致结果集的主题分布天然偏向该国搜索习惯，头版判断也只能覆盖前10条，不能完全等同于该国媒体整体倾向。"}
+{
+  "findings": [
+    {"title": "显著度差异：美伊互袭未进入美、英、日等多国头版", "body": "尽管事件本身是数周来首次直接互袭，但当天美国头版完全被国内议题占据（大峡谷洪水、陆军部长辞职等），英国头版是首相首次议会致辞和国内治安新闻，日本头版是尼泊尔水灾和陆军部长辞职，巴西、中国头版同样以国内政治为主。只有法国头版出现『Guerre au Moyen-Orient : Trump veut bombarder «fort»…』（中东战争：特朗普想猛烈轰炸），俄罗斯头版有两条相关（『Президент США исключил применение ядерного оружия против Ирану』美国总统排除对伊朗使用核武器），埃及因地理毗邻有较多相关内容。这表明该事件在美国以外多数国家被视为『外泄但不致命』的级别，而非头版级危机。"},
+    {"title": "框架分裂：美国聚焦『特朗普说要打』，印度几乎全部围绕油价", "body": "美国12条标题中至少7条核心动词是特朗普的威胁表态（『hit them hard』『smack』），事件被框定为总统决策故事。印度搜索词即含『oil price』，12条标题几乎条条含『Oil』『crude』『Brent』，如『Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears』（布伦特原油破91美元），事件被完全框定为能源供应危机，军事细节几乎不出现。"},
+    {"title": "日本独家强调『限定性』，德国小报大幅升级措辞", "body": "日本多家媒体突出特朗普的降温定性：『トランプ大統領「非常に限定的なもの」』（特朗普总统：『非常有限』）、テレビ朝日引用特朗普称霍尔木兹海峡『極めて良好』（极为良好），并否定全面战斗重启。德国BILD则走向另一极端：『Trump: „Iran ist tot!“』（特朗普：『伊朗死了！』），fr.de出现『Trump will Oman „in Grund und Boden“ bomben』（特朗普要把阿曼『炸回石器时代』）等高度戏剧化、且与其他国家标题无法对应的表述。"},
+    {"title": "报复细节的地域差：约旦基地遭袭在巴西是主标题，在美国反而少见", "body": "伊朗袭击驻约旦美军基地这一细节，在巴西被置于标题核心：『Teerã retalia lançando mísseis balísticos em bases na Jordânia』（德黑兰向约旦基地发射弹道导弹报复）。美国主流标题中仅CNBC一条明确点名（『after Iran targets U.S. forces in Jordan』），多数只说『exchange strikes』（互袭），弱化了美军实际遇袭的目标。埃及则独家关注拉拉克岛与阿联酋立场：『الإمارات تنفي تعرض قاعدة المنهاد الجوية لقصف إيراني』（阿联酋否认马纳希德空军基地遭伊朗轰炸）。"},
+    {"title": "中国呈现『美国陷入三难』的分析框架，并密切关注油轮触雷争议", "body": "中国财经媒体独家使用嘲讽式定性：『美国心情不美了：打不赢、谈不拢、退不出』，以及观察者网『特朗普又盯上霍尔木兹，这次想定期动手』（『定期动手』对应Axios的周期性打击计划）。同时对美军否认油轮触雷一事给出对称报道：『华盛顿否认油轮试图穿越霍尔木兹时触雷』『美军否认霍尔木兹油轮触雷』——这一争议点在美、印标题中几乎不可见。"}
+  ],
+  "quote_comparison": {
+    "intro": "对比各国对特朗普『将打击伊朗』这一核心表态的措辞与定性差异",
+    "rows": [
+      ["US · Washington Post", "Trump says U.S. might ‘smack’ Iran but that fighting is likely to remain limited", "使用口语化轻量动词『smack』（拍一下），并同时强调『likely to remain limited』（可能保持有限），完整呈现降温一面"],
+      ["UK · 无直接对应标题", "—", "英国头条几乎不引述特朗普威胁语，仅以『Threat to oil tankers… worst since start of Iran war』（开战以来最严重油轮威胁）聚焦风险本身，回避个人化措辞"],
+      ["France · l'Opinion", "Frappes en Iran : la foudre Trump", "以『la foudre』（雷霆/闪电）作隐喻，将打击诗化为天罚式意象，情感强度远高于英语原文"],
+      ["Germany · T-Online", "Trump droht mit „großem, fetten Angriff“", "照引『großen, fetten Angriff』（大而肥的攻击），保留特朗普原文的粗俗感，突出其浮夸语气"],
+      ["Russia · ИА Реалист", "Трамп обещает «жесткий ответ»", "译为中性标准外交语『жесткий ответ』（强硬回应），抹平了原文口语色彩"],
+      ["China · 新京报", "特朗普称将“狠狠打击”伊朗", "译为『狠狠打击』，程度词略强于英文『hit hard』，且多家媒体重复使用，形成统一译法"],
+      ["Japan · テレビ朝日", "トランプ氏 イラン攻撃は「非常に限定的な作戦」", "标题不引威胁语，反而突出『非常限定的作战』这一克制定性，与其他语言版本形成明显反差"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "总统决策叙事：特朗普打还是不打、打多重",
+      "unique": "Al Jazeera（美版）给出伊朗条件性缓和信号『Iran says it'll ‘immediately’ reciprocate if US abides by deal』，以及Fox News提及对哈尔克岛炼油设施的报复选项",
+      "headlines": [
+        {"source": "The Washington Post", "original": "Trump says U.S. might ‘smack’ Iran but that fighting is likely to remain limited", "zh": "特朗普称美国可能『拍一下』伊朗，但战事很可能保持有限"},
+        {"source": "Reuters", "original": "Trump vows to hit Iran hard after first exchanges of fire in a month", "zh": "一个月来首次交火后，特朗普誓言狠狠打击伊朗"},
+        {"source": "PBS", "original": "U.S. and Iran trade strikes for first time in weeks over Strait of Hormuz control", "zh": "美伊数周来首次互袭，围绕霍尔木兹海峡控制权"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "能源与航运风险：油轮威胁与全球油市承受力",
+      "unique": "将视野扩展到亚洲能源命脉与全球库存，如『threatened Asia's oil and gas lifeline』（威胁亚洲油气生命线）、『Are global oil stocks big enough to weather another six months』（全球库存能否撑过再六个月）",
+      "headlines": [
+        {"source": "BBC", "original": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say", "zh": "分析人士称中东油轮威胁为伊朗开战以来最严重"},
+        {"source": "Reuters", "original": "Are global oil stocks big enough to weather another six months of US-Iran war?", "zh": "全球石油库存够不够撑过又六个月的美伊战争？"},
+        {"source": "Atlantic Council", "original": "Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen.", "zh": "伊朗正在耗尽其在霍尔木兹海峡的筹码，特朗普最好的做法是任其发生"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "油价冲击：布伦特破90/91美元与供应中断恐惧",
+      "unique": "逐日油价追踪与可视化复盘：『How the Iran war unfolded: every attack and oil price change – visualised』（图解每次袭击与油价变化），将战争完全数据化为价格曲线",
+      "headlines": [
+        {"source": "Hindustan Times", "original": "Oil price today: Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears", "zh": "今日油价：美伊袭击引发霍尔木兹供应担忧，布伦特破91美元"},
+        {"source": "The Economic Times", "original": "Oil Price Today (September 1): Crude oil above $90 as US, Iran attacks jolt Hormuz hopes. $100 in sight?", "zh": "今日油价（9月1日）：美伊袭击震动霍尔木兹希望，原油破90美元，100美元在望？"},
+        {"source": "Business Today", "original": "Donald Trump threatens further strikes on Iran; oil prices up by more than 2.5%", "zh": "特朗普威胁进一步打击伊朗，油价涨超2.5%"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "事态是否升级：突出『限定性』与全面战争避开的安心叙事",
+      "unique": "独家聚焦特朗普支持率与选举压力：『イラン戦争で支持率が低下…アメリカ中間選挙に突入か』（伊朗战争致支持率下滑……美国或将进入中期选举），以及开战六个月战果盘点",
+      "headlines": [
+        {"source": "日テレNEWS NNN", "original": "トランプ大統領「非常に限定的なもの」 約1か月ぶり米軍がイラン攻撃（2026年9月1日掲載）｜日テレNEWS NNN", "zh": "特朗普总统称『非常有限』，美军约一个月来首次攻击伊朗（2026年9月1日刊）"},
+        {"source": "news.tv-asahi.co.jp", "original": "トランプ氏 イラン攻撃は「非常に限定的な作戦」 ホルムズ海峡は「極めて良好」", "zh": "特朗普称对伊攻击是『非常限定的作战』，霍尔木兹海峡『极为良好』"},
+        {"source": "NEWSポストセブン", "original": "【イラン戦争で支持率が低下】トランプ米大統領2つの「戦争目的」が達成されないままアメリカ中間選挙に突入か イスラエル・ネタニヤフ首相との思惑の違いも", "zh": "【伊朗战争致支持率下滑】特朗普两个『战争目的』未达成即迎来美国中期选举？与以色列总理内塔尼亚胡的盘算差异"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "战争溯源与民意质疑：特朗普如何把美国拖入战争",
+      "unique": "引用美国国内民调作为框架：『Seuls 27% des Américains approuvent les frappes』（仅27%美国人支持打击）；并出现『guerre pour le changement de régime』（政权更迭战争）的定性",
+      "headlines": [
+        {"source": "franceinfo", "original": "\"Je sais que ça vous inquiète, mais tout ira bien\" : comment Donald Trump a entraîné les Etats-Unis dans la guerre contre l'Iran avec l'appui d'Israël", "zh": "『我知道这让你们担心，但一切都会好』：特朗普如何在以色列支持下把美国拖入对伊战争"},
+        {"source": "Le Grand Continent", "original": "Trump attaque l’Iran : 5 points clefs pour comprendre le contexte et le grand contexte d’une guerre pour le changement de régime", "zh": "特朗普攻击伊朗：理解一场政权更迭战争大背景的5个关键点"},
+        {"source": "l'Opinion", "original": "Frappes en Iran : la foudre Trump", "zh": "对伊打击：特朗普的雷霆"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "戏剧化升级叙事：反复预告的『大打击』与临阵取消",
+      "unique": "独家政治施压角度：前副总统彭斯敦促开战『„Den Job zu Ende bringen“』（『把工作做完』）；以及『Trumps Iran-Zickzack-Kurs』（特朗普的伊朗之字形路线）式反复无常框架",
+      "headlines": [
+        {"source": "BILD", "original": "Neue Eskalation im Krieg: Trump: „Iran ist tot!“", "zh": "战争新升级：特朗普：『伊朗死定了！』"},
+        {"source": "T-Online", "original": "\"Wahrscheinlich bald\": Trump droht mit \"großem, fetten Angriff\" auf Atomanlage im Iran", "zh": "『可能很快』：特朗普威胁对伊朗核设施发动『大而肥的攻击』"},
+        {"source": "fr.de", "original": "Trump stoppt Iran-Großangriff in letzter Minute – Straße von Hormus und Atomprogramm auf dem Tisch", "zh": "特朗普最后一刻叫停对伊大规模攻击——霍尔木兹海峡与核计划仍在台面上"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "对等报复叙事：美方先打、伊朗向约旦美军基地还击",
+      "unique": "强调冲突『去双边化』：『Guerra entre Irã e EUA cada vez mais deixa de ser bilateral』（伊朗与美国的战争越来越不再是双边）；并报道伊朗报复波及阿联酋与约旦，以及美军新导弹的杀伤评估",
+      "headlines": [
+        {"source": "G1", "original": "EUA realizam primeiro ataque ao Irã desde julho; Teerã retalia lançando mísseis balísticos em bases na Jordânia", "zh": "美国自7月以来首次攻击伊朗；德黑兰向约旦基地发射弹道导弹报复"},
+        {"source": "Brasil de Fato", "original": "Guerra entre Irã e EUA cada vez mais deixa de ser bilateral, afirma jornalista especializada", "zh": "专家记者称：伊朗与美国的战争越来越不再是双边的"},
+        {"source": "G1", "original": "Trump se revolta ao ser questionado sobre uso de arma nuclear no Irã: 'Que pergunta estúpida'", "zh": "特朗普被问及对伊朗使用核武器时动怒：『多愚蠢的问题』"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "低调事实通报：以通讯社口吻报道美方威胁与可能的后续打击",
+      "unique": "突出核武器问题：『Трамп пообещал нанести тяжелые удары по Ирану без применения ядерного оружия』（特朗普承诺不使用核武器实施打击），该角度与巴西G1的核武提问报道呼应，但在美英标题中缺席",
+      "headlines": [
+        {"source": "Интерфакс", "original": "Трамп пообещал, что США нанесут ответные удары по Ирану", "zh": "特朗普承诺美国将对伊朗实施回击"},
+        {"source": "BBC", "original": "Вашингтон впервые за несколько недель нанес удары по Ирану. Тегеран в ответ атаковал базы США в Иордании", "zh": "华盛顿数周来首次打击伊朗，德黑兰随即攻击美军在约旦的基地"},
+        {"source": "Armenpress", "original": "Трамп пообещал нанести тяжелые удары по Ирану без применения ядерного оружия", "zh": "特朗普承诺对伊朗实施不使用核武器的沉重打击"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "海峡攻防地理学：拉拉克岛、有限打击计划与伊朗强硬回话",
+      "unique": "最密集报道Axios披露的『定期打击』方案：『ترامب يدرس خطة لضرب إيران دوريا』（特朗普研究定期打击伊朗的计划）；并引伊朗消息源『بقوة أكبر بعشرات المرات』（强几十倍的回击）",
+      "headlines": [
+        {"source": "Masrawy", "original": "أكسيوس: ترامب يدرس خطة لضرب إيران دوريا لمنعها من استهداف السفن في هرمز", "zh": "Axios：特朗普研究定期打击伊朗的计划，以阻止其在霍尔木兹袭击船只"},
+        {"source": "Masrawy", "original": "مصدر إيراني: ردنا على أي هجوم أمريكي سيكون \"بقوة أكبر بعشرات المرات\"", "zh": "伊朗消息源：我们对任何美国攻击的回应将『强大几十倍』"},
+        {"source": "bbc.com", "original": "جزيرة لارك: الإمارات تنفي تعرض قاعدة المنهاد الجوية لقصف إيراني", "zh": "拉拉克岛：阿联酋否认马纳希德空军基地遭伊朗轰炸"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "海峡暗战与美方困境：明打与暗战、打不赢谈不拢退不出",
+      "unique": "财经媒体提出三难定性『打不赢、谈不拢、退不出』；并对美军否认油轮触雷给出独立追踪（『华盛顿否认油轮试图穿越霍尔木兹时触雷』）",
+      "headlines": [
+        {"source": "finance.eastmoney.com", "original": "美国心情不美了：“打不赢、谈不拢、退不出”", "zh": ""},
+        {"source": "华尔街见闻", "original": "霍尔木兹局势再升级：超级油轮疑遭水雷袭击，特朗普威胁“狠狠打击”，布油突破91美元关口", "zh": ""},
+        {"source": "上观新闻", "original": "深度| 休战月余，又打起来了！美伊围绕海峡，上演各种“明打”与“暗战”？", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "各国数据来自不同的本地化搜索词（如印度用『oil price』、英国用『oil crisis』），检索词本身已预设框架，样本差异可能部分反映搜索策略而非纯粹的媒体视角差异；且未上头版的原因（编辑判断或时区差）无法从标题数据中确证。"
+}
