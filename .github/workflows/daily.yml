@@ -1,0 +1,105 @@
+# Prism - three issues per day (Beijing time) via GitHub Actions.
+#
+# Beijing 07:30 = UTC 23:30 of the PREVIOUS day, hence the first cron below.
+# --slot is always passed explicitly: auto-detection on the UTC runner would
+# pick the wrong slot for the 23:30 UTC run.
+name: daily
+
+on:
+  schedule:
+    - cron: "30 23 * * *"   # Beijing 07:30 (UTC previous day) -> morning 早刊
+    - cron: "0 4 * * *"     # Beijing 12:00 -> noon 午刊
+    - cron: "0 10 * * *"    # Beijing 18:00 -> evening 晚刊
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Issue slot (morning/noon/evening)"
+        required: false
+        default: ""
+        type: choice
+        options:
+          - ""
+          - morning
+          - noon
+          - evening
+
+permissions:
+  contents: write          # push generated site/ and data/ back
+  pages: write             # deploy to GitHub Pages
+  id-token: write          # OIDC token for the Pages deployment
+
+concurrency:
+  group: daily-issue
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Map cron time to Beijing slot
+        id: slot
+        run: |
+          # workflow_dispatch: use the chosen option, else auto-pick from UTC.
+          if [ -n "${{ github.event.inputs.slot }}" ]; then
+            echo "slot=${{ github.event.inputs.slot }}" >> "$GITHUB_OUTPUT"
+          else
+            # Event timing in UTC -> Beijing hour decides the slot.
+            BEI=$(TZ=Asia/Shanghai date +%H)
+            if [ "$BEI" -ge 5 ] && [ "$BEI" -lt 11 ]; then S=morning
+            elif [ "$BEI" -ge 11 ] && [ "$BEI" -lt 16 ]; then S=noon
+            elif [ "$BEI" -ge 16 ] && [ "$BEI" -lt 23 ]; then S=evening
+            else S=morning; fi
+            echo "slot=$S" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Write .env from secrets
+        env:
+          PRISM_API_KEY: ${{ secrets.PRISM_API_KEY }}
+          PRISM_BASE_URL: ${{ secrets.PRISM_BASE_URL }}
+          PRISM_MODEL: ${{ secrets.PRISM_MODEL }}
+        run: |
+          [ -n "$PRISM_API_KEY" ] || { echo "PRISM_API_KEY secret is missing"; exit 1; }
+          {
+            echo "PRISM_API_KEY=$PRISM_API_KEY"
+            [ -n "$PRISM_BASE_URL" ] && echo "PRISM_BASE_URL=$PRISM_BASE_URL"
+            [ -n "$PRISM_MODEL" ] && echo "PRISM_MODEL=$PRISM_MODEL"
+          } > .env
+
+      - name: Run pipeline
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python pipeline.py all --slot ${{ steps.slot.outputs.slot }}
+
+      - name: Commit site/ and data/ back
+        run: |
+          git config user.name "prism-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/ data/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Issue $(TZ=Asia/Shanghai date +%F) ${{ steps.slot.outputs.slot }} [skip ci]"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
