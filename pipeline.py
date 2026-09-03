@@ -120,18 +120,22 @@ def llm(system: str, user: str, max_tokens: int = 4000) -> str:
         method="POST",
     )
     chunks: list[str] = []
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        for raw_line in resp:
-            line = raw_line.decode("utf-8").strip()
-            if not line.startswith("data:"):
-                continue
-            data = line[5:].strip()
-            if data == "[DONE]":
-                break
-            delta = json.loads(data)["choices"][0].get("delta", {})
-            piece = delta.get("content")
-            if piece:
-                chunks.append(piece)
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            for raw_line in resp:
+                line = raw_line.decode("utf-8").strip()
+                if not line.startswith("data:"):
+                    continue
+                data = line[5:].strip()
+                if data == "[DONE]":
+                    break
+                delta = json.loads(data)["choices"][0].get("delta", {})
+                piece = delta.get("content")
+                if piece:
+                    chunks.append(piece)
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", "replace")
+        raise RuntimeError(f"LLM API HTTP {e.code}: {detail[:500]}") from e
     return "".join(chunks)
 
 
@@ -254,6 +258,31 @@ findings 给 3-5 个，每个国家 headlines 挑 2-3 条最能代表该国视�
 不要输出任何 URL。countries 覆盖所有有数据的国家。"""
 
 
+def _titles_only_analysis(event: dict) -> dict:
+    """Fallback when the LLM stage is blocked (e.g. content filter 1301):
+    publish the raw cross-country headline comparison without commentary."""
+    countries = {}
+    for cid, block in event["countries"].items():
+        countries[cid] = {
+            "name": cid,
+            "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+            "unique": "",
+            "headlines": [
+                {"source": i["source"], "original": i["title"], "zh": "", "link": i["link"]}
+                for i in block["items"][:4]
+            ],
+        }
+    return {
+        "findings": [{
+            "title": "本期为标题对照版",
+            "body": "自动分析组件本期未能生成（内容安全限制或模型不可用）。以下仍是十个国家对同一事件的真实标题并排——这本身就是本产品的核心价值：直接看原文标题，自己对比。",
+        }],
+        "quote_comparison": {"intro": "", "rows": []},
+        "countries": countries,
+        "limitation": "本期无 LLM 分析层，仅呈现原始标题对照。",
+    }
+
+
 def run_analyze() -> None:
     event = json.loads((DATA / f"event_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
     top = json.loads((DATA / f"top_{TODAY}{SUFFIX}.json").read_text(encoding="utf-8"))
@@ -268,7 +297,14 @@ def run_analyze() -> None:
     for country, items in top.items():
         lines.append(f"## {country}")
         lines.extend(f"- {i['title']}" for i in items[:10])
-    analysis = llm_json(ANALYZE_SYSTEM, "\n".join(lines), max_tokens=8000, tag="analysis")
+
+    analysis = None
+    try:
+        analysis = llm_json(ANALYZE_SYSTEM, "\n".join(lines), max_tokens=8000, tag="analysis")
+    except Exception as e:
+        print(f"  analyze LLM call failed ({type(e).__name__}: {str(e)[:200]}); falling back to titles-only issue")
+    if analysis is None:
+        analysis = _titles_only_analysis(event)
 
     # Recover source links by fuzzy title match (the LLM never sees URLs).
     all_items = [i for block in event["countries"].values() for i in block["items"]]
