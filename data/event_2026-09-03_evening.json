@@ -1,0 +1,630 @@
+{
+  "event": "伊朗袭击科威特和阿联酋境内美军基地，特朗普称中东战事不会持续太久，各方反应分歧巨大",
+  "event_title": "伊朗袭击美军基地",
+  "countries": {
+    "US": {
+      "query": "Iran strikes Kuwait Trump",
+      "items": []
+    },
+    "UK": {
+      "query": "Iran attack US bases",
+      "items": []
+    },
+    "India": {
+      "query": "Iran war US bases Kuwait",
+      "items": [
+        {
+          "title": "Iran targets US bases in Kuwait despite warnings from Trump - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazh6SFJUS3dITFR0SXBIOV9ETE9TY2xJR1JnRkYyeHg4SWtlVGJiNGk5SDJvR3pxRmtpWmpaNnBKbXF0WGpYVHRENWxYZjkyVVZwWWF5anJ2MHY4UmpKZ0pRSmlVdktZZ3h0VjVWYS1tN1RQUDFLX3p6ZUFELXRfbV9fOVoyQ1ZzRnJnYVNZY1lZVjl6WlF2bHEzUFJhQWx6NmxUaHpnWVlhZXRIU3ljT9IBsAFBVV95cUxQbnhFWm1TVHM1SmFKRGQzSEpta0lNS0FaRmRBUV95VUpJTl8yeVFDdzRfTkxYb1R2WHh6clQ3dEk2UEdxVjY2emZpbGg5M0kyNDBxNGhvNjVKVzlUMk8tZlhkWk15YnVwU0ZIcHZBVGFRb05jNWowM0hHbWxRX3doN1ZMX3dMS2g2V19IZ0syejhWSEliWDJkdU9yZEs5VEtPWTZ1Nm1MLUhNTnJQSGZ4bg?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:15:19 GMT"
+        },
+        {
+          "title": "Iran disregards Trump threats to strike US bases in Kuwait - dailysabah.com",
+          "source": "dailysabah.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaE42MGVMUGFISmpZcGRucjhvVy1YQ0pYZUlaNWRvVk5VWHBPSGR3MlJaRHBUTkJ1amhLdnVvdHlONjZ6cDBLcjd1M21tM3YweHdCQ0UwME5aQmJ0ajI5QmxRX1MyalZBX2lSTU4yTDlOSVprbkpndnhRYWs0ZjdhYTdlLTBsbFhpS1lZMGtWTWNZNnZacmVrSHBZbVRMMWVCeHc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:57:00 GMT"
+        },
+        {
+          "title": "Iranian army claims latest attacks on US bases in Kuwait, UAE - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ21KTGxDcTdMQl9mdVFGODEybmhsYnhSaEZGYndMbWxmazZhQXltbDZEeVQ5eU9maEdDblNKaFJ1Ny0yeFhGc0pPekIwSmFJM2NtZGNOWk1icE5NM2V4YW1RS2dOY1hHSkJEaXhPSkhqdUlmVGUySGozenp4ZktBZGtDSGhEY253SXNaQ2Rwd2ozUUpMWnMtOTVKYmVDVGFMcjVxX1pCbWc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:38:31 GMT"
+        },
+        {
+          "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:26:00 GMT"
+        },
+        {
+          "title": "Iran, US exchange new attacks: Who was hit in latest strikes? - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3h3Q3czNUdSME4tbUc1Y3BMREVOSEgybjhDbnZ0ZHRXRllCdnZSN19mQUZDTGNPN1RYUkxMUG5MYUlKYkQ3TXJhVTk4WUpNTTBjbl9FMGpmTmlTRmVEOUNOT2hwcEFpX0FLTHhFbjFpWEhodm1jM1dycWUzTjlaNmh1ckwzOTNSTGt2RFNteHo3SGZJNGVZZWxIbUxqQm_SAaQBQVVfeXFMUEprUWViUHBaanlJLUxlZWxOcks0VGRxYVhhS3ZWRWdQREJJa3BpNnpSUERfLTJXc0FQd25BMXRvb01aYk9sUU9UQktsNlYzb1dCZmxiOVVqSVd3TnlSRlRYMGx6UVJfVEhWQ1NxVDZtazhFOUdzZEhzZnlKYTlwejV6cUNBdE9XMUJSelgzemV2b1NGaWFfbjRUdUkwTWEzY3dhODc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:57:30 GMT"
+        },
+        {
+          "title": "Iran targets US bases in Kuwait; Netanyahu warns Tehran attack could be ‘one of their last decisions’ - WION",
+          "source": "WION",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3pSQWNfN0NlMmhwMEtYQUVtN002UC1xWlFhZWg0cDBNcmN2ekZMTE1Ddnp4YmFCd0x0REVfV2tHTTFDV2RIOTFQRUN6NEQ0cVpUb3VUa3dDT3hRUGgtTVpteU9lS0x6U043c0p0WXJ3ZGVjUVN1ZnhUT21WTndqVkJQQWotLV9oSmhraEkxWmFuTlBXRWVCSXBqWk9namFOYjZDakVLSm9BRF9FZ3U0c2VZTkpkMmJyS2hicVlJaWdkckV1aVNwS05RQ21sOW1Oc3NPaFNkWHJWd9IB3wFBVV95cUxNcDFkMWlQaE4yaXExUldGOUtnbXlhX25FczBVTno4N290c3VCUW4yVzdjTzlCUmdPcHRIaFZXWUp4UXF0My1uM2U2U2FSVGlRVDBFV1pKYmFUeDQ0T09ydUxldVZpcmJNTElLZXh2ejhXUVFMaHE4N0lmMlFqWWpwNy1ySzRHbEFhOEpNam9VdEpOUFpuTTBCMzNOMkdnSVdFcVlMc1BHWE1xa19Md1ZHRTJhc3dTN3dPVlQtNnBnNm9UeWJlUWNqUVQ3WElwX0kxRHhwMXNvczl4eEtsTlFn?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:37:00 GMT"
+        },
+        {
+          "title": "Iran targets US military bases in Kuwait with missile, drone strikes as conflict continues - report - The Jerusalem Post",
+          "source": "The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fVDZueklmYTA0cV9iS2YwSmM3c2V0VUdZRGlpRGRPamhRRlB3S0pIUGo0UEkyanFnS2dwcWtmeHdCSUx5cmFUMUUyV3BqOVgtNG0zUGktV3dMZnJmVVJVZi1UWnFkNzdVT2c?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:08:53 GMT"
+        },
+        {
+          "title": "Iran Strikes Kuwait Again as US Bases Come Under Missile Attack - MiGFlug",
+          "source": "MiGFlug",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnQ3bFlUMHRXM0VBcmFZLWxaNlNWbmJsRk1DVFBKRWdyVkpESmtveXd2QUE4RDFoX3JqNTgwMlFEaVN6UTlRYTBxQUFEckdvUVpMWjBBRG8wcGJIYndhdGJkaU5ma3VkUGJ3NERzRVNGdzJFUENjX1M3U1pBeWtteHJneTgySlJSaWQyV0V3?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:01:12 GMT"
+        },
+        {
+          "title": "Shafaq News..Iran strikes US bases in Kuwait and UAE - شفق نيوز",
+          "source": "شفق نيوز",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xUFgzNXc0eERWS0JwSmZfZlp4SW5ibXhBbk9ubHcwU1QtWkZUdGtKQUxIZVg1UTFtQ3NSVFJlbE00Wng0Ny04QUh0NnhsOE1kSElkOGdvSE5UOS1fa2ZUbmdtdzY0ZjRCZ016YnNYTVNRQWIzMzRwT3BTV1Rwdw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 11:02:18 GMT"
+        },
+        {
+          "title": "Iran confirms missile and drone attacks on US bases in UAE and Kuwait - Middle East Eye",
+          "source": "Middle East Eye",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTk5dm1VenY4Z0pyeGxtLS1hRDl3ZFVGSEx6NHhDb1Fnbmp5d01LOTNPUWFDajB4Q0c0NngwTUhQWHVsMDNNQlZ6TDFoODlUOG9mX1hHQWhQd0c0bDdyVk9INmdLWkJkOHhNcUNUeGJpSFBFTlFSbTBFcG9XZDBsZElKQndEUGFMeGRLb3RmcEhnTFlIYlNtX0hIb1VLMjZpWXBwTXZwNUZIRnpWNU1ia1Bja3Bydmh6U3VSWQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 11:12:00 GMT"
+        },
+        {
+          "title": "Iran Widens the War: U.S. Bases Are the New Front - The Times of Israel",
+          "source": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckdLUENZTkFWN1p0MUxLZFM5Z0R3WHMtWmxpYlNTVEJFaEdqX3JuUTM1Q0JQbEV3SzJtdHlzY0o3NlkxY1NFRnI1UVdzN1hhX2hRVno5SGNodmFDRWV1LW5vYXRQWDdzUlR2cmVzY0hYTVU0SzY3RTR6Sl9jdkZEUzZMMGpVYzA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 03:51:00 GMT"
+        },
+        {
+          "title": "Iran Says Attacked US Military Targets In UAE, Kuwait - NDTV",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJNNFpzWi1ZWlFtaE13dlo2M0o4RE9yeGJNLS1CNWFscHA2NHQzb1JKMVUza096Z0JqTG5DQ0xyMlk0Q3NCeTBOTi1XaG1IRUxocVBUTzJoV3JoRXZ1UUxkRDgzY0NzVjdqcnRmZDNWSkJ6OXhfcGFGS0JsNk12RG02a3JfcjNuQl9fZXhZbVVWWjZsbnR1X9IBoAFBVV95cUxNSHZPdEd1RkY2SE9KZ1J4X2gya3IyYkNPZ29qZU1HNVdvR2laLVBPdlFRajJfTV9Kd25XRVFzSlh5NVgtUG9nS2NUa0h3OWlfNl9zSkthdHNaUHh4c2JJV1pqYUpENGlkY0tuMkhGel9aNW9aRDkxTy01d3NickJUVkc5c1l3RThmRWExN3ZvRXdQSWppN2h3cnhfSkFVbS1R?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:09:09 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "トランプ イラン攻撃",
+      "items": [
+        {
+          "title": "米軍のイラン攻撃「長くない」 トランプ大統領、戦闘激化望まず（共同通信） - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZVIzTWtOSThuU3BIVkFrWnFSVkFDUVhoX3g2OS14OTBkTUNJOUI0U08yWnR2YU40aDRXS2hPNGlCY2hielM3QmtLMDZNdDBzdG9KbFRSaWFHRHJSeTgxRTRUbWxsS0tUU1VLYzVpTWJHTmhTRkJGZ0dzTFlzTzA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:27:04 GMT"
+        },
+        {
+          "title": "トランプ氏 イラン攻撃「それほど長くは続かない」 「トランプ海峡」改称案も - テレ朝NEWS",
+          "source": "テレ朝NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4WFM0NFVXaFlhVjJHWHpBb29xMjhxX3V5TFNxaU4xQnBJS3hyQzdqYnVjekhiRmprVWNpQ2NYOGNkUHlqamxiU3pSRGNuVk1MUzU4STEwUm85VUVwVWd5VHpjb29fc3RvWmpDV1ptWVQzY3FIQXpjOEF3?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:31:10 GMT"
+        },
+        {
+          "title": "対イラン、攻撃「長く続かない」 レーダー復旧、機雷散布に対処―トランプ米大統領 - 時事ドットコム",
+          "source": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwMDdPTUpqSlE4M3dlaDJobTIzcE9tM1g2V3VJSS0zS3dUN3FDS0NtYlZzVFE2el9fSERyd1pBcDNUMVh5eEcwOWZQeWZ5T3FjTVNzZUNnWUE0emFrdXJUWnFLTQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 11:11:00 GMT"
+        },
+        {
+          "title": "ブレント原油下落、95ドル付近－トランプ氏はイラン攻撃短期とみる（Bloomberg） - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZM1Q1S3J1WlFOM3M2Sl90aENnYnhsbGw1a3k3S0tiWWdsWFJVRjAzVlJicHh2c1FsSHFXTE1JZnJXbFlnb3o3Y2R4NlRqRDhZeGQ5VnFJQTJVM3hqRkVOV3JPYVFMNmM0eFV2LTRkNGd2Z3R6SHJ5OTVHMUJaY0U?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:13:11 GMT"
+        },
+        {
+          "title": "トランプ大統領 イランへの再攻撃「常に準備は出来ている」 一方で「長くは続かない」との認識も示す - TBS NEWS DIG",
+          "source": "TBS NEWS DIG",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mQVVWeVd5WUdwbE1ldHhRWGVrOTRMci1mbExDX3diRGg2VXBDRXRHLVRYMllFRExxa3RVNUN6V29vZlRzRTFUTUVTYUVHUUwxSUU3UGpxY0hCWE5YSC1idFRFYTJuRDBzR3FqanNEcWZoSnA2?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 03:44:23 GMT"
+        },
+        {
+          "title": "トランプ米大統領、イランをいつでも再攻撃する用意が整っている - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55UV8zWWctRFhfSXc1Z1dNOEgzMG41eWNZQkpxSkdFLWxZZUppV0kyeEpNeEpYdUwzalpaQUVoaDktTHRKdmNacTA2M0ZUVnRNamV1R1BEcFFmWndnb0ZjX2FBMi1CZzFPc1BpOElVZU9QOTZ2QVRr?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 19:20:47 GMT"
+        },
+        {
+          "title": "【分析】「トランプの戦争」はいつ終わるのか イラン内部の権力闘争で決まる可能性も - CNN.co.jp",
+          "source": "CNN.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15U0laMi0zTWF5RllyREg4bkRoX2FYR3NOcEtVZ192MENNR0NCcU53WThVR1hZMy1LcXZqZDA1eEFxeDZLNWpma2UySkJFU0VMTTY4?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 10:18:00 GMT"
+        },
+        {
+          "title": "トランプ氏 イラン攻撃「それほど長くは続かない」 「トランプ海峡」改称案も - HOME広島ホームテレビ",
+          "source": "HOME広島ホームテレビ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2NDJjM3JqOU9DdUNpU2FWa2FDb19EVi00YVJSOWZXQXZ5aUxXWXcyVndEWXI5VTU3SkpwLU9JX2YycVJhS0NzSmRBTU40dG5SX0dGd0RpTHZsT3NSd21qdTVURTlBdWsz?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:31:00 GMT"
+        },
+        {
+          "title": "米軍のイラン攻撃「長くない」 トランプ大統領、戦闘激化望まず | | 全国のニュース - 佐賀新聞",
+          "source": "佐賀新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ILXU0Uzl0UEdiaE45VkxUTlllYTlyVVlhNVV2UW5RQ1FYWEN1YV9ONE5jZUgyTDJSRnh6dm1ja3o0ck5vVi1fMjR0U2xaOFlMaWlXWFZn?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:27:00 GMT"
+        },
+        {
+          "title": "米 イラン攻撃再開「長く続かず」 - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PaDBUS2ZjVWZKd1p2RlBwNWx2MF9uR080bDVIN3hsUnA3MEppdlg1S3hGVVdLVW9nMmtMWUp1NzBkdkJaUjR2MGNIMm9QQUl1?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:32:45 GMT"
+        },
+        {
+          "title": "イラン大統領「合意目指す」、米軍攻撃には報復 カーグ島爆破のＡＩ動画 - ロイター",
+          "source": "ロイター",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fTkRObm5MWGZ2M0p2d0pSbnoxLURqbmxzd0V2RUFPNUFnMFFiSG5yNjlYclo5VkV3VzFraUV2Uk5XWlFvOXdFOWozeks4MGZGMUZtX196d2JKaDc5UkwyN05HbEZXdnFnRC04UGxtelNUc1NrUjIzUTRR?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 13:00:05 GMT"
+        },
+        {
+          "title": "ブレント原油下落、95ドル付近－トランプ氏はイラン攻撃短期とみる - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XNGN2N0lhVlRTUGJMVW1uMlQ5bDFJaGNHZlJFeUx5SkNZZ3Y5MHdTYkZ4X0dMUnZCZE92Ylg5RDNEVks1eWVkUmdyTnF2b1ZMYUxXVnRSOVFsSjdXTXZXdWhrclJoZFVsaXN4blY3MTlUcURBQ3Z3?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:54:48 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "frappes Iran bases américaines",
+      "items": [
+        {
+          "title": "Guerre au Moyen-Orient : Trump veut rebaptiser le détroit d’Ormuz... Le bilan du mercredi 2 septembre - La Croix",
+          "source": "La Croix",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkY0OVY2LThMRzljUnpTbVdwanJ0VFdMbklfV2Vfb3lBSi15QXBYUUpYcXVqcWVMQzM4b3I5S1pyb1RPMHhhb2RySWU5UG1zeWh1U1VvZTEyYm5PazRuWWtCRWpRMkFnMXFOakM5bWVZS2RZV3g2N1FKc3hoZVpLbTRGMmpkUHYyUnhlZDMxM2d6amw0RkxWMWZCY3FfcldtRnVoLVk5aXpxWVVkY2dCbGE5OVYyS1dMOGRMRF8zeWo?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:29:27 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient: l'Iran cible des bases américaines au Koweït en riposte aux frappes menées par les États-Unis - BFM",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMXdrWWd2R052UzQzaEFXSVVCZnFrZ1pfbzNkeUZkTEhWVlpBbUVOcm1hMkNCVlNOVF8zb0NsOGMyRVVKLTd2cWZPVTE2RW0ydVdTZDVoMFZiSEtjb0lKSTkyMGd5NG9UakVVQlBYaFpBM0lnOHFGcTBJdjBtbnd5eTlzQ1hqdmh2cjg3VFUtOXJQUjI4RlJ6WnlxLXl0aFVUaHhhZ1RsN0xaWUh3bGZPbW9uZ2F2WUYyX204RFBJRDEzQ25oU1V5NWctaGhObzIzOHZxRnJQdGtQbk9ybEpzZjhZQTZIY1hmNWE4TnJMeDBfd2R5ODVpZzhUd1dNcThiTDdvVGNnSFpEWDB0VkNnREg3UENNNnpKaGpN?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:18:09 GMT"
+        },
+        {
+          "title": "Reprise des hostilités : Donald Trump prêt à frapper à nouveau l'Iran \"à tout moment\" - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ2RjWEZvZHFTRHBGQ24tRmJ2T0FSMk9hYWhWZDZOUVNHcVI3UFBKYTYwOWl5d3VCTm81YXVYVnFCcDczRDRDZ05qSjlYUkZWdUw1eHZJcGIxWXkzYkRBYjBaVHotRm5EbUJkeEtmTVpXenVuc3JCVmViOUJLUTVfWG9jenJyb0lRLTFhUUotenNRcklydDVwcnFGVExWUEZLcDhSZUpiU3pETkhYNUxib01sZl9SR2Y3M0ZDLVotSkRNRVo1b283ak5PcnFsQUROTlZKSF9Xemk3bk45dGc3WlR6VjMwX05xb01VZEFQemdyb0VPM3R5QkxpbGpjSzFRckdoTVVRc1laX1V5clJLS2stc19vLUE?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 22:13:00 GMT"
+        },
+        {
+          "title": "Guerre en Iran : les nouveaux bombardements américains en Iran ont fait 11 morts, selon les médias d'Etat - Le Parisien",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTDRTX20yeDdBSjBNLWl3Yl9kZ2RlOElKdTF5d2lTUjB3WU5kRkg4UzZveGlzYnZqaEo0YjRrZ1ktc19DUGxWUjhLOTJEb0RZNUhIRC1yMWoxT1VVU0FoSkVsYlZyZ25sc3pxbTdTc1cxb1p4WmVpWnk0b3VPZFJiazFlVm41bVpRRmZpdWg1eWRTNWFJQlEyN0hrZ1VMcV9SOWhjNGxuUDRkOVZOMWtURDhQYzZGSG1qUHdGWjV4eXJtQmxUOEJmbEtCQ1VuZnk2UHFyZFo2QVRFNHJTLXZpallWOVNLN2dVSXlOWnNiSEJYYkxyY3F2bWw2QTBKbkFkRWgwWk1YTlhxWlZlajdLTl9VR2ZRZVdXVDBvRVdONGVjZ2pseV9FdQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:00:25 GMT"
+        },
+        {
+          "title": "Attaque sur l'île de Larak, frappes sur des bases américaines, immense incendie dans le détroit d'Ormuz... premier échange de frappes entre l'Iran et les États-Unis en un mois - tv5monde",
+          "source": "tv5monde",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORVZrdUlnTE1UUTdUTGV6ZXpzZVRCUEw5TXRDWXRJOTRmR0tQSmh6NkVGOFEza1ZaN3lhU1RKaW5MQWN0Y0hXaG1SYjhCa21sMm5yVnRkRHVZV2RTVy05dnQ2ZEJWRHRzbWstQzJweVNUSmdCQ2kyTG45TDRMNENuR1ZhbDVOb1VTZElEcWVNdS1GT3RCdjkxZlVyM2RpQ1h0OGxINTdhWWliVXRGYzhtUHZGZTJscXR2VmdsRHpNcEFna1ZscGd4M2lULXc1T1hGOXFxLVVnRm0wRXByZVp1UHVkaWNlTTZsS3FCXzEwRUVZWFN4OU91ZG53X3gxWTFpb3ZTMk5VV1c2NXBHMGVtaUw3TnRIQzAyeUJITkt0cVJYS1RUbHhncFBTNlVZYXNUbEU0dkpRNEx6cjl5MDhPbDJ1MVQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 06:14:49 GMT"
+        },
+        {
+          "title": "Frappé par les États-Unis, l’Iran riposte en attaquant des bases américaines dans plusieurs pays du Golfe - Le HuffPost",
+          "source": "Le HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbFJ6V2FWbmtXRlZqby01Zi1ybEQ2SG1fbWpyeGR1MXpCczc3LXZrVWk4WHpKOVdrdG9MM1czclViUlcyb3M4Y0d4eTJZNmk3M1RhSTBBMmNObFFBMHg3NHNGRU00VkNsc0RDOXZ0UmE1Y3BITXppOFhqQjB4MGxFbmZGVTFvWTVWWm41TFJUdXZrVk9UTjBidmg5YUMwck9fTDVmczBXRzlsYlBmVUlMdE5iNlRZc0o0dnhWa3J1d0JmVVJKdjdYY3ZaWGZQOHJwakdpQnVuOThoVGFUSG1kQmtJRWdhVG54MG5UQXhjSXZmeWNlOHlOcQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:18:49 GMT"
+        },
+        {
+          "title": "L'Iran attaque des bases américaines après de nouvelles frappes des États-Unis - parismatch.com",
+          "source": "parismatch.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUpwNmV6dlk5OGRGdmIzTkhDY05UTmM3LXNGdWx5eXpjelMxT21lQ29FaDNLbjZhUk1vTlZJS2hiWW1KYWJ1Y2stZ2Zlb3ZqcHp2NkZoQnN3V09MdWIxODZGamplekx5SERDV2VkWU95SW9zZDM4blZXaXkteDNJYjZQMnBvbnBMUHJjM0tfYXZIYWNlY3BWd1EtQlRaZjNVUE9wSWJCMHRQaEdyZzByZTVoQVBaUTVseWJWcVh1ZDhyT0tNYlRFaUpR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 06:19:48 GMT"
+        },
+        {
+          "title": "L'Iran attaque des bases américaines au Moyen-Orient - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50TXlRaVgtenFEUlRNQXdjNUtIYjRZa2JZdWdkek5WejdtNGpzemVVSmZnVmk3WmpxMXBzR3RiNXM4WEI3SHp2YTVWOTNORWtxdldPNjFGOUlRaG9ZOGfSAWNBVV95cUxQZ1c4eXhBd3pLSFV5OWdNSy1PcDR1NVBCWnl1dTNzaTdZN0dpU2l1cFZfSHQ2aGpEM2JSSTlReVpaMGVLbXktQzFobGlMV2wzbUIyM0hrVl9UVWxpZ2w2cDdKMEU?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:09:37 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : \"Une riposte décisive\"… l’Iran pilonne les bases américaines dans le Golfe en réponse à une vague de frappes meurtrières - Midi Libre",
+          "source": "Midi Libre",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOOHBwTFA3TVVMbEdQOVpnY09xX0pZTUJleTZtcExmS2w2YTR1UldRQnJOWElEWDRqNjlKSE9KVTVhMVJvU21lck9Ka244aXdyME95N0lRZ3VBR3pnSkRmaF9RaFdPNG0ycUYyOERrTDdvM0RSSkxLa29ZaHFMdHNTdElmczlRR2dIWnVsVjFuOWZtQ3h3UkJhVGcwUUFXckN0WVBoeEFfOHdQWEVnYlA4NnpKenpWNnppVzhuSjh4NldWb0Y1RVktQVBOTGhad2lsYWROVEllZkltTnJpU0c4ODlzRXh3VDhmMjRvc0hiM2FQU2dtdmkycUY0d0dxbGp4Mlh3QlRNdFpxVDRvdXB1UUtjbU4tOU0?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:52:00 GMT"
+        },
+        {
+          "title": "L’Iran réplique aux attaques américaines en visant des bases états-uniennes dans plusieurs pays du Golfe - lemonde.fr",
+          "source": "lemonde.fr",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQjBucHpwRUNjVGVocVRTM2RLREh4ME9HUk05Qm1kd0NvRnRacVZRQXA3N05DcXA1a1R4NUVKNElRRG9CSk0xdUlSc3dIaHI1a3A2RFZvU0sxZ1d2d0M4TmUwbVB1dDY5Q29qY0pzV0dZdTV5VmFoeUJBcDQzNlZ3ZVJBU3dXRS13LVdHd0FYOFZURnI0ZERlVDJ2SEFncG9XU09SdGhnOTczUVlBbHNwbGFnUWdPdU1iaEI5dmJGX21QajJsRGlQd3lXY1pwb085LVlEancya1l6WU1qR0RxNmVDT1FFd2Q1dXVBUlJ3d2c0aV9LQllEVVJKYUs4dHg5N1djMGJnXzlOUkd1UkxCR1hkMFZmZVVT?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 17:08:00 GMT"
+        },
+        {
+          "title": "L'Iran jure de \"briser\" les Etats-Unis après des bombardements meurtriers - Orange Actualités",
+          "source": "Orange Actualités",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVE0tV3RHUDB2OVRIZnlRLVNCbXNPckQxSmoxOEczenNzeXRVUUVrXzY2U0hXUkRuOHpZVUEzOFVtNDQ2MmFwS2NXVEVGalEwcUItZ0ZoeGdXbHZrbFV0eEM3WHRrbkNaU0stSGc5Wk9EZ1RzNmhZY1lfQzZMdjRvOHdEQmdxbmJWc0t2LUoycDd4LU05R0N1MVI3Qzd1eGtqZDh0azVjSTRzakdpRDcxVjJDc3dYQUJqRFp3OTlnNHNWOG5qbHpDbmln?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 19:54:37 GMT"
+        },
+        {
+          "title": "Guerre en Iran : bombardements de bases américaines, 11 morts iraniens… À quoi joue Donald Trump - L'Humanité",
+          "source": "L'Humanité",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUU85c1k5T0hrQ2xGVzhOT04zZVlOTXN0UjktTm5NclhGZ1U4VWl0MFFFcmp1T2YzckdiQ3NpRXVWU2tKWWlsdDRqOS1yYkN4TGZPN3Z4QjJJNXNmUm9LN1BJOG1IRWFzd19SYkVvOEdNM0ZxQnNmNGNnUUxJS2NJRDJfOG9RN1l4ZE5XUlFtMWZ4c3ZtSUtpVHhFRzVETGxQUXM2QmN4dmRISHhxWGpObGVXeGpHTG5fa1FjOEpROWNHSFJ4REk0TWZOSjg3a0lk?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:36:48 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "Iran Angriff Kuwait US-Stützpunkte",
+      "items": [
+        {
+          "title": "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an - Tagesspiegel",
+          "source": "Tagesspiegel",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOC1iRFJhbUNVdHo4bmwxQXVkcW9ETkw4WDhBelpfNWdjVWowN19adXZZZGJwbjBXWUlwbkhlamtXUWhBaEVyRXNtWUkxVWc0QVRpVmRSRnJObEZsQUhGUzRjRTA0cktHeXRpNFpoZEQ4ZTl0Ui1CVTRoWVdkdnVhazJ4eGdKQWJ4SENIU191WGo0ZnpzNWJyR1J6YnhSWGVORENZSmhNQkRZbXVTbkJ5RjBIQXJmc2tvQ3lxaGNodXhaMkc3VTVZ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:37:36 GMT"
+        },
+        {
+          "title": "Iran greift US-Stützpunkte am Golf an - Trump droht mit weiteren US-Angriffen - stern.de",
+          "source": "stern.de",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHlMNkVLdmlxSmdRTThaSXJqcDg1ZmVMUmlhMk9LSG9jWnotV3F2SFZNbThPOUxGR3VDTEJDN1g4NjlSMTJUVHIxMnd0ZDhYUVZJc3lOb2l2ZU1HQ05KYS16VGs3U18xbzY2a19fLUgyaWZtWFRXWnhYOHFQUW5pSnRJc2dqRE5IRTdLTFhPVE1BdFg4OGJZVFBnd1dPRHctVHdrNi1TdHZ6Nm52S1NXLURVX25UZGhqRWc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 11:19:45 GMT"
+        },
+        {
+          "title": "Iran greift erneut Ziele in Kuwait an - Radio Köln",
+          "source": "Radio Köln",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLVhySTdCZDhTNmQ5ZmVsMHJoNlZNdTVUdDFmbmotWldJWTd6S3Y0Mm85S1ZBMnVHMkg5eTNSenFmdDd2cEVHaDgwVEM2X3BOUjZpUnRrLVpSSHYzeTBrRlROMlhiRDYzdnBNMjZFbU42Zzh0dHQyel9jLVpzSy1WRQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:12:00 GMT"
+        },
+        {
+          "title": "Iran startet Drohnen- und Raketenangriffe auf US-Stützpunkte in Kuwait - Investing.com Deutsch",
+          "source": "Investing.com Deutsch",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFJRdVhJSEk2OUI1ZjBKUUJfOERjS2xVZ0gzVVBvMzdFV2ZGeTdpMWJxVGtUU0pjUk8xdDI4Qm1peTFvNk9Xb0RnLWt3Qzk4MFA4aERzbW5HYzVORE41Vnc3eVRGN09SUWF3NUNNbkdIWnA1ZU1IbHhHclB6SGlvTVFGd0ZDa1lTaWxOVk1zNmRxNFcyalZfNHpSN2ozR1VhcjA0SFhxRGx4a3RxaXN0OUN1RENydnpaZUFv?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:28:00 GMT"
+        },
+        {
+          "title": "Trump bringt Umbenennung der Straße von Hormus ins Spiel – Kuwait meldet neuen Angriff - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHFLN3NkY1Y5WTJiQVpKM3R5XzVTMnp6ckc4RVVpVFg1WTFoWVlkZlMxbklnel9DUmNvcHdLRndkNDFsYUd3RU4zbHdLWDBEa21tR2VJNkN3TTdZblR5dzdWdGM5T1pQazJ1aHdTRWQwOVlKWDBhTmdTRFhBMWpjQ085UHdUdWU4d3U4SkoxTVFPd1Q1cXRzMmpBNjZWb2Q1bEtySjZWTS1Bb3cxZElLbzJTdlNlRXp1QXl5Q01oWG9DVVdFM2xLb0d3cjBTdlk?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:21:27 GMT"
+        },
+        {
+          "title": "Iran greift US-Stützpunkt in Kuwait an und beschuldigt Washington, eine Hochzeit gestürmt zu haben. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjYyYV92czBZQzFSUDhTMGJjTXRxaFdDdmd0aXdjWUJ6YTI4RExiSWljVFJtSVVzSnQ0ODRnTzZrSTlDRUFpVkFQTGRFcHVqT3pPMTNOQ0xyQjMwcmx2bXZJd25ncnM5LWtfZDFUS0xDLXh1T1cwbm41dDZRODR0OEFjU2x0Y2hNejVSaWtaUlJDYmVEOEc1cTdNUW4?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 12:15:16 GMT"
+        },
+        {
+          "title": "Nach US-Schlägen: Iran greift in Kuwait, Jordanien und Bahrain an - n-tv.de",
+          "source": "n-tv.de",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlFGdnpNMHRqbkR3ekZFcm1jZllKbm9sV3hBX2UtY3ktbmlmNVlSY2drQlRXck1IcUZQWmRfNENsamZtWnlfWTl1WGkxWkxXZC1MNUlvcWhTOTh1R3dOaTZhX1pfY2lxalI4cS1tWXZYSnM3V2ItZkZTNi1DY1FfNy1Fci1CWkdzOEhjd0kwVkhfbXNE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 02:55:25 GMT"
+        },
+        {
+          "title": "Iran reagiert auf US-Angriffe mit Attacken in Kuwait, Jordanien und Bahrain trotz Trumps Warnungen - Audimax.de",
+          "source": "Audimax.de",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEhLNE80MUZ2X3JfbmgtMkZrNm5saHpZSTBFemxlaEE5YUJBaHJSX0FVdThpUXBZMEpYMEk5enhmNkFnZ0loTElVZzVEWXJFVFRyNmVqVnh4RmRaUFJCdnRsZmxwYWVIbm1IUE5pLXozOTVUdlUwZlQ1bjFVLS00U1ZZTDRhTFB5RWFtb1lrQ2lEcWRDWGtBNEoxb190LTRjVWo4cVdPdmthY3Y3dzJhQzNpYWZKNXZETncyTzJwWXlBMnM?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 03:03:57 GMT"
+        },
+        {
+          "title": "Zerstörung eines Kommandopostens auf dem US-Stützpunkt Ali Al-Salem in Kuwait - - Pars Today",
+          "source": "Pars Today",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdHZjTGpWSFh4dkhHUkdDa3JLRU1mTUNHRUlGNmdiN2tCNndFV012dlE2MG53SXBZS1VEM2lHc0pGN3k2bG1ZamhIVmp1OE5iS19IZm9KTHBBWHRCU2FPOGlodmVSd3dqdDFkTmpnUjRQN2ZaUlVxSmRFdEsyNUdsVy0yRzVhVGRCQldPcE1VRkdzdnM0RnU0UEtZWHZEbkhQc3ZVUGgzMzkyZVJkUlotaTZ3WEdCWXNvUzFIV3NtbEd1OTIxRlZsUA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 09:13:00 GMT"
+        },
+        {
+          "title": "Der Iran setzt seine Angriffe auf zwei wichtige US-Stützpunkte in der Region fort. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnhORWJvMTF3Tk5jSkRWa2pLSFhKeFljdFhxZ1pSUy1VMlMzZkFjbmhMLUR1dXZjVTZVdTlNOXJJYXFZX0YyRlRQWTVvVTJYRm52VVBJd29LVGxNSFVRam5mVGtZVGdYZF9CYVBTQ0k5QUVJVU5lNFBuMnR6NzU1SUduaWYtNHJZQ3pSUlhTUW1GZw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 12:07:20 GMT"
+        },
+        {
+          "title": "Irankrieg: Iran meldet Angriffe auf US-Stützpunkte in Nahost - DIE ZEIT",
+          "source": "DIE ZEIT",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUNyeGcwSmtkRHFZMWk2a3NDZW5rLWZBa3d2U2RPUy14NmxlcF9hZ21URENOc0tYaU1FRzl6R09nYVRPYnpmX29fWnRXMGxfM3NETzRaYTFITFhkbzZKUWN0NmRuSVJLVGwxekZWNE0zNUtFT1ZTcktPWFQxNkRlY2ZzdmdmY1NYVkhrRXlIQWdIbnQtX2pSV0xEZ0c?oc=5",
+          "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran droht mit Offensiven: Khamenei plant Angriffe auf Kuwait und die Golfregion - Augsburger Allgemeine",
+          "source": "Augsburger Allgemeine",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVURJU1QyZEtxUHMtaHRrcmFUYjFOUHU4eTZCZlBidFVxU3NIRHRkR2ZHQXNPUFdtVi1uTTF1VHdLZWNjUENJQU1ZVDl0NWpzTGtIVUQxQ3E1YUpwckowTVZiR1A5cTZVa1RUOGl2M2NWSi1ZXy1KT3NqTm9Ibm5XMlNrWE01QmFWb2h6YTRjOFFfMzduZHFyaTA4Y2hLN0NjLXpMTFk5Yi02VTBRd1l4bS1qT2VFanEzS1hhelhyRGdEZw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 03:03:11 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "Irã ataque bases EUA Kuwait",
+      "items": [
+        {
+          "title": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes - G1",
+          "source": "G1",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2V6WWdhWDI4UE1EazQ1LVpyZXZwd2JOTUJZOVAyN2xCZjAyTjV5TEJ5NW9mWDk5MUxITVBrbVZRd3V2ay1xMC1qMWZOZVpfOUlHcGJ5UGhNMnFFa0xWdXVEXzI1SHk5X3VSUklCd09WM0lUN2pjRW1vRmg5SlBuc3FGMHRseHJkd3FkTTJYc1BIOV8wR3huc2NObmhMQ0cydWZYLTZvTdIBtgFBVV95cUxQUmtBZEtjT2YtME5mekNSM1ktVklzdktvdUg3cVhrMUhiNWtHUE9xVVVJRHo3ZmpQRXRTZl9CZGJBWXZ5VjUwSE1zQ1lRVWlHX1FPNWVCQkg1QWlLanVEVldKRVA2UEtzRjlpejFvU1lsZUNON3pqUTZzNE0zTFozUUZTU3N1d1N1cFplcUVrZTZIMGY0cjcxY0dJSkpaQ2RlNm9BMHlNLUtaYkJPVTN0cFpaV21xdw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:54:52 GMT"
+        },
+        {
+          "title": "EUA atacam Irã, que revida contra bases estadunidenses - Agência Brasil",
+          "source": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYndaSDJCeV9MWDhSNWhBeUNtZTZhZzFTWlMzNXZqdEZIbFZxTWUwVS16T3NqZjlLZ1cwRmlrRFNJUGF4WGt6NElDMnZtR2tKd2JUR3dPRUY2eTJZYjN4NExaNzJBUGI4RDhSTklsckw2elhFSHRUWFdlOEhUalJFdGRkazVwVXFBSlFlRG8zRjQxWnNQOUFKYndfRGljWWs0dUU0NXNiNHBjS3c3OWVmcVB3cDBEWVU?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 16:17:00 GMT"
+        },
+        {
+          "title": "Irã lança mísseis contra base dos EUA na Jordânia; Kuwait também registra ataques - Estadão",
+          "source": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRE9DSkdxUTF6ZHV6ZDJPVG9vd2hkS0s1R0xQa3A4NmM0dzhYX3pKSjFCUjR1bi1LYmNtbm1zaWQxcUFPa21VTUVLZHBXeE1sVzRvQlVNSmVscVVTVGxUQ0NfMGM3ZDdqQ2NwVzZ4MlBnUURhaEhwY1ZSSnBKc3NkcTlIa3N1NzFKQ0t4UFE4c1hISzhpTXBBdEFkWjBVTURaR1VQNXVQeVNLQjTSAasBQVVfeXFMTURPQ0pHcVExemR1emQyT1Rvb3doZEtLNUdMUGtwODZjNHc4WF96SkoxQlI0dW4tS2JjbW5tc2lkMXFBT2ttVU1FS2RwV3hNbFc0b0JVTUplbHFVU1RsVENDXzBjN2Q3akNjcFc2eDJQZ1FEYWhIcGNWUkpwSnNzZHE5SGtzdTcxSkNLeFBROHNYSEs4aU1wQXRBZFowVU1EWkdVUDV1UHlTS0I0?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 00:11:06 GMT"
+        },
+        {
+          "title": "Irã ataca ‘bases estratégicas’ dos EUA no Kuwait após incursão em ilha com ‘fortaleza de mísseis’ - VEJA",
+          "source": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2g3aXJzV2JsalpBeThDc21KeUZIMjBIdGExVDZXOXVWQlBBb3UyRTEzaWJUUXdpZ0h0UHFWR2VnQWU1M1VpVWN1bVBBZ0RFZGNfWlJpMXBsZVVlWEtDbnk2a3pibHB3WmFrQjF0dkV0SU1GblJRRWtPRmVZR0FnZGJjNlNrQXkxVE9zMDY5LUpFT1M5dTNCOTdWTVR3aWVYeXczNTk1WkI4dEowa1dlZ1F5aXY3OEdyemhJRFQzM2hHNUhq?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã ataca alvos no Bahrein e no Kuwait após onda de bombardeios dos EUA - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjNoVHBJNl9JakxqaHlPLUJiRlRpMWtxdVpPUjh5RFY2UWxqUnpWNlRJczBfX09HbFhWSDNjVnEzZG16Z0JfZ1NlVnZzUFZiNTEybndQTjN4bDdaR0E5RWs1T3hTako4V25kb0luLUYzU3REc2s5cGlBdlZ1Y1JjZGRQdFZ0N1VORjJzZ2xHbDRfMUJfQWl2OWR5MF95b2RBV3hiODduZjNkcnBscEFNSXdXZFhmdw?oc=5",
+          "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã afirma ter atacado bases dos EUA no Bahrein, Kuwait e Jordânia - Folha de S.Paulo",
+          "source": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDNUdVhnODF2RC1tV1ZUMWxkaHlxbjBTSTlyeWVSU3luSVFFaFA5TThIQ1FfbmtVYUpmTnRIM0NMQjlEQmp4Ti1ZQnZiY2VHcW5oZUZQT2t2TTdwandlblZwUnFWdG1EamdjSFB1LWZham13VVMwdlNNdzV1d3laY2N2c0JpLUJpd2prSUVlX2tEeVdxb0IxYjV0TldZaXlDT0FsdjQxQ2RwZy1ENmROZTJsTWhVZw?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã ataca bases dos EUA no Bahrein, no Kuwait e na Jordânia - Poder360",
+          "source": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFJ2RzFXWlJMZ1RaWmsyTHlZczhlNjc4WThlckFjaXowTHhoYW9KdVhyRmdpZEwxTWpmbkI5RkFXUER1VUI5NzJBdnpic3RmeFFVSlFqaVk4WVR5cDVsblhUY1N6UVF0djJoNG5XY2sxLXdnWEc5SnhEcU1SdXp5RmlLUzhTTnFnWHlsN0hjVnJJSFpsb0c2X1MxN3ZZbnlzZTE1czBLNUhkdTg?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã ataca bases dos EUA no Kuwait e Bahrein após bombardeios em seu território - Jovem Pan",
+          "source": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkdBSmVubTVMT3NFQ2F4elplLVhqZWZTeDE3UVdGUlAwaUdWM1lVVnB3NlVUN2FpSWRpc3JESWJ3YWFvVDBpTkZ6UDEzWHBQX0Z1XzhrUHlzZG82Yzl5TkYyTWN0TlBwbk56UmZFTE5uMDY3Rmd2YlZwRjBNSkw2ejRPWHFWTnZaMDZ5cmQ2UUNRenZjU3VwRXVwOXlqU2ctRi1GSEpZR0F2TFZGc1E?oc=5",
+          "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã ataca Bahrein e Kuwait após EUA bombardearem sul do país - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON19DZVkxQkUzMVdTbUxocGE0amV4UTNTUWdRWVp1OTh0TzdKZC1jTzBWT0h0MnZyWlR0RDdsdlVINTF0U0d5djlUVTFaN0pndUlMcUY1VmUwS00tLUVyZkxxR2x5cE9qOUc3TlRPb2tWdFM5aXVuRFg4aE4zckRJdkRqUHA0b3pUU1FINjRhcnZQY1haWW5uQW5BSDlwYlphRU5ZTTJfOA?oc=5",
+          "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã ataca Bahrein, Kuwait e Jordânia após ofensiva dos EUA - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFJkb19reEtWUHhPNE1VX29mSkgyMHdRbTZCSkRsYkRSUHRnQTBaSlpZZXUtWlVaUVhpZHhhN0ZMSEZ3Y1V5NTA4dnI0T2xRcDhFYlFTSGdZc0E3TGtBZDZyT19vdFVPcnVtOGNPRVNaOFFWdXJ2OW5EOHA0LW1yUm56S2RDN2UtY28zdDAtVGRma05BT2RlRjE1NmM5WmlyUzJQSUhhUXktYnBzQ1HSAbwBQVVfeXFMUEEyVi1iRUVtR2NiZHNLMElDZmdvVUFTbjF1OExYZEZqYWUxZ0pFLVNjVjd4Z3JheWpXTUhBVDIxdENMX0RGU0RXcDlCTnBlNy03TmdHQ285T3ZfVFVJb1loY1BQamJDM1Q2OUtrekFPUjB3WjJUU1p0ckFhWnVKZGxsNFlsXzkzSmxacjExUjdYdGswMzczQW9YdUpwbUFCMC01NTJfN25pdXQ2VDlZWk5fSWx0X3FaRUgxMmo?oc=5",
+          "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã ataca bases militares norte-americanas no Kuwait, Bahrein, Omã e Jordânia - Opera Mundi",
+          "source": "Opera Mundi",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0NsaHNZREhIaGp3VjUwa3ptUDlfaDhhaWZ6OWtMNU1WbW82LTQwWThsTXV3aFZVY19nZ21PM2thYmxXN01pYUlWUHVsclJoZUpUVDItQzREMlR2YzdaczNna1ZkaWZha3hvcF9aNk8xMndwOE5zS2E2Sl9GcEFRakpVLUFaNlhxZjI1Szc1LWFJZGVGWEVUVm04bDJSOTk2T1NodHdwV2JSUkhsX2R6cnVaSV9WVTFxVFlBekFzdFZIQ1gtdDJEZUtR?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã amplia ofensiva contra aliados dos EUA no Golfo após novos bombardeios americanos - VEJA",
+          "source": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWg3eXVxWkZnOFBmWlVvYkN1ZFQ1b3hRaWp3cHZqZVRuc2lkVVlQSUpFOTR5RGtmYndIdWtrd0xyWk85cXd6Mk92YWZSaTlOM3FyLWJUNHFTc2c1MjhSVlpGRkhyRjFwYjhaOFM1Q2ZFalkxbkZzZ3dVdHJzYmRqeFZIUk1iLXJBVGoyY1g0eUFlZzFuLTVMV2l5WFlreUVpQUdYcXZwZ1AyNTVEcDI3RGtkVmtnZllramc?oc=5",
+          "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "Иран атака база США Кувейт",
+      "items": [
+        {
+          "title": "Иран нанес удары по базам США в Кувейте — IRIB - Независимая газета",
+          "source": "Независимая газета",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vdEsyY0RReFNYU2JRQXRZeDB3QXA5ek5zZ2hXTnUwXzVXUmotcW9ISm5tUEtBLXV6eEtVandvOWk4dmtmaDM1WTRn?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 07:08:15 GMT"
+        },
+        {
+          "title": "Иран ударил по базам США в ОАЭ и Кувейте - Общественная служба новостей",
+          "source": "Общественная служба новостей",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mekplSlMxWmxReWhDM3R6Ni1ZbHl5UGpWYkJNSkpJc0tmTGwyWUFkckR6aV9LWGJ4U2JyM3pfck4zN0EzMzhlU3BYM2RteDB6bk5MQzA4V0tVVi1pNzAtVWhBYXczM3BnUy1rd3lYdmFLVGVaSElxOC1wQTM?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 13:11:25 GMT"
+        },
+        {
+          "title": "Иран атаковал ключевой объект на базе США в Кувейте - 360.ru",
+          "source": "360.ru",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWtLbEdndVRsV2FfT2I1c3BjXzNFLWZIWmtjNG80akxsYmhjNW55cUFESnhYbTZ6VVU1YjdYS0RlaWEwY183dkhtcUNWempvYUJ4aHV2UkpzRG0tdUF5cWlnSElvVC1iaU90a2QtUWMtM3lrSTEwajRINUNJTWJ5TmVGRk0?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 05:42:00 GMT"
+        },
+        {
+          "title": "Иран заявил об ударе по объекту на базе США в Кувейте - Росбалт",
+          "source": "Росбалт",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGtYTFRoamIzVE94d1FVRkVNc3RJYThMVFNaREpRSk1ONVYxRHloZzJQYkVUM2dFSUo1YzR1LS1yMVZiUFZlUUNKd3VGRkJsU0plM1hLTkZ3bXd1YVFzYUZOdGI0TnViMlZORlNyU0x3T1B2NGQtUmRXbE0xUGJJZjJDNlFiUll1bk16T2hJMzRaUGFBNXlKc3U4VzBHbk94d3lueQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 03:37:40 GMT"
+        },
+        {
+          "title": "Иран сообщил об успешной атаке по ключевому объекту на базе США в Кувейте - EADaily",
+          "source": "EADaily",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGhMM0hyUm9mR0U0eGw2aHJzci1sa2ZTMmg5MEE0eHBpZExYNjlwTlVZZVhqT2JXMUhJZHZyTHhNQ2tpR0hBYzBHLVJOekFPeTV2b0szMGl3TmJkR3ctSzJ2MDAteTVfbFh6Mkltc1dHTkNVVDV6Q3JvUkN2Y1N6dFhyZHBrd3MyQktvM3loLUdmWnRjMHFubElvTGZobkVSd001VGZ2RXplVllDbWFZc05JNzc3QlJQNFHSAb4BQVVfeXFMTm44MDhWOWxNbWpfWUJLdlFyOW1EdWJfU3hENmJuaFBod2d1MDFPRDJRYWJLUV9DSnI5bkdpeHhnTi0yN1VIdXQ1c0ZtZW9mWTVVdU4xSWFWcXgxdjI0dzlXdXpRal90OFFQT01BTUpFckFHMVpHY252RXpJczVGMFFxVUczQnU3b0xfaHNodHY3cVR1cC1WSi1wUTB0TzRXczUxR2QxUzR0NGFLSmtXZTBiUjhMRTBzMnM3dS02Zw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 03:00:00 GMT"
+        },
+        {
+          "title": "Командование иранской армии сообщило об ударах по базам США в Кувейте и ОАЭ - aa.com.tr",
+          "source": "aa.com.tr",
+          "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNbjBEaWRpUEI3dTZNSHlSd3JDbXdjaW45OE9PNXM1QlNQMk1US3ZHenpEZWNKcUN2YWs5TVRvRHF2VGhjcXlWbWJDZ3BzMy1IRWNSR1BaeklYLTV6YlZkZGV5V2JvSnp3aDdoTGRTMzNsdHlOMzQxN1RHNkVScDNUc2djcEp2TGtMa1lLU2ZXZW1jdVNHbUszVm82Z1pHWnBZOEdpdGlmSlg3SmxEbFllYzhHeUVUemloS2M0QzFsMHBJYm1tUHlCY2pKQzlxNlY2UmhQMkdOWDR6RFBxNlpDVGpKQV9kSVlyRS1FdE0yYWNrYnhZT2J4RmhBUjY2UWQtWnZ5cXBWZHNMbGdvamJqZ2dETVdJR0FQUWZJZnBOTVNwVVNGcmdlcGI4eFFiR1lJT2ptQzR5YmRuT0dXSXp5LV91Q2pkVzhSQ0h2VU5aMGNWZV8yVUpDUXduRDVJaDc4aU9VcWpqTWVUQUV3V3VJS2ZITU90cVppRlV0SEgyNUlHX3lhdGZQOGYtQXdfQW1jZE0wMENPVHBEMFZJSHJQM0NCOEJ4ODRneDhLdHNsUlUyUGd2d1YyMkMtVzBhNGlMM0VRSS1uYzQ2OExfRFZKU3BXNDNlVjdwZDE4ZjhZOXN5UFlQUjJYanVoWEdDb29QU3QtUzY2MXBQaXZHWjNYMDJFTkdCekNxOHZkRUEtcXBfTC1yX1o5NkZXNV9xeGV3enhrSWVIQjJkU0VTbHJEUnpVMU1ValN0RnRoQWUwSXFGVW9QWVh1aER6WE1ubURUREpLMjVmOFg0bnhVeFdOMzdpYVNsckJvckJ3?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 10:15:02 GMT"
+        },
+        {
+          "title": "Иран снова нажал на «красную кнопку»: Базу США в Кувейте затянуло дымом - Life.ru",
+          "source": "Life.ru",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjdVVlo1QkNhalc3dzBIejdET2VMVndrVWg5Z21LNmhlM0hfaVBhbTdVNWhXZzUwUjlWVjY3MHNnc0ZGaTRXbTBXbmQ5WE5Vb1hmWmNsWFZXaExPa044LXZtRmdmMEotVENpSmV0c3hkWDBidkw5UlI4WXhEalBfYm1WNW5JbW9EendSdjd4bUVhVGxj?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 05:23:03 GMT"
+        },
+        {
+          "title": "Иран заявил об ударах по военным базам США в Кувейте и ОАЭ - Armiya.az",
+          "source": "Armiya.az",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mb2hDb3d6aGM3eEFXZGpFT3FyYy1OdFpXUFRNRzdDdVhQRUhLaHkxWHlkSnNoLXA2WlNmemszQl81Um5rX2c?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 11:30:00 GMT"
+        },
+        {
+          "title": "Иран атаковал ключевой объект на базе США в Кувейте - БелТА",
+          "source": "БелТА",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVExnM3dMNDlHbkVTWFRDQXc5dVRFbWpKYUZsVTBHRWwyVV9kYm5DUEo1OUhaVGd4MmxJVndzWVp5RjFtNXFkREl4aGlld0owbUFuYUhvWkJYMVNmOVBORkduVFhaaU5QeGZvM05UMzVuZWptMW15WUZFRnBTbnl5M1pmand3cnNmTjFhMDAtSEpUanFOMldEZkVJQQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 05:14:22 GMT"
+        },
+        {
+          "title": "Иран нанес удары по базам США в Кувейте и ОАЭ - Apa.az",
+          "source": "Apa.az",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnh6MlRNOXdxUTM3V1d6NkQxeGVpYzVUYlFuUERfYjF5LVY2LXh2dC1qYktTTlZvdUJnTERPWmozWGtDWDFXcGJ0RmdKWFp6Z0RPT2Y1UHlEQ21lMUp5aVNONC1sdm5CSlE1QVR6NkJQZU9EQV8zSzFxUVplaDU5dg?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 10:39:59 GMT"
+        },
+        {
+          "title": "Иран сообщил об ударе по объекту на военной базе США в Кувейте - ГлагоL",
+          "source": "ГлагоL",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3RqZ0gwTWxTVFQ1Tm4ycjZlMjNQNVNZQ3YxTC10TjAwcDNxTGs1S01xYkNrN3F4VW5jSjRtT1k5T1IydVhkUk1FRmtnakRGQzhvNXVtOGs3T2JkMk04eHY3S1ZkSmNJZUxicG13LUNRWGJudUJTdjFISGFrZklVajhHd3NnWC1xRnB2ZFhB?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 10:55:00 GMT"
+        },
+        {
+          "title": "TRT на русском - КСИР нанес удары по базе США в Кувейте - TRT Russian.",
+          "source": "TRT Russian.",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zWVBxSWNMaXJ5UGNaSWd2bl8yS2dpTGJHdDgwRmdleDMya3EwY2ZSZk5NeXNYcGRjWFVlaEF4RmlnLUtjNDI1Ym5tWV9ZOGUwLTdPYlMtdXh5aWc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 12:26:31 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "إيران هجوم الكويت قواعد أمريكية",
+      "items": [
+        {
+          "title": "إيران تشن هجمات على الكويت، والصين تدعو إلى \"هيكل أمني جديد\" للشرق الأوسط - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zUlZOX0U5WXNFaDZGRUdPc1U3MlpTTTUwMjNWQ2FCWU9nLVMzcTE2MWlzZkdaYmdxUDE1RHVJQWtfYlBGTGRpOXlDS25xTUxybThkSWw5c0Q5NEl20gFiQVVfeXFMT04ycDUyazBfZ0JMWGdyRTlMVi1aSG9RRm51SFJaODZNUlN2OTNLcjlPYnhNc2dFQ1VmbHF4aFBWYmQyRFRrYmxGOHRyV3g1N1B3UVZzcHZFd1dFWmR5N085VHc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 08:57:43 GMT"
+        },
+        {
+          "title": "إيران: استهدفنا قواعد أمريكية في الكويت والإمارات بصواريخ ومسيّرات - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxOSjlxNjFhZmxHdzZSWWhfVlBaRnQ0NlU1RW9yZWRVSHRmQ19naERScVpjREpMcE1wQXhDMkJVU2NpOGxfMFg4ZXhSZ2VWdlpOc3JONjJRMmdRUnlVOFI4LXU5Smp4aDNwd2x2ZEtXdUw0M3lsSGRCWnBIeEFnMTlockZ0YUlmMmhTN2dnYWtFYnlLZmxGNWF0WGY4T1pZSnkxX29kSnRacnBhRTdjYW9YcXA3a05BWUhjUTJvTDZSRm5VTzBUb3lJQ1BuZGNFNEVwelhXVVFTeUdxQWZGdC1wMGhfUzVZSDlxbFd6UkNvaG9xNVhGSmpDcjdWcDE2RVd0MHdGQkxJNl96RzBvLXFJTWF0QVUtMGNRanFCd05DSF9nQ2RpYzU1Y3lpelp5SVZtTGRpdWJGc0dtV2VQMjlRNllQMVZaUlBVOXlUR3lCTUpNMjdIa1F6dFNmbXZDUWNDVmwtX1lPUFNqZk5fWGI3Q2ZfN0h6R09fYmw2dDgzd3d1TUdvU1h0bDExX1FIdTltTk0tQzdKSmtUYjVMM045aFBwSjN3R3czc21RTVlsanRocVVzZDdQSnpTRUs0OTNySFVrb0RPTWRfWThpVkx1dFVsakdUcXVfbGdDLXNpT3ZFa1ZhTzhpOXFWZmlMSVlENlZSUzYzSE9oZUk2NHJ2eW9UWjIwT0dIdEhsZUg5S2Z2R3dlVlpGMW8wb3RrZVZmMl9uS3ViNlVIQ3ZPZ0NlRUpOODktem16RzUxcw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:15:49 GMT"
+        },
+        {
+          "title": "تسنيم: مقتل 6 من أفراد البحرية الإيرانية في هجمات أمريكية جنوبي البلاد - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxOQnZpbnExdFoxZFVpbmx0OFZKS2k1VlptZkRDRlMwbmpLTkh5VG9mWkZGLXM0YTd4ejJHelBxY3ZDRmVYc29Tcm5wa0hBZGw2VHZoRFREMjcwdGc1RjRMa3ZobDYtYmJmY0RHaEZMdjN3Nlg4cUNRV2xyaDFNazVjWHl0YVlnZGZnU0VTbXNhbmY1djM4Y2hGWHdObUtvSWVzRXZJeUl0R2lPWkZEQjlhNDR5SjZrWGIwV3A2em1WbGs5QkJPaWxJMFVscDMtTGRSYWFvN0RkclpfZ1BlbzlIZE0xWXNqQmlyb2dPVUVDZUlRTHNsUUxTV2RXZ0J4c2xYaWpfX3pwS1ZnNlRGTlJjWW82ejhlZHdJM29XNl9CNUdZQXpOXzI2dFVzTWNKdnZJSDhQRDE4YzNsNndVZWhacV9WaXJhd2dqamZ0eFdiWE1uYnpUcjNoRWE4MnNveVNlNUJCRS1IUDgwX09IMWM4aWhXLVBfakhFZ0tUbUE0LTYzVVNaaktLV2ROclNSU0Q4ZFk3RHNDcW1JY2JJX25SWDhZOUdKc0N4cmkxRFFFc0F5c1BYZXU2aEwyaW5XSVpKSWExcFgxX25VTThtbEdlY2VnWGlZcFB0TXRhRW96YVVpSHJ3QUNKbkZoLWZqSjRxRFJuSm9ZYy1JT3BTcnBGeUdxRmw1ZmI1T3V5ZlhyeE45djk5Vngzdl9DbEtkelVydGVRVGY2THAtUkRNbTl2NUk4ZWZnLXFHbzNqUUdoeTN6ZGtRSlZsalVkeTBtYkQwdTZmUHFn0gHbBEFVX3lxTE5aRkZTVkdRVmpUWjFGVWllX1JhU3hvZ3Z1RjN2ZU15Y2xQelFoNGJiNEFscGF4NHExRlFQTV9kNVUtWjR1cHdyXzhmRVh6c2N0SGxXNnBEMzFBbWphbUs4dlZlYjNiZlptbHBpVThodTJfMU0tWFJuNXdod0g0bjRCNURPYkY1RDRKR3pwUTdXRUd6SXZyNmc5X3NhNkdUMmhoU01mblZEOFhtUHdqZTdtWDR6UEthR1dfd0c5NWF3eEV4VHRNeGx1dkVJMGg3WUxuMDZPaTZTV3VMLVFFcXRaNGlXeDFIYUY1aVdSbEZmS0QyeFRCWDBHN3UtZWo1VEtMN2lXTXdWVk5KRHI1YWt2dU5EUmUtbEc5eDZvbEdTOUk4RFBJaHhqMm9nRlVPa0lrM2xjUzIwMWZVc0dNM3A3Y00xUklHSTB6Q0piWlU5MlExOEJteWltZGFBbkk1QlNGcnFoeWNTaW9mX2ZjQ1JPT083a19fZkNQaGxjcjJBbVJBVXdUQ1drZkdLa1RNbDFPM19lbWNKRUFPWUpkaWh5MHg4dGJjVDJQN2p1djhRU3BrODUyUHZlVDhSLUJaSjY5enNPVkVMcGRXcFRROHYzNXFVVnhJb3EyOF9RNHhaNWc3aXEtX0oxZW5zNDdxa184bGdkb1FKTmVFT3NBajZGdXpoci1SX3JLMmtKTmlwT3lKd3JmWUR5dEhEa0hzSjM5VTlNMEJ5Ylh0bDRkdHFqbjloVmFILXRoVW1NZ204dlpyeHdDOGJhenJUazF0ZG15SThwRnBiOS1UYw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 13:21:19 GMT"
+        },
+        {
+          "title": "إيران تعلن استهداف قواعد أمريكية في الكويت والإمارات .. والكويت تلوح بإجراءات للدفاع عن سيادتها - جريدة النهار المصرية",
+          "source": "جريدة النهار المصرية",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1veUJVVG55djVVV0R4UnlGODRwcENrMGltVmpXOE9KV0lUcmNhcjVHaHJ2QjFjZmVoNE5kNHg3RjQ4MGZoMVhERy13V1E?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:47:22 GMT"
+        },
+        {
+          "title": "إيران تشن هجمات على الكويت، والصين تدعو إلى \"هيكل أمني جديد\" للشرق الأوسط - BBC News عربي - اخبارك نت",
+          "source": "اخبارك نت",
+          "link": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxONEpVZi1WZXZabjdUMlhnVlZpMTR3em5KWjlCM3M3MG5ORVNySGlrVjQ5cmdIQmxMUDhqdjAtcUpqVmFoR3U0RHEzU056eHgtem1id0FkTGNva2VRT0JSckxEUHdGQWN6WXpmci1LOElRb0Z6aVVvWXMzM3FkWnVZQzlnams4MHVVSXZuclVTV0VxdXNjelRKY1pDYTMyZ1c5cndCdVlWTFhmcUlCLVdxYkIxZUtYUF9tYWpKeW5FaHFBVGQ4Y0pockVxV2RiTnhHdXNiVkZ0LUlYVng2QlU1akVqU2ZyRFZVRUthWThVQlE2TVQ3cjdVU04zaGtDMHQ4OVhJX1N0SXY4akY4UUY1U3g0dEp6ZWh0dnhIaHpXaDVMYm41ZWJvZkk5bUVWZDVzUmN1d0p2S0VOQUZhNVVDOUs3Y1o0ektTM01RRFFxMUx3MXZ4R1lBcFJ2RjEyel9DdzlnOWZjSXZWczNVOFhVYjk4cmlhQjVWdFhFdTZXcy1mZU9Pb2J6VFNCNWtrczZYeGFqVlZ6SmFwZGd2LXA3aXRMaHI0N2ZMTUNGZlg2T3hKaWEzU2s0SmlpTC1hUmtpRTd3STNZSG9IeFlkbW9BTU9vNzRkLXVxUXBkMXMtZ3RvVTRRWTMydHVDa2ZnSWhLZlRyYTZJVXBwMk9oTzFjcmVLRnhzRjd1bk1ndU9OSG9WcGJ0V0dBd1RSTFpyOXM2X3RlbVdpMk1wR1Z0OVV4VS1LOEpEUGxfOGk2SmEtNEMxWXViYW9WYkhfcnNvd3hBWFZNdS1WdGozTnM4MHlJTklBVVFMZw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 12:43:17 GMT"
+        },
+        {
+          "title": "هجوم إيراني واسع بالمسيّرات..قواعد أمريكية تحت النار من الكويت إلى الإمارات - i24NEWS",
+          "source": "i24NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1VaYzVTdEVrZXZGdzY5Y0Y0SW0zTUJ6bW1NTWF6Zy1RVnl0R1VhdlJHMDUyRndvVWpaYUdad2t5RU4xNEN1Y3NJSXNrYk9xREVBTmlSYnphemRqN2dTNVpPZFdYZlYxUHdRcXNDOHJJRDRpVHh6bTJBVDZiVi1JMkpHdUJuajRDeHc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:10:47 GMT"
+        },
+        {
+          "title": "إيران تهاجم قاعدة أمريكية في الكويت، وتتهم واشنطن بمداهمة حفل زفاف. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0IzYUdhbWZNQV9saE50T3JqY0owUFAwdDJZVUlqaERtUUYyZjh5NTl3VnFPb01LTFBic2RuZXRiRlYxR2c1cUNxWUUxRFNUN01wbkI1ajNoY0NsMm5PTjVFcTdfemZsTkhmeXNGZDJsNFROS1VpeFl0NVQ3clZLUWZpNnpFTTE5N241dG1ZU0xueVhEdnlGZmhOSHc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 13:03:24 GMT"
+        },
+        {
+          "title": "أمريكا وإيران.. تبادل الضربات والتهديد بمزيد من التصعيد - DW.com",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNYm01Z09tLXBoWnI5MTMwbTRDNXJuVW1yTHlBY1NzRWlxcm9wb2Y3YkZxRFpvUW4ycU4tVGZkdVhhUDZka3BLcjdzOWJDR3ljeXVQc0RKSWoyX2t4OW5PTGMxcURySGhCbmpWVkxqYm5NcF92UjNZNTY4TWk0OEQzdEoyaDk4SmpSamxONGxhSjlMNV9wVmgxM1hseVh6S0dxUUhLU3pLY3VWVTNveHNOQ25neWJhbVVxTU9BSVJ4VmtrS3h1MHhiZnRzbnlkYWhlRTM5QzR4MGtJREdiMTdZSDNfQ2NjdnI4aHFxVG9YeVI3Y3loT2ZOU3Mwd3cxc19YRW9FZDFJbEtBQjd3czdOZkw4R2VYTU80OGgyemxJV3NNZGVHX1dvN1FITWhJUFMyejhNRHRCZDU4dUlnWnFtNjdVNnAwcEFtX1NRejBReTZncDFEdXhaTXkxLW1kWjVrbnR1LV9qbzRrQ2xvRV9GXzdsa0NxQ1JmNi0xQkdfRkQzQWU5aHhfTHVtVkVRaldDMXJmTXl1amowRkhMdDFJcFRWOUgtMk91SU5YVHkwZ1lIeURleV9tcHJXQlItRjNXU21TS2cyem9ubjh2QVBzSWFOWWZXcFhwUmhwN0I5UTlKZmQ0ZXVtM09fbkNKWWJTeG1CWmY1THhyRW9WUF9iaVNuMNIBgwRBVV95cUxPUnhzT3lOeUlES1l2a3NlVU5EOEVBeVdtTElmWk5CMDBTUFhfNDFocnU3dk1VVEQydWU2TDNEbHdWNS1LRmI0X1dBUHk1QmN1MXlSQ2JMTUx6NjlfaFc2cmhWakE5ZzVmRTJ0UmFSYVNPRnp2amFValBuM29qSWx4UmFzdlMyQ3VFNWZjMWxadVhTY1hPODh2ZjJnbW1WS0djNlBrb1JZMkxNNUZSdWpnbmdfcXVZZjh0Z1cwQVdCQ1BwWFJLeVRGV1dUdlNBc19QbGhCX0xra2RYNmpjWkcwMGRUdnhTY2ltdlluM3M4UHJ5MHlSY2VuRFNuV29xc2lBNHBESE04VnJnOWRfRTVhSUxENk5MRUVOMWpsbjcxNVFxaTBCVWlMajhRd0dOZlI2NTU0a0lQZXNUMWpsOThqOExtekJqX3c2WGh1TXpnanZXYU5aMjdsSDFPTFFKOUFndUxxVGkxRnBpTDZpYnRwNGdwRG4ycU9sWHBpRE9OT2ZtcnBoUW5ocWpGVmZGRkhLRFZ0QnVxUzBiNkQ1b0hveDR0TFpFTnVJRXlGWEdTRnl5TkpjNUphLXFvaHZmWjI1c3ZjWV9wdTAxa3VTTTdUZF9NU25QNXJJNU4zNzFPaGJwZGx1N0FFMDlfOUFkMTMzV0VrcXlQTnA3ekRaTlZsS2VrOA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:04:33 GMT"
+        },
+        {
+          "title": "الإمارات تعلن اعتراض مسيّرة إيرانية وتنفي استهداف قاعدة المنهاد - الجزيرة نت",
+          "source": "الجزيرة نت",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZHZ5aXhpb3FHLUozY1I1Q1lfQlJJMkxtanY4Rmo5Q0NuMW16ejVqWEFGdDFxM0tfNkp6NTJ6c0V6Z21tZENQNEpjbUhCd3FhVHJOU1ZUdWdZWW0xSm01aDRGLWNVUGlvUVp6QWRNR2FPMjhQcmthaS04dUpTQ2dZRjUwWXdDZllXTC1UVWwwMmoyU2dsRFpUTm9yaGNZU3JVc2kycUdNdktWbkI5aEJSRjJQcXlwRW5kWHpNVWdSYVM1NkcwcVQzY3JfYXhPZmJXb3czc3pRWm1NazRRamI3TkhZbE1kbjNxN2NwOVBSQ01EUXl5UUNBWXA1alR0VF96dFBPVzRrV3Q1OU5ESkJaaHpxb0lWT2Z6RGZVaTB4UTNSWTRmcl8yTXFqV1dlQW52TnEzdnJIZnIwcXlnWnQzTjgxZE5rczRWYVY4QnU2X1k?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 15:38:41 GMT"
+        },
+        {
+          "title": "إيران تعلن هجمات على قواعد أمريكية في 5 دول.. وأكسيوس: واشنطن تتبنى سياسة «ناقلة مقابل ناقلة» - newturkpost.com",
+          "source": "newturkpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPVkd6LU1LdVAyczlJMm10Y0FLWjZOcHdKVHhBX0JZZHZUX2lIQ2ozQXBfZkhOWGxXQ2dVR2RzaEdJME0tTVB0b1Zvc2VVX2xYY3NiSHFWc0dsRUdiZ2stSlppSkNYR2RiWGczb0hKaXBoZ3FvRHpXbTdqYzlqX0YwVjdOQkNxNlVsak10WmpxRDB5Z0l6ZGdNeVB4VGdNYmtNSTk4ekhqV3ZPNjJTUXE3aWJnNzFJRjVwSFgtU2tla0ZmSDFUdHRLT0Ftb0VmZVZuTG02WVNvV2ZWbHpTSUd5M0Z6dm1UUFB6cHNwRWhTZl9fcmJoWjZhZXlhTlRUVG9rcFlNeTY1NzhIM2M0NUNvVHBGa3k1d2ltc09xWS1rY0hVelZoYWRPQ1lGN2NaemFvOENYd1pXZ000dnFCQ0VRcm9HMHhMc0Z0b2FYUy1sbGxpZHYtdTZLWG5Lbkc4UklhckV0Vnp4OERXeXNMWS16T3E4NlJBWENqOGVnNHREd0JYY3BMbEd1SXpYWTNrZGZBSHAzd2ItRzR4T09hTTF5SWNvc2Z5bWlsVFRDOFlFeUhHQ2NZVVpJb3RWcVhjdGUyMWJMT2ZoWXNHRGQ5Q0trT2N6RzdkOXNVUWVhSDZpVHBCU1BicTgySlpzQThBc3piNHFHYUVOblg2TWtra3NIeVBDQUpqOXJ2RFI2M2NmZGxaQlh5eFhfRDlQTlBIV3hmOW05cnpFZWJQQkJCUGdubVJ5TERuVlpzM2xnUmkyNXBIX2tVemw3cnBIal9rVndRLTBxOGJ4LWVEWVFoV1FJQ0YzQ2R6WU1uMzdiYy1vV2NJZ2RIZC01UW9oMHhxWFF4RkJqaTN2MVZEdy1LZnhIazFhbkV0eFkyS01SckNFcWozZw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:21:55 GMT"
+        },
+        {
+          "title": "الأردن والكويت يعلنان اعتراض هجمات إيرانية جديدة على قواعد أمريكية في المنطقة - بوابة الشروق",
+          "source": "بوابة الشروق",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekxaaVV6Vkhzd21fZDhIRHlicWVJV2RDLXJZcnVXRUU1WG90eVhJWXhadHRheHF6OWo4Nlk3eS1RRExmTEJKTzNmQUc2R0J3aXNQMVlyZzZRaXNBbzFoQ0ZyV2lfdm92OTB5dVZiRkpuc1JJbDhpa0RYUl81N3E1MS02VDFaMVdacEVtNk8xc2NKVGZfaWRjMnZ1OUFpZw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 02:46:14 GMT"
+        },
+        {
+          "title": "الحرس الثوري يعلن مقتل 7 من عناصره بالقصف الأمريكي ويكشف خريطة ضرباته في الخليج والأردن - مونت كارلو الدولية",
+          "source": "مونت كارلو الدولية",
+          "link": "https://news.google.com/rss/articles/CBMi_AVBVV95cUxOSlB6SlBQU1lVVTl0cTI2Z1RjRlFKQVk4Zk1NT20wUkVGbjF2VThEM0Q2a0NoODVNMnE1SU5IMzRBc0wtV0gwVWUyaUNRVjdHeVUwLUJQNVZuWkxJQndITzVKSlhQWDhGZF9pLTQ1VWFCQjRoRmtWRlBhM3VvazVFaldKQ3Vvbl8yQkpJZ0gxQ05kU3VjbFVCRllBN1BEMGVBc3JvMGxsVkgzUkREQ2dXaHZYaTZnSFE1eTVkLVNpNXlyaGpVdUNxXzQxV0E2NGsyWEdvamJkMDA3aGkyanI2TnRJcTJLMEdDTmJpRHRmcDVacHgtbThMQkJEOGJ6VGRPejY3MHNxUGdQbzBnUjNXQk41UW9qY1huclAxQ2NZRVVNcE5KT2ZiSXkxNzdIcUVMZ3hfTGNFWmZhVHZMams5T1A4Uk85YmFXcnFIWE45cEZhczRxeWF5WlRIZGVaN3BkVHp2cUF1dEVTUEY2T1pWQjdraEFHWG1tdkJtajMyQWpQcjFxUzEyR09GSUdWQzNBQ1lOUGhfUlpTV0hnalZVNmlxOGVxdFlVY2lCRWU0WWxpckwwSkVFVTBBcC1ZRFo2bWpZWWlwYndsdU95N0xzWWNvOUV1UFBSUjhlOXRCbWlxUi1XX3dCa2JCNkJfcjJNbEFGb1ZqTGI1R3pidXZjdnJlOXFXU1R4bG9OUnFPX05rY0ZCV3VqX0lIMzJlcTA3T3BuY2EyZHRRZXl5UlJUQnNaYzFZNWZvb2FiVmhpWW44bjVUMDBaSl9jQy04aENOSGg2Vm1XRk5YcHotRzBoN2pxQnVpZkp4ajhxbWlheUU2QTllSUZETzBEckJ1WGF5YVNFWXRsVHl2VzhaZ19feDRwTDZsUHZsTGZBTllGc1R2UFZpdUcyWEhqd20tVTRzMmMwQmdtSWFuYUw1OHZaUmNRb2M0azhkd3VMSXNDaGNEU045T3hqYU8xSEI0T01UakhibUYxYk9DdUxUZm5qNzJVYjlHTktKOEFPYg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:00:51 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "伊朗 袭击 美军基地 科威特",
+      "items": [
+        {
+          "title": "深视频｜伊朗打击科威特美军基地 - shobserver.com",
+          "source": "shobserver.com",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5leWdNZnhSZFA2VUk3dmpaWkR0SVNERVRaLVhGM19FSDY3UURrUkpjS1lWaHU2blVBTVNaSV9aYjc2UTNPSk92M3Q4UnZoRlV4WjVydkhfWHZPOGhqeUE?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 07:50:00 GMT"
+        },
+        {
+          "title": "伊朗：打击阿联酋和科威特境内美军基地 - 广州日报新花城",
+          "source": "广州日报新花城",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2N2VENQeVhkUmsySzBVYW55LU1PNVNOTW9nd0RiNW9aUEVLTms5M1FSNXA4YktwUUlOaF96cUE2b0otSUd2X3B5OU1tSUZyX3VqZ0U0LVpQQV80SDJqeTNMbFByaVduZlBTRUtiVUQ2enFwTzVmaG9rWC1VajNqaDd3YUdSTlplWWc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 09:06:03 GMT"
+        },
+        {
+          "title": "伊朗称袭击科威特美军基地 造成多名美方人员死亡 - 央视网",
+          "source": "央视网",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UR25PM19Nd1hDZ1d2UEtYRkREQmNjRy1UeHp1Q01vYkhLbjNJYkxnZW4wZHpDdG5pNkJ6TWdXVkhwY0JuSHk4SGlMdWcxR05OZWQ1V196ckFjNS11YkdFWEd2bnFFUWlxNHVpZWdxTlV5WVFQV29fbQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 09:25:40 GMT"
+        },
+        {
+          "title": "警报拉响！伊朗袭击科威特、阿联酋美军基地，油价应声冲高 - Sohu",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1IxMDRXYjJVUlZGM0gzWXFuRWh1enM3QVhvNDFJSjdvMXFoVmJjTjZENzh1V2hETmtTQ0VSNExteGtZUjRqT3RRTG9MUUotMnRNRk9mbEhjTjRLbllaMmw2VGFTZXVlLU5VRU5vREc4b1JLazRQLTU1dl8zNS1UUFM2RzBIRS1vNkhFZw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 10:18:00 GMT"
+        },
+        {
+          "title": "科威特军方：正拦截伊朗导弹和无人机袭击 - 8world",
+          "source": "8world",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3Y3Z0FPajhfekJuN1BaaE8xSTlHcGYwY0c2cnJwdHo1N0VzbDh5eE9yblduMlFyMnNGMlYtYkJtUmd6cmZUTVJFSkNlZ2lOZFNtRS1HUXNrMlZ2dkY3Um81QWg3cTRnM2VlSUVNUC1rOE1KMGtTSUY4NmpJYU0yamItZ0ZZU1JKaXgzOFhJajZOX044OHFPWkRWRXUwUmZv?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 03:04:37 GMT"
+        },
+        {
+          "title": "伊朗称袭击科威特美军基地 造成多名美方人员死亡 - 新浪新闻_手机新浪网",
+          "source": "新浪新闻_手机新浪网",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFN3dUNKQVFZSkc3a1Z3WmxfcGdKVWswOEhJLXFmdVJxLXIxYXBCMTZGSDBVcUlla0o0YVpVZmYwbVMzZ0pRNU5zek9aSjBlSjJGX2N4SGUyTGlqTU1MNndPSldXc3VhejFHd3NJZS1WRWwzQlVlRE5mYlV0MllORVA4LXhrR3ZTbnVKWmwyZFpTTlpzR3lLYnVMRUVZREg0U3dYZHdpcmhoQl9uZTRVUWhPVURjVkE3?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 12:33:45 GMT"
+        },
+        {
+          "title": "伊朗打击科威特美军基地 多处设施被毁 - 中华军事",
+          "source": "中华军事",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XV1V3TlZ0c3YxLWtuZ21pZnhIMzJaQ29tOHdOTmF3RTNRaVpiS0lMeHE0R1hGVEZXUElTLWJQQ3lxbzhwQkxTODhGN2hpTm03YmsxbGVqQ0RhUDFFT3o0WnZudWRzV2lkZXNMUW1wWXM?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 03:05:16 GMT"
+        },
+        {
+          "title": "伊朗称袭击中东多国美军目标 向约旦美军基地发射重型弹道导弹 - Shangbao Indonesia",
+          "source": "Shangbao Indonesia",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUxlLUg5T0g5cFNhOW10R3ZxbGN1OXJ1OXpzV080d0NuRE5pMHIydlV0aGhDWDVXbTdFZGY3dFBIbkJYX2RHdUtScFJSUzFRc25uNUhLWnpBT0EzS2xrc3dudVBieXRpVEg4XzZSNGN3bmljM0tiM0w3RU1keG9USHpoTks?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:58:00 GMT"
+        },
+        {
+          "title": "中东战火急剧升级！伊朗发射导弹致“多名美方人员死亡”，美军反击锁定“布雷能力” - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1bWdLQ0JRM3N2Wjh6aUNoTHBFUzhfLTVmYndyRU9LeTBqbC1jeVEwaTAxb2NlTVl1V0pEUmxJTWlvb0xQZG9rcS1POFowRFZFUlg0?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:04:45 GMT"
+        },
+        {
+          "title": "伊朗袭击科威特美军基地：“回应美国罪行” - 아시아경제",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIaHZyeEhFYnJoMld5UmxfQ19YaUx1NDEya1pYaEFaZmE5Tm9kY1pBZnN0a1ZkcWtFNWFteFRpU0xiSUFReS1ORXNfNG1YZEgyZFJCX01ZaVBlcGh2WEhTWkZNNFM?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:57:27 GMT"
+        },
+        {
+          "title": "伊朗称已打击多个波斯湾国家境内美军基地 - 联合早报",
+          "source": "联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13Y2h3djZ0RlgtV3lGYWJBMXpKb3ZfRURRSUNiQzY1dnJzMWR1VmlCNTJfeVliU3g4T1FwOHIxSFNaZ19qTjN1T1pSZllPdnFPdTNrd3J5WVJVRkNjZU1zVF84OHJ4WXRod3c?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:24:56 GMT"
+        },
+        {
+          "title": "伊朗称袭击美军基地及亚马逊数据中心 - 东方财富",
+          "source": "东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UOV9nbTJzSXRVbG9EU05ORnBISUY5d1A1MjhHeHRraGkzazBxei1WLUdMMW5vV2gyM0t0cThoMGFvbTJ4Zks3VEY4RHM0NmJSVkczNS1pOTBpOGo1VEQ2Sw?oc=5",
+          "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    }
+  }
+}

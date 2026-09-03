@@ -1,0 +1,17 @@
+{
+  "event": "伊朗袭击科威特和阿联酋境内美军基地，特朗普称中东战事不会持续太久，各方反应分歧巨大",
+  "event_title": "伊朗袭击美军基地",
+  "why": "该事件被美国、印度、日本、法国、德国、巴西、俄罗斯、埃及、中国等多国头条共同报道，且美俄伊中各方立场与措辞差异极大，是当日视角分歧最大的硬新闻。",
+  "queries": {
+    "US": "Iran strikes Kuwait Trump",
+    "UK": "Iran attack US bases",
+    "India": "Iran war US bases Kuwait",
+    "Japan": "トランプ イラン攻撃",
+    "France": "frappes Iran bases américaines",
+    "Germany": "Iran Angriff Kuwait US-Stützpunkte",
+    "Brazil": "Irã ataque bases EUA Kuwait",
+    "Russia": "Иран атака база США Кувейт",
+    "Egypt": "إيران هجوم الكويت قواعد أمريكية",
+    "China": "伊朗 袭击 美军基地 科威特"
+  }
+}

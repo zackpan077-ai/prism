@@ -1,0 +1,115 @@
+{
+  "findings": [
+    {"title": "美国本国搜索无结果，事件未成为美媒焦点", "body": "以『Iran strikes Kuwait Trump』在美国版检索返回（无结果），而头版中仅 CNBC 一条『Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'』进入前十，且排位靠后。当天美国头版被国内议题占据（SNAP 福利、明尼阿波利斯枪击、FEMA 等）。对比之下，日本读卖将该事件置于头条，法国、埃及头版也多条出现，显示这一涉及美军基地被袭的事件在美国本土的显著度反而最低。"},
+    {"title": "『还击』与『扩大战争』：欧洲与印度渠道的框架分野", "body": "法国媒体几乎一致把伊朗袭击定性为对美国打击的回应：Le Monde『L'Iran réplique aux attaques américaines』（伊朗对美国攻击作出回击）、Le HuffPost『Frappé par les États-Unis, l'Iran riposte』（遭美国打击后伊朗还击）、Midi Libre『en réponse à une vague de frappes meurtrières』（回应致命打击浪潮），因果链起点是美国。而印度搜索结果中的以色列渠道则用升级框架：The Times of Israel『Iran Widens the War: U.S. Bases Are the New Front』（伊朗扩大战争：美军基地成为新战线）。德国 Tagesspiegel 独家用了强烈定性词『Abscheuliche Aggression』（可憎的侵略），指代伊朗袭击。"},
+    {"title": "日本独有框架：市场与『特朗普海峡』改名的花絮角度", "body": "日本媒体焦点几乎全部落在特朗普的表态与市场反应上，而非袭击本身：Bloomberg 日文版『ブレント原油下落、95ドル付近－トランプ氏はイラン攻撃短期とみる』（布伦特原油回落至95美元附近——特朗普认为对伊攻击是短期的）；テレ朝NEWS 与 HOME 广岛均报道『「トランプ海峡」改称案も』（还有把海峡改名为『特朗普海峡』的提案）。这一改称角度在法国 La Croix（『Trump veut rebaptiser le détroit d'Ormuz』，特朗普想给霍尔木兹海峡改名）和德国 Berliner Zeitung（『Trump bringt Umbenennung der Straße von Hormus ins Spiel』）也出现，但日本把它放进大标题并反复传播。"},
+    {"title": "俄罗斯报道通篇转述伊朗战报，几乎不提特朗普与美国的说法", "body": "俄语结果 12 条中，来源多为伊朗官方 IRIB 或转引『Иран заявил』（伊朗宣称）句式：Независимая газета『Иран нанес удары по базам США в Кувейте — IRIB』、EADaily『Иран сообщил об успешной атаке』（伊朗通报成功攻击）。Life.ru 用了带渲染色彩的『Иран снова нажал на «красную кнопку»: Базу США в Кувейте затянуло дымом』（伊朗再次按下『红色按钮』：美军基地被浓烟笼罩）。值得注意的是，德国搜索结果中混入了伊朗外宣媒体 Pars Today（『Zerstörung eines Kommandopostens auf dem US-Stützpunkt Ali Al-Salem』，摧毁阿里萨利姆基地指挥所）。"},
+    {"title": "袭击范围说法不一：科威特/阿联酋 vs 约旦/巴林/阿曼", "body": "多数报道聚焦科威特与阿联酋（NDTV『Iran Says Attacked US Military Targets In UAE, Kuwait』），但德国 n-tv 称『Iran greift in Kuwait, Jordanien und Bahrain an』（伊朗袭击科威特、约旦和巴林），巴西媒体普遍写三国甚至四国：Opera Mundi『Irã ataca bases militares norte-americanas no Kuwait, Bahrein, Omã e Jordânia』（科威特、巴林、阿曼、约旦）。埃及 Al-Arab 报道阿联酋否认被击中：『الإمارات تعلن اعتراض مسيّرة إيرانية وتنفي استهداف قاعدة المنهاد』（阿联酋宣布拦截伊朗无人机并否认迈纳哈德基地遭袭）。中方央视则独家强调伤亡：『伊朗称袭击科威特美军基地 造成多名美方人员死亡』。"}
+  ],
+  "quote_comparison": {
+    "intro": "对伊朗袭击行为本身的定性词对比：谁发起、如何定性",
+    "rows": [
+      ["德国 · Tagesspiegel", "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an", "用『可憎的侵略』直接定性伊朗行为，是各国标题中最强烈的道德定性词"],
+      ["法国 · Le Monde", "L'Iran réplique aux attaques américaines en visant des bases états-uniennes", "用 réplique（回击、还击），把袭击框定为对美国先发打击的回应"],
+      ["以色列渠道 · The Times of Israel", "Iran Widens the War: U.S. Bases Are the New Front", "框定为伊朗主动『扩大战争』，因果链起点在德黑兰而非华盛顿"],
+      ["美国 · CNBC", "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'", "中性动词 strikes，但把重点让位于特朗普的『不会持续太久』表态"],
+      ["俄罗斯 · EADaily", "Иран сообщил об успешной атаке по ключевому объекту на базе США", "转述式表述『伊朗通报成功攻击』，无贬义定性，隐含接受伊方战报"],
+      ["中国 · 央视网", "伊朗称袭击科威特美军基地 造成多名美方人员死亡", "强调『多名美方人员死亡』这一美方损失，此伤亡细节为中文渠道独有"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "事件存在但显著度低，仅 CNBC 一条进入头版，重心在国内政治议题",
+      "unique": "搜索无结果，美媒对涉己美军基地遇袭事件几乎没有专门报道角度",
+      "headlines": [{"source": "CNBC", "original": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'", "zh": "伊朗袭击科威特，特朗普称中东再起战事不会持续『太久』"}]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "对齐搜索无结果，头版亦无相关报道，事件在英国几乎不可见",
+      "unique": "头版头条全部为国内政治与社会新闻，唯一涉特朗普条目是马岛问题（The Independent），与伊朗无关",
+      "headlines": [{"source": "The Independent", "original": "Trump suggests he wouldn’t back UK if Argentina invaded Falkland Islands", "zh": "特朗普暗示若阿根廷入侵马岛他不会支持英国"}]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "以事件事实与地区升级为主线，来源多元（卡塔尔、土耳其、以色列、印度媒体并存）",
+      "unique": "WION 标题同时引入内塔尼亚胡威胁（『one of their last decisions』）；头版中另有习近平呼吁中东『masters of their own destiny』的中国角度",
+      "headlines": [
+        {"source": "NDTV", "original": "Iran Says Attacked US Military Targets In UAE, Kuwait", "zh": "伊朗称袭击了阿联酋和科威特境内美军目标"},
+        {"source": "WION", "original": "Iran targets US bases in Kuwait; Netanyahu warns Tehran attack could be ‘one of their last decisions’", "zh": "伊朗打击科威特美军基地；内塔尼亚胡警告德黑兰，此次袭击可能是其『最后的决定之一』"},
+        {"source": "The Times of Israel", "original": "Iran Widens the War: U.S. Bases Are the New Front", "zh": "伊朗扩大战争：美军基地成为新战线"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "聚焦特朗普『不会持续太久』的表态与油价、改名花絮，袭击本身退居其次",
+      "unique": "油价角度（布伦特原油）与『特朗普海峡』改称案反复出现在多家媒体标题中，为日本独有偏好",
+      "headlines": [
+        {"source": "読売新聞", "original": "トランプ氏、イラン攻撃は「それほど長く続かない」…ウクライナ情勢では「和平合意めど立てばプーチン氏と会談」意向も", "zh": "特朗普称对伊朗攻击『不会持续太久』……乌克兰局势上还表示『若和平协议有眉目愿与普京会谈』"},
+        {"source": "Yahoo!ニュース（Bloomberg）", "original": "ブレント原油下落、95ドル付近－トランプ氏はイラン攻撃短期とみる", "zh": "布伦特原油下跌至95美元附近——特朗普认为对伊攻击将是短期"},
+        {"source": "時事ドットコム", "original": "対イラン、攻撃「長く続かない」 レーダー復旧、機雷散布に対処―トランプ米大統領", "zh": "对伊朗攻击『不会持续太久』——雷达修复、应对水雷布设，美国总统特朗普"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "一致采用『伊朗回击美国打击』的因果框架，突出美方的先发行动",
+      "unique": "L'Humanité 提问式批评角度『À quoi joue Donald Trump』（特朗普在玩什么把戏）；多报并列报道美方轰炸致死 11 名伊朗人",
+      "headlines": [
+        {"source": "lemonde.fr", "original": "L’Iran réplique aux attaques américaines en visant des bases états-uniennes dans plusieurs pays du Golfe", "zh": "伊朗回击美国攻击，瞄准多个海湾国家的美军基地"},
+        {"source": "Le Parisien", "original": "Guerre en Iran : les nouveaux bombardements américains en Iran ont fait 11 morts, selon les médias d'Etat", "zh": "伊朗战争：据官方媒体，美军新一轮轰炸伊朗造成11人死亡"},
+        {"source": "L'Humanité", "original": "Guerre en Iran : bombardements de bases américaines, 11 morts iraniens… À quoi joue Donald Trump", "zh": "伊朗战争：美军基地遭轰炸、11名伊朗人死亡……特朗普在玩什么把戏"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "事件事实为主，混杂伊朗外宣渠道，个别媒体用强烈定性词",
+      "unique": "Tagesspiegel 的『Abscheuliche Aggression』定性；搜索结果中出现伊朗外宣 Pars Today 的战报；另有伊朗指控美军『突袭婚礼』的说法（Vietnam.vn 转引）",
+      "headlines": [
+        {"source": "Tagesspiegel", "original": "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an", "zh": "『可憎的侵略』：伊朗再次袭击科威特境内美军基地"},
+        {"source": "n-tv.de", "original": "Nach US-Schlägen: Iran greift in Kuwait, Jordanien und Bahrain an", "zh": "在美国打击之后：伊朗袭击科威特、约旦和巴林"},
+        {"source": "Pars Today", "original": "Zerstörung eines Kommandopostens auf dem US-Stützpunkt Ali Al-Salem in Kuwait", "zh": "摧毁科威特阿里萨利姆美军基地的一处指挥所"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "中性事实通报式，聚焦伊朗『称』袭击多国美军基地，头版完全不涉及此事",
+      "unique": "巴西头版全为国内政治（大选民调、STF 危机），该事件零显著度；Opera Mundi 给出最宽的袭击范围说法（含阿曼）",
+      "headlines": [
+        {"source": "G1", "original": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes", "zh": "伊朗称袭击了科威特和阿联酋的美军基地"},
+        {"source": "Folha de S.Paulo", "original": "Irã afirma ter atacado bases dos EUA no Bahrein, Kuwait e Jordânia", "zh": "伊朗称袭击了巴林、科威特和约旦的美军基地"},
+        {"source": "Opera Mundi", "original": "Irã ataca bases militares norte-americanas no Kuwait, Bahrein, Omã e Jordânia", "zh": "伊朗袭击科威特、巴林、阿曼和约旦的美军基地"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "以转述伊朗官方战报为主，不带批评性定性；国内头版仍以俄乌战争为绝对主线",
+      "unique": "Life.ru 的渲染式标题（『红色按钮』『基地被浓烟笼罩』）；几乎所有标题都以『伊朗通报/宣称』起句",
+      "headlines": [
+        {"source": "Независимая газета", "original": "Иран нанес удары по базам США в Кувейте — IRIB", "zh": "伊朗打击了科威特境内美军基地——IRIB"},
+        {"source": "EADaily", "original": "Иран сообщил об успешной атаке по ключевому объекту на базе США в Кувейте", "zh": "伊朗通报成功攻击科威特美军基地一处关键设施"},
+        {"source": "Life.ru", "original": "Иран снова нажал на «красную кнопку»: Базу США в Кувейте затянуло дымом", "zh": "伊朗再次按下『红色按钮』：美军基地被浓烟笼罩"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "突出伊朗袭击海湾国家本土主权，并引入中国『新安全架构』与美国视角",
+      "unique": "Al-Nahar 独有强调科威特『暗示将采取措施捍卫主权』（科威特作为被波及主权国家的立场）；BBC 阿文版把中国提议置于标题；Al-Arab 报道阿联酋否认基地被击中",
+      "headlines": [
+        {"source": "BBC", "original": "إيران تشن هجمات على الكويت، والصين تدعو إلى \"هيكل أمني جديد\" للشرق الأوسط", "zh": "伊朗对科威特发动袭击，中国呼吁建立中东『新安全架构』"},
+        {"source": "جريدة النهار المصرية", "original": "إيران تعلن استهداف قواعد أمريكية في الكويت والإمارات .. والكويت تلوح بإجراءات للدفاع عن سيادتها", "zh": "伊朗宣布袭击科威特和阿联酋美军基地……科威特暗示将采取捍卫主权措施"},
+        {"source": "الجزيرة نت", "original": "الإمارات تعلن اعتراض مسيّرة إيرانية وتنفي استهداف قاعدة المنهاد", "zh": "阿联酋宣布拦截一架伊朗无人机，否认迈纳哈德基地遭袭"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "以伊朗官方口径为主线，突出美方人员死亡与油价上涨，头版则以中埃联合声明等外交议题为主",
+      "unique": "央视网/新浪强调『造成多名美方人员死亡』，此细节为中文渠道独有；华尔街见闻给出美军反击锁定『布雷能力』的角度；另有袭击『亚马逊数据中心』的独家说法",
+      "headlines": [
+        {"source": "央视网", "original": "伊朗称袭击科威特美军基地 造成多名美方人员死亡", "zh": ""},
+        {"source": "华尔街见闻", "original": "中东战火急剧升级！伊朗发射导弹致\"多名美方人员死亡\"，美军反击锁定\"布雷能力\"", "zh": ""},
+        {"source": "Sohu", "original": "警报拉响！伊朗袭击科威特、阿联酋美军基地，油价应声冲高", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "美国与英国的对齐搜索均返回无结果，可能仅反映检索词匹配失败而非真实报道缺失，据此判断『未报』需谨慎；此外各国结果中混入大量国际媒体渠道（如以色列、土耳其、伊朗外宣），不完全等于该国民间主流视角。"
+}
