@@ -6,6 +6,8 @@
 name: daily
 
 on:
+  push:
+    branches: [master]
   schedule:
     - cron: "30 23 * * *"   # Beijing 07:30 (UTC previous day) -> morning 早刊
     - cron: "0 4 * * *"     # Beijing 12:00 -> noon 午刊
