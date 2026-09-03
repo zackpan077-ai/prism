@@ -1,329 +1,311 @@
 {
   "findings": [
     {
-      "title": "本期为标题对照版",
-      "body": "自动分析组件本期未能生成（内容安全限制或模型不可用）。以下仍是十个国家对同一事件的真实标题并排——这本身就是本产品的核心价值：直接看原文标题，自己对比。"
+      "title": "「谁没上头版」：巴西、中国、德国、俄罗斯的国内议程完全压过了此事",
+      "body": "巴西头版前十全部是『Dark Horse』国内政治争议（如 Folha 的『PGR pede arquivamento de depoimento de denúncias de Vorcaro sobre maus-tratos』），美伊战争未进入头版；中国头版聚焦中埃联合声明与台风（『中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明』）；德国聚焦国内税改与俄罗斯关闭歌德学院（『Goethe-Institut in Russland wird geschlossen』）；俄罗斯头版几乎全是国内与乌克兰战事（『За ночь над Россией сбили 416 БПЛА』）。相比之下，法国（France 24『Moyen-Orient en direct : le Koweït visé par une attaque iranienne de missiles et drones』）、日本（読売『イラン革命防衛隊、米軍への反撃を開始…』）和印度（TOI『US struck 60 targets as 40 vessels, 18mn barrels of oil crossed Hormuz in record day: Report』）均把该事件推上头版，显示能源安全与地区安全相关国家对显著度判断差异极大。"
+    },
+    {
+      "title": "科威特遇袭：法国版本的核心事实，在其他语种几乎消失",
+      "body": "法国是唯一用搜索词直接锁定科威特、且多条标题点名科威特的国家：『l』Iran cible les bases américaines au Koweït en réplique aux bombardements menés par les États-Unis』（La Montagne）、『L』Iran a riposté aux frappes américaines en visant des bases américaines en Jordanie, au Kurdistan irakien, au Koweït et à Bahreïn』（BFM）。英语区标题多用泛化的『US targets / allies in Gulf』（如 The Hill『Iran targets US allies in Gulf after latest strikes』），科威特作为主权国家遭袭击的具体信息被『Gulf allies』一词吸收。埃及头版有第三方印证（العربية『الجيش الكويتي: نتصدى لهجمات صاروخية وطائرات مسيرة』，科威特军队正在抵御导弹与无人机袭击），说明该事实并非法国独家，而是英文报道的措辞选择。"
+    },
+    {
+      "title": "婚礼袭击伤亡：伊朗平民视角集中在南方媒体与中文、葡文报道",
+      "body": "伊朗公布伤亡数字『18 killed, 142 injured』出现在美版 Al Jazeera/Anadolu 标题中，但美国主流（CNN、CBS）标题完全不提伤亡。婚礼细节则由 LA Times（『retaliating for U.S. strikes after a wedding was reportedly hit』）、BBC 印度版（『What we know about reported strike on Iran wedding celebrations』）、日本 BBC（『結婚披露宴の4人死亡との報道』）、埃及 Masrawy（『18 قتيلًا بينهم طفل』，死者中包括一名儿童）和巴西 Opera Mundi（『Irã acusa 『crime de guerra』 dos EUA em ataque a casamento』，伊朗指控美国『战争罪』）承载。中国观察者网给出更具体数字：『空袭伊朗波及婚礼致至少5死50伤』，美军声称：不针对平民』。"
+    },
+    {
+      "title": "特朗普威胁的强度在各国措辞中被放大或柔化",
+      "body": "俄罗斯 Интерфакс 标题为『Трамп пригрозил стереть Иран с лица земли в случае ответных атак』（特朗普威胁若遭报复将把伊朗『从地球上抹去』），这是十国样本中烈度最高的转述；而日本 ANN/Yahoo 转向降温叙事：『トランプ氏 イラン攻撃は「非常に限定的な作戦」ホルムズ海峡は「極めて良好」』（特朗普称攻击『非常有限』、海峡状况『极佳』）。同一位总统同一天的表态，被俄罗斯媒体框定为毁灭性威胁，被日本媒体框定为有限行动，这是本次样本中最明显的一句多译现象。"
+    },
+    {
+      "title": "独家角度：印度的航运数据视角与埃及的国会选举动机解读",
+      "body": "印度头版 TOI 独家给出量化背景：『US struck 60 targets as 40 vessels, 18mn barrels of oil crossed Hormuz in record day』（美国打击60个目标，同日创纪录的40艘船、1800万桶石油通过霍尔木兹），把军事行动与印度关切的能源通道流量绑定；印度版还有 Al Jazeera 的武器科普角度『What is Iran』s Castle Breaker missile』。埃及 Masrawy 提供别国没有的政治动机解读：『مستشارون لـ ترامب يسعون لتهدئة حرب إيران.. هل انتخابات الكونجرس السبب؟』（特朗普顾问寻求为伊朗战争降温——是否因国会选举？），将军事节奏与美国内政周期挂钩。"
     }
   ],
   "quote_comparison": {
-    "intro": "",
-    "rows": []
+    "intro": "对比同一行为——美军新一轮打击——各国标题对规模与性质的定性词",
+    "rows": [
+      [
+        "US · CBS News",
+        "Trump says U.S. prepared to strike Iran 『anytime we want』 after carrying out 『very heavy attack』",
+        "用特朗普原话『非常沉重的攻击』定性，把规模归因于总统自述"
+      ],
+      [
+        "UK · NBC News",
+        "after U.S. launched 『large and powerful』 strikes on Iran",
+        "同样引用『大而强』，但主语落在伊朗袭击海湾盟友上，美军打击仅作背景"
+      ],
+      [
+        "Japan · Yahoo/ANN",
+        "トランプ氏 イラン攻撃は「非常に限局的な作戦」",
+        "（原文双引号按规则替换）特朗普称『非常有限的作战』，与英语区『very heavy』形成直接矛盾"
+      ],
+      [
+        "Russia · Интерфакс",
+        "Трамп назвал мощными и масштабными новые удары США по Ирану",
+        "强调『мощными и масштабными』（强大且大规模），沿用放大版定性"
+      ],
+      [
+        "China · 中国日报网",
+        "美国连续七晚空袭伊朗 包含打击伊朗基础设施",
+        "以『连续七晚』『打击基础设施』的时间纵深和目标性质定性，突出持续性"
+      ]
+    ]
   },
   "countries": {
     "US": {
-      "name": "US",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "美国",
+      "frame": "伊朗反击与特朗普的下一步威胁，事件被框定为双边军事博弈",
+      "unique": "对伊朗宣称的油轮触雷说法直接提出质疑：『Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim』（CNBC）， Fact-check式标题在别国样本中未见",
       "headlines": [
         {
-          "source": "NPR",
-          "original": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull - NPR",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTFZRWTBDZ2kydEpnd3g4bWdheHJTYlF5TkFkdFBYWkM1VEE2U0tSaVhZX0RULTBuQ3JnOE9LNW0xbW8xdEF0cmVBUGx1RE91TG5ReUxoenNvMmExbGZXYWhhMmV3RkZJVHVmQzBQRVN5ZlQyMFVET1Z1aw?oc=5"
+          "source": "CNN",
+          "original": "Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’",
+          "zh": "伊朗在美国打击后反击，无视特朗普『会更狠狠打击』的警告",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzY0VMRVZiZHJWUnM5czgtUlNkTGdCU001M3hVR2NuZVRWdkcxS0ptRklJQjIwdV80XzRSdXc5alR5Y3lpdFNPTFc0OS1NTldSOHlsYzZ4NEVVaHB5aGpzdllheld0N0NuSU95T01MZU5RRjZ3?oc=5"
         },
         {
-          "source": "The Guardian",
-          "original": "Trump says new Iran bombing won’t last ‘too long’ but US prepared to attack ‘any time we want’ – Middle East crisis live - The Guardian",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSzZVWDVzQWpvZzQ4VHBUdWV1bk91YTI4VnB4QlVkSV9qbW50azBRTU51bnB4aDZCZkk2TmtpUjhiNk1rR0FOVVZKZ1JEZXNIVUxVUzlSYVhOVV9EVF9IVW1ueXBrNVh2OXRrc2x2TE5yVUg5V2N6LVd2djdZc0VZeUlaUlFBUEZNVU83dkFPcWRVa3FldGFkc3g2UnF2OTJwRXR4akFsUWdQejhBUURZXzVkNHV2ZEt3N21vQU9CREM5UndQOXNPYXlza3RSYVAyMWlrYVlITGFTZ0JOemM5a1RB?oc=5"
+          "source": "CBS News",
+          "original": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\"",
+          "zh": "实时更新：特朗普称实施『非常沉重的攻击』后，美国准备『随时』打击伊朗",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5"
         },
         {
-          "source": "CNBC",
-          "original": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5"
-        },
-        {
-          "source": "Bloomberg.com",
-          "original": "Iran War Latest: US Attacks Prompt Iranian Retaliation as Fighting Intensifies - Bloomberg.com",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajhGMEh1c2l1MHdMQmlBbWo0Z29GVUJwOE5MaVZBclQzUmhkZVdiYkxnUWhwTlpFY056cjJzZklRaEFkT1Z4MmtJc1I3d3VMQnlqdU8yRlBzWGhKMWdEMnVnMllwcnkzRjFuWEdiRG1YNnV3TVVWdWpsdmxVTlcxU09pNHFSeVcwbk43M0pleUxoenBROEpRNXI4UXJGTE9DNVhMMUxVZDRvWnBBZW41Nmhn?oc=5"
+          "source": "Anadolu Ajansı",
+          "original": "Iran says 18 killed, 142 injured in US strikes since Sunday",
+          "zh": "伊朗称周日以来美国打击已致18死142伤",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRnRUeEg4bXNiR3NHd2FUenQwTFBTd0xqR2RkWnhRdGpRY2U1dm5NNDBCUGNuQko3LWQwZXI3QV9XMkd3QWEtRFh2Nk5OS29YQUxNV2JaVGgwWWc3SDUzdDJtaXBKNlZjZndaYnE5VW5TVzRaNXF4WFFTbjJubUhwZVhMUFF6T3BmNEdNY2RXZHptMDkxSjkxNkN4aU11YUd0QWpVWnJSQWlCVThYUHhB?oc=5"
         }
       ]
     },
     "UK": {
-      "name": "UK",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "英国",
+      "frame": "伊朗袭击海湾盟友，冲突外溢至第三方国家",
+      "unique": "把焦点从美伊双边转向海湾邻国受害：『Iran fires on gulf neighbors』（LA Times），并报道沙特谴责油轮遇袭（Al Jazeera：『Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz』）",
       "headlines": [
         {
-          "source": "bbc.com",
-          "original": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says - bbc.com",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ETHRCRWFjMm04endYR2xHNmlwWHhGUGUtalljVkRZVXp6aTZaa0J4TlBrb0JHQzA1d2h3ZWI5MnZIelBDbnAya2x1MGZLSlZRT0QwY3RKc2dCQQ?oc=5"
+          "source": "NBC News",
+          "original": "Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran",
+          "zh": "美国对伊朗发动『大而强』的打击后，德黑兰袭击海湾地区美国盟友",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5"
         },
         {
-          "source": "Reuters",
-          "original": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTdiazZLdjJmZFUzaDZwUHpSV3R0b2lubVJLcXdtNmk1WEZjbU96MjJveEl4dl9FWjl3V3kwTVQtY0N5WnhINS1PSXoyNUNtYXpub0EwWVBCZklqaTJPTXN0QmxaTWJ3b284NWx4ckg4S3NONkl4WEVnSzdaaV94cUJ0YXI3UlZHV3RwZ1B2am8xMHc2VnV1TTBjcExjSEg1R2d0RWhuUkY?oc=5"
+          "source": "Los Angeles Times",
+          "original": "Iran fires on gulf neighbors, retaliating for U.S. strikes after a wedding was reportedly hit",
+          "zh": "伊朗向海湾邻国开火，报复据报道击中婚礼的美国打击",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYmhKMExlQTh6RVVaUzBPRGRSUllUdXFaZi13OEdUV0dOUVRsTk1tOE9WNU1KaDNDcnd6VU1SSV81VS12M3RoYmFUWGIyWUxEMGxwQlJhRWJzVUdZbVJlWTAzazVGSzQtYTZZNEVTMTVhQlRMeTNRNldvYTM4dGY1M0hnaHhJZ2hJc3JPMUJmdllNWmdXcGtFeGF5Y0NYLTEzUGJoVXo5VVVhNUpHOVN0MzhjaWEwR1VKbHpKOUNjdkxkbFM2UGwxN2hOaHdEeXVy?oc=5"
         },
         {
-          "source": "Seatrade Maritime News",
-          "original": "Tanker attacked in Hormuz, US hits Iranian mine launchers - Seatrade Maritime News",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnF3LWx3Y0FYRWVoZmEzYVVxTElrTWNuOTBwcFpPcEdpSTA0OWdKSjE0ZGl2dmlzTkdUeXdhN3ZOZXJHQUgtc2Z0dEhqVlhsNnFkNGhndVRtUkxiaVU5Und3Z0VXQnRBVWZiX3FmazZ5NW5LZi1DWldmcEpxR1Q2U3lGQjk4UkxtQ21yZVJlQkgwMkc4VXNESmtHeFBmbmdN?oc=5"
-        },
-        {
-          "source": "WSJ",
-          "original": "Two Tankers Attacked on Midnight Run Through Hormuz - WSJ",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5"
+          "source": "The Independent",
+          "original": "Iran targets US allies in Gulf after overnight attacks, and other Mideast news",
+          "zh": "夜间攻击后伊朗袭击海湾美国盟友，及其他中东消息",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlExazF1NFJtR3cyVEgteHRKUHlHbGNJcV9wVkczdGdNdVBmelIzdlV0Ymh2bktsWFpadm5ZWlpkS3NDSVczN2VuR3NONVRJR0dvWVdLeU9fTmdhQTU5eUJPbVBtTXhVT2ZodHRQdy1Yc2ZPQ01MQ291OURuNlVqS3BWdnEtWmQ4MlhpcVlMMldTbWxuMlU5R0JlUWlSQkc5WXVMTQ?oc=5"
         }
       ]
     },
     "India": {
-      "name": "India",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "印度",
+      "frame": "霍尔木兹海峡的航运与能源安全是核心关切",
+      "unique": "印度头版给出独家量化视角：美国打击60个目标的同一天，创纪录的40艘船、1800万桶石油通过海峡（TOI 头版）；另有 Modi-Pezeshkian 会晤后的 Rubio 制裁警告（NDTV 头版），显示印度的伊朗外交牵连",
       "headlines": [
         {
-          "source": "NDTV",
-          "original": "Iran Says Attacked US Military Targets In UAE, Kuwait - NDTV",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJNNFpzWi1ZWlFtaE13dlo2M0o4RE9yeGJNLS1CNWFscHA2NHQzb1JKMVUza096Z0JqTG5DQ0xyMlk0Q3NCeTBOTi1XaG1IRUxocVBUTzJoV3JoRXZ1UUxkRDgzY0NzVjdqcnRmZDNWSkJ6OXhfcGFGS0JsNk12RG02a3JfcjNuQl9fZXhZbVVWWjZsbnR1X9IBoAFBVV95cUxNSHZPdEd1RkY2SE9KZ1J4X2gya3IyYkNPZ29qZU1HNVdvR2laLVBPdlFRajJfTV9Kd25XRVFzSlh5NVgtUG9nS2NUa0h3OWlfNl9zSkthdHNaUHh4c2JJV1pqYUpENGlkY0tuMkhGel9aNW9aRDkxTy01d3NickJUVkc5c1l3RThmRWExN3ZvRXdQSWppN2h3cnhfSkFVbS1R?oc=5"
+          "source": "Al Jazeera",
+          "original": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+          "zh": "战争期间特朗普提议将霍尔木兹海峡改名为特朗普海峡",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5"
         },
         {
-          "source": "BBC",
-          "original": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians - BBC",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5"
+          "source": "CNBC",
+          "original": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy - Axios",
+          "zh": "Axiox：美国依新『以油轮还油轮』政策打击伊朗油轮",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5"
         },
         {
-          "source": "Anadolu Ajansı",
-          "original": "Iran says 18 killed, 108 wounded in Tuesday's US attacks - Anadolu Ajansı",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZ0RGwzZDFhcnoxQlh1TnYxSTVDTGNLb3NiNDdIOHhRYXE0RzZmeXZwQlB2eDBLcXljWGdJbTFzQXpid3ZvOHBEYzZhUXNmU0U3c0xmTFVoWTRLeUR1cUZWZzVzNnRzQTZCU2w5UG1HdXlyN2ZCU0NsTjQ1ZnlXX1VsdHNJdHlmZUt2MFpmVFlWZnlmRjhlZ1hR?oc=5"
-        },
-        {
-          "source": "Firstpost",
-          "original": "Iran's Arash Drones Batter Trump's Troops in Jordan, Bahrain, UAE and Kuwait | Vantage on Firstpost - Firstpost",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmc5LWo0OVduQjJhQUJpbC1Zb0ZoTHp5UUFTYnlENmdVRU1KM250ZE9FZzM5R0NjWjlnUUZSTkZUbVktTE1VQzZxVnZmMUcyZFhjZEhQTjlKWmZ4dHp4bE9mNDJ3TlM1X1ZBTmQzTVFxY0UtQXdOYnlydEJqc01keUZUVXU0LVVHZlhSTmlNaXRpR1RickxXcHhVUW9HVjM2OEZzZGwyaTBEWmU0aXdEVWZqbDFLX2VTOHZiT2F6NWh6cEhSRWQ2VEI4UTlUMDU4d1RlTtIB2gFBVV95cUxOS0VvbVBmYk1JbDZwRmpwS1ZEQlhpUjE2azVnZFNfRS15dXhZd2Z0bms4Vmtfc0FqMks4N00xSXdGY1NKTU84d005azBEM0pKRnAyNXhjekxvSFNSWkNhVi0zNV9qNll4R0xWU3NNcmtiVEI2d1kzZ1htSkNycjVMT2RWS2NueThpc18zemtoY1NhRkg0cFVaQnBsZzhDLUFSa18td05yTnNjUy1iWklqMnBkUFZ2STFsT0oycVhpNDhFQUFOaXNFTnVvQm1MWE9rVG95eFNPVXBHUQ?oc=5"
+          "source": "Al Jazeera",
+          "original": "What is Iran’s Castle Breaker missile, used against US bases?",
+          "zh": "伊朗用于袭击美军基地的『城堡破坏者』导弹是什么？",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjNPU1A3WjhsUjRqWjRYSFl1NW1NOGY2anEyX1d3UDVSSmxQUFBUTVlRNWZwcV8tWUY1TXdtMk1EYWhOMVBNSTY4MjZFUm43Y1VMSk50VjZ2VDJvRWlyVklDamNfNlJEZUpzN0o3ZEJwUzlNNnhKWXU1SzJjcFZiZmUyX0l6NWtXbWtVSTlaNWJxamE0TFZ0SXRsWXczdjTSAaQBQVVfeXFMT1VNX2JMblFhZjkxY1ZteHAtaUF1b1k4WmdSaXgtM1k3Q0E2SlFKSzRNT3lILWxPZFhDaWl5UTZrV3d5MEhiMjRCR0c3RnFTcnZoVmR4bEFxenJtb2xiQVBBRTVCZjhITU1EM19CRjRvSVN1UmszMFk0cEJMMWwxcXkxaEhLVkdmMTdfVzgwUzJ6dlFXbXpfY1VGZ0tvS2M5SGpFdjg?oc=5"
         }
       ]
     },
     "Japan": {
-      "name": "Japan",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "日本",
+      "frame": "战事再燃威胁霍尔木兹海峡航运安全，同时关注美方『有限』表态",
+      "unique": "独家跟踪布雷活动细节：『米軍「機雷敷設部隊に限定的行動」』（东京新闻引美军『仅针对布雷部队的有限行动』）、TBS 报道摧毁两处火箭发射台；还出现美国陆军部长辞职传闻（『アメリカ陸軍長官が辞表提出か』）这一别国没有的华盛顿内政角度",
       "headlines": [
         {
-          "source": "朝日新聞",
-          "original": "米・イランが攻撃の応酬 結婚式直撃、子どもら死亡 原油価格は高騰 - 朝日新聞",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZHpZeldCOW05YWNZbWZMSjROUjA2SnFHNTlTQjRSX2RyNk9Xckh3T2lzU2ZFb3dqR3BVT0c0azVJZV94Nk5BSkdVaDFJMk1yd3ZoZXF4Z055cHFVazEtdjN4UmJkNW8?oc=5"
+          "source": "東京新聞",
+          "original": "アメリカが1カ月ぶりイラン攻撃 米軍「機雷敷設部隊に限定的行動」 イランは報復、再び応酬拡大の恐れ",
+          "zh": "美国一个月来首次攻击伊朗，美军称『对布雷部队的有限行动』，伊朗报复，恐再扩大交火",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94UnlsazVHY2NpX2IyeGJRNFNoUWlzQXNFMzZaRVdvQmkySUlWVUVsb200WjR0cXR2M3pVTTVOVHZNMm84T2xOTlBSdTlFbjBkNVI4?oc=5"
         },
         {
           "source": "Reuters",
-          "original": "トランプ氏、カーグ島粉砕と投稿 イラン原油輸出拠点 - Reuters",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iR1JZSy04Y2V3UTltcV9MUEZaR1RMb3NQY2t3OXZBc3lWcVFGWmtaTWlPbEZZYldmZ3ZxcHF4cURXaTU1OGZBMTlkYkh2azB0ZklNN2pvcHdCYWhpQ055RE9Fd3lhSi13UGdWamY0b1JNZWtqNU9BT1F3?oc=5"
+          "original": "米軍が再び空爆、イランはヨルダンなどに報復攻撃 海峡封鎖強化も",
+          "zh": "美军再次空袭，伊朗报复攻击约旦等地，海峡封锁或加强",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VjdhV01zY1lrSUtFX0dJeTZRS2NrUzUzdVRsbkFNa2RWaTU3RXlPQUx2QUpUMS1HQVh6SXA0aUViLVZTSTFVXzktQ0Q0WWpCdXM3SU5IeUtFMU8tZVY5NS1JMUN2b3B4X3QxeEJ4cS1Yd1RjUEhUc3pn?oc=5"
         },
         {
-          "source": "日テレNEWS NNN",
-          "original": "米原油先物価格、一時1バレル＝90ドル台 米によるイランへの新たな攻撃受け（2026年9月1日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczA0LWhIRGJleWZkaEJtWGlwbzVSVG51enVNQmZDUmFqTHc2MEM5RjY0VGluN3NZWHJWN0NLRWI2OEtGR3hlVnpEUjZxWDd3TXFRXzU3RTVZR0lkM21FT1JwRm5GSlg0d0gya3lMZlB3Rm44M2hxN1JkcHFvRUpzZjJMWEU?oc=5"
-        },
-        {
-          "source": "kab.co.jp",
-          "original": "ホルムズ通過に“シャトル船” 原油運ぶタンカー50～60隻 イラン攻撃から半年 - kab.co.jp",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLXZmZ0lKQTlLNWE2NGlfR0laX0lLbjVOdzZMdGpIeTAwa3Fod2RVSEd2SURKSXJidnAzMnBJUXJyOXVOTy1XbzQzRUNPdjYySHp0TUJ3?oc=5"
+          "source": "Yahoo!ニュース",
+          "original": "トランプ氏 イラン攻撃は「非常に限局的な作戦」 ホルムズ海峡は「極めて良好」（テレビ朝日系（ANN））",
+          "zh": "特朗普称对伊朗攻击是『非常有限的作战』，霍尔木兹海峡状况『极佳』",
+          "link": ""
         }
       ]
     },
     "France": {
-      "name": "France",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "法国",
+      "frame": "伊朗袭击科威特等多国美军基地，海湾战争全面化",
+      "unique": "唯一系统列出被袭国家清单（约旦、伊拉克库尔德斯坦、科威特、巴林，见 BFM 标题），并头版直播科威特遭袭（France 24 头版），把事件定性为多个主权国家卷入的『Guerre au Moyen-Orient』（中东战争）",
       "headlines": [
         {
-          "source": "Le Parisien",
-          "original": "Guerre en Iran : les nouveaux bombardements américains en Iran ont fait 11 morts, selon les médias d'Etat - Le Parisien",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTDRTX20yeDdBSjBNLWl3Yl9kZ2RlOElKdTF5d2lTUjB3WU5kRkg4UzZveGlzYnZqaEo0YjRrZ1ktc19DUGxWUjhLOTJEb0RZNUhIRC1yMWoxT1VVU0FoSkVsYlZyZ25sc3pxbTdTc1cxb1p4WmVpWnk0b3VPZFJiazFlVm41bVpRRmZpdWg1eWRTNWFJQlEyN0hrZ1VMcV9SOWhjNGxuUDRkOVZOMWtURDhQYzZGSG1qUHdGWjV4eXJtQmxUOEJmbEtCQ1VuZnk2UHFyZFo2QVRFNHJTLXZpallWOVNLN2dVSXlOWnNiSEJYYkxyY3F2bWw2QTBKbkFkRWgwWk1YTlhxWlZlajdLTl9VR2ZRZVdXVDBvRVdONGVjZ2pseV9FdQ?oc=5"
+          "source": "La Montagne",
+          "original": "Guerre au Moyen-Orient : l’Iran cible les bases américaines au Koweït en réplique aux bombardements menés par les États-Unis",
+          "zh": "中东战争：伊朗以袭击科威特美军基地报复美国的轰炸",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSkZpcWlTcHd2R29lQkhmRnozNjRFTGp3TXAySlpmRUNtdS0zUUx1YmNTZXNmcVpDZkxoZkhucjN6YTlaWERzSUtKRzRka1hJZnIzMFUtUFpZSzNYcFh4ZlZNMHJCSWxzYVNQYW9uS2dzYnFGVHl3SERwQ1hQbkN4NHUwYjR5YUJHS1pwVHpST3hrQXdHTzVFTXlxcmJROUQtaEZpS1J1b1FPMGVXTDFmb3kwVnp3ZXNEcmFlZGxfVGxpel92Z0xMVDZnSWI4MHBnRGZhYnAyLWE5dzlFVzAtbXhyRzNiejZRek5pYy1aMjdBRndRb3JKbkJQcFRPR1hWRTllVmRSYW9mSDRwUEE?oc=5"
         },
         {
-          "source": "Le Figaro",
-          "original": "Guerre au Moyen-Orient : Donald Trump prêt à frapper à nouveau l’Iran «à tout moment» - Le Figaro",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRUlPYm5JSGtxSFZLOFNjaEJyVXV6aFE5a1lVbEpCalpKMUt2R3N2TUFTX3QwU0pqTzNKbUhZZ2kzYWs0T2kweU9xNDRhTDhmekxxcDFQLXRVVTkybEYyVy1rNTJJSkJOcWtPbmhOUFlXUkNJQlhZQlAxeDJrWV9NTk5mVXUxWThQSGx6M1FlT1p6b2VkRFpfelRYU1lUM1N6LXZrR0liX1FHd0hnN3BCTV9CNUI1cDVmd1o1Y1ZmWGlOS1VzekV4TlptQTlHWWF0Yi1WRVVmWXotT1BOb3VpS1djQ2JnS0R0MzZ0WGdUY0RLU29GRUgtZGdjcmNZMC00WnFzSWZoYk1pT3RoMURhRUdSaDUzc1JXeVJiSA?oc=5"
+          "source": "BFM",
+          "original": "L'Iran a riposté aux frappes américaines en visant des bases américaines en Jordanie, au Kurdistan irakien, au Koweït et à Bahreïn",
+          "zh": "伊朗报复美国打击，袭击约旦、伊拉克库尔德斯坦、科威特和巴林的美军基地",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWUcxa3F4ak96OU1OTHNRZ0Z0MDJyYmhZM2xaMldrVnVNOUtmcUJOZWlLQm9sNUFmX3BuZHdRMXlXaGxkUkRfb1dlVUZBLUszZEdYa3owYm9jaENObUxKMEV0dXpuWjdQci1lMXNNa2VzckdMbmVKaFJDdHkwMDJDdFBJeWRwTk9QV3EtOHZ4UVJ6VnVzdXMwZGFMOWN3LURtQXVrVlB0Y2UySXk0LVN3RXNNVEhWYmRKRXJnSTZybWoyNkZlWV9EX2N4LUlpTFhYTElWZzRld2lTdk8waTNzN3gxV0tzMjlUTWxXZXc5QzdhdlFlTWZWQ1M2cnlZZ2VqYmhEOHg1UDE1STlFbTZ6RUtZMV9welptdTRpUC13TlZJclZVZV82MWp4LXR6V3pPb0Ew?oc=5"
         },
         {
-          "source": "France 24",
-          "original": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles - France 24",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObU8xZnBfVFN3V1JuN3FyZ0tYMEJ0cGUwcXpmX3VBNWdHTnFzbWVnbFV1Uk1sNzVGbVVSdmRIa1oxelpiai1CbUhsTlNWVHdWUE80UU9HZFJNQzJzMVM1dUM5U1lUWm1CZEVoY210X0gxVThBNmlTT3JsRkgta0hJcmJDdXVvdzVXUjk4R2JPVHF6b0NIa1Fnc3YyTE5MWUZleDhUUWZNdW8tVFdhcjBVUlV2VHM2bjF3ZmoyZk1lcW1pWUp5NWNxQndXOEdORnNfbXE2QnQybHNaZDJYVGdhb3k2Qkh3dw?oc=5"
-        },
-        {
-          "source": "Le Parisien",
-          "original": "« Vous avez transformé leur cérémonie de mariage en enterrement » : indignation en Iran après une frappe américaine - Le Parisien",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb2RVa1hTaWFmUnllVF9xVW4tajhlZVkyaFo2YVpyNU1hUzVFdEtWeEtjUmdRS3dqMjBMcUNkNWYwZ2Uwdlh3c2h2TlRGYVdMUFV6NEN6RjhnSzBWOEl6MnVYdFZHNkVZRllXZTNTS1A0cUpLVkxtREc4ZXYydG82OTlUbldBMGRqNHNCSUtnWkhSTjNlNWs3c1ZXeUJvTklLMlhOVWdFVGlDa2lIRm4tTFRQVzRCYVNnZGNENV9nbERrMDNoYjBXbEw3bEx6UkZ1OXVLQlpyaWlUX19hZElJOTdpUUxrN3NYWjVEcUg4YlFEd0JvT2NEY3JBT3dmRkZ2TWF0a0EzSnF1QlRWdHFqeXVPV2pwa2NpTWM1c3IwWjczUQ?oc=5"
+          "source": "TRT Français",
+          "original": "L’Iran affirme avoir tué des soldats américains lors de l’attaque contre la base aérienne au Koweït",
+          "zh": "伊朗称在袭击科威特空军基地时击毙美军士兵",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByZmdDd05RUE41VmtzNFFtMEE2dnUwRGVXSkNCUjJ5NHZBa0RfMk1sZEhEZDdqZ2xCUjY2NU9CRGZPSEJmR2x6ZWJJZHNYNkVoNjNZdy13WjloN1ow?oc=5"
         }
       ]
     },
     "Germany": {
-      "name": "Germany",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "德国",
+      "frame": "美伊围绕霍尔木兹海峡控制权的争夺与油轮遇袭",
+      "unique": "德国样本出现明显噪音（多家实际是奥地利/越南转载源），但独有角度包括伊朗 openness 的外交信号（Kurier：『Iran offen für diplomatische Lösung mit den USA』，伊朗对与美国外交解决持开放态度）以及对特朗普发AI视频的嘲讽报道（『Trumps Beiträge sind lächerlich』）",
       "headlines": [
         {
-          "source": "spiegel.de",
-          "original": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - spiegel.de",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeGg1b1Y3b21ERU43M3h5aE9fSlR0VE5Ib0I2NzlTNld3cm90SXF2YWpGZm9YZXdIdk9PUUtrajhoTUxkUGIxcXY2Q3dxOVBXbDRDUEo4NXBUbWNtLW5xUWVWMTJkMk9CSy1OVnJ1Ym54cGVEUDJtUmdabHNzZU04NXZ5SUhQUFJqTjQ3REFiUUVNc296NVZBLXdJUkhmTVZoa0ZVM2FUYU5ORGF2RWxfTV82UF9sRnJSOUFNWnVnRjZHN19Ub3J4ZWpkTWZSRU9UWWFFTUV6NUNsaXhsMkdJMUxUOGNwck5iVlBCdEt6VnUwZw?oc=5"
+          "source": "RND.de",
+          "original": "Iran feuert Drohne in Richtung Vereinigte Arabische Emirate ab +++ Erneut Tanker in Straße von Hormus angegriffen",
+          "zh": "伊朗向阿联酋方向发射无人机，霍尔木兹海峡油轮再遭袭击",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlFUS1Z5LXVmSktwcDZjamJHdDBhTEt6cVV4blZNYzdGNThsZlpTRnpRZXY1ZndzU2Fral9EbHJjdlJlRHRmUjljS0tSa3h0YzlITVAwSjRwd3MyX293bVBUV0JSdkJCUC1JLUEwRk4wT3RJWVpXTlJjbmhxQU1sb01zdmlmZEZBU2RpTS1YOUNpTzlLUXAzZm5Nb09UQTlaRW04am9TUDhnMU1vNHdDWUhGaGh6RVNZS1RUTzlvOVBBbmhaRnZ5cUxxTE52R1JvZVE?oc=5"
+        },
+        {
+          "source": "Lippische Landes-Zeitung",
+          "original": "USA und Iran kämpfen um Kontrolle über Straße von Hormus",
+          "zh": "美伊争夺霍尔木兹海峡控制权",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0l4YjhFUHY4RHpla28xM0lQUnpaTWlzSjBZM09oWUFaQ0RLd3dyNHBmV3lEeUpqM3JHQ1VjaU9hQkh6OUZXcjF0VmtodXFoZDhhOG5GdGxtVjBWUmFkdElOY2IteVc5anlvaU1BbFdOTzN5Zk9mbmdRUXhnZ3lvUW1iZkZ6MHNSSWJicExZc3BiUmlYUWxJeHpSUmJjdmdrcXdWZ0J4VXpyZHgxdVZyOE9ZYmJESXBw?oc=5"
         },
         {
           "source": "Kurier",
-          "original": "Iran offen für diplomatische Lösung mit den USA - Kurier",
-          "zh": "",
+          "original": "Iran offen für diplomatische Lösung mit den USA",
+          "zh": "伊朗对美国外交解决方案持开放态度",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb09JRzhKdE5yYVp3ZTJIVnRWc2Q1OWJwNVJUdTRCUnNGNmEyWXlQdjFQN3hIYm9kdTRUZlY0Tm5PWHFRdFAtb2Rka1pzTFVyY3piYVVFcDdqdWx3dlBVYktBWEZYRWQxb0dGaFdoNHhCa1ZtR3Nyekc3dXRnQTdrTFdfbWhsdjJIYlFTelVFaGhscFpEaWVUWk45LVhBVVJGT0N6SWZOX2s4M2VpYlJ6WXZ4VHJJOHpuZm4xRDZYSVVGZw?oc=5"
-        },
-        {
-          "source": "n-tv.de",
-          "original": "Teheran meldet Vergeltungsschlag: Trump verkündet \"große und gewaltige\" Angriffe gegen Iran - n-tv.de",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlpGeVNWSXZ4Ry1NaWhHaXU4dVUydlJ2Y2pLU0JHazByT2RfQXpON1VfNWhSc2dKRlJxckxhallIY2JRRXF1dlVreklBWlB6cU9kNE5TOVM4RTJsNkJpR1YwZldHLTBvMUlaYmhaeGZWZU9CVm5xdVRyd0hWTVVrVlhJaE9rZmhMcmFyLWZGekp6TjZXSUdacl9YRHhfRFlCQjVR?oc=5"
-        },
-        {
-          "source": "BILD",
-          "original": "Neue US-Angriffswelle: Trump droht mit „Auslöschung des Iran“ - BILD",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWERDR1RVUkNOb1RhV1NaWWNnSXRZd00tWVFUYTY5c1o0QUFFTUpmaXh4UDhpVHkyd0Jya21fdW5OaGFzajBFM1lWeWN1Q3llclNzazJvTDgwQzhRaHM3akl6UGpSU2pNWEQ3bnVlcFEwRkNpd0w2aDR6YjJvSzZ5WUZiR0ViSTdVWVNCX3M0Qy1fMWpvT2xnV285WUdnQU5PLUpXbWdxSmdlNUxzZ1VadHhoNnFRRVhaTXdtUFJuM0hzNV9lQmctU203TUppMU1QNW4wbV96QQ?oc=5"
         }
       ]
     },
     "Brazil": {
-      "name": "Brazil",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "巴西",
+      "frame": "美伊互相攻击升级，油价飙升冲击经济",
+      "unique": "财经视角突出（『Petróleo dispara com novos ataques』油价飙升），且有最强硬的伊朗立场转述：Opera Mundi 报道伊朗指控『crime de guerra』（战争罪）并警告各国『silêncio não é neutralidade』（沉默即非中立）",
       "headlines": [
         {
-          "source": "Valor Econômico",
-          "original": "EUA e Irã fazem maior troca de ataques desde julho - Valor Econômico",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekUtOWthbVRVZllHUkZzdVdSYk80R080Ml9YcFl4VE0wYlAyOUJ3ZGREbHhjT2FXMDFCaW1QS0dqVVlmUmJXR0ZzLVFLS0kzbHMzcjNDV1RyR1dLRk9HN1lIMG13TnFxdmlMaHFub2xJTlY3RkpKNFB6LU5NYk43bXhiOXFDQ2RLZS10bTJvYVdEeENQQVg3ekdkVjR3dXRfRk1PMGNYNmrSAbcBQVVfeXFMUFlFaGhWMF9TRUxCbHdOSWJDclRfN1RrbENoX3pxTjhBR2dLTjlRMWQwT2JYLUxwdFN1VmduT3lGcjQxVWcxc29UMGI4c2JBamJKa0dobGx2Zm9OdlUyLVJwdWdDdmEyRzkybGVqYXd1Ym94ZTNrR2JxSU00SFdvall2RldzR0xoTUlqYTdLUGVpR2MzczcyWUprNnRtSTNYWXc0OEhEbS1NckVsQmYteUhWSDRRRVZn?oc=5"
+          "source": "G1",
+          "original": "EUA fazem novo bombardeio ao Irã e Trump ameaça: 'Se retaliarem, eles serão alvejados com mais força'",
+          "zh": "美国再次轰炸伊朗，特朗普威胁：『若报复，将遭更猛烈打击』",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWVHSXgzX3hla1BjRXFiQ2ozNk9TbGxfdkFTS2FNS1pnMDB0RFhTRS16cHJxZU9EdjJBWVA2cjJtU2NSMldKQXBpR1FxUHZvU3JxQUppMEl6U05CYjZUS1ZQMXVZMWZsUGYtNUJLRGladGd1aGVOc04wOHlNVVFWemhFSTJOSC1B0gGXAUFVX3lxTE5yOXhtT2VibHJiY1Bnem9PaUVQdlBVeXMtb1dFVWdRazN3S2VBd2xUV015NGo5cWMtRzJTM21CX1RjaHhKNXFQcjY2ZGF5cWNDUHdQTWpCakdBLTl4V3kwR1lmWjMtX1NiZzAtWTAtS0VUY0JwVVotdUhVYzBMQXpyamZwQ195cTBzbDE1TC1vWDlHRzZDZWc?oc=5"
         },
         {
-          "source": "SpaceMoney",
-          "original": "Petróleo dispara com novos ataques entre EUA e Irã - SpaceMoney",
-          "zh": "",
+          "source": "spacemoney.com.br",
+          "original": "Petróleo dispara com novos ataques entre EUA e Irã",
+          "zh": "美伊新一轮攻击令油价飙升",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvSlU0X3RNQkxFazMwTEwxMEhTaTZTSGZEUU5QM1c3RS1IbVB3THktRGpieG94RDlWd2tYQWt2bTlCUk1kSkVOZERKY3ByRmpWTmplOC1LUUwyMDljS1hVMm0zVWRhTVNoR01KRTJfRUZMb2JBRlc0WjdxcDE?oc=5"
         },
         {
-          "source": "CartaCapital",
-          "original": "Irã e EUA trocam ameaças após intensificação das hostilidades - CartaCapital",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXpLQm9aMVFyOGRCUkctTHBTX1ZwMVBKSXBBSzJZN1NSOTdyOFJJLWRTOEY5SFh2SUhOa0UwZlpYNnJEb1JUa2RPejFEX0lITXByLWNieDdBSS1MQVp1M212dXRnOU1KUU81SEZmT1IzUldwUnNxWGs4djlKbFJpMjU0TkFoMEtZVFpBdlNnVFYzZlNYLW15ODNjbkZuRXdmT2c?oc=5"
-        },
-        {
-          "source": "CNN Brasil",
-          "original": "EUA e Irã trocam ataques pela primeira vez em mais de um mês; entenda - CNN Brasil",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckhpMFItZlJRcjlzd2wxdURmU0xjLU4wR0tfTTg0QVpEc3FNNmh3NWNkRUMwTXlKSUE5Mm8ydHZoZDVPUlh1NWN2WXMzdTlWNFJiaUxiNURxU3J3MFhTRHctcDVKVUZoYlV5MnVwOU82Sm92eWhNZW1WTWlBY0R5b2xLN0ZPdlhmcjM5UTdaT2ZMZ01LbWF5dDRxSE5ILUl5MTl3cGtmUXUxZVduTGlKMGhn?oc=5"
+          "source": "Opera Mundi",
+          "original": "Irã acusa 'crime de guerra' dos EUA em ataque a casamento e adverte países: 'silêncio não é neutralidade'",
+          "zh": "伊朗指控美国袭击婚礼是『战争罪』，并警告各国：『沉默不是中立』",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRElYZlQ2Yk5kY1lYcUx3cjNOc0xnR2EyNUU3Rk9MekdfLTN5V0lMaGRSVVU4dW03RWFkU2hFQXd2a1Jwa09MMG50STRMd2xDbTczUWpwUHVYRUZ0aFJEbnJXOUU1NjBGNUIzZExoWmh4RGlJM0xFYVE3a3YzRHZoSG0zdWR5SkZPUVNsOXNBbDNzM1R5bXNGdjlReHYzR0U5RDRDSXJqaXhRc29BZUNwcHB0Ym5IYTAzTVhaU3FwelpuSWpwSEdSanpydXc3YXg1OU5Rc0Z3ZXpqVXY3bmoydHRIeENvLThPM1lr?oc=5"
         }
       ]
     },
     "Russia": {
-      "name": "Russia",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "俄罗斯",
+      "frame": "美伊一个月来首次互相打击，油价与特朗普的极端威胁",
+      "unique": "对特朗普威胁的转述烈度十国最高：『стереть Иран с лица земли』（把伊朗从地球上抹去，Интерфакс）；该事件未上头版——俄头版聚焦乌克兰无人机与国内经济，暗示官方叙事优先级在俄乌战事",
       "headlines": [
         {
           "source": "BBC",
-          "original": "США нанесли новые удары по Ирану. Иран ударил по американским базам в Ираке и Иордании - BBC",
-          "zh": "",
+          "original": "США нанесли новые удары по Ирану. Иран ударил по американским базам в Ираке и Иордании",
+          "zh": "美国对伊朗发动新打击，伊朗袭击伊拉克和约旦的美军基地",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3OUVtN2hQQVNfcWpmbWMxNFhuOHhhODBnQlNqVVRackYtY1VnUDNXdVkwdm1qSXJaSDdRckNoeGxMTVEyandOZDJnUVJCOUZZdmtmT3BKb29tc01hd1HSAWNBVV95cUxPZVJnMGI3bFItQVlBa0tDVzJvai11U2JteHR3UWlySnNVNnZSaEFhX1FKcDJvRENDRlkzeUZOdkRlZGphU21RRlI5cWZDeURnMkdCZFlaVnhQbEFFa0pFLVBET3M?oc=5"
         },
         {
           "source": "Интерфакс",
-          "original": "Трамп назвал мощными и масштабными новые удары США по Ирану - Интерфакс",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91QjVia3hnTDRwenFKTnhEU0pfWV9wMGtCZkZ6MjFGR0NfeUt2X2dXRndRMm9xOENKSlY2TUlfRkRaRWRfZFBQWkd4WdIBS0FVX3lxTE91QjVia3hnTDRwenFKTnhEU0pfWV9wMGtCZkZ6MjFGR0NfeUt2X2dXRndRMm9xOENKSlY2TUlfRkRaRWRfZFBQWkd4WQ?oc=5"
+          "original": "Трамп пригрозил стереть Иран с лица земли в случае ответных атак против США",
+          "zh": "特朗普威胁，若对美国发动报复性攻击，将把伊朗从地球上抹去",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13VHVIYUFIYWdVRkQzMzUxSGJMWU16N0sxaUJ1UktCZXdWbmhSM3NHazhrZkxTSTZJNFl4QkZZVUZfMjB4TE1pNmZacHZTQdIBS0FVX3lxTE5LenpMazg3aWZLTnROLXh6OWxUdlFvcWFSM1k4V2RVazIyZ3ZUNlFPSmVpdUNpY0drMzk0eWdObjhFUXhCdnZTUmZXUQ?oc=5"
         },
         {
-          "source": "DW.com",
-          "original": "Обострение войны в Иране: есть жертвы среди мирных и военных - DW.com",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdk81b3c2UnIxVW5Ga0N6c1dXRzdkalFJSVVabG1ydmUzOGlmbnFoSnEyMmZ5bi1jcDhYcGRueVA2cVcybWRpdVNBNUVoa3hZN3N2T0w2N25oTk52Sk04YXNnTUZQaHNQMXJsdVdYenhOek9fM3VQdGxabVBzbm1jQkJxNzhZTjh6dTJtOUIyOE9vX1AybFVUUkcxQjlmNG030gGgAUFVX3lxTE40U3VqXzZXUmJXZnA3WTJwa3JXTEVPREJMbXVpa0RQWHA0a0hhMFFPbmszdDlvWGhaZGRHZ2I2WV9McHlBYk5nVExxZmx3MkZhOFpxQVVXdVF1amFhaFR1Zm8xeHVlcnhlNEZOR2tGSDVGWXdqNFd2Q1Fpb2FuRnpyUm5WQkFMYURTQ0k4UHdIVHZWNktQbUVZdEotQnZSOHE?oc=5"
-        },
-        {
-          "source": "Вестник Кавказа",
-          "original": "Трамп допустил новые удары США по Ирану - Вестник Кавказа",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jVnpMZGZNQnpzWEF3MGlwSXB0NGZ0ODFYc0U4Nl94dVN2NVZYQ041Xzg1RldCdzNoSl9qeFB2TC1uMDIzS09IS2pB0gFKQVVfeXFMTWNWekxkZk1CenNYQXcwaXBJcHQ0ZnQ4MVhzRTg2X3h1U3Y1VlhDTjVfODVGV0J3M2hKX2p4UHZMLW4wMjNLT0hLakE?oc=5"
+          "source": "Ведомости",
+          "original": "Трамп пообещал «мощные удары» по Ирану после атаки на базу США в Иордании",
+          "zh": "约旦美军基地遇袭后，特朗普承诺对伊朗实施『强大打击』",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jbG9qMEtESUJxOTVzYlVKVl9OLXNYR1RLNmhTQ1lBUHVNT0lOT3NpNWhwUV84bGczZU12dXBHMEhkWmhBZDZjZ2pISFdIZkhRZ2hXdnphd0x0UnhncVFIT2tYZDZNLWZuR3NCRGhxdkVxT05NS0xnSzRadTdLUQ?oc=5"
         }
       ]
     },
     "Egypt": {
-      "name": "Egypt",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "埃及",
+      "frame": "双方互袭与升级威胁，聚焦伊朗公布伤亡及地区战火重燃担忧",
+      "unique": "独有的政治动机解读（特朗普顾问为战争降温是否因国会选举，Masrawy）；头版出现科威特军队抵御袭击的一手信息（العربية）和特朗普否认给海峡改名（『ترامب يهدد... وينفي نية تسمية مضيق هرمز باسمه』），与印度版『提议改名』报道形成事实对冲",
       "headlines": [
         {
-          "source": "BBC",
-          "original": "الرئيس الأمريكي يقول إن الحملة على إيران \"لن تستمر طويلاً\"، ويقترح إعادة تسمية مضيق هرمز بـ\"مضيق ترامب\" - BBC",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByZHV1TUo4b2FIMFZIdmoxRFdDUnZVNzhsblFBSEMxRVNqMWhhRzJ4ajNGTl9YT000dEhFTS1FWkdJTVBCcV85eC1hdVk5d3R6aU9GR2QxQkxHdDBf0gFiQVVfeXFMTUkyVXM4UjRDNEFrUDRIQVZnaUZlOGhKbmFWWnJKUnpCekEtWUh3ekFmX3RwTEJhR2VnUEs3WXVzSGZKM05xVUZSRUlnc2tyYzdEeUNtSzBxd2x0U2NVOE1UYWc?oc=5"
+          "source": "Masrawy",
+          "original": "18 قتيلًا بينهم طفل.. إيران تكشف حصيلة الضربات الأمريكية الأخيرة",
+          "zh": "18人死亡其中包括一名儿童……伊朗公布最新美国打击伤亡数字",
+          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxOUVo2UUIzOXNCdGFGajN0dGF6X0NWWWQzVTB2S3dfVm54a0VLTkRsekZHaDJyb1J5Rzl5TlpzQ3ZqQzRxYUVwdDlfci1jYUpYSVpPT0hRZXFOVG80cEwwVElCaVpQYlNrZVZQVUVKM3gwc3l1WlR1SHI2SGpHNzNlVEVMYmdUaXFScW9qZFFJVVpqY1A3RDVEQ3NPU3ZwOUNxeVhjYWxlRmR6aFhYSjVXWXg0RXVodTQ0YWktMkw2elNKTkJCLThTTDROYUhLNGdPTnFOcGZVbG10aVcwYTAycVMyTkxjbUVjNExZbGRqSUkybFlKSFlHSVVSbWE3S2FTR0VZLXhsWEhjOGlUdk9UUm9BdFU4UEloRFdlVFc3RkljZklxRDdzNFRnX0Q2eHVRQXVZOUd4dUQzYThqcHpTVUdBc1JNMUJhVC1sMml4RDNoOUVUNWhRNUpRMnZtNFNzQW5BM29kRWstUFJwQmxsQV9sYlpySlVCZmIzaHByQl9zSjJrSGM0S2l6cUJoWmU0T1dLbXlVV0NxOGdCejJ4UzdsdV8ybG5BTl9DVVduaEdGX0FxRmFORnRwZ2l0ZkREQ3poY3NkV0w3UklXSkNqSnlaTjU5Q2JpWENqQkZ5Y0J1QkpZUHNWWl9kNWIxSVFxZ3JoTlE0Qkp6ckJWVy1LdVVDT3RIbzBOLTJyMU1nRk5WTC1mQWs3eWRZV0dOd9IBowRBVV95cUxOSWFxSXBYbGwwLVk4eXFObmRybkNNZGVGZl9yM0VMV0MwZy15ZE1RR3h3MnVqQlB0U3B0RjJVQkM3bkpiNkZPZU5YSllHTkpTWG1FRDhvbFFnRTFnMW1MRUdPUmFsUkFfVlUtMFZ6ajZmUEVVV3dtWE9pN0VEOTFLQXJ6OVlPTlNlNVZ3bUl6bi14aXQ1eGpjUjkxWHFkeWZkeGVxODl3dnRKelFkLTQ2NDhnbWtaQk9NQXg3QnprR0JUZ0ZucDBPazN1TzBrWjRKUUE0T3RFUDJzNFBfMzI4bUt5aUF1dkRXcEY2OTI4THFBXy01bnRyR3I1Szh0UTZ1bnhucjhvUTFwR05nYnhrb1NBTUg4SzE1SktraTlBU2V3aDAxNnJHREc0SVp0UkxvY25oNDlNMFdSZmM0TUdXN3RmOVhlRWI2XzBzRlJ6Y3k3UE9OWmZFQXZGNmJUcS1zdmtJUWdzbDNZaTlrbjV1b1QwQnZuNnF0X1FaamtmR2Q0cEdkbTJqVU1JamJvRWtMQXJ2S2w5X1Jad0VCWEtBZXBKejFhZFhCMlRkT3NzejRjWHB3a3Vydkw3VTVoczNpWEw0a1IyTHpfR0Q5WDJnZnBZMTZBejJ1R3N6N29kUGVvcWtfZUEwZnRoc19aNmZxb3phcWV3MHJlTmU3ZFZXb1JpU3htSnVySzRaVE1WTkJzc2VWWkw0bW9fdVFMeHUxbDA4?oc=5"
         },
         {
-          "source": "الجزيرة نت",
-          "original": "أمريكا تضرب 100 هدف إيراني وطهران ترد في دول عربية - الجزيرة نت",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObjF2eGpWVkh3Y0NCaU5Mb2pUSmRySFRjSTQ4b3dFeXBfUnJzQTVIYXFwRlNMT3FMYVZETFRnVWk1eEFEbjZkM3RVTlI0cTJGdFEtdEZfSkM0c011R2pVc3FIUzl1NFpyRDlUem1Rbzk0MVdtZ3dOVElncm0xLWtlR0hKRnk0andic3hrY0pHLTJ3NTFTbHRxN1pjZ01MQUVCUkhiWVlkQnBPeGUyTDFsVzdhYWZqNlpTLUVJeFAzeUtVLWVxam4wekJPclJUM01rSmpkY1lrN2pPS09kOWt5R3hMVEpqMVA0dFVHQ3hMM1l2WW1CQlhKMUVyXzZHWXp1VnJtVG5iX0F3VVd0S3g2WVZXRDk3NG1Y0gGeAkFVX3lxTE8xQ3JiY2ZCeUFoVDhXMnBSTk4yYUIzSHFjejcyYUwycUJiX2pGeTFWRlpUTzBOZ2lRWHRHS013bjJ2Q3VVblIwdW1nejBWZmYzdDdIdDNRVVNJRk92NTZCa0tIeG4tUXlHSjlTRG9WRGhud1JFYXpNbi1WdFF3MEMzOEZ3QzJuYjdOekk2ZXVDUXk5VGUydllPNGxTZGJxWEdfMk5ic1pBS252X2hzcUUxUzVEVy1DOUhISkJpM3VLMDNhUUNpSW9jZldsRkswME52ZnFPbTEtem83QXVOZHczRVBDLTdPZm5aRklnUlhvV05qM2hCSzlrUzBDZ0dXeG5pS2I1ajEzM08weVJzR1VRSjY2VFg2ME5VellrX0E?oc=5"
+          "source": "الشرق للأخبار",
+          "original": "100 هدف دفعة واحدة.. إليك خريطة الضربات الأميركية الأخيرة على إيران",
+          "zh": "一次100个目标……最新美国对伊朗打击地图",
+          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPSXJ0RUttVUZlUHU5X2h2UTV5MzlzRjV3QmZfM1NweC1hVTZoMThYSXhXbXZKV2VUcTk3YTVxeUdudDBpdEdtaFFQaXpSSU8xalA1XzA2SmlrQ1ZzVjN6bGdJU3Y2R2toM29GdWYzUVVZZmMyZU9qdGlSZ2I4LXNmYkhKczE3bXQ3d0FFVDd5aVU4ZktyOU9qQmRIWEFCZVRDeDNKUG9CNlc1cDV0Mm8zeFN3NEpCdzVodjJWWnlySDJYQXp3NzZ1cXBGeFQ1ZWIwSlhURTRDWjdSX3ZpR1pCREZBamgyOVo2eGFwN0ZZVFVmcUVtWUgydmZDOEJzSGk4eWVDcXFxOWxGejZmNnJ5am9xaDdEZzg3QTZ4TGZGWmM4UWdIQjFKbXRSN3Nha1ZUdTBWSTBWTDhIQVV5V1JmYjFaV244Z2wyWjV0cUdrT2VnZmd2eEgtWkFuVWU0UjVNX2F5MThQTEZpRk9lNXgzbU8zY0hRZF9xNTdaejhPeFdwNDVZN3JZN3E5SnJvZTlES1Rtc1Nwd1AwRnVWUnpyXzQxOEsxRk9ScHZUcmIyd1RVTG9UblRndFBzUGJiS2puU0Z5YVBLRWxRU0R5T09yU2tnVGdCZDNpUWc?oc=5"
         },
         {
-          "source": "معلومات مباشر",
-          "original": "أمريكا تشن موجة ضربات على إيران في محيط مضيق هرمز - معلومات مباشر",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxORDZvWkFWM3NJRTFIM1NScWVCdWU4LXU3RWphc0FtOU9JcEYyTTNnZE1mY2dfbldBZjVCeEZnQTA5WXB4dmdXRXdJdmp3ZFh0ZHhKM29fRzlUejNEVmtDczhEZVdKY00wZFZGaXlfVVNMNV9zS0JZV0RpTnZSZ1RsOGZlcmpZYWlaZks5QlNZQWwwNUEyRFBFX2ZyREpTSFM1aUt0Nlc0VUhONGpQb0VIQ2NnNFJKZl94ejYzOVp0Q2U3VGZ1UXZBaWRhdEVBVS1hRTlSVjRsMlhHbXZ5WEkxckZnY3RCSHY5UUw1eTlOSnBENW9oVTVlZUN4YXU0cmVrd3ZNc0FEdDY3VGtLTzVYMUlFQWZCR1M0XzBQd2dkS3VldUtyQ0RyNEItSF91NTk2anhBRm9hTEVyaklWeENVenh6LUtvNllkVkdsNHhURGFkMk9HVEtERTgyRUdtUldhRHlaSFBVWWVXNGFVOC1UYTJaQzBEWjIzTjdGVUFUcURjREF3X0drMlozaENVYXlkVk1zdGNOTG83dlF6OU0wQnhMdzNUT3R6dFc1a3laaktNNG5ELWszVlpGTU5xSjk1WlNMd0ZSWnJIdlV4RXU4?oc=5"
-        },
-        {
-          "source": "SWI swissinfo.ch",
-          "original": "أمريكا تشن ضربات على إيران قرب مضيق هرمز وطهران ترد - SWI swissinfo.ch",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOcVYtcFRxRDhDUU5sQm4tbzl3QjJHWjFIUk1VdUo5M1B6WjFyX0lmOHVwUGJ3Nm4wUkhGQ2NTTVRwRGEwOG9VSDcxMS02RWIzUnkteEFJRzlIUzVzMS1RMmpfc0s4N2tNbEkzT1NOcXR2ZUM2eGtWSkNPQV9qMnE1MXF3QV9EZThTTlJYNHlodEoyZW1zMkQwSVNlRy15OHUyTFN5SW1OaDAtVVNFek81OXBiWjU4eEtqSl9BaVo4dTdXY2ViMkZkZUoybWVKMi04ZjY1NUp4bUt1NzJRYWJKdTZFQ1JLNTZLLWtzekJVUDA3ZU44aEE3MDFhV3JGOVJ5eDVzSFJYcmIwajBISFdfUTVFUGVwbTFzUFNmYXdGak5iWV9Lek1sWUNSYVVoYXVLcFBzRmVUOXgtN01DRlRfY3lJbjAzWVY4SFJTUDdDTDlYQWlOM1RPYnNNT1VYTzhabk41eG9xTzZoOFRRa3JSUDAwZ3FtZWhfdVlqeGtWSlB1UWRHWWZOM2ZLRDBOYktvT1B5dUtwVm1HVThaQk5zcmpsMFBlekk5Skw0?oc=5"
+          "source": "Masrawy",
+          "original": "مستشارون لـ ترامب يسعون لتهدئة حرب إيران.. هل انتخابات الكونجرس السبب؟",
+          "zh": "特朗普顾问寻求为伊朗战争降温——是国会选举的原因吗？",
+          "link": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPUFJteXlnd29wN3hWYS12SVAzWW55S2VYR0tHRkV4YlJCbUtXakZLNmVzNkp0TmpwN2hlRnpJbnA4bmRGdkl3TUJyM21hVTRubFR5SkN3a21TUkdWMmhqOC1PMXRZOEFjak1MSXd3cnRSZXJtODRzZkNCaXF6V194MWZPbktDQ1FZTEdjaWlNM18zZ3ZPdV9BQ2I1YzVfMFRJUS11NFpRMDluMGcyd3ZURXJwOGh5U00yXzc5OTV5SWRocU5XYjVoTURBQm9vSDdsUDBKZ0VpRVlhZTRQNDJNNXRSYjJGMDBkdklwVzRJV3BsVU8ySi1NREx5c1Y0NEYxcnp1STBsMTZMdUpVSEM5Rjd3Q1UzWWZlY2MzVU50VXFFQUd0eXBfdU9PVzFaV1J5bzMwNERGTWNPRXNkd0tEaHpUTHZDOFAtODN5WFJZdWhxOHdTU29ReHc5N1dRUDBpcnd3QmkwQ3ZyWkhDemJKZTFoMXN2QkxCZTBScVlwa0x1RjBzYjlaZVI4dVIwamdXSGlYYm9vRVE5anplS1k1dkZpQnJwcFF4TzZFaVo1cG9oNUU5U0NUNWJrSm83NmxuaUdmUTdPN0stOTRGUWRiTGFJZVpmNjBqMHZMdUg2dklpLUhmMXZSYXh6Z0VvTktUNVEtNmhtZFg1aHA0TkpsdWlHMmpHQnVENzU2RnFXWk14MTd3QUViTGY5bmhodFhPLXhhR0M5cDVqbGN5aDdYX05QLTVmRkFvTlIxQWlaZ3VHdVZwQUExdi1HVEh6VDNSOGtpVtIB2gRBVV95cUxQM3kwUE5hVlVXUDZuUnVsMTVhM3Z0bWJyWlVrZjBLNjhqeVJJZ0dHSU9YYzZQZlhKWVBrVkdyTW9oa3F3N1lhRGdLTk1LWE52MUZVUFFvS09rbGhSc0pnZVZxUkt3aGVWQllqX25zTFZIVXZidVE2T3FQcHlQbXgtSlFtazdIb19lbzFaXzlZLURuSVhvNzQ5UGRoSWtpbW50RGUwYjlZMTNtSFJXNkhMUlNJUzJwcVpzTDl3c0V1NTRLTzVxX3FIRGc1cXA0NU5YZW5ham45c0ZwMnZBTE02djA2TVFjTVIxQzlMRXJ5TXhuVWxOOVYxLUpHV2ZrM2t3T1B3WkVUMmRjMEg0X1RpOVdsZEI0TUdBZ0FtQlRaT25BeHJpTXRvWDBGNVNjcVZpanFVNm5sWGRqd0pRdnhnUU53NDZhd0NRbDNvNTFHMTJObXB0MTh4X2ExakdSdmEzQzBpdTdPakd0YjRlU0Rhb2M2aDFOUUxuWHpwRGJjbGZmdFh1TXNPTFlaWHBPbm4yQmwtVXg3dlZyRkdzd2RGUFVQUHlDeENQODFPbXhVeGJyRGh0RTNPOWxGcGhIWkdDUzRkOUk5VE53R1B0dkh5ek1iVjZsVjBUQkx3LXJ4cDVWWXRxakpGdlhtbUMzR1ZPbmpCZmRTQjc2Wkd3RnVzeFdHNE01Mnp2enp6eGFiUjRoMTMtTWxEby0tVkNrYWVWYUp5eUNRN2lOVmE2bmd3US1kZ3NPNDBhVU5uVjNLZENoMHFVNVVlVWhPdVByeDlCVHFYT0l5clBNZw?oc=5"
         }
       ]
     },
     "China": {
-      "name": "China",
-      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
-      "unique": "",
+      "name": "中国",
+      "frame": "美军持续空袭造成平民伤亡，伊朗报复袭击中东美军目标",
+      "unique": "中文报道突出平民受害细节并直接引用美方辩解：观察者『空袭伊朗波及婚礼致至少5死50伤，美军声称：不针对平民』；新华社转引英媒战略判断『美国轰炸难让伊朗屈服』；但事件未上中国头版，头版被中埃联合声明和台风占据",
       "headlines": [
         {
-          "source": "华尔街见闻",
-          "original": "特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇 - 华尔街见闻",
+          "source": "观察者",
+          "original": "“空袭伊朗波及婚礼致至少5死50伤”，美军声称：不针对平民",
           "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85ZFBIUmFLUmxtSVRfR3NQd3FsbGJkMktOdV90Z09XdnJFSElkMmd5N0xvZmQwQm9MVG4wTWd3QzVHcDNLS0htblBaSGVEVG1WYVk0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81dTVrM0pCV3lwdVlNWGU0SmVIV0Fia3gzbGNNUjBNRWk5VVBiWHdUVnNhd3FFZTZqSk9pM3VmYzZUVFBvLWdvbk1MRDhwY25pQlEwb21OYXJxX3JZM0pucTNlQzZMZHNHa1E?oc=5"
         },
         {
-          "source": "新京报",
-          "original": "特朗普提议将霍尔木兹海峡改名为“特朗普海峡” - 新京报",
+          "source": "新华网",
+          "original": "英媒：美国轰炸难让伊朗屈服",
           "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xTlFKRkthbExMWVRuZFIyM19fX1hFY2V3ZnJ0OUp5ZUhZdy1DZFBnYV9ub0VoalFoM0RnR2J3eEJWY2I4d3hUelRLVlVVTDktSTR1Njdyd2JaRHg0UlQ5YWZrUlQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNmpWWnRRMnFQUmFTWS15R0paUGpKbXV2bF9JbTBsREdRVVQ2MkMwMEs3a2V1TGdhWkVVOVN0aXFSY3FIVHp1TTFreHBtOEUyYVcwTjFrNXpYbVBiMmtUd0REaEtVeXZzTGVwYjAyejMzOG8wUFdkYnpSQnkxQXM?oc=5"
         },
         {
-          "source": "财联社",
-          "original": "美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！ - 财联社",
+          "source": "中国日报网",
+          "original": "美国连续七晚空袭伊朗 包含打击伊朗基础设施",
           "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tRmdBQWtXQkwtaUtKUlEyakQwdGMxVkhPTGI3VW5Cd1Fma0hrMzc0VGlfQ0J2eTNhNjFGY3Z0b2RISHhGMFhQdA?oc=5"
-        },
-        {
-          "source": "美国之音",
-          "original": "特朗普总统：美军对伊朗雷达和导弹设施发动了“非常猛烈的打击” - 美国之音",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbHY0WlZEN29PYmlGekFfaURKN0ZhdXhwWDdOMHFEODl6ckx2eE14WDZadk1PUVNJTkYyMlBtaVpLSUdxOG1hQ2ZZMnM3TGVtaW9wbnVZM0hWWXhJNFFCYmMtMkZ2eGF3eDhxa2ZEM3lUTlE2dTBLV3pYa0YtZDJHVWxaVjRKZEs4QlhsODNucGRWcW4tWmcwOWRwMjVXT0JfcVZSLXlBRk5kRXpOVmc1d25NaG1fOXBNZmZFVldnSDcyZ2x0UU5qQVFLYmJFS3Q0cm9HbjhNM0NPb3lXcko2VnppLVBqNm1RQnlrVUYzZjdiRm5ESmprSjRuNGNpaklI0gGDAkFVX3lxTFBVVUVsZHIwQzBYZzByV1NpSndlLVhDT3phVkx1TjU5QnRCeHNFYUY5aE5uSmJlcnJmSjZMOHpSeDk1ZzdtLVd5dU92Vnp0VlFUQ2cxOVJKODk5aU5OYUNHR2JYaEhabGVxdkhVUmNUc3RtLWxGdHBRdGEyc280aUQ3ckpxSnluYXExNU5VUGdZcnNiZ3c2TkFGdlhZQWZzMjdOQ3drZnRWN0JXTEpTNmV3UmRtRkVlV2NfdUJEcUtOUTYtRkZleVNXcm9UT0Y1R3BMZnlGem1yRmhfUEE5WXB1VE8yN2lwaE5kX3JpX2tac0NXb1c0c1VjUXFnakRYNGxYMUk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rUnc4TnkxaVRkalpYSk9va1U2QzZEZ0t3ckZEWXlUNmVSWk91RW8xaV9RSjBqc3l1WG1sd3p2cmIzTnlUdmxweUdmSlhfRjJhQWVMUGdVOUZrNnlzYUN0WlhqVGIzbW10dXNFdmIwaEszMExtdTQ5NUJpYl8?oc=5"
         }
       ]
     }
   },
-  "limitation": "本期无 LLM 分析层，仅呈现原始标题对照。",
-  "event": "美国对伊朗发动大规模打击后，伊朗报复攻击海湾美军目标及霍尔木兹海峡油轮，冲突急剧升级",
-  "event_title": "美伊冲突与霍尔木兹危机",
+  "limitation": "各国结果混合了大量国际通讯社与外国媒体本地版（如美国版中的 BBC/Al Jazeera、德语区中的奥地利和越南源），难以完全区分『该国媒体立场』与『全球稿源分发』，且头版快照仅为单日样本，显著度判断可能受当天突发新闻挤占影响。",
+  "event": "美国对伊朗发动大规模军事打击后，伊朗革命卫队反击并袭击海湾地区（科威特）美军基地及霍尔木兹海峡油轮，引发全球市场与外交震荡",
+  "event_title": "美国空袭伊朗与海湾危机",
   "date": "2026-09-03",
   "slot": "noon"
 }

@@ -1,17 +1,17 @@
 {
-  "event": "美国对伊朗发动大规模打击后，伊朗报复攻击海湾美军目标及霍尔木兹海峡油轮，冲突急剧升级",
-  "event_title": "美伊冲突与霍尔木兹危机",
-  "why": "美国、英国、印度、日本、法国、德国、俄罗斯、埃及、中国等几乎所有国家头条都在报道，且各国视角差异极大：美方强调'强大打击'、俄方聚焦冲突责任与西方后果、中方强调油价与地区稳定、埃及关注海湾安全与特朗普威胁、印度关注霍尔木兹航运与能源。",
+  "event": "美国对伊朗发动大规模军事打击后，伊朗革命卫队反击并袭击海湾地区（科威特）美军基地及霍尔木兹海峡油轮，引发全球市场与外交震荡",
+  "event_title": "美国空袭伊朗与海湾危机",
+  "why": "该事件被美国、英国、印度、日本、法国、德国、俄罗斯、埃及、中国等几乎全部国家头条共同报道，且各国视角差异极大（美方强调'强大打击'、伊朗/俄方称反击与 tanker 遭袭、埃及关注海湾安全与油价、中国报道伊朗打击科威特美军基地），是典型硬性地缘政治冲突。",
   "queries": {
     "US": "US strikes Iran",
-    "UK": "Iran Hormuz tanker attack",
-    "India": "Iran US attacks UAE Kuwait",
-    "Japan": "アメリカ イラン攻撃 原油",
-    "France": "frappes américaines Iran",
-    "Germany": "USA Angriffe Iran Vergeltung",
-    "Brazil": "ataques EUA Irã",
+    "UK": "US Iran strikes Gulf",
+    "India": "US attack Iran Hormuz",
+    "Japan": "アメリカ イラン攻撃 ホルムズ",
+    "France": "frappes américaines Iran Koweït",
+    "Germany": "USA Angriff Iran Hormuz",
+    "Brazil": "ataque dos EUA ao Irã",
     "Russia": "удары США по Ирану",
-    "Egypt": "ضربات أمريكا إيران هرمز",
-    "China": "美国 伊朗 打击 霍尔木兹"
+    "Egypt": "الضربات الأمريكية على إيران",
+    "China": "美国空袭伊朗"
   }
 }
