@@ -1,0 +1,776 @@
+{
+  "event": "美国对伊朗发动大规模打击后，伊朗报复攻击海湾美军目标及霍尔木兹海峡油轮，冲突急剧升级",
+  "event_title": "美伊冲突与霍尔木兹危机",
+  "countries": {
+    "US": {
+      "query": "US strikes Iran",
+      "items": [
+        {
+          "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull - NPR",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTFZRWTBDZ2kydEpnd3g4bWdheHJTYlF5TkFkdFBYWkM1VEE2U0tSaVhZX0RULTBuQ3JnOE9LNW0xbW8xdEF0cmVBUGx1RE91TG5ReUxoenNvMmExbGZXYWhhMmV3RkZJVHVmQzBQRVN5ZlQyMFVET1Z1aw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:18:09 GMT"
+        },
+        {
+          "title": "Trump says new Iran bombing won’t last ‘too long’ but US prepared to attack ‘any time we want’ – Middle East crisis live - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSzZVWDVzQWpvZzQ4VHBUdWV1bk91YTI4VnB4QlVkSV9qbW50azBRTU51bnB4aDZCZkk2TmtpUjhiNk1rR0FOVVZKZ1JEZXNIVUxVUzlSYVhOVV9EVF9IVW1ueXBrNVh2OXRrc2x2TE5yVUg5V2N6LVd2djdZc0VZeUlaUlFBUEZNVU83dkFPcWRVa3FldGFkc3g2UnF2OTJwRXR4akFsUWdQejhBUURZXzVkNHV2ZEt3N21vQU9CREM5UndQOXNPYXlza3RSYVAyMWlrYVlITGFTZ0JOemM5a1RB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:20:00 GMT"
+        },
+        {
+          "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:26:00 GMT"
+        },
+        {
+          "title": "Iran War Latest: US Attacks Prompt Iranian Retaliation as Fighting Intensifies - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajhGMEh1c2l1MHdMQmlBbWo0Z29GVUJwOE5MaVZBclQzUmhkZVdiYkxnUWhwTlpFY056cjJzZklRaEFkT1Z4MmtJc1I3d3VMQnlqdU8yRlBzWGhKMWdEMnVnMllwcnkzRjFuWEdiRG1YNnV3TVVWdWpsdmxVTlcxU09pNHFSeVcwbk43M0pleUxoenBROEpRNXI4UXJGTE9DNVhMMUxVZDRvWnBBZW41Nmhn?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:10:36 GMT"
+        },
+        {
+          "title": "Sources: Aides want to keep Iran war from escalating ahead of midterms - NewsNation",
+          "source": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ubHJvR2ViRmkyaTc2NGFDbXNJWUJyMXY3ZTBnVHppeFlVUGstUllwZkEycjFyUXJ2UG9mTVV4OHc1RC1sQnNkTzRIRHZveVZ4MF9UNlgzWGFjTmxJbGlUX0hzR3pGcEczMmhMY0RsN1JOMUdhb29halJNdmpxZ9IBgwFBVV95cUxNQlRmcS1sRUZKZEdPYlZDOF9CWGkzc0xaQVl1VWtGeWJyaTRLQy1vUGYzVmZsUkY2YlFpQk1rX1dJMUpWR2ZBYldqRmRnb0pXWWNmSTVNQzd2dG1ZUmR6M01WODV3VGN5WEZROHg2bXNsOXp6MEhueU9remZtYUxwdjh1TQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:20:46 GMT"
+        },
+        {
+          "title": "Iran wins SCO backing against US strikes. Will it be enough? - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHgwUjRKRmozUFhFRTVDRlEyVm90Q25pZXQzUFVaekl3V0xBdlgtVmxtLUczNHdRNmpwYWFjbXl2c3dnNmFlSmdlOFlwcmZVWEtwMnJYOEJJamZHWExRNXVINkhjdEdNRXpuVUVtWGd1dGNpdkJJRU5LUEc0OGRuU1RzSjd5UWhJdEhGQTNEODdlT0RmbFA2VVA3OVpVY1RmQmtDNGwxeFNnZndjdENSWGd0cGx2LVXSAbcBQVVfeXFMT001b1M3R1pXaHJvYy1WXzhJd0V2WXpwZGxZbnhRQ1VFRUI5MXVKM1VwRHpXU2RocmtZa0tXcGQ2MUhsb2o4WVdNWHliZzJEM2gyVE1EcE5FUnNBcTZZVmhYQTh5SVJvYTZyNDQ1bFltMnpEeEhMNmFCdldkWm5ESG9tTEpySXBmQTVZeHI2VElnZUxia3RGX1ZYbzlMY201UDlNQUIxUUZlaHpYVHNCTTIwYmFQUS13?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:22:43 GMT"
+        },
+        {
+          "title": "Trump says US ready to strike Iran again 'any time we want' - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0E4cnU1akJBRmhWZUVxS0xoek00dEpMZWMtUENXUlVacWpLQXhkNG1ZNlJ3SHB1Rlh6UERuSTI4ZGJlcXZvbkhqcktRRkthdlZBRVZ1WXhzcWZvbjRfM0VfeEYtczNNME56Z2pXWlFqeWwwOU9vbzlLOExnYm00R0MxR3g0MUJMVmdJM0Y0MmNCWjA5NlFTYw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 23:06:49 GMT"
+        },
+        {
+          "title": "Dow falls as US strikes Iran, rate-hike bets jump - Yahoo! Finance Canada",
+          "source": "Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoejFSM3ZvRUgxeDVZaGFJeXJTTTFhR2xTX3lST3o3dVFpT09ITGduSmNSMnkzVUFVSHZKQ09WU1d5eTdxUl9hTXg3MkZTd0pGSUFlcFlVZ01xODgxZmpMMksxX0FQOG5iOVhIRi05WEwyX2NwVmlvNzNGX2FReTg?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 13:48:00 GMT"
+        },
+        {
+          "title": "US Iran War Updates: Iran seizes vessel with 382,000 litres of fuel, detains 11 foreigners - The Times of India",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYnBVcEJNMk9WbGlLUVlqR2psejlvT2d3dHFtRVB4ODl5LUFYb0dzMU03Z2p3ZjR0QlBXc2JMMkhiNGdMUURnWU5nTGlKWUJfX0lRVmJzVDNpb0UxcUdkc0VuYS00NnlvdVFvSkl2R3dKNlUyM2JYNmtrN0daZjV1T0hDV1ZWUUNwc2tDZGMzOHZvb0YxTnNFU1RFcEZPVy1rOGpBNG9IR1NpTU1ONEJxSmNlUWhweHhob1VmOWtMWWJ5YWxtd3RNakdoQWFYRjktbTc1N1NyamVlMnJlaXJmVGJKRk4wZGhWVXZMOHBpRmhJbkpaczhRRXJjdTFkMUZWclFyaFdFUTNIVXFnLXFraW9feTA0SnRfTXVDRExR0gGjAkFVX3lxTE9mdERFeXotVFFoYWFPYWdhMTFOYnptNTZJQVVQdG1oQkN2TWxKaHhuRXBiMlpkUVR6MkpSZ2E2SWFBVlYxNjg0dVNxc1FBMlRDN051RTRiWmx4Qzk3Ulo4THZ4S0RSdlMyODc3b0FobkUxT0JUR2tzazZrLVJiSGN1VEx5VDVhWXNJTmtMU3BCUGZSOWw2eEVmOFBJQ19tRGIwOHdVUTI2eHI2SnZWY1V6RWcwN3YxSTdET2VpcmJEcnlNN3Y0cHpxWkhFZTI4N2RrWW1yRV8ycjRPbkpfVm5ENW9TR3l1dHNZNzBMb2hpdEpJTkh4V3dVYVlWangwNGxRZU5wWWR2bHhSYUdZY1RwN20tVU9QcmQ2V1Nmb05UR09ESQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 00:56:55 GMT"
+        },
+        {
+          "title": "US, Iran exchange fire in flare-up; Bessent signals more sanctions - Arab News",
+          "source": "Arab News",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ESWdTbFhTTlBpZkJzRkw3djQtN2p5bm1FQ2tPX1RjbDlXZm9WSkZkUEc3akI3Z0tadXg5MTNsLXlETU1NQkR1NFZHMkJYZElNNGx5dUZtbFdaVEJhR3c?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 17:33:58 GMT"
+        },
+        {
+          "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:07:00 GMT"
+        },
+        {
+          "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:24:00 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "Iran Hormuz tanker attack",
+      "items": [
+        {
+          "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says - bbc.com",
+          "source": "bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ETHRCRWFjMm04endYR2xHNmlwWHhGUGUtalljVkRZVXp6aTZaa0J4TlBrb0JHQzA1d2h3ZWI5MnZIelBDbnAya2x1MGZLSlZRT0QwY3RKc2dCQQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
+        },
+        {
+          "title": "Two tankers carrying Saudi oil attacked in Strait of Hormuz - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTdiazZLdjJmZFUzaDZwUHpSV3R0b2lubVJLcXdtNmk1WEZjbU96MjJveEl4dl9FWjl3V3kwTVQtY0N5WnhINS1PSXoyNUNtYXpub0EwWVBCZklqaTJPTXN0QmxaTWJ3b284NWx4ckg4S3NONkl4WEVnSzdaaV94cUJ0YXI3UlZHV3RwZ1B2am8xMHc2VnV1TTBjcExjSEg1R2d0RWhuUkY?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 12:31:35 GMT"
+        },
+        {
+          "title": "Tanker attacked in Hormuz, US hits Iranian mine launchers - Seatrade Maritime News",
+          "source": "Seatrade Maritime News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnF3LWx3Y0FYRWVoZmEzYVVxTElrTWNuOTBwcFpPcEdpSTA0OWdKSjE0ZGl2dmlzTkdUeXdhN3ZOZXJHQUgtc2Z0dEhqVlhsNnFkNGhndVRtUkxiaVU5Und3Z0VXQnRBVWZiX3FmazZ5NW5LZi1DWldmcEpxR1Q2U3lGQjk4UkxtQ21yZVJlQkgwMkc4VXNESmtHeFBmbmdN?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 02:24:18 GMT"
+        },
+        {
+          "title": "Two Tankers Attacked on Midnight Run Through Hormuz - WSJ",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 14:42:00 GMT"
+        },
+        {
+          "title": "Sources: Aides want to keep Iran war from escalating ahead of midterms - NewsNation",
+          "source": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ubHJvR2ViRmkyaTc2NGFDbXNJWUJyMXY3ZTBnVHppeFlVUGstUllwZkEycjFyUXJ2UG9mTVV4OHc1RC1sQnNkTzRIRHZveVZ4MF9UNlgzWGFjTmxJbGlUX0hzR3pGcEczMmhMY0RsN1JOMUdhb29halJNdmpxZ9IBgwFBVV95cUxNQlRmcS1sRUZKZEdPYlZDOF9CWGkzc0xaQVl1VWtGeWJyaTRLQy1vUGYzVmZsUkY2YlFpQk1rX1dJMUpWR2ZBYldqRmRnb0pXWWNmSTVNQzd2dG1ZUmR6M01WODV3VGN5WEZROHg2bXNsOXp6MEhueU9remZtYUxwdjh1TQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:20:46 GMT"
+        },
+        {
+          "title": "US strikes 2 Iranian government tankers amid wider attacks: Report - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalYzM01EU3NKQkQ3T2NsMlVTZWFRWDBQazFvNWIycjExV3l6R1pUazZ5T1NGZTRBTmphQnJrSnBBdnhNaVRJX3hPN1J5TWV0bWh6VklrZTROMTZTR1ZPN1paZ3JmVk9HNTVUOWl6MjhadDVqai1MX05ncWJob3FZb3ZoX0tacldNV1hVSm9WRHRzYzdBM1diTTRFemNiamdSblE0dXNuQWswN05KUlJFVS0wZVBST19T?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 01:07:15 GMT"
+        },
+        {
+          "title": "2 Filipino seafarers killed in oil tanker attack near Strait of Hormuz—DMW - abs-cbn.com",
+          "source": "abs-cbn.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnVMY1B0UjBYRGEtcjZhbGVydUptSzFuc1hnQ2IycGYxRzBuV3V6N2JJZWg4QVlzQlVMQTB6WnA0bklKaGM4MUxTOGQ5dlgwWm13cTFFQndtbHV4eXM3V2Y5bTYyYTdvWGNWMEdkcFZQRmViLU5rdUFtb1BxcXdXOGY4bG0yZzk3Z0M3eG5OU1dlckhFQkZ3Y01Oc3NTLVFmeXVUY2pTMHpKSDByeUpTY0dNWmdFTWd2VTdoUnR4azQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 01:34:08 GMT"
+        },
+        {
+          "title": "Two Saudi Crude Tankers Attacked in Strait of Hormuz - IranWire",
+          "source": "IranWire",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEtZT3pQQ2hTOWZ4ckg4UGtGMkN5a212X042ZlBnN3p0ZG9uT2l4ZC1KMnJzT2VsWnkxc29CUmo3VjlxQW51X2laV2QxVUJoLXo0M1lkT0Y1Q21kSFF1d0JOa3pIdmFoMEpnZEtzejFFajBuY21LZmJMcTVTNXYwc2VSdFlPSGlOREk5OVp1M2s2TzQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:04:02 GMT"
+        },
+        {
+          "title": "How Iran's claim that mines struck a crude oil tanker fell apart — is the regime losing control of Hormuz? - Gulf News",
+          "source": "Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS0hia0JDZTRFMVpmeWE2VHdqQjJFVExiZVpLdWhRRlptNExEZS1xUGJETlV0X0p1UUJVWVM4b0ZEakUtODk1UjRySHJuVHVpSmhjUmVBOVVCT290TmNrLVFYRVJ3QVJDVVZzRVlzcVJENUdvVm5sd1BiMFZUY21fYm1raU1QNFJvNW9oWXI1WW9rTjZfbjZLOXczZDFkVXpGMjhOOVNlZFdBc3laXzdUcUtWSFZXWmQ4MDdQYk5fV0NqMTZUZlhiZUdyMUFWVEY4bTJlclozTjM1NnhXY2dOTg?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:42:46 GMT"
+        },
+        {
+          "title": "Another tanker struck in Strait of Hormuz as US-Iran tensions flare anew - Lloyd's List",
+          "source": "Lloyd's List",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHd4Y29xc1p1bjlkZ25wWmQ0OExIMklXeDR5YVgwYkwxd1BIQ3RTSUYzNExnU2xGRHNlM0d3VVBqT3ctS242RVhmTnZYRWJ2VjBfSjllZ1BWV0VJa3FGYmh6cWh0aVV3VlB1TEoxSXFEUjFhRm9jVWlvMnd4eWxBa2l3OVlOU0xtV0RVY1pTRTIwUmNTMXo1eDgxaXgwT0lBbTk3bjBucVQ3Z2dyTmc?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 04:05:48 GMT"
+        },
+        {
+          "title": "UAE Strongly Condemns Iranian Attack on Saudi Tanker Sadr in Strait of Hormuz - صوت الإمارات",
+          "source": "صوت الإمارات",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMW1INVhZYk5ZcXNSUkxWbWFUVmg4OE1SRHdyVmE5UzRjZFlJc244cnE4U3RyNnY1MVpHdE9wLUVDWG9lTmdmMEZPV3hJYi1BQTlNeEpNZnlveEhrWVpUZlU2cW5YajRUaDhjSHdYd0JXLTl5aVItRUtDQ2Z4N0M2c2I1Mmd6QU0zRkJPOGh6NzRFdmFFMENQdkNNUHlPRkJ2enVwRHNmWC1wcWhjLTl6TGRrYkhJOVEyUzQtNnZxYUNzUDEyNHFUYg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 19:23:42 GMT"
+        },
+        {
+          "title": "Oil jumps over 2% as tanker attacks deepen US-Iran tensions - Al-Monitor",
+          "source": "Al-Monitor",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2VDQ2VQSWpkVlk5amxQbTI5TjF5S181SVlXM0hreDdoVExuSzA2NGs0TnVKZEQ4ZlN4N1FpYnN4c05iOURXOXlZaXRJQjF3ZGY3ODV4WklRMHR5VnNBXzN1bWxEbTRKaENoNUlzRXRSclBaQmJKMEtWMUNiRTNIbTJ2SW12dENxR2dVMzZselhLNkFZVHV1RWpTUlk5TnBHQ2c?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 14:31:27 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "Iran US attacks UAE Kuwait",
+      "items": [
+        {
+          "title": "Iran Says Attacked US Military Targets In UAE, Kuwait - NDTV",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJNNFpzWi1ZWlFtaE13dlo2M0o4RE9yeGJNLS1CNWFscHA2NHQzb1JKMVUza096Z0JqTG5DQ0xyMlk0Q3NCeTBOTi1XaG1IRUxocVBUTzJoV3JoRXZ1UUxkRDgzY0NzVjdqcnRmZDNWSkJ6OXhfcGFGS0JsNk12RG02a3JfcjNuQl9fZXhZbVVWWjZsbnR1X9IBoAFBVV95cUxNSHZPdEd1RkY2SE9KZ1J4X2gya3IyYkNPZ29qZU1HNVdvR2laLVBPdlFRajJfTV9Kd25XRVFzSlh5NVgtUG9nS2NUa0h3OWlfNl9zSkthdHNaUHh4c2JJV1pqYUpENGlkY0tuMkhGel9aNW9aRDkxTy01d3NickJUVkc5c1l3RThmRWExN3ZvRXdQSWppN2h3cnhfSkFVbS1R?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:09:09 GMT"
+        },
+        {
+          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
+        },
+        {
+          "title": "Iran says 18 killed, 108 wounded in Tuesday's US attacks - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjZ0RGwzZDFhcnoxQlh1TnYxSTVDTGNLb3NiNDdIOHhRYXE0RzZmeXZwQlB2eDBLcXljWGdJbTFzQXpid3ZvOHBEYzZhUXNmU0U3c0xmTFVoWTRLeUR1cUZWZzVzNnRzQTZCU2w5UG1HdXlyN2ZCU0NsTjQ1ZnlXX1VsdHNJdHlmZUt2MFpmVFlWZnlmRjhlZ1hR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:22:21 GMT"
+        },
+        {
+          "title": "Iran's Arash Drones Batter Trump's Troops in Jordan, Bahrain, UAE and Kuwait | Vantage on Firstpost - Firstpost",
+          "source": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmc5LWo0OVduQjJhQUJpbC1Zb0ZoTHp5UUFTYnlENmdVRU1KM250ZE9FZzM5R0NjWjlnUUZSTkZUbVktTE1VQzZxVnZmMUcyZFhjZEhQTjlKWmZ4dHp4bE9mNDJ3TlM1X1ZBTmQzTVFxY0UtQXdOYnlydEJqc01keUZUVXU0LVVHZlhSTmlNaXRpR1RickxXcHhVUW9HVjM2OEZzZGwyaTBEWmU0aXdEVWZqbDFLX2VTOHZiT2F6NWh6cEhSRWQ2VEI4UTlUMDU4d1RlTtIB2gFBVV95cUxOS0VvbVBmYk1JbDZwRmpwS1ZEQlhpUjE2azVnZFNfRS15dXhZd2Z0bms4Vmtfc0FqMks4N00xSXdGY1NKTU84d005azBEM0pKRnAyNXhjekxvSFNSWkNhVi0zNV9qNll4R0xWU3NNcmtiVEI2d1kzZ1htSkNycjVMT2RWS2NueThpc18zemtoY1NhRkg0cFVaQnBsZzhDLUFSa18td05yTnNjUy1iWklqMnBkUFZ2STFsT0oycVhpNDhFQUFOaXNFTnVvQm1MWE9rVG95eFNPVXBHUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:59:29 GMT"
+        },
+        {
+          "title": "Iran says attacked US military targets in UAE, Kuwait, other countries in region - daily-sun.com",
+          "source": "daily-sun.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFRLaGRwWGhBSWJpLXQ2QklkZS1zQWVhb1ljWldzbEhBY1lYNVZrX2JjVUZIdEpMaUJJcTlHbXZISHpUbnpoWE9SSFI5TFM3clRDa0s1aDBYRHludzFtWm5BbF92eVNpZmhGaTlURURXRGhYR21nUmI3QTZtVnpoeEZ4X1NjbS1rYUEtMFhnOXdFU3NVT1Y1Q3JGWGMycmpIcEw1SVJpakZZQ0syY1RWQndYbXByZXd3?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:03:56 GMT"
+        },
+        {
+          "title": "Iran claims attacks on US military targets in UAE, Kuwait | Tap to know more | Inshorts - Inshorts",
+          "source": "Inshorts",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEFRNHdKcFBKeEw1U2FNdmlodHFxRjQxM1drRXVSUmlraHpHTURnLU0yeW1uWTBtR3NzU1NBajRJdmJzdGhaRmZnWkFaZ1ZZMXh5N3puallkN3h3SG1FeEY2MzdLaHV4Q3dONlVIUm9FVVVlYVZsb2JFeThxNWJxSHZQUlN0RGxaWlBzbHlSSXdRd212b0ZiM01UOGNlV2JHVTdkTEJQQdIBpwFBVV95cUxPWEFRNHdKcFBKeEw1U2FNdmlodHFxRjQxM1drRXVSUmlraHpHTURnLU0yeW1uWTBtR3NzU1NBajRJdmJzdGhaRmZnWkFaZ1ZZMXh5N3puallkN3h3SG1FeEY2MzdLaHV4Q3dONlVIUm9FVVVlYVZsb2JFeThxNWJxSHZQUlN0RGxaWlBzbHlSSXdRd212b0ZiM01UOGNlV2JHVTdkTEJQQQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:30:31 GMT"
+        },
+        {
+          "title": "Iran strikes U.S. base in Kuwait as Gulf conflict with U.S. intensifies - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1dSbzhoS0RDSWhmMko4aGJMeTZLQVB1VXFXV0czalFYVGZaelRha3ZRVS1pa1EzNkxTTmFVdWtsVjl2T0YtZl8td0draHRQblUxTTd6NHVtX3hYbHV4Wk5RWjVJRXJqXzkwTHljcjhuNzhFd1oySTBKd2lXUE9xc3pPbFlRSHda0gGcAUFVX3lxTFBaa3NrWHJKS1VRY2U5c2E0OWJNOC1yeE1CR0FzODhsWnBnQWVmTzBITUxJV2w5Q0NzQXJwMzVwakZGN2FNQkhiZkpSN19lRWZkbEVUdVduMm0ySkRVZS1FUHBGbEZvMDl5a2lLUXlIcEpZajBnNVRDWUVoVjQ2cFVTZjVoRzVEYlBuTTlWY1JhWmJIaG9Ibk1WNFpOSQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:25:00 GMT"
+        },
+        {
+          "title": "Iran hits US sites in Gulf after American strikes kill 4 at wedding - Daily Sabah",
+          "source": "Daily Sabah",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejJtVTlCUkZIcmxmVXRoVUhkNlBEaVV6TWJka3FQSHY2Z3lpZ0ZzY3JhMnRsS3VxRHg5eUtTZUZycjd3R3p1M1NaQ2o0aFJIT2xrRFo3cmZ4Q29WZlM3NmJ3MmhZd2NodC1QTXlaRFhkVmRiVkRoRFl2SmxGc3dDZlJJTFJkNVhaYUhiUnNLRnIwYUtCR25tVmJmQUljcjRkQ0xmTGVreGtYRm40RnRfSHBDYw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:01:05 GMT"
+        },
+        {
+          "title": "Brent oil price above $95 as Iran retaliates with strikes on U.S. Gulf allies - cnbc.com",
+          "source": "cnbc.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MNDNOWTJyVFdGTFVLaVJUaWcwcE1tQWpUMjl0WE9VUlVva1NmMHlkcU95S1Z6ckdlUldDZ2tFQVRQQXV0dmU2UkF5bnZTV1ZOVjBaaFNCalFOWF9TM18ybVVrUWUtWmxybGdxeFhsZ9IBdEFVX3lxTFBoSDZuZHAxQl85dmU2Q2NCZC1KNFNBLXJOQTBJbVppdFhmRVVCd3R0eFpKN0JucUhraEtvelZkU3Q0YnM3cHgxN1NJRWg2T042WFkwN1M1MEdYMmh4X2RmcVBGbmhtMHZTZnhyV3RhZFBpOFVw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 01:53:00 GMT"
+        },
+        {
+          "title": "Iran threatens tougher strategy after US strikes - New Age BD",
+          "source": "New Age BD",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzYtal9TRjJZclk2RmZ1a0VweV95T0dRMnNGOEpwTEFnNXdlamFkU1ZsaTlnMGZiNXNVUUZJbWJ3ZHdIbWpkQmNDMno3RjF6OVdiR0QxOVlfa3JtTlZZTEpRX19kSTYzTmpBNTN2QkpSMXg4djVjajlraU9pRGtiVll0VXlfRDN3X1kwT19mSHhubVQwM1dNSkpqSQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:29:00 GMT"
+        },
+        {
+          "title": "US warns citizens in Middle East of flight cancellations, disruptions - The Indian Express",
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmlwajllZ2hEbkRaNW5Tdk1BV09YY3BZUVZDcl8wVWNaTENRNklYQllXbkNQZVpSeEpQZER1SnFkSlpEWHA0VUxpOXNsODBpV25GUy0wdUpjSTI3UUlhVHhmbmxjaTJ2SjRraG11QlkwSXhNWEduTlNWRlZfejhMbXNtVUdfczJJbC1KNjhrc0JJWmt5dHo0S1daMzFhM19aMWpBMC1HYnNvSXFBclpFVWl5WDJoZTRJeGJ1SdIBwwFBVV95cUxNWU1RS3ZZSXl0VnZGT2E4Q0ZiV0FvMDVRWWs0UjJfV0VlLXlyMTY3Q2VPSUxpT0VaTHNfNEFTSmlhZzNMWWFESThuY29VRk9VWkpCTm1KUDVVNGEwakVCZFpTM1RMMmR0Mmw3NmFfVGx5VHlSSnNleUN4bk52cUJxQ2MtMTBkcFBZR0lSV1EzTUlIMmV2cVJUNUFiaWZHVm9pTHJRaDR6Y21ET3hJX3ZUTVhab01PMHE5eTNyeV9xVkdhbTg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 08:11:44 GMT"
+        },
+        {
+          "title": "UAE flight update: Emirates, Etihad, flydubai, Air Arabia cancellations as Iran tensions escalate - Gulf News",
+          "source": "Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTTlUS0xRR2dxNDdTa0wyQldtX05DdDdPRHJkWnloeDkyRDRIQ2VBc1RfcFl1QmlRUGY1WlRUR3VBdmJNRmtHUFNsUHhvOXhCMjNqOHNlejZyTS04S19PUGRGMVdhTXp5blJjR3VGQVRSbDhfZkppWWJGSzJKZUtNX29SSTlrbEZmaDI4VlB2VG5UNzIxU3FyMjNQVjBLdFlJa2FmZG5CZjZDM1FPWHVZRk53TDlsbDdtdkwwYnFXSUJBS1MwclhwbGlLeE5QT1NzSjZJRUZqZnh1MmZG0gHvAUFVX3lxTE5KYUtyQW83NEdCbUxHc2I1Q0xwM21Xa3U4MGFrdW5JYzF1ZTR2VXpMQS1zRzRlZXVkZDNKZkZEUTJTQndFZHFZTVhYWjVva2dVSjVZWUx5dzd6QVFNOGF2MWRvejQ2ZnhHTEpiZERyLThMSXM0QnlXVGFfUmpWaUZYZEdLTmRHUW9qS05MYlQ1cjdUUzhBMVZWN2Nkd1UwdkFwYUJ6dEt4WUZRRXkyRjNuSTFRbkcxVUR1ZnEteFNzME0xNzhYb0ExN0F1VGxCSmtXOExtR2NoZW4xb1U0Z0xMSVV5VkhsZ3hHVURGUWcw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 04:40:17 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "アメリカ イラン攻撃 原油",
+      "items": [
+        {
+          "title": "米・イランが攻撃の応酬 結婚式直撃、子どもら死亡 原油価格は高騰 - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZHpZeldCOW05YWNZbWZMSjROUjA2SnFHNTlTQjRSX2RyNk9Xckh3T2lzU2ZFb3dqR3BVT0c0azVJZV94Nk5BSkdVaDFJMk1yd3ZoZXF4Z055cHFVazEtdjN4UmJkNW8?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:37:00 GMT"
+        },
+        {
+          "title": "トランプ氏、カーグ島粉砕と投稿 イラン原油輸出拠点 - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iR1JZSy04Y2V3UTltcV9MUEZaR1RMb3NQY2t3OXZBc3lWcVFGWmtaTWlPbEZZYldmZ3ZxcHF4cURXaTU1OGZBMTlkYkh2azB0ZklNN2pvcHdCYWhpQ055RE9Fd3lhSi13UGdWamY0b1JNZWtqNU9BT1F3?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 03:46:00 GMT"
+        },
+        {
+          "title": "米原油先物価格、一時1バレル＝90ドル台 米によるイランへの新たな攻撃受け（2026年9月1日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+          "source": "日テレNEWS NNN",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczA0LWhIRGJleWZkaEJtWGlwbzVSVG51enVNQmZDUmFqTHc2MEM5RjY0VGluN3NZWHJWN0NLRWI2OEtGR3hlVnpEUjZxWDd3TXFRXzU3RTVZR0lkM21FT1JwRm5GSlg0d0gya3lMZlB3Rm44M2hxN1JkcHFvRUpzZjJMWEU?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 00:48:00 GMT"
+        },
+        {
+          "title": "ホルムズ通過に“シャトル船” 原油運ぶタンカー50～60隻 イラン攻撃から半年 - kab.co.jp",
+          "source": "kab.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLXZmZ0lKQTlLNWE2NGlfR0laX0lLbjVOdzZMdGpIeTAwa3Fod2RVSEd2SURKSXJidnAzMnBJUXJyOXVOTy1XbzQzRUNPdjYySHp0TUJ3?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 03:15:00 GMT"
+        },
+        {
+          "title": "ホルムズ通過に“シャトル船” 原油運ぶタンカー50～60隻 イラン攻撃から半年 - ABEMA",
+          "source": "ABEMA",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVTRYdXVwTWVJYkxnSzR2ZTFjZk9FVjZSbmt5SnNrRVZMUDBJajZSeFlZRk9XTjE5bmJIVVR4VU1LVTY2SkNsTTVNYkp2NlZKNC1ENlhoQzJjaFk?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 09:05:00 GMT"
+        },
+        {
+          "title": "米軍がイラン再攻撃、イランによるタンカー攻撃に対応と　トランプ氏は停戦合意は「おしまいだ」と発言 - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOY0hNTU14ZUpSRGR2MG1EUDgxSGRFWm44VFpuc3ZLUTBUOXRrVTljLTE5dXdyTE9rZURKVl9OelY4b0JoekVjZjFRakNmd2FzN01EWGdGcDRGdzhKd3c40gFkQVVfeXFMTXhHUlpDUGdVV2lJZE0xemFOMWU1LVNtWVFoYVBoTFhBUzJkUURZNnB5aGQzVGRKZkFkT1Y0NnMyZG9Sd0VjSEVzVDhUaFVKWFg2eUx6RXVxQ2cyMkRtVUd4UG9nNg?oc=5",
+          "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "イラン攻撃で潤う米企業 エクソン原油高で利益2倍｢新たな生産記録｣ - 日本経済新聞",
+          "source": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdmpUZ19PYlg3MTlZekMtZUhhVU9iZWF5Z0FMUHk0SGtKREdmQVZ4TVRFNjFOdzFIUG8xOFRjY2VlaThUdW1lekR3TlA0bHZFY2RBc2JqdFN1dFRjQmRoUzlYbkYzNU85M0w4MA?oc=5",
+          "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "アメリカ 対イラン「史上最も厳しい」経済制裁 軍事的圧力から転換の背景（テレビ朝日系（ANN）） - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JR0lzVHFqNkt5R0Z6blVHc0ROcEpLbEVnWDI2eWNjQl9RNVNOOERMeFNLemNscmc3N1RzTmJrZnlCbHZjZ0ozVEprM0tqUWtad1k4dGh6YlRRNlBXX2NmcU1SWVE4TXFJbXl6WlRWZ2xPMUV0Y09NUmh2UnlYdnc?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "イラン、紅海の原油輸送ルート封鎖準備を要請…アメリカが電力インフラを攻撃したら実行か - 読売新聞",
+          "source": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QRDl3QVplVWxzWElWQmNEVFpoc0JzRVBGS29jallPTVVTYzVzLUp4NUNOR1ZkNEY5MVdhRWMxRWs5T1hHM1RUX0xtZDRWcGhfZktubHBzQjZOY3JlcUhIeTFR?oc=5",
+          "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "原油価格下落 米大統領 イラン再攻撃に慎重か - テレ東BIZ",
+          "source": "テレ東BIZ",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JUTUtd01odmJOMGQwLXMtdlNSXzRYRXp2NXBoNmZfbHpRb2NpWTZLbWJNbXVoVmZOODBacGJPNFF6RkxOTGZERzVpT0huV3JEc0U1YlUyOGhFOVU1V01SY2hWNA?oc=5",
+          "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "円安進む1ドル162円台前半で推移 アメリカ・イラン攻撃応酬受け原油価格上昇で 一時1バレル＝80ドル台 - TBS NEWS DIG",
+          "source": "TBS NEWS DIG",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zQXJMWVpnNE8yWXpnRE9OOUc4RmF2eFJONlNVelloa0dNd3V6TVgyVGhCR2dqMURmMlAyOVZobkp2cTJSN1RWS3duSm82ZDZ2cmM3Q21NeEdWbGk1OWt0NXlEQ01YNFEwMU1ySjFpb2w4bTk1?oc=5",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "【詳細】トランプ氏 イランとの停戦・覚書「終わったと思う」 - NHKニュース",
+          "source": "NHKニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWkFMTUwwcTBJM0NReGVNZEhUSmtsVWtMaGlDUVpuLUN5ZkVzWmFEeWFDMmFqZWZrbGNTejZlSnlfSk50Q1gtMHZBQUJQS3Nma2RVd3k4UlpYb3R3bm5J?oc=5",
+          "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "frappes américaines Iran",
+      "items": [
+        {
+          "title": "Guerre en Iran : les nouveaux bombardements américains en Iran ont fait 11 morts, selon les médias d'Etat - Le Parisien",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTDRTX20yeDdBSjBNLWl3Yl9kZ2RlOElKdTF5d2lTUjB3WU5kRkg4UzZveGlzYnZqaEo0YjRrZ1ktc19DUGxWUjhLOTJEb0RZNUhIRC1yMWoxT1VVU0FoSkVsYlZyZ25sc3pxbTdTc1cxb1p4WmVpWnk0b3VPZFJiazFlVm41bVpRRmZpdWg1eWRTNWFJQlEyN0hrZ1VMcV9SOWhjNGxuUDRkOVZOMWtURDhQYzZGSG1qUHdGWjV4eXJtQmxUOEJmbEtCQ1VuZnk2UHFyZFo2QVRFNHJTLXZpallWOVNLN2dVSXlOWnNiSEJYYkxyY3F2bWw2QTBKbkFkRWgwWk1YTlhxWlZlajdLTl9VR2ZRZVdXVDBvRVdONGVjZ2pseV9FdQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:00:25 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : Donald Trump prêt à frapper à nouveau l’Iran «à tout moment» - Le Figaro",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRUlPYm5JSGtxSFZLOFNjaEJyVXV6aFE5a1lVbEpCalpKMUt2R3N2TUFTX3QwU0pqTzNKbUhZZ2kzYWs0T2kweU9xNDRhTDhmekxxcDFQLXRVVTkybEYyVy1rNTJJSkJOcWtPbmhOUFlXUkNJQlhZQlAxeDJrWV9NTk5mVXUxWThQSGx6M1FlT1p6b2VkRFpfelRYU1lUM1N6LXZrR0liX1FHd0hnN3BCTV9CNUI1cDVmd1o1Y1ZmWGlOS1VzekV4TlptQTlHWWF0Yi1WRVVmWXotT1BOb3VpS1djQ2JnS0R0MzZ0WGdUY0RLU29GRUgtZGdjcmNZMC00WnFzSWZoYk1pT3RoMURhRUdSaDUzc1JXeVJiSA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:30:08 GMT"
+        },
+        {
+          "title": "Les États-Unis ont frappé l'Iran pour la première fois en un mois, Téhéran promet des représailles - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObU8xZnBfVFN3V1JuN3FyZ0tYMEJ0cGUwcXpmX3VBNWdHTnFzbWVnbFV1Uk1sNzVGbVVSdmRIa1oxelpiai1CbUhsTlNWVHdWUE80UU9HZFJNQzJzMVM1dUM5U1lUWm1CZEVoY210X0gxVThBNmlTT3JsRkgta0hJcmJDdXVvdzVXUjk4R2JPVHF6b0NIa1Fnc3YyTE5MWUZleDhUUWZNdW8tVFdhcjBVUlV2VHM2bjF3ZmoyZk1lcW1pWUp5NWNxQndXOEdORnNfbXE2QnQybHNaZDJYVGdhb3k2Qkh3dw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 20:33:03 GMT"
+        },
+        {
+          "title": "« Vous avez transformé leur cérémonie de mariage en enterrement » : indignation en Iran après une frappe américaine - Le Parisien",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNb2RVa1hTaWFmUnllVF9xVW4tajhlZVkyaFo2YVpyNU1hUzVFdEtWeEtjUmdRS3dqMjBMcUNkNWYwZ2Uwdlh3c2h2TlRGYVdMUFV6NEN6RjhnSzBWOEl6MnVYdFZHNkVZRllXZTNTS1A0cUpLVkxtREc4ZXYydG82OTlUbldBMGRqNHNCSUtnWkhSTjNlNWs3c1ZXeUJvTklLMlhOVWdFVGlDa2lIRm4tTFRQVzRCYVNnZGNENV9nbERrMDNoYjBXbEw3bEx6UkZ1OXVLQlpyaWlUX19hZElJOTdpUUxrN3NYWjVEcUg4YlFEd0JvT2NEY3JBT3dmRkZ2TWF0a0EzSnF1QlRWdHFqeXVPV2pwa2NpTWM1c3IwWjczUQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:39:21 GMT"
+        },
+        {
+          "title": "LIVE BLOG | Donald Trump sur l’Iran : « Leur situation n’est pas bonne du tout, ce n’est qu’une question de temps - i24NEWS",
+          "source": "i24NEWS",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNGcwX2tvOFJMTXlyRGZCaUFjN2JYTVJQdHREVkRMNER4a3pGSGlicFVKMm1KM09xRGlRb285eEZSb2tmUHdLNVcwUHJneFZFNU5wUktHbVh6d3ptYnY1UkRUUGJlQVl6eHgyR3NuYS14aDdnTTZOZjBfNGs2ZjFzT0taUG5vc0RNUk5aSDFHNU1GNDBhc0RxdFNHenY1RHdxTzlKdU5IenEyQ2xGd3BvTS0zS01lRFJaa0lrZE5qY0NRTllmbl9XU3poNEJNbE9hZUdvdi1WNk1JNTd3N1hoVmUyc0s0Qkd2dDEyUg?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 04:07:00 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : Trump veut rebaptiser le détroit d’Ormuz... Le bilan du mercredi 2 septembre - La Croix",
+          "source": "La Croix",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkY0OVY2LThMRzljUnpTbVdwanJ0VFdMbklfV2Vfb3lBSi15QXBYUUpYcXVqcWVMQzM4b3I5S1pyb1RPMHhhb2RySWU5UG1zeWh1U1VvZTEyYm5PazRuWWtCRWpRMkFnMXFOakM5bWVZS2RZV3g2N1FKc3hoZVpLbTRGMmpkUHYyUnhlZDMxM2d6amw0RkxWMWZCY3FfcldtRnVoLVk5aXpxWVVkY2dCbGE5OVYyS1dMOGRMRF8zeWo?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:29:27 GMT"
+        },
+        {
+          "title": "L'Iran jure de \"briser\" l'ennemi après de massives frappes américaines - tv5monde",
+          "source": "tv5monde",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0tSV21SdDB6b0RlOVQtYnVOTEhDcUluTW51ejdwZW9tMVI0Mmo1OTJoQ291UzM4NHE3c3pXZmNLdUZ2RVRfU2N0bGJURHFGdGFkcGZ0eTlLdVZDMUstdnlZUzNNMXMtTXltVktta2pWaXhFdWhLeXJndll5VlJUQXFMcEJtbUh0dl9uM0dKT3c1Z29YWExtYjZlMjFvSXhxUmpCUEp2azBrMjBKSmVBOXRzYk44bTg3NnlaX2g3TkU1ZUk?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 12:19:53 GMT"
+        },
+        {
+          "title": "L’Iran jure de «briser» les États-Unis après des bombardements meurtriers - Noovo Info",
+          "source": "Noovo Info",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2FPUDhEaXZFNUtvdlFmcS1KYkZYUGNxZDcybFE0VU5aaHowekFVbkU0bzlfdXVjUHJBcXpXblQwZ1BTUEc4aWZoNWV2c3JlTXZqWXh6cUVlU21YdHdoMm91bkh4NVZZbVdhN0dFdUlBZzQySExXMWlCRlRYRkNNUjg2S1JtSlJwLV95N2tHVXlsbzlIM3dTbW1mT0R1NWRja1JSOHRkQ09BSDctR1FBZ2E3ZGhNTzA2Zm5QbjJwU2VPODFfb1A4VjFxSmlQSmZyUk5tcy01TlNiX18zSXlZSTRvMnhsZXUxMGdIZnlZV0o?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:17:12 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient: Donald Trump se dit prêt à frapper l'Iran \"à tout moment\" - BFM",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTWxpM29URkE5Vk1oZndTbHpfSE0wWmJBcDBjTVlwaDZacmFxMk5RMVROYkN6SWtibVF3ZWt2UnM4bVRwbEs0MVdYbTBBYlFtZzdQcVJYOUR3RnVHWTFySW1odERiVGltUlZHN1ZadkFGaHAwQm9CNzBuSU5BNzJrTjhBNVJyT0JJcTlhOUZnTEdtdF83U2gyQ0tQRmtGY183NEJqb1VKTkdqU001cHVYQVZXc194VlZKU3YxTlFWUzdWQ1BXUnRob2F1NUkyTUpiOGkzQ3BvLTJ0RWVKb1VESG5CTTg3XzlhU3RlcWM2dGFzeVlwS3dqSEZPTWcxeDd2RjlR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:23:51 GMT"
+        },
+        {
+          "title": "L’Iran réplique aux attaques américaines en visant des bases états-uniennes dans plusieurs pays du Golfe - Le Monde.fr",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQjBucHpwRUNjVGVocVRTM2RLREh4ME9HUk05Qm1kd0NvRnRacVZRQXA3N05DcXA1a1R4NUVKNElRRG9CSk0xdUlSc3dIaHI1a3A2RFZvU0sxZ1d2d0M4TmUwbVB1dDY5Q29qY0pzV0dZdTV5VmFoeUJBcDQzNlZ3ZVJBU3dXRS13LVdHd0FYOFZURnI0ZERlVDJ2SEFncG9XU09SdGhnOTczUVlBbHNwbGFnUWdPdU1iaEI5dmJGX21QajJsRGlQd3lXY1pwb085LVlEancya1l6WU1qR0RxNmVDT1FFd2Q1dXVBUlJ3d2c0aV9LQllEVVJKYUs4dHg5N1djMGJnXzlOUkd1UkxCR1hkMFZmZVVT?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:21:33 GMT"
+        },
+        {
+          "title": "L'Iran a riposté aux frappes américaines en visant des bases américaines en Jordanie, au Kurdistan irakien, au Koweït et à Bahreïn - BFM",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWUcxa3F4ak96OU1OTHNRZ0Z0MDJyYmhZM2xaMldrVnVNOUtmcUJOZWlLQm9sNUFmX3BuZHdRMXlXaGxkUkRfb1dlVUZBLUszZEdYa3owYm9jaENObUxKMEV0dXpuWjdQci1lMXNNa2VzckdMbmVKaFJDdHkwMDJDdFBJeWRwTk9QV3EtOHZ4UVJ6VnVzdXMwZGFMOWN3LURtQXVrVlB0Y2UySXk0LVN3RXNNVEhWYmRKRXJnSTZybWoyNkZlWV9EX2N4LUlpTFhYTElWZzRld2lTdk8waTNzN3gxV0tzMjlUTWxXZXc5QzdhdlFlTWZWQ1M2cnlZZ2VqYmhEOHg1UDE1STlFbTZ6RUtZMV9welptdTRpUC13TlZJclZVZV82MWp4LXR6V3pPb0Ew?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 04:09:29 GMT"
+        },
+        {
+          "title": "Etats-Unis et Iran : Donald Trump menace de riposter aux attaques de missiles iraniens contre des cibles américaines au Moyen-Orient - Le Monde.fr",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX3RsTnFkelBUbjZ2N3A1dU10dk5RajNVSGJpYWl4ejZ6NkpkZG1qQ1FXWGFtci1CWnlyVG5sWE5MT2JIWTJNd2VUZ0FWdTNBTkh4VlJOVlRYekFUYllsd1h5NjBCekw5a1lWdjlRdS02YzI4TjdBdUpPSHBXNWZZemFxWnVHZkszS1JTTkY4OWNza2haNHV1NFVVSUNIXzVnZXNGQk52aFRZXzhuQVRidy05ajh5MUVneTJqVmRIQ1ZBd3VYU1dlaEdvVEtZeDZ2bFAwNFRTZVU1Uk1pZ1llUnZISEMtS2daaWk2cHZMbV8?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 13:20:19 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "USA Angriffe Iran Vergeltung",
+      "items": [
+        {
+          "title": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - spiegel.de",
+          "source": "spiegel.de",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeGg1b1Y3b21ERU43M3h5aE9fSlR0VE5Ib0I2NzlTNld3cm90SXF2YWpGZm9YZXdIdk9PUUtrajhoTUxkUGIxcXY2Q3dxOVBXbDRDUEo4NXBUbWNtLW5xUWVWMTJkMk9CSy1OVnJ1Ym54cGVEUDJtUmdabHNzZU04NXZ5SUhQUFJqTjQ3REFiUUVNc296NVZBLXdJUkhmTVZoa0ZVM2FUYU5ORGF2RWxfTV82UF9sRnJSOUFNWnVnRjZHN19Ub3J4ZWpkTWZSRU9UWWFFTUV6NUNsaXhsMkdJMUxUOGNwck5iVlBCdEt6VnUwZw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 01:51:00 GMT"
+        },
+        {
+          "title": "Iran offen für diplomatische Lösung mit den USA - Kurier",
+          "source": "Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb09JRzhKdE5yYVp3ZTJIVnRWc2Q1OWJwNVJUdTRCUnNGNmEyWXlQdjFQN3hIYm9kdTRUZlY0Tm5PWHFRdFAtb2Rka1pzTFVyY3piYVVFcDdqdWx3dlBVYktBWEZYRWQxb0dGaFdoNHhCa1ZtR3Nyekc3dXRnQTdrTFdfbWhsdjJIYlFTelVFaGhscFpEaWVUWk45LVhBVVJGT0N6SWZOX2s4M2VpYlJ6WXZ4VHJJOHpuZm4xRDZYSVVGZw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 10:13:39 GMT"
+        },
+        {
+          "title": "Teheran meldet Vergeltungsschlag: Trump verkündet \"große und gewaltige\" Angriffe gegen Iran - n-tv.de",
+          "source": "n-tv.de",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlpGeVNWSXZ4Ry1NaWhHaXU4dVUydlJ2Y2pLU0JHazByT2RfQXpON1VfNWhSc2dKRlJxckxhallIY2JRRXF1dlVreklBWlB6cU9kNE5TOVM4RTJsNkJpR1YwZldHLTBvMUlaYmhaeGZWZU9CVm5xdVRyd0hWTVVrVlhJaE9rZmhMcmFyLWZGekp6TjZXSUdacl9YRHhfRFlCQjVR?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 20:01:03 GMT"
+        },
+        {
+          "title": "Neue US-Angriffswelle: Trump droht mit „Auslöschung des Iran“ - BILD",
+          "source": "BILD",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWERDR1RVUkNOb1RhV1NaWWNnSXRZd00tWVFUYTY5c1o0QUFFTUpmaXh4UDhpVHkyd0Jya21fdW5OaGFzajBFM1lWeWN1Q3llclNzazJvTDgwQzhRaHM3akl6UGpSU2pNWEQ3bnVlcFEwRkNpd0w2aDR6YjJvSzZ5WUZiR0ViSTdVWVNCX3M0Qy1fMWpvT2xnV285WUdnQU5PLUpXbWdxSmdlNUxzZ1VadHhoNnFRRVhaTXdtUFJuM0hzNV9lQmctU203TUppMU1QNW4wbV96QQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 22:04:59 GMT"
+        },
+        {
+          "title": "US-Armee meldet neue Angriffe auf Ziele im Iran - Trump warnt Teheran vor Vergeltung - STERN.de",
+          "source": "STERN.de",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEVzZFViQzBkQ3ZXMG0wanpIblRMbXEwdVB3WlFtQ2lDcmNBNUhSNGN5bzZSbGdQODQtaWZ5SGJhTDllVFQ4TUFtY0ZoeDgwU1lUVlhLZ0lTOXJYZk84QXNEUHc4VzQxR0k0NWNyTmZIMFVwRXRTUndDb0w0UnhpS2lQZDVEc1ozQTZHQlRmQzJYb0tTdjQzWjVXeUF0dmRkQWs1N1NnV0VjTHhid2VoQklOc1ZhVGNRT1VhWWV5N0JkZw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:07:55 GMT"
+        },
+        {
+          "title": "USA und Iran verkünden neue gegenseitige Angriffe - Lippische Landes-Zeitung",
+          "source": "Lippische Landes-Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWklSZXJ5WTVnN2FfVm5Pd01wWnVJRl9NbzEzT0RZVUIzU3BMbEdZa2JROHJxQUlUVW5kN3JzUUN4VjRwTVJiMUM4WC16UF91SlV5UWdzN0k5TzhPVlFNYkl3VGFFVWZfajcxeElla19oT3hxR2puelV6OUlXLUFqdElFTEdCWDF5RE5hTFBibzU1OS1RT3pZOHhBSnlZdUJMaURxdEw5akptdw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:59:14 GMT"
+        },
+        {
+          "title": "Nach neuen US-Angriffen: Revolutionsgarden weiten Vergeltung aus - rp-online.de",
+          "source": "rp-online.de",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRERLVGJqOXA5U2NaUVlxclRDb0pzVXRjSTQtSUxFd0dGYTRLT0hOZUFUd00tUVFfZTB5bzdXZHNxZHU0bVhqMzZiYnZtVjFyWWoza003dWFLZGN1WXVwb2tESW9fcHRKRXhTdVIweUNJcE1TQzVaRDBXb0c5MU9TdmdVcjlUc21Vc2liMFREcmZGUmNUV01OSkxpb2ppVXA0Smk0SlNlU2JkeXlUMWI2M3JzMmlMWWgzVngzc2FoWHY1OXVzVXc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 03:00:00 GMT"
+        },
+        {
+          "title": "„Wird mit der Bestrafung des Aggressors beantwortet“: Iran schwört Vergeltung – US-Militärchefs zweifeln - Frankfurter Rundschau",
+          "source": "Frankfurter Rundschau",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFY1S21jMGxONkoyMldlUEpYSUd4RngzTzVRQk9TdkhSdVdyR3lNNENOUGVTc3dCSWFFY2NFczcwLVNyQ2hLUS14RjFCdkd2LTFJR1dLTS1aZnJ0SUVVc1N1aEtERjVSQ3hOZElyMHJPVXZ3cjY2aGtxTnI5U04wVmkzTkFuclRRZThBX0Y2VEN4Z1g2cnpnbEFMdGZIMFRsM0dtaTJzanVkRjJkcWpSS3dCWHZkM0FaUjdiOUZocw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 07:41:52 GMT"
+        },
+        {
+          "title": "ROUNDUP 2/Iran: Vergeltung nach US-Angriff gestartet - boerse.de - boerse.de",
+          "source": "boerse.de",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVBCaGx0Mnp4ci1HQmgxSGQtZVZZWXd2X2FOTFB0Y3c4T0FYS3dwWVA5d2FMOTJ4U3JWc29QU21kbkFON1h1dGNkSVpLZlRMX3lSQVZ1SlYxSHFOODdrNG1UVDgwQTdZNzdvRzViZ2V1SVRtTWN2STRmQXAtRGtHWnByYmNqYU51TGc0czJNMDA0blBNNmE5Rl9GY1RTNWPSAZ8BQVVfeXFMUFFQQmhsdDJ6eHItR0JoMUhkLWVWWVl3dl9hTkxQdGN3OE9BWEt3cFlQOXdhTDkyeFNyVnNvUFNtZG5BTjdYdXRjZElaS2ZUTF95UkFWdUpWMUhxTjg3azRtVFQ4MEE3WTc3b0c1YmdldUlUbU1jdkk0ZkFwLURrR1pwcmJjamFOdUxnNHMyTTAwNG5QTTZhOUZfRmNUUzVj?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 20:49:00 GMT"
+        },
+        {
+          "title": "Iran greift US-Basen in vier Ländern an – USA verfolgen neue „Tanker-für-Tanker“-Strategie - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUJVcE1QNUZDMlp0NUhPOHJXMmlqZ2NQS3pFVG5qVFhzaW1aemItZDRpQzRhdU54YkJaZ3ZudldGS3kxZExoLUNkaWV1UTNoV2lTdnRMZU1qSUlzaTJGSmpISklyYTl4bTFCaWJXcEJjRUJ3YzZVbWl2UnpKNUlHZE1zUXoza2l6REp0SGZzb1ZHTndyWDBTS3FRV0xJOWlhaThRWmg4ekF1Nk9XNkFkN0psV3g2Vi14LWVDUk9jUWxyZmpWTHYzY0RBMl9PSDdCOXhB?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 06:12:56 GMT"
+        },
+        {
+          "title": "Die Lage im Überblick: USA und Iran kämpfen um Kontrolle über Straße von Hormus - Mitteldeutsche Zeitung",
+          "source": "Mitteldeutsche Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHFPM2tsVnF6STJ5Z0l6dFZKSUkzdWM2RjI2S0wzWGtleVo5OVY0ZkdjZnljYk9McjBqNGpTY1JsUDBna2t5TzVieUpVQjRUUzgtOXhWSkczM3doU3ZEOWtNN01rT2JEREFzaU9EWC1rSkkzQk1MRDRodU54RFVGZEsxVEhqZzVNSnpOZEVOTVpxR21FcDdzVHNYZlBUMFExeHJ6a3FJMW1EQXg2QlVNaGhn?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 03:30:00 GMT"
+        },
+        {
+          "title": "Die USA nehmen die Angriffe auf den Iran wieder auf, Teheran schwört Vergeltung. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ub3lhTkI2aUxzVEhjRnJKbWI0akZqTWxhYjdmYnBQNm5POWVTWG15dXZ5RUhXbThDYTlTZ2NGWHVZak9PNFg3bnhENmRWYmN0cmtIZlh0akYyb2JkOTJFbEFiZEVwZm9Yd0pPbnpZWmRRS19WMDViOXljTEhGV1U?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:18:29 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "ataques EUA Irã",
+      "items": [
+        {
+          "title": "EUA e Irã fazem maior troca de ataques desde julho - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekUtOWthbVRVZllHUkZzdVdSYk80R080Ml9YcFl4VE0wYlAyOUJ3ZGREbHhjT2FXMDFCaW1QS0dqVVlmUmJXR0ZzLVFLS0kzbHMzcjNDV1RyR1dLRk9HN1lIMG13TnFxdmlMaHFub2xJTlY3RkpKNFB6LU5NYk43bXhiOXFDQ2RLZS10bTJvYVdEeENQQVg3ekdkVjR3dXRfRk1PMGNYNmrSAbcBQVVfeXFMUFlFaGhWMF9TRUxCbHdOSWJDclRfN1RrbENoX3pxTjhBR2dLTjlRMWQwT2JYLUxwdFN1VmduT3lGcjQxVWcxc29UMGI4c2JBamJKa0dobGx2Zm9OdlUyLVJwdWdDdmEyRzkybGVqYXd1Ym94ZTNrR2JxSU00SFdvall2RldzR0xoTUlqYTdLUGVpR2MzczcyWUprNnRtSTNYWXc0OEhEbS1NckVsQmYteUhWSDRRRVZn?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 11:38:40 GMT"
+        },
+        {
+          "title": "Petróleo dispara com novos ataques entre EUA e Irã - SpaceMoney",
+          "source": "SpaceMoney",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvSlU0X3RNQkxFazMwTEwxMEhTaTZTSGZEUU5QM1c3RS1IbVB3THktRGpieG94RDlWd2tYQWt2bTlCUk1kSkVOZERKY3ByRmpWTmplOC1LUUwyMDljS1hVMm0zVWRhTVNoR01KRTJfRUZMb2JBRlc0WjdxcDE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 01:04:43 GMT"
+        },
+        {
+          "title": "Irã e EUA trocam ameaças após intensificação das hostilidades - CartaCapital",
+          "source": "CartaCapital",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXpLQm9aMVFyOGRCUkctTHBTX1ZwMVBKSXBBSzJZN1NSOTdyOFJJLWRTOEY5SFh2SUhOa0UwZlpYNnJEb1JUa2RPejFEX0lITXByLWNieDdBSS1MQVp1M212dXRnOU1KUU81SEZmT1IzUldwUnNxWGs4djlKbFJpMjU0TkFoMEtZVFpBdlNnVFYzZlNYLW15ODNjbkZuRXdmT2c?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:19:00 GMT"
+        },
+        {
+          "title": "EUA e Irã trocam ataques pela primeira vez em mais de um mês; entenda - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckhpMFItZlJRcjlzd2wxdURmU0xjLU4wR0tfTTg0QVpEc3FNNmh3NWNkRUMwTXlKSUE5Mm8ydHZoZDVPUlh1NWN2WXMzdTlWNFJiaUxiNURxU3J3MFhTRHctcDVKVUZoYlV5MnVwOU82Sm92eWhNZW1WTWlBY0R5b2xLN0ZPdlhmcjM5UTdaT2ZMZ01LbWF5dDRxSE5ILUl5MTl3cGtmUXUxZVduTGlKMGhn?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 08:53:29 GMT"
+        },
+        {
+          "title": "Irã ataca alvos estadunidenses na Jordânia e Emirados Árabes em retaliação a bombardeio dos EUA - Brasil de Fato",
+          "source": "Brasil de Fato",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeGI3ZzZ1MTB6ZFBZRHlubEVPc2Njd2tQc1NKZ3JXQVpEWWc2R1c4YlZxM1Z2YnIxTzZxYmFvbmtKUDVLYmQzMGNGaW9HaV9qZVJZbUxFbDhGYWp5UWhvLTNrY1c0SVkyUVFGaDNHOWVqdC12LTB0a2NYSXlZX094c3F5RjhHY282VWNLSExYRDBrNFJSWXRna013WXJDRkpWREVaMVpDN0pPd0RfTTFkc0ZFaGFpOXUzLU1MNVpDVThKX1NsMUhVU0dDVTlvdHM2OC1KdHF3?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 11:26:00 GMT"
+        },
+        {
+          "title": "O que se sabe sobre suposto ataque aéreo dos EUA que atingiu casamento no Irã - Estadão",
+          "source": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVhvZzdrcmF6OGhxMFdKZW5SOWk4QWh2cFNfSU1TeHlIR1N5LXBzQ3NwdkhrNFk4SGM3cUxBSkJvY1RyaEVjcmI3bG4wcUlaUVU0QVU3bDZ0OHhsQXNRNlFKR1RLSW8xMGpkNXlyclp4dUs1cjRLX0hPLTVfSFEzd0FscnZuX3hPaVNmNjZtbDRTc3lydDNFRExCZXZ5LThMMkhudWpqUWFDd9IBrwFBVV95cUxPeEoyNFFvQ2FPYloxQThNOWZNbUx4TW9LRXhYcS1OWm1IaTRjYW9jaWZVdHlvN0JqSHhLbjlGSTFYaER1cmlXRkozWEg5SmRJN3lRVmJqcHFSdDNyTGd3VXN5dEcySE9UVmUtUXVJZFZIdzNWa0YzSHQzNGV4eUNJYzBJWGQyVHh0dGkzdmV4aVRxS2dkWVB6VFdTUDNRREdoaDNnbGFKSmZ2SkYtVlZV?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:03:00 GMT"
+        },
+        {
+          "title": "Petróleo sobe mais de 5% após novos ataques dos EUA ao Irã - Canal Rural",
+          "source": "Canal Rural",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWkzQVE5UTEyelRLOEEzc085SmlHM0pOUzJZUGNNbko3RjRCLU9ndVRWMGJiMUhQZ3B0M0JDY2VOZ29yelZDSFZ5RXJscXpuNURoN2hMT1R6NWxNWVlVV3RPRFdreC1WNi1EWm5CMjJqaTNneGprX2lGZ0dfOXJHR1hncHJfYms4LTRPcnNYa2FaMzJLYzVFNWJRN0g4UQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:28:58 GMT"
+        },
+        {
+          "title": "EUA realizam primeiro ataque ao Irã desde julho; Teerã retalia lançando mísseis balísticos em bases na Jordânia - G1",
+          "source": "G1",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnU1MVEzNWtjMGJFNC1HUlo1MnVZUzgyV1hpTDljSElxTENQTnNaR0pscTNvczdERFBlV0c1RC1PbjdlelgzcDZXUFQtLVFzanRSY3R1OW9seWVyeHNKZy03U1FCX0M5ZzY4YUJKMG13b2tuVE5KdVlFeGkwYmdEU1ZIWUUwVF9uWmxUVV8xUk81cmJyUmNzUWg2ZVRJNkpOdk8tcDgtV0VYeV9uWENMMVBsODFubExSYnJRUkNLRTNyeXlEd2ow0gHWAUFVX3lxTE0xUUtJbVM4bXpXUG1DZk1YRlJLdVY0V0tRc1NwM2JISDlMTUJkZW52NEFYbXp2Rm9Pd3RGclg3Yy1XOWRlSm1oODVNVlpqZW1GOFZ6VU5ibjlTQUZmSVJKNHg3SWtLMmdjWEQwTDltX2VSeXp4ZmZPY2JWbkRFYTlDaTRpbnN5NWxZZ1ZXcEp2U3RCdXJhRjZMN3ByanY1aXRUTnROX1kybEFPeWlDU3EwRDVsNE8yR3dMSlBxcVJia3FNcFBpUHZzcjZLaGZuejlFUUR3RXc?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 20:55:46 GMT"
+        },
+        {
+          "title": "Militares dos EUA realizam novos ataques contra alvos do Irã - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmJuUkh4NDNaVHhBNXRBSm9GS1kteWJzcldkR2RCaWtVb3pXVnhJaENTRXdNbEZ1V1g5MFVILWZoS2UzYldLR2xYMC11STNZUDBXc0JOWl9Ua3c1SENBYnNjU3pwSTVkQnRWb0FnaUN2VFBNcEhCVVJyUFBSZEJ6cHhTNEdkSmJMSjhzR1RpdWgtajk5aE9pNmtrZ1lkaUs5QjFYLTRLdw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 17:04:42 GMT"
+        },
+        {
+          "title": "EUA e Irã trocam novos ataques em escalada do conflito - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0lFcWkyeFBacW04VFQyVTBNQ0NyYkZIeDJJSmFNdW9oS3J6b09VT1llZDE3b0tHdlA4NUZtSXRnSDBoUF91TWgzODkydHRmeFF4a2YtM3VhbGpHMW5qZzNZMTExdkhzVDFlbXQwYjdkWlZrcm1XZU43dVFWZC15aGR6M19PQjd3Tk43bTV1ekF2UUlYeXY5ZUhON2V4UdIBrAFBVV95cUxPQ2ZMbDZ1NWxBOFhUWjU0ZHhyZjF0THdtRldSZVAwMHBXTEFaeTRQVXJUZ1A2bl90YXRUMms1VDhfUEw4RTVoWWdBZlFTS0xZalZXanJvcmNtRFc2TTg3eEFRTUh1YzV5Z3plcVRkQ1dQQXl2NVlSSFVPUm5ZX1NYWHowVkJqUWdya1d3MFhyREpxNDhkQmluVmFieUNUQy1aMDBZOVJCUTFEcXln?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:55:44 GMT"
+        },
+        {
+          "title": "Em retaliação à ofensiva dos EUA, Irã ataca bases americanas na Jordânia - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJfOFEzaEM1SFRyYUtoZUw5X3FKVVRQTklnNTBzMzdWSG9DUHNWRmtNOVB4YUpoV2F5UEZXMXRRdHJ1U3QtTjZkcHp4NjVxY2c4SHNmQTB2SEwxVmM1eXBCWThYano2b2Q1Yk90VWJqa2x3eDBmeWw2VEwwZDlCUFlBbUNjcGxKWDJyNzBianlHY1RZblJpYm45cVJZaWQxSk43em95SS12bENjdUFHUUNqWTJRQQ?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 23:08:15 GMT"
+        },
+        {
+          "title": "EUA fazem novo bombardeio ao Irã e Trump ameaça: 'Se retaliarem, eles serão alvejados com mais força' - G1",
+          "source": "G1",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWVHSXgzX3hla1BjRXFiQ2ozNk9TbGxfdkFTS2FNS1pnMDB0RFhTRS16cHJxZU9EdjJBWVA2cjJtU2NSMldKQXBpR1FxUHZvU3JxQUppMEl6U05CYjZUS1ZQMXVZMWZsUGYtNUJLRGladGd1aGVOc04wOHlNVVFWemhFSTJOSC1B0gGXAUFVX3lxTE5yOXhtT2VibHJiY1Bnem9PaUVQdlBVeXMtb1dFVWdRazN3S2VBd2xUV015NGo5cWMtRzJTM21CX1RjaHhKNXFQcjY2ZGF5cWNDUHdQTWpCakdBLTl4V3kwR1lmWjMtX1NiZzAtWTAtS0VUY0JwVVotdUhVYzBMQXpyamZwQ195cTBzbDE1TC1vWDlHRzZDZWc?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:37:37 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "удары США по Ирану",
+      "items": [
+        {
+          "title": "США нанесли новые удары по Ирану. Иран ударил по американским базам в Ираке и Иордании - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3OUVtN2hQQVNfcWpmbWMxNFhuOHhhODBnQlNqVVRackYtY1VnUDNXdVkwdm1qSXJaSDdRckNoeGxMTVEyandOZDJnUVJCOUZZdmtmT3BKb29tc01hd1HSAWNBVV95cUxPZVJnMGI3bFItQVlBa0tDVzJvai11U2JteHR3UWlySnNVNnZSaEFhX1FKcDJvRENDRlkzeUZOdkRlZGphU21RRlI5cWZDeURnMkdCZFlaVnhQbEFFa0pFLVBET3M?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 04:54:52 GMT"
+        },
+        {
+          "title": "Трамп назвал мощными и масштабными новые удары США по Ирану - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91QjVia3hnTDRwenFKTnhEU0pfWV9wMGtCZkZ6MjFGR0NfeUt2X2dXRndRMm9xOENKSlY2TUlfRkRaRWRfZFBQWkd4WdIBS0FVX3lxTE91QjVia3hnTDRwenFKTnhEU0pfWV9wMGtCZkZ6MjFGR0NfeUt2X2dXRndRMm9xOENKSlY2TUlfRkRaRWRfZFBQWkd4WQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 17:52:00 GMT"
+        },
+        {
+          "title": "Обострение войны в Иране: есть жертвы среди мирных и военных - DW.com",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdk81b3c2UnIxVW5Ga0N6c1dXRzdkalFJSVVabG1ydmUzOGlmbnFoSnEyMmZ5bi1jcDhYcGRueVA2cVcybWRpdVNBNUVoa3hZN3N2T0w2N25oTk52Sk04YXNnTUZQaHNQMXJsdVdYenhOek9fM3VQdGxabVBzbm1jQkJxNzhZTjh6dTJtOUIyOE9vX1AybFVUUkcxQjlmNG030gGgAUFVX3lxTE40U3VqXzZXUmJXZnA3WTJwa3JXTEVPREJMbXVpa0RQWHA0a0hhMFFPbmszdDlvWGhaZGRHZ2I2WV9McHlBYk5nVExxZmx3MkZhOFpxQVVXdVF1amFhaFR1Zm8xeHVlcnhlNEZOR2tGSDVGWXdqNFd2Q1Fpb2FuRnpyUm5WQkFMYURTQ0k4UHdIVHZWNktQbUVZdEotQnZSOHE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:05:55 GMT"
+        },
+        {
+          "title": "Трамп допустил новые удары США по Ирану - Вестник Кавказа",
+          "source": "Вестник Кавказа",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jVnpMZGZNQnpzWEF3MGlwSXB0NGZ0ODFYc0U4Nl94dVN2NVZYQ041Xzg1RldCdzNoSl9qeFB2TC1uMDIzS09IS2pB0gFKQVVfeXFMTWNWekxkZk1CenNYQXcwaXBJcHQ0ZnQ4MVhzRTg2X3h1U3Y1VlhDTjVfODVGV0J3M2hKX2p4UHZMLW4wMjNLT0hLakE?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 04:24:08 GMT"
+        },
+        {
+          "title": "Конфликт обострился: удары США по Ирану, атака на корабли в Ормузском проливе - RTVI",
+          "source": "RTVI",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3JBNlE2TGY0QkZaTDlaZjVCc0ItaHpVbTgxZjVvVjV3a1p4dTd0aHdUemoyMjV2SUNPdW9ZMlVjdDB4ZGxjaXhjQWpfYXlEbzZMQzZVX3lrcG4xVmRpR0Q3dzllWm9oMW1ncS1ieU1TYjdrRlV2ZHZzNGMtNHo0cVlLOTRUSDZBbHFTbmx6RjF4Y1hidlVsSXBDbEt6a0JIS1E?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 03:55:00 GMT"
+        },
+        {
+          "title": "США и Иран обменялись ударами впервые за месяц - Meduza",
+          "source": "Meduza",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0VBLWdSV29qeDlma1B1S01HbThtc2FYRDdOSURLRURBckJ4ZS0taGZ2Wk0wWXVqYVd3LV90aVBJOC1YeFJlTmU5WFdwWlU3N09VZXBxVDVXaHdiTmc0T05TZTQzbHFRRzg5ZXFaVVp4UXNiQThId3EyU18xTE00Q3AxTlE5dXN2YWRv0gGQAUFVX3lxTE9FbFNPNHdqY21fakhVVmpweVRtZ1JETzZtSVVCZzlBeUFMdmxfZGlqZXR4alRoRkh5RHNlZWFlUmd2dGd1aWpSSlZlR0g1Y05adHFkN0lLLVY0eVpOaXVGcTFaSkdHR041QmJTeFdrQUcyS2xZUl82dTNRMVRoZmg4ZVU1djNVdUJxZjRRcUFJbw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "title": "Трамп заявил о готовности «в любое время» вновь нанести удары по Ирану - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNaVYzMU9NZGJvdFNkYzExamtlRHAybmpkVzhxeFlIMHlLQklKY1hoSVd1TTFGWXpGb1RTUk11VmYwUGdIY1RjTVlLcEp2bWFQY09tZWozM2xDWXlCMV81X0t6OThpa2N3bzAxWnNOLWZ2c0pUTGtMOUF3VTNMY1F0WjNXVk5tSWF1eEpILUJoU3FOVXgwTGNjZDM1ZFVpaXJvNU9JQ2FKVUc5LXB1SkVMc0hORnJERkE0NF95d2NibEJuSnhZVFhpRjdLdkdQX085MnZhYmpnOU04SUFOVW9oWG4tdE8xWFBWY2tYLU8xVGdPN0xBaTFGRXFjRGNwbnk3TkQyUlhzVVNTeFI5a3ZGc3NyQm5mbGxyQ0ZvUkc3eHdPcWh2TkhLZFJ2M3huNG9aX3lTMmYwWExISFk3cnNOVzRvU2x0eWgwZFdKa29oXzlmV1dwUHE5bGtRVWotWlVPTnZUbzlHenNxNG52bmhPODVFcmVXQkZ5QUI1OGhsQ0d3Z2xSd2NSdGxYblJUQnh3WE5Uc2tSc2xUWlY0Um15d0lEWk1VdUJfcXk5VUN6VUtQaUo1bmt1VkNIN1V0XzNqeUJPR0R4OV90bTlqRTRUeTk1TXo0azQybUFQajJXWkpBU2t4NmJXT3JydmIxeG9Dek9vWmJoSEs2Z3ludmh1RFhpVEFrM1NSZWxjMnlLSjFtT2N1LUF2cGppYko1YkF0QmZ4OEpOTm5fc1NjWVpMZ2NzcVAwTEdC?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 20:50:41 GMT"
+        },
+        {
+          "title": "Трамп раскрыл потери Ирана после новой серии ударов США - ФедералПресс",
+          "source": "ФедералПресс",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YYlNxeFpRVjVQNmZNYXBidDNLeUNnOGVGXzhqZ3JkMkp1YVhFLVlwQkdqZW54aF94akhRRktJVF9XZ0dLNEZQNUxmN1A0WEdNSmE5clRscnFUcXpKYXZvN0tTam5iMm8?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 18:05:00 GMT"
+        },
+        {
+          "title": "Вашингтон впервые за несколько недель нанес удары по Ирану. Тегеран в ответ атаковал базы США в Иордании - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dlhSTG1OMnlSUnNGczlGTlZleDNoOGRHNFNrNDZGSHRxcFhTNTNRWHJjNXZoeGRkWFZpU1hwSERjRU1pUUttSl9DWnZ6SU16ajQ0Q1NCWklNNnFScFHSAWNBVV95cUxPLWwxczllVk5tMVk4OHFZMEZySzVIamlrc0F2V0EzMm9PZHdOX01GdlBQWkdtbFR6N1dNY1Q5VjJHWWo4YkplTXhzeXVkNVEzUEZzWlBOd0U3VVlndU1UbGJON28?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 04:36:10 GMT"
+        },
+        {
+          "title": "США впервые за месяц ударили по Ирану - Сноб",
+          "source": "Сноб",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QaGxZX3R3OUYzdHNvYlEtbVI0MEpaVUsxSmY1YUplTjZHTnFsV2daY290cS1ISGgtNmF1LUJ2X0ZQMmhFNkRaSzAtNkh2djhLQVplNWpGN2tWbXZCR2FOYzkySEFYRGZxZEhJ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 04:48:19 GMT"
+        },
+        {
+          "title": "США и Иран впервые за месяц обменялись ударами - forbes.ru",
+          "source": "forbes.ru",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVltRHhFcmNFcUd1ak9xRTEzOHBDTFo0ZlBTZ3VXT1VvRzBTMXJNeDE0YzNQN2xWemd3NTRfdU0zcFQ1LWIyRDAwTTVudG1mZUI2RExUbWlxdnZlYlhZbWNaQU5PMElUajhQVS1yWGtESnFUWW42VERvdnVOZ3VPZ3VpZnlQbTA3NVE?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 06:35:46 GMT"
+        },
+        {
+          "title": "Иранские военные приступили к ударам по базам США на Ближнем Востоке - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FWkY1cjE3ZTNoeTZHbnhadlpUT0VKdlptdHhWVWdMLVVXcTdzTGhXOHJLT3Qwa295S2g5X1g3YThwaFVyeS1faUlNMFJwd9IBS0FVX3lxTFBxZ1hMbVRCVHBJX0s2SWxUX0pjSnZRWjNQYVpnYzRrOFJkU1VuSlFDeW1hMXBnNXlyYXpkZU1Rd1I2MUdDYjNJX2lYVQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:05:00 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "ضربات أمريكا إيران هرمز",
+      "items": [
+        {
+          "title": "الرئيس الأمريكي يقول إن الحملة على إيران \"لن تستمر طويلاً\"، ويقترح إعادة تسمية مضيق هرمز بـ\"مضيق ترامب\" - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByZHV1TUo4b2FIMFZIdmoxRFdDUnZVNzhsblFBSEMxRVNqMWhhRzJ4ajNGTl9YT000dEhFTS1FWkdJTVBCcV85eC1hdVk5d3R6aU9GR2QxQkxHdDBf0gFiQVVfeXFMTUkyVXM4UjRDNEFrUDRIQVZnaUZlOGhKbmFWWnJKUnpCekEtWUh3ekFmX3RwTEJhR2VnUEs3WXVzSGZKM05xVUZSRUlnc2tyYzdEeUNtSzBxd2x0U2NVOE1UYWc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 01:02:50 GMT"
+        },
+        {
+          "title": "أمريكا تضرب 100 هدف إيراني وطهران ترد في دول عربية - الجزيرة نت",
+          "source": "الجزيرة نت",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObjF2eGpWVkh3Y0NCaU5Mb2pUSmRySFRjSTQ4b3dFeXBfUnJzQTVIYXFwRlNMT3FMYVZETFRnVWk1eEFEbjZkM3RVTlI0cTJGdFEtdEZfSkM0c011R2pVc3FIUzl1NFpyRDlUem1Rbzk0MVdtZ3dOVElncm0xLWtlR0hKRnk0andic3hrY0pHLTJ3NTFTbHRxN1pjZ01MQUVCUkhiWVlkQnBPeGUyTDFsVzdhYWZqNlpTLUVJeFAzeUtVLWVxam4wekJPclJUM01rSmpkY1lrN2pPS09kOWt5R3hMVEpqMVA0dFVHQ3hMM1l2WW1CQlhKMUVyXzZHWXp1VnJtVG5iX0F3VVd0S3g2WVZXRDk3NG1Y0gGeAkFVX3lxTE8xQ3JiY2ZCeUFoVDhXMnBSTk4yYUIzSHFjejcyYUwycUJiX2pGeTFWRlpUTzBOZ2lRWHRHS013bjJ2Q3VVblIwdW1nejBWZmYzdDdIdDNRVVNJRk92NTZCa0tIeG4tUXlHSjlTRG9WRGhud1JFYXpNbi1WdFF3MEMzOEZ3QzJuYjdOekk2ZXVDUXk5VGUydllPNGxTZGJxWEdfMk5ic1pBS252X2hzcUUxUzVEVy1DOUhISkJpM3VLMDNhUUNpSW9jZldsRkswME52ZnFPbTEtem83QXVOZHczRVBDLTdPZm5aRklnUlhvV05qM2hCSzlrUzBDZ0dXeG5pS2I1ajEzM08weVJzR1VRSjY2VFg2ME5VellrX0E?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:33:39 GMT"
+        },
+        {
+          "title": "أمريكا تشن موجة ضربات على إيران في محيط مضيق هرمز - معلومات مباشر",
+          "source": "معلومات مباشر",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxORDZvWkFWM3NJRTFIM1NScWVCdWU4LXU3RWphc0FtOU9JcEYyTTNnZE1mY2dfbldBZjVCeEZnQTA5WXB4dmdXRXdJdmp3ZFh0ZHhKM29fRzlUejNEVmtDczhEZVdKY00wZFZGaXlfVVNMNV9zS0JZV0RpTnZSZ1RsOGZlcmpZYWlaZks5QlNZQWwwNUEyRFBFX2ZyREpTSFM1aUt0Nlc0VUhONGpQb0VIQ2NnNFJKZl94ejYzOVp0Q2U3VGZ1UXZBaWRhdEVBVS1hRTlSVjRsMlhHbXZ5WEkxckZnY3RCSHY5UUw1eTlOSnBENW9oVTVlZUN4YXU0cmVrd3ZNc0FEdDY3VGtLTzVYMUlFQWZCR1M0XzBQd2dkS3VldUtyQ0RyNEItSF91NTk2anhBRm9hTEVyaklWeENVenh6LUtvNllkVkdsNHhURGFkMk9HVEtERTgyRUdtUldhRHlaSFBVWWVXNGFVOC1UYTJaQzBEWjIzTjdGVUFUcURjREF3X0drMlozaENVYXlkVk1zdGNOTG83dlF6OU0wQnhMdzNUT3R6dFc1a3laaktNNG5ELWszVlpGTU5xSjk1WlNMd0ZSWnJIdlV4RXU4?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 21:00:49 GMT"
+        },
+        {
+          "title": "أمريكا تشن ضربات على إيران قرب مضيق هرمز وطهران ترد - SWI swissinfo.ch",
+          "source": "SWI swissinfo.ch",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOcVYtcFRxRDhDUU5sQm4tbzl3QjJHWjFIUk1VdUo5M1B6WjFyX0lmOHVwUGJ3Nm4wUkhGQ2NTTVRwRGEwOG9VSDcxMS02RWIzUnkteEFJRzlIUzVzMS1RMmpfc0s4N2tNbEkzT1NOcXR2ZUM2eGtWSkNPQV9qMnE1MXF3QV9EZThTTlJYNHlodEoyZW1zMkQwSVNlRy15OHUyTFN5SW1OaDAtVVNFek81OXBiWjU4eEtqSl9BaVo4dTdXY2ViMkZkZUoybWVKMi04ZjY1NUp4bUt1NzJRYWJKdTZFQ1JLNTZLLWtzekJVUDA3ZU44aEE3MDFhV3JGOVJ5eDVzSFJYcmIwajBISFdfUTVFUGVwbTFzUFNmYXdGak5iWV9Lek1sWUNSYVVoYXVLcFBzRmVUOXgtN01DRlRfY3lJbjAzWVY4SFJTUDdDTDlYQWlOM1RPYnNNT1VYTzhabk41eG9xTzZoOFRRa3JSUDAwZ3FtZWhfdVlqeGtWSlB1UWRHWWZOM2ZLRDBOYktvT1B5dUtwVm1HVThaQk5zcmpsMFBlekk5Skw0?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 23:01:35 GMT"
+        },
+        {
+          "title": "ردا على الضربات الاخيرة.. إيران تتوعد بتكبيد أمريكا خسائر فادحة - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNLWxrS29yeWt4ZHVZYnhMRU5tYWxZVWZGNEgtejV2d05rejUwclM0SXE2VjdTTV9GR0txTi1LeVZFUjEzMVRGUHhDU1Jyd09xdDNOMmdES0ZKOU1iTmg5eFZXYkctUUU3WUprVVJHQTdTWVJUX2N5NVdpTE93UjZEWkV5YVM4REtHemp5aGR4WlZqRmY4NGU4TzZtOHBsY2ZjRE0zVmI4RVVtQ0lnMk52SUt2anBpZi13TmVYRWVrY05LaTRxMG5YZFd0Vng0bGpDMGFXcklqcHhlRVZkNDJOekdVSFlrc0ZDcWdtcy14eFZ5cmRjQkMwQXdycE0yendIcUpVc21LTkZvY1dxUXluZlNYamUwTVdZUU1YZGtwOEQ1b1N4NGZmTG1LejRMVzFYWFNyUkp4YlQ4SjJzUHJmU3BPeFZOeGtycTNlUjJ6Z2swRGxDRTFLR1p0dGtGWUlBa3JOa0hnOEk5cDdJLU9mVXYwRFZuY3lpR0owUVpaakVBVF80NE9WMzhSMGVKX3huSUJ0R0N1ZmVJdHVBeUJfbW1CZVdOYm1jQllNUmpDMTVOZU9NeUNySW15SW1ZQTZCemRneE1PLTFjZE9nTnhjWmYzRjh2QWdZNmhGYXFqWmNtejJXVWhVWHhiOTBEeVA3WWMzVkhYWW5Dc2FQMS0tT3hNb0tZbE1NbWdoY1dweFJTZkxnRHRNOUNXcDI2Y0RxdXdaNkNSZWJJQdIBrwRBVV95cUxPRndMZ1NUUFUyZUNhbDVFNnpvOV9URXUtT2lmcWx6dXNlSm5lWktWTEhSeVlleUJldFA0ZWpoWnR0b1otV0JhVGY3cXdyc1BUUE1GMVhESzI0WTF5bFpjZVBoMHFCRVc2VTExWXJ4QXhWdW1HMDROcndnWnVKR3d3OVB6bFdrMzNMcVNGcXZyNlh1MWRvV19YQ2xXaVFMcGE0TmJXbHlXT3NmbHJ2cHdhMGdSZFlCcHRZR2FKRk5fMHlwdE5Fb1ZaeElzQ2I1SzJmdXgzOGd4OUxiV0Q1OV9ablNXWjRwMXNaSnFHZU5XX3hPQ2pRb1R0NzRyOE9ELUdjOXh1STQxWmVtU1ZHb040OWJNUnN2N1g1S0dDZWF3a2tRSWowSWhXaU9DMEJmM0lEVXYyQlhfSFhsWlhhTTZMX3k3eDRGeEVLMnp4dGdhNUYxbzFBYmVGUkppVGtINk9ZYV9CWEE5Ry13YTA2bHFhYXdxZ2hiUWh2ZVVqRDFXbnVTdVJfZk02bXBtZnZSMkRWWENNTkdjd1NuYkxjazJNSVBDUnNrbEVmRU1BTTdtRFRkZUczOVFIUXFqOUswdUZXaHZlZUUyMW9ZQjN1OHNERDBOZnNMbWtPX05BZy0xTnJwendoU0lwRW5qU2RkS1FLUEtpUklBQXBYWS0wWUQ1Q0lGbEVRRUpod0pDRWpMNEZBN1hFeVFreXdZZ3J3S3FPd21sd2g2ZHZFYThIaXYw?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:25:40 GMT"
+        },
+        {
+          "title": "ترامب يتوعد إيران برد بعد استهداف مواقع أمريكية والتوتر يتصاعد في مضيق هرمز - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMipwVBVV95cUxQbEZZVHlzdHlfb3V5VUVJUHVwQ2oyR1FlaF9Fa2ZNaEFlX0ROeE5XQjFZWGNkVE1ZLVVfbnU5cXltRjEzVGFXUzNKaTJLX0pMQ2dzbHdKSU0yZkVZS0ExS1pkaFFiZXJveXp0dlNHd0JoSUhYWldHUXEzSlV4cnRCajBHRWxCR1ZnWnd6R1Z0SmhNYTlyMk42NHhBZllkTFcwN045WEtia0I5ZGZBSEFXZExDcEluTGlHRV9DXzlZcmZxT2RYV0N3dTNXaVVQYWl0NFNtVXFOQUxlc3hkcjBTWExYR1ZWZTNLdGRSajUyMTk5eGZkSmZVSmRxdUtwY1paZTRfaG1RSVBLQ0x0QlJNQV9rd2RHMXljbVJHYmxtbVpyZjFCM0QwOVpTY0Y5UlJiS0RUbGh6X1RyM1ExQlJfYWQ2eGRDTkZyazZ0YWNkTF9tYkxxN1VoYUl1WldMd2F3dTAySlNKYmxpLXBlYWFYUEkzN19KbnBPQzM1WUs3Skh1VjhLQ0lyYlpIZUdPODdROTdObGpIbjZWZ1U2YXBGN1JiVG9rV2p6clFGMGIwSUpYSGpDakVBUEFEX1RiQmhpdlNpMU9FMnVhYV9aaGU4aFJJdF9aQXFPU1RKZ3pOLU5adDBOUXNocU1tdVk0ZzhfSERBN09wUWZ2WlN3TV9GU0lRTmlLNElHelExRW82YkFwdnM4eGFvNS01eDVyQ3lfY09UTXc2bjN2MWNtMU85bzlFUENwbW84OGFKcElEcnJYenp1SHozQWVNS205aW9oRHpFdlhOMjF3QjlVUFVHXzlQZEdkNDhPUHRZQ1BaaGsycUhmQzVkUXlVd2xMRzYwZnJIblhocGNPRGFZWEdFZWtra1dGeDNlYU1TbmdQSTU4cjJMelFR?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 22:05:00 GMT"
+        },
+        {
+          "title": "الحرس الثورى الإيرانى: أمريكا ستدفع ثمن هجماتها الجديدة - المصري اليوم",
+          "source": "المصري اليوم",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83d0ZfcFpTcnZobm80ekRjUUxnSkxEN3pneVExVk1ZcVgzY0czMGZJNWlEdzRodFVVLV9kU3h3M0VQR25ZUU9QZnBWNm1QaU96MDBzbi0xTDVnVy1LQWhz?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 18:21:00 GMT"
+        },
+        {
+          "title": "مراسل «القاهرة الإخبارية»: ضربات أمريكا تستهدف الحرس الثوري داخل إيران - الوطن",
+          "source": "الوطن",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UajQ4anpHTU9KT3dxMGYtY1BPbjJCSnVFVkFqOUpjVG5ZSzBTNm1HMU0tVUNlcFg2Yy1XNGtxODlucS1BSXJiOTdGYWhkNHVTN0Y1c2UwaXZJZmxi?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:13:33 GMT"
+        },
+        {
+          "title": "«ناقلة مقابل ناقلة».. سياسة ترامب الجديدة لمواجهة إيران في هرمز - العين الإخبارية",
+          "source": "العين الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZDZPRTNrSzlLNkZHVFFrUnpDWkJUUkJmQXFsVkliUXd2V1drTndsUUZXN1liVnlhUFJiWXV0cjhzdV9Bd1hsbGE2dGkwUG9PWnJFUExxbXFHdzA4X0cya2dtUmdHMUY0dHdDeW1XbVdad1NBakp1cFg5em42UkJ2YQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 01:00:00 GMT"
+        },
+        {
+          "title": "أكسيوس: أميركا قد تشن \"ضربات محدودة\" ضد إيران في مضيق هرمز - آخر خبر",
+          "source": "آخر خبر",
+          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQRDB6c3RnWTdkY0tHcXZYZUs2LWZhenVNMWZHS2k0WjV1ZVlzSlY3V3Q3V042S3BTZXdYVFh4TDRKd2wzam1CZFQyZ19QcHd0R2NwN3NRN2ZyZmFuUHd2V0NrV3VRNFktTjNVU3Y0MWNGMGpsV29IRG5IdTg2V3ZyTmYtNDNiMVpFaXM2V3Y3QTd4UDZyd2ZlSnBtRGZnaVBtcnRHcXRXME53TUpKSG9BNmI5cWE1b0NvZmtGeGNqeW4wT2wtekJMTXdYdWV2anN0b1Q3YThlNFU3Q0pUTlMtc29JTXh2U3RVV0E1ZkdYOERQbXVST2RUZGVKbkxTVnYtODJfZVNrOHlycU56NXBER043UFF5RVAtMTlVR0ZWSGtDMHlhQlNsVkMySVpCbUt3MUh1QnN2R2lVLWI3YzlMWjVLc3VnY1d4N3ZDaUhxREhUZHk1d2Exc1d0dXJiZkdGVkV0TEU5bmRHbFhoN0V2allsci1nejJvUnUyaDJtTVJVS2pzZC1jT1dWbjFuTm16WG9WVTctLURUNDRCUDdiMFdLVEY3ampyUWdINndXU1d3SEp6UVlYWlRRVi1lQlduQVlLQ2IyRlFPZkRjYXg4NTVlWlFEOU44UFVveXg2RzFFQQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 21:40:00 GMT"
+        },
+        {
+          "title": "النفط يرتفع بأكثر من 3% مع عودة الضربات العسكرية بين أمريكا وإيران - القدس العربي",
+          "source": "القدس العربي",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaWR6NFVFTE9YTmVRanN6aUt3VDRjaEEyU0piMVlpQ3FUc0xobG5PemR0YXZwcVJTUkNnSUJwb2xBVFM0S3FoeGRMOHdiQUJMY2pocGNkcmtoQ1ZTZXFZMjJrOHJWR0hMQm9sTWJTSWctbGViRjNFZTd2bEQ0SURuelNJbDI4OXFrYkdCUHBDTXdqc2QzWWpfSU0xcDRfb29qZnNvNnRPUHN3QW0zcTNZUTJXckZmT2FGT1hKN1JwUWNhQ04yRVpOLVN0MTJvNVJqNnRNeFVuV3pHWklIZV96VGhZYWp1Q1FDYkdITXVpUWhuNVhyb3VCNjBoMHQ4Q1JKbkRpa20tWWxvbnE5TDJHdEJmZUJuYURCblIxdi10VEZVUDlFRzA5SXc2aFg1TkxKdVYwSVMxdUVUSXRyMDE2NHdmaw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 09:39:39 GMT"
+        },
+        {
+          "title": "أمريكا تشن ضربات على إيران قرب مضيق هرمز - siyassi.com",
+          "source": "siyassi.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWx2Vm1IQkVXdVYtS2p4R3BndTgwcDdreEVPWnp2WWo0THFBRzY2bFIwVHFSTlo3TFNhc25tOGt3a1h2ZGlvNmlNTnNRaWd0N3NPaTNYRFF0anFqOExRV3JFY2J2ckJvQXhsa0M5aldtdGRCRUF5Z2pLbFFLNVE4d0gzM1VYLUg3ZzIwa1Ytc29lYWZYY3Jnai01NDRPWGc5?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 19:59:39 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "美国 伊朗 打击 霍尔木兹",
+      "items": [
+        {
+          "title": "特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇 - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85ZFBIUmFLUmxtSVRfR3NQd3FsbGJkMktOdV90Z09XdnJFSElkMmd5N0xvZmQwQm9MVG4wTWd3QzVHcDNLS0htblBaSGVEVG1WYVk0?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 00:26:03 GMT"
+        },
+        {
+          "title": "特朗普提议将霍尔木兹海峡改名为“特朗普海峡” - 新京报",
+          "source": "新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xTlFKRkthbExMWVRuZFIyM19fX1hFY2V3ZnJ0OUp5ZUhZdy1DZFBnYV9ub0VoalFoM0RnR2J3eEJWY2I4d3hUelRLVlVVTDktSTR1Njdyd2JaRHg0UlQ5YWZrUlQ?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 00:32:26 GMT"
+        },
+        {
+          "title": "美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！ - 财联社",
+          "source": "财联社",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tRmdBQWtXQkwtaUtKUlEyakQwdGMxVkhPTGI3VW5Cd1Fma0hrMzc0VGlfQ0J2eTNhNjFGY3Z0b2RISHhGMFhQdA?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:46:21 GMT"
+        },
+        {
+          "title": "特朗普总统：美军对伊朗雷达和导弹设施发动了“非常猛烈的打击” - 美国之音",
+          "source": "美国之音",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbHY0WlZEN29PYmlGekFfaURKN0ZhdXhwWDdOMHFEODl6ckx2eE14WDZadk1PUVNJTkYyMlBtaVpLSUdxOG1hQ2ZZMnM3TGVtaW9wbnVZM0hWWXhJNFFCYmMtMkZ2eGF3eDhxa2ZEM3lUTlE2dTBLV3pYa0YtZDJHVWxaVjRKZEs4QlhsODNucGRWcW4tWmcwOWRwMjVXT0JfcVZSLXlBRk5kRXpOVmc1d25NaG1fOXBNZmZFVldnSDcyZ2x0UU5qQVFLYmJFS3Q0cm9HbjhNM0NPb3lXcko2VnppLVBqNm1RQnlrVUYzZjdiRm5ESmprSjRuNGNpaklI0gGDAkFVX3lxTFBVVUVsZHIwQzBYZzByV1NpSndlLVhDT3phVkx1TjU5QnRCeHNFYUY5aE5uSmJlcnJmSjZMOHpSeDk1ZzdtLVd5dU92Vnp0VlFUQ2cxOVJKODk5aU5OYUNHR2JYaEhabGVxdkhVUmNUc3RtLWxGdHBRdGEyc280aUQ3ckpxSnluYXExNU5VUGdZcnNiZ3c2TkFGdlhZQWZzMjdOQ3drZnRWN0JXTEpTNmV3UmRtRkVlV2NfdUJEcUtOUTYtRkZleVNXcm9UT0Y1R3BMZnlGem1yRmhfUEE5WXB1VE8yN2lwaE5kX3JpX2tac0NXb1c0c1VjUXFnakRYNGxYMUk?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 21:32:23 GMT"
+        },
+        {
+          "title": "清晰总结：伊朗战争的四个阶段 (收藏!） - 观察者",
+          "source": "观察者",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wd2lPUFEzazR1UWRGT0tvVDIzUkF1dkhMeVNEeUtKajVhTTF2UnRPY082azBSWWhURmdjUXhWUXp1NWJqeVdsODI5MElKQlZSN0xmVXFRSWh4bWFZek01VF90dkxZdUpiSXc?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 02:41:26 GMT"
+        },
+        {
+          "title": "特朗普威胁：“随时”准备对伊朗再次发动打击 - chinanews.com.cn",
+          "source": "chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WWZMdDRmZ1RBQ3JtS3BQRXZfQnFrd3V1MXZlelRQZlhWSGFCMWJyS1V4ek96TUpvZ2tKOXJHY2Y4Y2pfTDlyZG9LejZjdXdnQjA1Y1RGWjFiMS1TNmdFdkdwaUxoVzVY?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:43:21 GMT"
+        },
+        {
+          "title": "要闻分析 - 霍尔木兹海峡：美国军事金融双施压逼伊朗重回谈判桌 - rfi.fr",
+          "source": "rfi.fr",
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPT3lROHFmYVNhdkFlUG9HelpzSWdGY01HY3pnM1hWWV94SlY3S1F2SWU0aktBejNjM3NIYVJlVHdjZXpMUzBla2ZyQzVNd0QzQkVZY1lBLUg0Y1JiZFhYWUxESHpUeTk1WWJWT3lZcWh5V3ZHWXdUbmtHOEJxYndwaGFxQzNRVDRBWUlPSFdsSVcweGxnakpqYmYzZWF3SEFZYmtHcWxBYzBxdHY3MWxoMms2R05XLWZOVmk3V3B1aW9vLXpYUHVZQzY1R19udVplOFFsdHF1a1Rwb1RnV2FjUkVYRzQ2dW52b1ZWUTdwRDRlcElnbk16bW92TDNwNU5QZ3pMc3pWbGt4cl9jZklhRThTbGhhNS1kODlPdV9LNUIwckQ0M0ttbnotckI3NFo5WU1yOGJZX1dNR0FiWllUTVNzWEdXLXJzemFtWmx2MWRZM0szVkhIaUZoTkZ6aFdfVHpGZUlHeXYxbVFNNnE5VzJ4UWdsSnFRTDhKSXgxejM0ZFBDVkVRMTZwajRFMmR5dU1TQmI1Mjh6QUdGTWotLUVzZ3JiQnZQSDlFYU1QZWIybGV6R3hlR3c0aEp5dw?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 20:24:03 GMT"
+        },
+        {
+          "title": "特朗普称对伊朗的新一轮打击不会“持续太久” - 21jingji.com",
+          "source": "21jingji.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM19aZWpwSW05UHo3cjdaU3FZRzI4U0ZKRE5CcDZnX0k4N1F3WXFVU2syWlJtZ01xVXNJQ3R3S3UybS1lbWpWNDU5VEIxbFVwMkkxc3doa29mWGxwejg5Y21qNDlORmw0OWpMUFhFSVkwaEh2SHpYd01aNXZoVm1ZZGtwd3BDS3VveGtTeQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:24:00 GMT"
+        },
+        {
+          "title": "霍尔木兹海峡，两艘油轮爆炸 - 光明网",
+          "source": "光明网",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SemtNRmVfRi1HZnNBcUN1azB6bGI0dlF2RF9SSXhmSmpoZlVxSHhhS0h2WGNUOE9uMlBfa1RaZXFxOWQyY29PbTdocDlkYlhiZjhvMEE5bThlRGtaZEh3?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 00:44:00 GMT"
+        },
+        {
+          "title": "美以伊最新局势：特朗普提议霍尔木兹海峡改名特朗普海峡，威胁随时准备再袭伊朗；伊朗称已击落50架美军死神无人机，新战略将摧毁敌方根基 - Sohu",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWhfT1cxYmpzVURpdFRmS2RtT3gtYVpKMzBiRkdCSjVUN240Qm5oREE5NTRXT3I2NlQ2Nm1VMTN0WkY5U2ZlU3dqWkF2QUhzRmF0TFhnOC14bGh1OGJZM3VoN21fSmEyc0lzcHEyQ2dPUXZIZ0JUcmRIRWN2bE0tbjgyQW1nQi1QT2dQMw?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 23:02:43 GMT"
+        },
+        {
+          "title": "遭美国打击后，伊朗向该地区国家发动导弹和无人机袭击 - 美国之音",
+          "source": "美国之音",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY25IeEc3eXc5aDlKZHhTNzQxbHBHQTQ1bjZnZjZja0gwczVGcWdPSDhvOWMyOUZndGFDNHN6MXJueDBmYU9YTmJFUnAyWTRXM0o4Sll0VWJTNHUySWg0a2VROHV3OEs3VzhBR0p6ZnZVSmE0Q3plSkpvdTE0SFBLRUN3b29uXzB2RGVBWmRvQjBfMzRKSTNtN2V6VmR4ZDBySl91NnBtRmdVRnZpWmVMcHJzVVJCUE85TXVsV2FRdHhsRzhz0gHHAUFVX3lxTE94MWdzNVduTWVNVjZmM2lFZ1BrQzBtVzEtd3JlbzhSeEt5ejhvVmpvTmRNc2lkMVdFaWNHYzI5NkhiNmVnVjB4TWpaZUhEVUhDcm90S3Y4c3B6SURwSHFmbkI0d3FYMHlINVdKQkloQjFvVzhWSU80bjZ2Nk95ZnZlWGRIZUE0bjlwdk1vZ2J4dXBldVpCakdQUmZfVkE3YUplUXVaWDJjWHlQek4tOVpGSUYxcTNIMkxlNS1OU0ZseGl0M1FPTHM?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 15:59:50 GMT"
+        },
+        {
+          "title": "特朗普称对伊朗的新一轮打击不会“持续太久” - chinanews.com.cn",
+          "source": "chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XRjlpaElKRjZ1a1FmdHhubkdQLTJHYnFQaG9XMHpBVHpYSkpxdXpDM2NFWThUV3RVNEN4aTdERm54a21vYUZHWXZSRHJTTENCYzhpXzhteWlSaHBiOUV2RkNub3JJYjN0?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 22:43:17 GMT"
+        }
+      ]
+    }
+  }
+}

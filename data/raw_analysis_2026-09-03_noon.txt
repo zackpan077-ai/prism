@@ -1,0 +1,124 @@
+{
+  "findings": [
+    {"title": "显著度两极：美国、印度头版聚焦，巴西、俄罗斯、中国头版几乎隐身", "body": "在美国，事件进入 NBC 头版（『Tehran targets U.S. allies in Gulf after U.S. launched large and powerful strikes on Iran』）并挤进头版前十；印度头版第二条即为 NDTV 的『Iran Says Attacked US Military Targets In UAE, Kuwait』，还配有 The Hindu 的特朗普提议改名霍尔木兹海峡。但巴西头版前 10 全是国内政治（选举、STF、PEC），冲突只出现在财经媒体（Valor、SpaceMoney）且以油价为框架；俄罗斯头版被国内事务（普京远东之行、歌德学院）占据，伊朗冲突未上头版；中国头版前 10 全是上合峰会、抗战纪念等议题，美伊冲突完全未上头版，仅在财经和门户渠道以油价、特朗普言论角度出现。英国、法国、德国头版也各有一条（BBC 援助尼泊尔之外，德国 n-tv 上榜），但显著度低于美印。"},
+    {"title": "婚礼遇袭的定性分歧：war crime 框架 vs 否认框架", "body": "伊朗视角的伤亡叙事在印度英语媒体中被放大：BBC（通过印度版）标题直接写『Iran says US strike killed four at wedding in war crime as US denies targeting civilians』，将『war crime』一词与美方否认并置；Daily Sabah（印度搜索结果中出现）写『Iran hits US sites in Gulf after American strikes kill 4 at wedding』，把婚礼死亡作为既定事实前置。法国《巴黎人报》则用引语呈现情绪面：『Vous avez transformé leur cérémonie de mariage en enterrement』，且归因于『indignation en Iran』。相比之下，美国国内主流标题（NPR、NYT、Bloomberg）几乎没有把婚礼伤亡放上标题，仅 AP 提到『after a wedding was hit』作为背景从句——同一事实在不同媒体中被置于标题的不同位置和不同确定性层级。"},
+    {"title": "谁在谈钱：油价与经济是日本、巴西、中国财经媒体的统一滤镜", "body": "日本的搜索结果几乎全部围绕原油与日元：朝日『原油価格は高騰』、日经『米軍、イランと再び出口なき応酬 NY原油1カ月ぶり90ドル台』、TBS『円安進む1ドル162円台前半』。日经甚至有独家商业角度『イラン攻撃で潤う米企業 エクソン原油高で利益2倍』。巴西 SpaceMoney『Petróleo dispara』、Canal Rural『Petróleo sobe mais de 5%』，中国华尔街见闻『油价涨势暂歇』。这三国都将地缘冲突转译为经济冲击框架，而非军事或人道框架。"},
+    {"title": "独家角度盘点：德国的『油轮换油轮』、日本的穿梭油轮与美国的中期选举", "body": "柏林日报（Berliner Zeitung）标题出现独有的策略命名：『USA verfolgen neue Tanker-für-Tanker-Strategie』（美国奉行『以油轮换油轮』新战略），埃及 Al-Ain 也转载了这一提法（『ناقلة مقابل ناقلة』），其他国家未见。日本 kab.co.jp/ABEMA 独家关注半年来的物流适应：『ホルムズ通過にシャトル船 原油運ぶタンカー50～60隻 イラン攻撃から半年』。美国 NewsNation 则有国内政治角度：『Aides want to keep Iran war from escalating ahead of midterms』，将战争与中期选举挂钩——这是其他国家结果中完全没有的视角。"},
+    {"title": "阿拉伯语媒体的区域受害者框架：沙特油轮上的菲律宾船员", "body": "英国版结果（搜索词为油轮）集中呈现了海湾受害者视角：BBC『Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says』、路透『Two tankers carrying Saudi oil attacked』、阿联酋媒体『UAE Strongly Condemns Iranian Attack on Saudi Tanker Sadr』。注意所有死亡人数表述都带消息源标签（Saudi Arabia says / Iran says），显示在交战双方信息战中媒体普遍采用归因式措辞。相比之下，美国和俄罗斯版标题很少提及油轮遇袭造成的第三方人员死亡，俄罗斯版甚至把报复目标简化为伊拉克和约旦的基地（BBC 俄文版），未提海湾国家遭袭。"}
+  ],
+  "quote_comparison": {
+    "intro": "对比各国对『美国新一轮打击』这一同一军事行动的定性与修饰词",
+    "rows": [
+      ["US · NYT", "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says", "归因给特朗普本人，且给出打击理由（水雷），动作词中性『Strikes』"],
+      ["US · Guardian/CNBC", "Trump says new Iran bombing won't last 'too long'", "用『bombing』一词，重心在特朗普的安抚性表态而非打击本身"],
+      ["France · tv5monde/Noovo", "L'Iran jure de 'briser' l'ennemi après de massives frappes américaines", "强调规模『massives』，并把主语让给伊朗的报复誓言"],
+      ["Germany · BILD", "Trump droht mit 'Auslöschung des Iran'", "小报用最强硬措辞『Auslöschung』（消灭），情绪化最高"],
+      ["Germany · n-tv", "Trump verkündet 'große und gewaltige' Angriffe", "用引号引特朗普原话『巨大而有力』，归因明显"],
+      ["Russia · Интерфакс", "Трамп назвал мощными и масштабными новые удары США по Ирану", "同样转述『мощными и масштабными』，与德法一致采用转述式"],
+      ["China · 美国之音(中文)", "美军对伊朗雷达和导弹设施发动了『非常猛烈的打击』", "唯一给出具体打击目标（雷达与导弹设施）的中文表述"],
+      ["Egypt · Al Jazeera Arabic", "أمريكا تضرب 100 هدف إيراني وطهران ترد في دول عربية", "给出具体数量『100 个目标』，并突出报复落在『阿拉伯国家』土地上"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "本土安全与总统表态：打击『不会持续太久』但『随时可再打』，辅以国内政治（中期选举）牵制",
+      "unique": "NewsNation 独家披露白宫幕僚因中期选举而希望避免升级；美媒普遍淡化婚礼伤亡在标题中的位置",
+      "headlines": [
+        {"source": "The New York Times", "original": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says", "zh": "特朗普称美国因霍尔木兹海峡水雷问题打击伊朗"},
+        {"source": "The Guardian", "original": "Trump says new Iran bombing won't last 'too long' but US prepared to attack 'any time we want' – Middle East crisis live", "zh": "特朗普称新一轮轰炸不会持续『太久』，但美国准备『随时』发动攻击——中东危机直播"},
+        {"source": "NewsNation", "original": "Sources: Aides want to keep Iran war from escalating ahead of midterms", "zh": "消息人士：幕僚希望伊朗战争在中期选举前不要升级"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "聚焦霍尔木兹油轮遇袭与海湾/菲律宾受害者，事件未进入其头版前十",
+      "unique": "搜索词本身即油轮视角，标题突出第三方船员死亡与航运影响（Lloyd's List、Seatrade）",
+      "headlines": [
+        {"source": "bbc.com", "original": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says", "zh": "沙特方面称伊朗袭击沙特油轮致两名菲律宾船员死亡"},
+        {"source": "Reuters", "original": "Two tankers carrying Saudi oil attacked in Strait of Hormuz", "zh": "两艘载运沙特石油的油轮在霍尔木兹海峡遇袭"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "伊朗袭击 UAE、科威特境内美军目标——聚焦海湾国家被卷入，并突出婚礼伤亡『战争罪』指控",
+      "unique": "印度是少数把『war crime』指控放进标题的国家；Firstpost 用民族主义色彩措辞『Arash Drones Batter Trump's Troops』；还关注印度公民安全与航班取消",
+      "headlines": [
+        {"source": "NDTV", "original": "Iran Says Attacked US Military Targets In UAE, Kuwait", "zh": "伊朗称袭击了阿联酋、科威特境内美军目标"},
+        {"source": "BBC", "original": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians", "zh": "伊朗称美军打击致婚礼上四人死亡是『战争罪』，美方否认针对平民"},
+        {"source": "Firstpost", "original": "Iran's Arash Drones Batter Trump's Troops in Jordan, Bahrain, UAE and Kuwait", "zh": "伊朗Arash无人机重创特朗普在约旦、巴林、阿联酋和科威特的部队"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "原油与日元：冲突等于油价涨至每桶90美元与日元贬至162",
+      "unique": "独家报道半年来的『穿梭油轮』物流现象，以及埃克森美孚因油价上涨利润翻倍；日经头版称双方陷入『出口なき応酬』（无出路的互相攻击）",
+      "headlines": [
+        {"source": "朝日新聞", "original": "米・イランが攻撃の応酬 結婚式直撃、子どもら死亡 原油価格は高騰", "zh": "美伊互相攻击，婚礼被直接命中、儿童死亡，原油价格飙升"},
+        {"source": "日本経済新聞", "original": "イラン攻撃で潤う米企業 エクソン原油高で利益2倍｢新たな生産記録｣", "zh": "伊朗攻击让美国企业获利：埃克森因油价高涨利润翻倍，创『新生产纪录』"},
+        {"source": "読売新聞", "original": "イラン、紅海の原油輸送ルート封鎖準備を要請…アメリカが電力インフラを攻撃したら実行か", "zh": "伊朗被要求准备封锁红海原油运输路线……若美国攻击电力基础设施或将成为现实"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "战争直播框架：特朗普『随时』可再打，伊朗誓言『击碎』美国，报复落在海湾多国美军基地",
+      "unique": "Le Parisien 用伊朗民间悲愤引语『你们把婚礼变成了葬礼』呈现情绪面；La Croix 提及特朗普想把海峡改名——法国是少数把改名闹剧写进传统大报标题的欧洲国家",
+      "headlines": [
+        {"source": "Le Parisien", "original": "« Vous avez transformé leur cérémonie de mariage en enterrement » : indignation en Iran après une frappe américaine", "zh": "『你们把他们的婚礼变成了葬礼』：美军打击后伊朗的愤怒"},
+        {"source": "Le Monde.fr", "original": "L'Iran réplique aux attaques américaines en visant des bases états-uniennes dans plusieurs pays du Golfe", "zh": "伊朗回击美国攻击，瞄准海湾多国的美军基地"},
+        {"source": "tv5monde", "original": "L'Iran jure de \"briser\" l'ennemi après de massives frappes américaines", "zh": "大规模美军打击后，伊朗誓言『击碎』敌人"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "升级与报复循环：特朗普『巨大而有力』的打击与革命卫队扩大报复",
+      "unique": "Berliner Zeitung 独家命名美国新策略为『Tanker-für-Tanker』（油轮换油轮）；BILD 用最强硬小报措辞『Auslöschung des Iran』（消灭伊朗）；但当天德国头版被莱比锡机场无人机袭击（俄方嫌疑）主导，伊朗冲突仅 n-tv 一条入前十",
+      "headlines": [
+        {"source": "Berliner Zeitung", "original": "Iran greift US-Basen in vier Ländern an – USA verfolgen neue „Tanker-für-Tanker“-Strategie", "zh": "伊朗攻击四国境内美军基地——美国奉行新的『油轮换油轮』战略"},
+        {"source": "BILD", "original": "Neue US-Angriffswelle: Trump droht mit „Auslöschung des Iran“", "zh": "美军新一轮攻击浪潮：特朗普威胁『消灭伊朗』"},
+        {"source": "spiegel.de", "original": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen", "zh": "中东局势升级：数周来美国首次打击伊朗——政权以反击回应"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "油价与『七月以来最大规模交火』——冲突被当作大宗商品事件而非安全事件",
+      "unique": "几乎完全以 Petroleo（石油）为标题关键词；Brasil de Fato（左翼）是少数在标题中明确『retaliação a bombardeio dos EUA』报复因果链的媒体；头版前十完全无此事件",
+      "headlines": [
+        {"source": "Valor Econômico", "original": "EUA e Irã fazem maior troca de ataques desde julho", "zh": "美伊发生七月以来最大规模交火"},
+        {"source": "SpaceMoney", "original": "Petróleo dispara com novos ataques entre EUA e Irã", "zh": "美伊新交火致油价飙升"},
+        {"source": "G1", "original": "EUA realizam primeiro ataque ao Irã desde julho; Teerã retalia lançando mísseis balísticos em bases na Jordânia", "zh": "美国发动七月以来首次对伊打击；德黑兰向约旦境内基地发射弹道导弹报复"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "平淡的事实转述：『美伊一个月来首次互相打击』，几乎不出现定性与伤亡细节",
+      "unique": "标题普遍去情绪化，多用『обменялись ударами』（互换了打击）这种对称化表述，未把任何一方设为主动侵略者；当天俄罗斯头版完全被国内议题占据，此事件一条未入前十",
+      "headlines": [
+        {"source": "Meduza", "original": "США и Иран обменялись ударами впервые за месяц", "zh": "美伊一个月来首次互相打击"},
+        {"source": "BBC (俄文)", "original": "Вашингтон впервые за несколько недель нанес удары по Ирану. Тегеран в ответ атаковал базы США в Иордании", "zh": "华盛顿数周来首次打击伊朗，德黑兰随即攻击美军在约旦的基地"},
+        {"source": "Интерфакс", "original": "Трамп назвал мощными и масштабными новые удары США по Ирану", "zh": "特朗普称美国对伊朗的新打击『强大且大规模』"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "阿拉伯土地上的战争：美国打100个目标、伊朗在『阿拉伯国家』境内还手，海湾被战火波及",
+      "unique": "Al Jazeera Arabic 独有措辞『وطهران ترد في دول عربية』（德黑兰在阿拉伯国家境内还击），把冲突伤害明确落在阿拉伯世界；头版还出现科威特安全警报和特朗普改名海峡的戏谑报道",
+      "headlines": [
+        {"source": "الجزيرة نت", "original": "أمريكا تضرب 100 هدف إيراني وطهران ترد في دول عربية", "zh": "美国打击100个伊朗目标，德黑兰在阿拉伯国家境内还击"},
+        {"source": "BBC Arabic", "original": "الرئيس الأمريكي يقول إن الحملة على إيران \"لن تستمر طويلاً\"، ويقترح إعادة تسمية مضيق هرمز بـ\"مضيق ترامب\"", "zh": "美国总统称对伊朗的行动『不会持续太久』，并提议将霍尔木兹海峡改名为『特朗普海峡』"},
+        {"source": "المصري اليوم", "original": "إنذار أمني في الكويت.. ونداء عاجل للمواطنين والمقيمين", "zh": "科威特发布安全警报……紧急呼吁公民和居民"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "以特朗普言行和油价为中心的旁观者框架：『不会持续太久』、改名『特朗普海峡』，美军行动细节一笔带过",
+      "unique": "多数标题的主角是特朗普而非战场；观察者网做长线梳理『伊朗战争的四个阶段』；美国之音中文版（在中国可搜索到）提供了具体打击目标；但中国官媒头版完全被上合峰会占据，此事件未上头版",
+      "headlines": [
+        {"source": "华尔街见闻", "original": "特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇", "zh": ""},
+        {"source": "光明网", "original": "霍尔木兹海峡，两艘油轮爆炸", "zh": ""},
+        {"source": "美国之音", "original": "特朗普总统：美军对伊朗雷达和导弹设施发动了“非常猛烈的打击”", "zh": ""}
+      ]
+    }
+  ],
+  "limitation": "各国搜索词不同（美国搜『US strikes Iran』、英国搜『Iran Hormuz tanker attack』、俄罗斯搜『удары США по Ирану』），这会系统性塑造各版结果的框架（如英国版油轮视角），因此框架差异部分来自搜索词差异而非纯媒体立场；且样本仅为标题，无法反映正文平衡度。"
+}

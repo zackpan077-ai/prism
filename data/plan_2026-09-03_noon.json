@@ -1,0 +1,17 @@
+{
+  "event": "美国对伊朗发动大规模打击后，伊朗报复攻击海湾美军目标及霍尔木兹海峡油轮，冲突急剧升级",
+  "event_title": "美伊冲突与霍尔木兹危机",
+  "why": "美国、英国、印度、日本、法国、德国、俄罗斯、埃及、中国等几乎所有国家头条都在报道，且各国视角差异极大：美方强调'强大打击'、俄方聚焦冲突责任与西方后果、中方强调油价与地区稳定、埃及关注海湾安全与特朗普威胁、印度关注霍尔木兹航运与能源。",
+  "queries": {
+    "US": "US strikes Iran",
+    "UK": "Iran Hormuz tanker attack",
+    "India": "Iran US attacks UAE Kuwait",
+    "Japan": "アメリカ イラン攻撃 原油",
+    "France": "frappes américaines Iran",
+    "Germany": "USA Angriffe Iran Vergeltung",
+    "Brazil": "ataques EUA Irã",
+    "Russia": "удары США по Ирану",
+    "Egypt": "ضربات أمريكا إيران هرمز",
+    "China": "美国 伊朗 打击 霍尔木兹"
+  }
+}
