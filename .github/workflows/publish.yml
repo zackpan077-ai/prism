@@ -73,8 +73,8 @@ jobs:
           [ -n "$PRISM_API_KEY" ] || { echo "PRISM_API_KEY secret is missing"; exit 1; }
           {
             echo "PRISM_API_KEY=$PRISM_API_KEY"
-            [ -n "$PRISM_BASE_URL" ] && echo "PRISM_BASE_URL=$PRISM_BASE_URL"
-            [ -n "$PRISM_MODEL" ] && echo "PRISM_MODEL=$PRISM_MODEL"
+            [ -n "$PRISM_BASE_URL" ] && echo "PRISM_BASE_URL=$PRISM_BASE_URL" || true
+            [ -n "$PRISM_MODEL" ] && echo "PRISM_MODEL=$PRISM_MODEL" || true
           } > .env
 
       - name: Run pipeline
