@@ -1,0 +1,329 @@
+{
+  "findings": [
+    {
+      "title": "本期为标题对照版",
+      "body": "自动分析组件本期未能生成（内容安全限制或模型不可用）。以下仍是十个国家对同一事件的真实标题并排——这本身就是本产品的核心价值：直接看原文标题，自己对比。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "",
+    "rows": []
+  },
+  "countries": {
+    "US": {
+      "name": "US",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "CBS News",
+          "original": "U.S.-Iran War Updates: Vance \"extremely skeptical\" U.S. strike hit wedding party, says he wouldn't call conflict a war - CBS News",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "original": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long' - CNBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE5KOWRmZmI1OElBb1Fna0FCWlZqZkNfbWh0RDN1cHdvT3lqc1p6Y3ZuQm9lSWRtVFliajlSYnFZZHdMM1dOWGhUeWZVa0FkX18tOTdCRVc1V29NeWN1aWpjWlNQYkZLeVp6bTI4UU9uZnFCXzR5ZTlBUF9aMFQzcEZnbzlIcFJnbm9naVN3alozSUdyUlpNVmxR0gGfAUFVX3lxTE9aQnE4dkJ0b1E4MVB6V3pLaE5xYzBBOHR2WVlocFRmS1kwTDB3Zi0wS2tHSkU1Yk9ndHUySW9ZcDFwQS1QVUo0VktGQ0tUQk9kR01BbEo2QjNHVjZCYjF6ZjdzRzdJa05BU3JhRVYxR2pZQ29xTmpiZmFaOVBkSndMaGNUSjI5cVNUNnBteWRNa3R3VVZDaERIZk1nS29IMA?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians - BBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5"
+        },
+        {
+          "source": "Reuters",
+          "original": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "UK",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians - BBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5"
+        },
+        {
+          "source": "reuters.com",
+          "original": "US-Iran strikes raise fears of renewed war across the Middle East - reuters.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5"
+        },
+        {
+          "source": "The Guardian",
+          "original": "Iran’s currency hits record low – as it happened - The Guardian",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSzZVWDVzQWpvZzQ4VHBUdWV1bk91YTI4VnB4QlVkSV9qbW50azBRTU51bnB4aDZCZkk2TmtpUjhiNk1rR0FOVVZKZ1JEZXNIVUxVUzlSYVhOVV9EVF9IVW1ueXBrNVh2OXRrc2x2TE5yVUg5V2N6LVd2djdZc0VZeUlaUlFBUEZNVU83dkFPcWRVa3FldGFkc3g2UnF2OTJwRXR4akFsUWdQejhBUURZXzVkNHV2ZEt3N21vQU9CREM5UndQOXNPYXlza3RSYVAyMWlrYVlITGFTZ0JOemM5a1RB?oc=5"
+        },
+        {
+          "source": "france24.com",
+          "original": "Toppling Iran’s Islamic regime ‘within reach’, Netanyahu says - france24.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMC1XQnJ4bUp1SzlTeDBzMUZXdXZEbHZxcVU3YV96ejM3eUVzR0J6SWplTF9fS2w2SzBMLVhyUXVsanIyS0dQRExhTEtmTTRlVk0ydThUbVF6akt2QzdxTWdDaVRHMEhBSzBzcG5NWXB6Tm5NTmlqNXJkQTgxYkNfb3ZNMEM5ckJGb1dDMXV6Uk5kUTVMcDBOczdPVXBfUklxdUI0R1NNYkgwU1d1ejBweXpndmlDLXdRc0oyVkw3RQ?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "India",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "The Washington Post",
+          "original": "Iran fires missiles and drones at Kuwait as strikes resume in war with U.S. - The Washington Post",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOallJNTBESkZZUGJPSldNM2tCZFlGcHc2UkdOX3hPYjN6NzI0WXVidGJNbHpaRjhKWTRBWGxoZEg2WXp3em55QUpOVVh4RFpleEVYd0ZvcGF4OWp1dFNqVnYxU29Nc3ZJbkVEMUd1QWhKaGRNSi1UempFVHo1Z0FiM29GeVEtUlRweUNYWFFCcnlXX3RkNlkyWGt2UThVT1Nkemp1N2lVOA?oc=5"
+        },
+        {
+          "source": "The Indian Express",
+          "original": "Iran-US conflict flares up again, Hormuz traffic hit: What we know - The Indian Express",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlprOWZvNEttMlVMVlYybzcyOW9HUks2NUREZEN3RkdkNFFQX0ZKOFRQelVVT1d6VUUxWDB6WHZVSkNtN2NySG15ZEk0X3JNR0p3cFN5OFQzcGdZaExBd3F5MWt1bTU4N2Z0NFA4OG84RkJla1JaUlVsekNSSWJOZ1pFX3hITC1jYWlDR1VYb1NPS3BpT1hqc3EzbVlJT0JoOElXUVNHWlFadF9UVEhYYjFYSUF2RHZtMko0VjJYZXFFZUpnMzhKZjhHcmhKMEtWQUZxaG05LWRSYkF1Um5zZdIB5wFBVV95cUxQV3QtVHBrSWtuWVpBb3V6QWt2NlJrRXFpeGlWQTJYVmloNmR6QnpuazRGRjNUZzNVMGNpeG9JNS1PeXEzTzhsU19QYU9yRVE5aHlJWWU1aEdTLVJqQmZGZGF1RlJEUHJHV2N5eTJ5ZlowZGhJTG9EYW9YTFpoSC1iYm1MZUFSRXBrS3p4aFRMWFBENnUyRjR5d2ZRMGQ5cU5WZk1LTldKU3dWUGExSk9VQlBJQVJDUHNsbmN5VTRjbzVGOTZzeG80M2ktT1lBZldZa1pKcjhqX3lZY2FtSGNORWt1TjIwZ0k?oc=5"
+        },
+        {
+          "source": "Al-Monitor",
+          "original": "Iran buries victims of reported US wedding attack, fires on Kuwait - Al-Monitor",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalU1R01zQjh1OTJJYVd3eXJKSDN6elNrSjZBTmlKOS1iZ0pSTzVQUGpXckVYWGV4MFZtWElCdWtQbEhiNDRBNWN2R2NOSVkyVk4xdFV0MW5sUkh5TF90dHpvRFVDYi1Uc1hTeklWaWY3SDNWV3VxNGlSMWRCVG40VFVIVWgtWWd2d0VYTFpTLVBoR2stTklFU0FhQ3FrcU5RaXFrRm1mUQ?oc=5"
+        },
+        {
+          "source": "Firstpost",
+          "original": "US launches wave of strikes on Iran as Kuwait reports drone attack, Jordan intercepts missiles - Firstpost",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWHZfbWNQQmF2OTYtSkszNG9jczNCekdPRXZGQ3NKMTMzNU5DczFuUWRkQ3BLbDdDa20xejFJc1k5RjRiZ1Jsal9OWWI2X1pINzByLWRQU3YzNHBESVhORVVEd21XSE5WSXBDcS00RGpuSFVtTjRjWnV1Nm5NelR0TXhpZjdGVkJTVjB5SWswTEhnUjlucEN6cmxIX1ZNXzVHanhnY1NxLXJPdmdkeE4zYUk2WlVHNWZwMk1yRjdPa3V6Rm9qOEg5T2MzLVFfVUFzZWJYc2xR0gHbAUFVX3lxTFBCeEZzSmdXNG5KWTF4VGs5UktfemN2QWpUNWJndGdIams3VWlFZmNaWHVoWkMyMzhIU0pldDIwOEdEeEdzR2ZRWEFxM0drVE02ejVIZkp0LWlwT3ptX3lqZTZIYWJSZURicElwYkhHMDhETGFOZ1hPZDRmaE9kdTE1OWRHbzBSMnY2ekc0dmlSbzZuc0xvWlRkellUNS1GLUlCS1Q4WDZ0QThHNm5hX2NRa0Vkb2hIUFB3X2pfZXRXaExobGRFWjdBRmJUUWpieVBxQ2dYeTdtNk5Ocw?oc=5"
+        }
+      ]
+    },
+    "Japan": {
+      "name": "Japan",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "アメリカが数週間ぶりにイランを攻撃、ホルムズ海峡・ララク島のミサイル発射装置が標的と - BBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02V1V1eUFmV3otV1JCYUl3UzBvMW9VNW84OU1scWFFTGo5b3A3aXA0LWtSLUhFeEVTTVJSOXlTeFlLdVN0cFhQdlF5SEJPUXdib2ZfUTJpVnFmYzFjMklF0gFkQVVfeXFMT0FPLUk4YVBNSC12bG5sZUFteXlET19MY0FGVmwxODBnbXdkTWVXdXVkTW8xWHhodEZ6RFpyZ2dLbDZSUkljb0V4ajZSOFloM2ZhdHhQUElZZmEzQnAtUmR1eVRGTA?oc=5"
+        },
+        {
+          "source": "ロイター",
+          "original": "米軍が再び空爆、イランはヨルダンなどに報復攻撃 海峡封鎖強化も - ロイター",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VjdhV01zY1lrSUtFX0dJeTZRS2NrUzUzdVRsbkFNa2RWaTU3RXlPQUx2QUpUMS1HQVh6SXA0aUViLVZTSTFVXzktQ0Q0WWpCdXM3SU5IeUtFMU8tZVY5NS1JMUN2b3B4X3QxeEJ4cS1Yd1RjUEhUc3pn?oc=5"
+        },
+        {
+          "source": "NHKニュース",
+          "original": "アメリカとイラン ホルムズ海峡で攻撃交わす 約1か月ぶり - NHKニュース",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NQ25uRDRyeUoweHlvLWlMQlRMSzB0Y3lUY3U3UHRMV0pOVHRYbVVKOExWX29FUXpQSHNrdm9rbGVPYVFfRU1tTzlUY2MzTXhwSGlOUWhzcERxM1AwWUNR?oc=5"
+        },
+        {
+          "source": "朝日新聞",
+          "original": "米・イランが攻撃の応酬 結婚式直撃、子どもら死亡 原油価格は高騰 - 朝日新聞",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZHpZeldCOW05YWNZbWZMSjROUjA2SnFHNTlTQjRSX2RyNk9Xckh3T2lzU2ZFb3dqR3BVT0c0azVJZV94Nk5BSkdVaDFJMk1yd3ZoZXF4Z055cHFVazEtdjN4UmJkNW8?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "France",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "L'Iran attaque des bases américaines au Moyen-Orient - BBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50TXlRaVgtenFEUlRNQXdjNUtIYjRZa2JZdWdkek5WejdtNGpzemVVSmZnVmk3WmpxMXBzR3RiNXM4WEI3SHp2YTVWOTNORWtxdldPNjFGOUlRaG9ZOGfSAWNBVV95cUxQZ1c4eXhBd3pLSFV5OWdNSy1PcDR1NVBCWnl1dTNzaTdZN0dpU2l1cFZfSHQ2aGpEM2JSSTlReVpaMGVLbXktQzFobGlMV2wzbUIyM0hrVl9UVWxpZ2w2cDdKMEU?oc=5"
+        },
+        {
+          "source": "BFM",
+          "original": "Guerre au Moyen-Orient: l'Iran cible des bases américaines au Koweït en riposte aux frappes menées par les États-Unis - BFM",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMXdrWWd2R052UzQzaEFXSVVCZnFrZ1pfbzNkeUZkTEhWVlpBbUVOcm1hMkNCVlNOVF8zb0NsOGMyRVVKLTd2cWZPVTE2RW0ydVdTZDVoMFZiSEtjb0lKSTkyMGd5NG9UakVVQlBYaFpBM0lnOHFGcTBJdjBtbnd5eTlzQ1hqdmh2cjg3VFUtOXJQUjI4RlJ6WnlxLXl0aFVUaHhhZ1RsN0xaWUh3bGZPbW9uZ2F2WUYyX204RFBJRDEzQ25oU1V5NWctaGhObzIzOHZxRnJQdGtQbk9ybEpzZjhZQTZIY1hmNWE4TnJMeDBfd2R5ODVpZzhUd1dNcThiTDdvVGNnSFpEWDB0VkNnREg3UENNNnpKaGpN?oc=5"
+        },
+        {
+          "source": "Ouest-France",
+          "original": "Guerre au Moyen-Orient : l’Iran dit avoir visé des bases américaines au Koweït et aux Émirats arabes unis - Ouest-France",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYS01ZldFdlVpbzd3dS1LdUV5OWZVbzBYNHpWNnhMNEVTQjZkTEp4Yk1BS1RsSkc4RzFXVTZBY0xhRERqLWJyNUxzSlFJNUJHTzcyNjdGeU1EQlRJMjlUclVPNGlTWTloekd1R0c5dF9jMDVSbk9oM3FDTWI5UEZyQ0laNktiV1JmR2E0MlBSSTMyOS1iNDN0a1FNRkRTQ2xzdlF1a0RtSm43bkEtQXVLVWl4NFllMW5IRUw5ZkVUSENONlVJMXdnSmZmNVVhVV9DNU85X2g5d2RVeG5fQU5nYk54SzROTFFWZlFiN0VSV25iQVJnOW83c2t4eFk0elNQWUFqdW5OUjVNQQ?oc=5"
+        },
+        {
+          "source": "icibeyrouth.com",
+          "original": "L'Iran vise à nouveau le Golfe, promet de venger une attaque américaine meurtrière - icibeyrouth.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGhsd212WmhLTUJyMksyeG1BV08wY29hSDdVUDdwNEUxZFhNZWFXcjExTFJqbGVpXzA5TExQeVJSOFhkTEJSSjhaZ09rWGtUbGZYMjl5SlQtQ2RFZlZIcnBmeUtwWjdvSThRQ0V1VzgzdEM4MkVlb2F5dzhUTi1MNnlvWE1LNjY3Y2NfS1o1VXpVMWtKRlpmTktYOWdVZTAyeWc?oc=5"
+        }
+      ]
+    },
+    "Germany": {
+      "name": "Germany",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "Frankfurter Rundschau",
+          "original": "Raketen auf Kuwait, Minen in Hormus: Experte zweifelt an Trumps Strategie für Ende des Iran-Kriegs - Frankfurter Rundschau",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlhLRDlWMUR5Wmx4MWtTendoQ0RfamFwb0lfamZSeWNLdU5vQ1JDRlp0YnFoeHhSWDZqWDdKckNlUTBlbUpsX1NMZzhHdXhsVnJvZ0g1cFBLY0VCQWhqYXpEeXliNDhJQWpUYmtSN1dzWkZzbGloUmJaMHNhZm5COTRiV2NyT3RKSUFNYnBvcmRCX3lWeFZQWVAyQWRmRHU3bWl6bnNMR1h1S1Jva2hPY2xhYnozVE0?oc=5"
+        },
+        {
+          "source": "Tagesspiegel",
+          "original": "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an - Tagesspiegel",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOC1iRFJhbUNVdHo4bmwxQXVkcW9ETkw4WDhBelpfNWdjVWowN19adXZZZGJwbjBXWUlwbkhlamtXUWhBaEVyRXNtWUkxVWc0QVRpVmRSRnJObEZsQUhGUzRjRTA0cktHeXRpNFpoZEQ4ZTl0Ui1CVTRoWVdkdnVhazJ4eGdKQWJ4SENIU191WGo0ZnpzNWJyR1J6YnhSWGVORENZSmhNQkRZbXVTbkJ5RjBIQXJmc2tvQ3lxaGNodXhaMkc3VTVZ?oc=5"
+        },
+        {
+          "source": "Vietnam.vn",
+          "original": "Iran greift US-Stützpunkt in Kuwait an und beschuldigt Washington, eine Hochzeit gestürmt zu haben. - Vietnam.vn",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjYyYV92czBZQzFSUDhTMGJjTXRxaFdDdmd0aXdjWUJ6YTI4RExiSWljVFJtSVVzSnQ0ODRnTzZrSTlDRUFpVkFQTGRFcHVqT3pPMTNOQ0xyQjMwcmx2bXZJd25ncnM5LWtfZDFUS0xDLXh1T1cwbm41dDZRODR0OEFjU2x0Y2hNejVSaWtaUlJDYmVEOEc1cTdNUW4?oc=5"
+        },
+        {
+          "source": "Audimax.de",
+          "original": "Iran greift wieder Ziele in Kuwait an – Keine US-Angriffe in letzter Nacht - Audimax.de",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT3RxMXVkSTVDeUtnTW53bFhqeFFoeER3YjZrMVpyTTRNZE9lM3FuM1lvSDFpVFkzT19keWk2Ymo1VWF5WldsNDFPS1pTTEdFMjVRU29QVl9ydm43WjktSFE5R0tYTmwyNi0tdENZV21pVkg0SlpHZTdtTnVlWlVLeW5UTzZPMEduMlo4UE9aNjJhZ0pQQWdsc25ka3NqOXhKbHBwZm1ESjE?oc=5"
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "Brazil",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "g1.globo.com",
+          "original": "Irã diz ter atacado bases dos EUA no Kuwait e nos Emirados Árabes - g1.globo.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2V6WWdhWDI4UE1EazQ1LVpyZXZwd2JOTUJZOVAyN2xCZjAyTjV5TEJ5NW9mWDk5MUxITVBrbVZRd3V2ay1xMC1qMWZOZVpfOUlHcGJ5UGhNMnFFa0xWdXVEXzI1SHk5X3VSUklCd09WM0lUN2pjRW1vRmg5SlBuc3FGMHRseHJkd3FkTTJYc1BIOV8wR3huc2NObmhMQ0cydWZYLTZvTdIBtgFBVV95cUxQUmtBZEtjT2YtME5mekNSM1ktVklzdktvdUg3cVhrMUhiNWtHUE9xVVVJRHo3ZmpQRXRTZl9CZGJBWXZ5VjUwSE1zQ1lRVWlHX1FPNWVCQkg1QWlLanVEVldKRVA2UEtzRjlpejFvU1lsZUNON3pqUTZzNE0zTFozUUZTU3N1d1N1cFplcUVrZTZIMGY0cjcxY0dJSkpaQ2RlNm9BMHlNLUtaYkJPVTN0cFpaV21xdw?oc=5"
+        },
+        {
+          "source": "CNN Brasil",
+          "original": "Irã ataca bases dos EUA nos Emirados Árabes e no Kuwait - CNN Brasil",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGRvb3NGc2JwcUVNTWJBNjBZY2M5b01zc3RGVzZnZTUtdW1hZGxZSUdYQlYxVHZYbW9feEU3YkE2TjJvU0MwRm03a0RxRnpHVzh6Nl85VDl3VTJJdTl2dUhqWGZGMFR3OWdjVTY0U2FMcVhTT2luM1lFOV9FRnJuakVDUXNaYmlWMldFY3dUS0kwZGRNcHh5TFF0ZjZ3NXc?oc=5"
+        },
+        {
+          "source": "Petronotícias",
+          "original": "O IRÃ ATACA BASE AÉREA AMERICANA NO KUWAIT ENQUANTO O ABRAHAM LINCOLN CHEGA ÀS FILIPINAS PARA FOLGAS DE 5 MIL SOLDADOS - Petronotícias",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUXJmNEl1OWNlRmhpVVdpRkUyYXpoQkpzZWVHbGhlQ2tsdjFqem9WX1JpUTJKVG9JdkFJd0h4dGZNbWxJR3N3TDc4cndJSUlrUTBXT05DUUtYMEN3OUZxdnJ6Rnk5ODlKdVZsOXl1NU5qazBsNmJGSnRCWE84aVc1c1lIN0VVal9INWgxQktpUHUtUnlBemNtT0NQYnhabEVVWnE4QmhxRGlTME5sdGZ0NlRYcDczMDVSN3B3MW10ZGNJTDZOQ1FVYmhaQmh4czhudFQwTENOWXpDYy1iLUpIc1hB?oc=5"
+        },
+        {
+          "source": "g1.globo.com",
+          "original": "Irã ataca bases militares dos EUA no Oriente Médio e diz que petroleiros 'explodiram' em Ormuz após colidirem com minas navais - g1.globo.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVUhSNjNMREtvQV9yamw5RXpDV1MyNE5FUFdVTk01V04tVkhPd3Rjc2pwZjdWZkx3dTV5TFc0VEJSX3Y4M0RJb01oMFhYaGFEZXVFZnZmZXlLZlMzNXBreEx3MFFXajg3al9rT292YlBZWGJJM0h4SkRhVlhtNV9xUm1QOTlTOXc1eVRzc3FqWFA1UkZ1QmpPSGpDQlA3SHpSSkVidUcxVzI0MERqN1hpSXFTeUlDMGtVYURqRWVjOTFRMVQ5dXZBUVhSUDYxYU9nSFd4cW9UdzJydW9IUUY5dkFLVGJyMTRJSkFEeTA2amo4YXpMUUR0QVhKM3haM0V6cUV6cXZiUdIBlgJBVV95cUxNVy1kR3VFMkw5cUdPX2poMWZLS1M4LUFhdGEwU1ptdTJYSEREX2dpT0tZZWZlQkdaeHBMTmQxWHJyM1BWWWtPaEU4LTBPVTdxV053TjBJbVM1Wmx5dTlaT0F4MEFaZ3JBVEJpMWh6MV9TR19IdFlELWhzV2pzdGlEVWRVcGFJV3BUVFZxNEhlbklCRmdnUnBkNENoY0l3UHJ4Rk5sWkJPT25Idm5rZURnNVhvTDlaVy1ORlRLa2NWR1BFR2ZZeUktNFZZSDBzeGdHZmktMVZ3VGhwaEpuZ1k0QkRSZGVVTDNSQ1d4TWtMTW1OcDlCUTdlaFNxTzBWRVRMSnJ2UjdNU3Y3VktuVE1TQUdoWkpDdw?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "Russia",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "Euronews.com",
+          "original": "Иран обстрелял американские базы в ответ на удар по свадебной церемонии - Euronews.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00SVpyOGhUbUJsVERlZmk2WkhKdXpMRTVRMVhRX25SR0FBZWVpYm1pd0ZiLVJOMHlTYWhWQnlCbmNKMnY1d3ZvQWMwd0dzZHYwR3UzQjZfRlM5VVM5VXRVQWdReXRCcXM?oc=5"
+        },
+        {
+          "source": "Интерфакс",
+          "original": "Иран наносит удары по американским базам в Кувейте - Интерфакс",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQXp6bzR5REgzajhsQTlRX2lkb0NBUi11cnh3b3hYenlqWFZGVDBEWDk3alVJd0xtLXRSNEtHUmFPS0ZVd0hybG9VX0hsQdIBS0FVX3lxTE1zXy1KTThlNE5vUGJWZThOcGpocGVrTjJfUktoay1GV1Y0ZUNGeDNMQ2NmX0d3bEZFak1Tajd3Sk15TEVGaWxiZE9VSQ?oc=5"
+        },
+        {
+          "source": "Общественная служба новостей",
+          "original": "Иран ударил по базам США в ОАЭ и Кувейте – ОСН - Общественная служба новостей",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0Fpc2NLLVdOUlBQUTNyNzhNNVV1ck42R0sxb0Z6VkluZmFrWFV5T1VPOE9WeDQxTkhzMFFKWWtrc2hnMi0yczRlUVdXblBZNkVRelotYlNrMUwtQzRMSHNXQ2pacnc4MlJLVUVlclVKR2pZNHJ6bEpSSnVqTEVWWHZ3?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "США нанесли новые удары по Ирану. Иран ударил по американским базам в Ираке и Иордании - BBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3OUVtN2hQQVNfcWpmbWMxNFhuOHhhODBnQlNqVVRackYtY1VnUDNXdVkwdm1qSXJaSDdRckNoeGxMTVEyandOZDJnUVJCOUZZdmtmT3BKb29tc01hd1HSAWNBVV95cUxPZVJnMGI3bFItQVlBa0tDVzJvai11U2JteHR3UWlySnNVNnZSaEFhX1FKcDJvRENDRlkzeUZOdkRlZGphU21RRlI5cWZDeURnMkdCZFlaVnhQbEFFa0pFLVBET3M?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "Egypt",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "France 24",
+          "original": "من الخليج إلى العراق والأردن... ماذا نعرف عن الهجمات الإيرانية الجديدة على الأهداف الأمريكية؟ - France 24",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi5gVBVV95cUxPWF9xTUpURkF6Y2ljMFJJbFNvdXQyaWl5WDNYVzNPVzRXQ0JoQWdLME5kWEh0cElpWFRYS3lZRXE0WTBtTVlfNWtqczY2RU1xUFBJUFhzdWVDcy1uWERNSEZLTW1wY3d2N3JQRFlUNEpNOUliTlNVTE9HR0dBUUI5Q0twOWRfSGtuYUROVFY1NzdDWEdWNzVFS1VKTEhkd0luU203SHRORUZ4OHI3UTJrdEZ0SjdadUtqWlZvSTgwbXY1V2J6ZF81bTlRRE1OMnAwZUFKS3RaTUZVRzU1UWtQanN2YURLLWYtQXFSNVNaMC1id25zdFJhNVZjNEtITlVYdFFHWkJLaGZIb2FwUGI2Q3pEU3ZHNHN1WjlUVDNPOWNlaTdaVkZfWTU5SUl3N1FxNmRpeDhzbTM5aHdfYmNRd29rcmtOcjQ4UmNjbzVjVFQ3Nk1wc3B2Ukxkd0xuUThJQ3gyZ2N2Tk0xV2s5WlJ2U20zZk0tQWhxM3JpWUNSZUo2TFByTlpUMS10Tkl4YXFqY25kZ1VjeG81Wk95S1VBZWp5WlFVNTFLbGVDbG1GY3c1MHZRREFQQVBOdzhLU1VDYVRkUGdfUXFQMTdGUUNzOEFPWEtUSnJzNnMwY0o4M2xBeHVQVXpma245UVBmUjUwZDRod2tYZzBXbFl6b19BODBJVXRQdVdCaEd0T3BuN3RZTHNndU00MU9FTFNkLXVNaHR3QjB5M2VNNkN6TVhuZ0FhX0xmcWY0VlFIaGxLQTFVWmQzam8tWlRsalozR0gtclhQUDMzMDdpdG10R2F6a1NnazFzSmRaTk1zSFRHb1l2aW1VemxwS0VVVkdIWHFjRTRiUDRMbk5nT2RycVp6b0RDYk9GZHV4cm1qekhjUU9GbnlaNF94VWtfc2d2Qnh5NVRhR0piWlFRNExhbkNHX2dfZDdreG9rTU04Wk5MUmZiQ21DcDllNk1ER0NkLTgtUTVmVmRB?oc=5"
+        },
+        {
+          "source": "arabi21.com",
+          "original": "إيران تضرب قواعد أمريكية في الخليج و\"إسرائيل\" تتوعدها بـ\"العصر الحجري\" - arabi21.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxQdmtud2N2Rzk4S2dDUVdva2FaLV9wSWlDZE5YQUgzQlpaYVA4azdDVkI0ZDBWYUIwc00tczh1M0ozSl9tYV83UEI4bFhlYjFIZERiZmdHUk14VlhEUUFxQWdaTjRtWXI1eW11TDBPVDdzTmtEbV9TYThWaXBHdkVEMTlZWFEyeE9DLW1zdFgyeWpYRkYzZ1dUYlNLYzA3ZXN4cVM0VVhreVBhRVJKNG1ab0hjT1ZrcVpEV1VTV0FmUWMyTEdGZmE5TEZjWm45alNHZ0hyZXRuUWNWdWVHcWdNd2JickFpU2J0X3B0d0xaTjdEQ0lUSUtmci1DWldDV2tmODNFdncwWEl2TUxxR3BiT21VMUpwbmZvSWlrUW1LYXl2QS0ybmN1Z3pIamVfZ0pkUXI3aEVsbWdBVmEyVi1CR05SNWpaR25DbEdOakhIczBFNl9TUG5YbE5nVkg4OUlHM2xublhRQ0ZjY1RBdnhVTHctSmljcGJGSXdfd3lhMmEwVjZ3MWRpUGZoU2o2bnUyOV9sRzA4Q1JEVFpodWlRUVdQVXVmdF9YOTBWckhMekdIY2R1Z0VTZmFreEI2YWdlMVR3Uy1SdXN3YlEtR1d0TUNPOHNRcnNsMVpHWTdXN1JCRnBzSzdBUXp1aklvZHRLSVAteUVRbmo0YVVIbmp1QVphMzVRODdnekJCc015UUlyT3BzOUN5NzZpejlzSmt00gGkBEFVX3lxTE9HZmcxa2JJejZfeC1KN2dZekVqRENFQ0lCaGppWktWMWFOc1VDeDdCWU9SZEozLWJKNkZJbUYtV0hlbzNYLVFkN1NzaldtYjh1cEVFUXJIaXk2ZHVfR0M5QXM5cmVoZm0wT2E0THZQVVNfM2ptMWRMTnBvTjY4UWsxRXZ2SV8tWWNDOF9zNWp2aHFiN1NKbEtvSDM3bkFKdjRjbllmQUhuUm5pU1ZMbF8xb29aZ2tNZ2NhLUxseklPc1o0Rzg1ZFNjaU5rUmxRNGJzX0VmdTJxQmE0WHVYLUNLb1lMRVhQRnVZOUw2U2xtektQdVFlSHE5RTJuN2Zab0pwMHA2ajFleEVrd1FXOUJ1S1lNU2g1UlBveWNFeGlqNDRuSXFCWFhvQjNwSk41NnlYQkR3aHItVzUyU0w3cFQySmRpYWtQbVR6QTJJTHVCY3U2REdlZE1JWHpBRU03dTRyMWNtNzVQUWRQc1U1MVRFenl1cmdIejhyckNhVU94VnFET1FYMlFxTk5sZmU2SXJGcXBHdl9SMWh6VVUyNEc4NFZnaDctSjBrWjJVUGFSYWpOMmhyZGdYRXVtNzZGXzBQV1RlVkJTM004S1BreDBNYmgwNjZad2c4cEZCZVVNbTJzY0M5OENHZTBsbnZNODhKdWJObXpxaGl6SXducHFwNXBzSWJHTVdoTFdseXRLZF9ieVFXc3RmTXhBdUh5WE5xVDFx?oc=5"
+        },
+        {
+          "source": "Anadolu Ajansı",
+          "original": "إيران: استهدفنا قواعد أمريكية في الكويت والإمارات بصواريخ ومسيّرات - Anadolu Ajansı",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivARBVV95cUxOSjlxNjFhZmxHdzZSWWhfVlBaRnQ0NlU1RW9yZWRVSHRmQ19naERScVpjREpMcE1wQXhDMkJVU2NpOGxfMFg4ZXhSZ2VWdlpOc3JONjJRMmdRUnlVOFI4LXU5Smp4aDNwd2x2ZEtXdUw0M3lsSGRCWnBIeEFnMTlockZ0YUlmMmhTN2dnYWtFYnlLZmxGNWF0WGY4T1pZSnkxX29kSnRacnBhRTdjYW9YcXA3a05BWUhjUTJvTDZSRm5VTzBUb3lJQ1BuZGNFNEVwelhXVVFTeUdxQWZGdC1wMGhfUzVZSDlxbFd6UkNvaG9xNVhGSmpDcjdWcDE2RVd0MHdGQkxJNl96RzBvLXFJTWF0QVUtMGNRanFCd05DSF9nQ2RpYzU1Y3lpelp5SVZtTGRpdWJGc0dtV2VQMjlRNllQMVZaUlBVOXlUR3lCTUpNMjdIa1F6dFNmbXZDUWNDVmwtX1lPUFNqZk5fWGI3Q2ZfN0h6R09fYmw2dDgzd3d1TUdvU1h0bDExX1FIdTltTk0tQzdKSmtUYjVMM045aFBwSjN3R3czc21RTVlsanRocVVzZDdQSnpTRUs0OTNySFVrb0RPTWRfWThpVkx1dFVsakdUcXVfbGdDLXNpT3ZFa1ZhTzhpOXFWZmlMSVlENlZSUzYzSE9oZUk2NHJ2eW9UWjIwT0dIdEhsZUg5S2Z2R3dlVlpGMW8wb3RrZVZmMl9uS3ViNlVIQ3ZPZ0NlRUpOODktem16RzUxcw?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "الأردن يعلن اعتراض صواريخ إيرانية والكويت تتصدى لهجمات بمسيّرات - BBC",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNktPV1BtWlVScEZNbTRHb2dENUdfeFdFS0Q4Q2ZZLVB6MEVwTGFWNkZRbWs3WE5pUVNCRnBZM3V4QlViTnJBeDJORjU3Ql93ZFlFOEVRRTdvNW5z0gFiQVVfeXFMUFBINjdidktad25CZ2JrYTNEZndwOUQwcmFYV0ZJVThlQjlMNzFieFA2aUZPRy1RNFZhc0RKTC1RRlA0anJ4NVVvQUJPUWZkZWw4WWpFck1aTkZKbm1fMzRFVXc?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "China",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "新京报",
+          "original": "伊朗军方称打击科威特和阿联酋境内美军基地 - 新京报",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90VkhScUFsRUxQVEt0X0c5QlJGVFpoQUtUNWdqaTFsYTlxOWtveUZIVllzYUUxNTliSWU1YWd3M1hVUzdJekZRZXhGbkM2VGlRMnUyVUZ3RUFiMTBHNWthV2VpV1Y?oc=5"
+        },
+        {
+          "source": "新浪财经",
+          "original": "伊朗称对科威特和阿联酋境内美军基地发动导弹与无人机袭击 - 新浪财经",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3RCb1ZwempXODNTYVg4MWRlZDdaTjFlX1RTanNCTUNlZl83eTJjYUgxelpOQkpGSy1hejJfOUFheDNGVkpLcnVmd0loSE91MFB5VXRmZVJoaUkwREtYbEw3Y3JqcGtNQ2xMS3luX0U3NHE4em5WS2ZKUjhybjJBYVplYnZ0elVTbV82VWZtUFg4Q2p6WmxsLTdpVjc?oc=5"
+        },
+        {
+          "source": "央视网",
+          "original": "伊朗称袭击科威特美军基地 造成多名美方人员死亡 - 央视网",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UR25PM19Nd1hDZ1d2UEtYRkREQmNjRy1UeHp1Q01vYkhLbjNJYkxnZW4wZHpDdG5pNkJ6TWdXVkhwY0JuSHk4SGlMdWcxR05OZWQ1V196ckFjNS11YkdFWEd2bnFFUWlxNHVpZWdxTlV5WVFQV29fbQ?oc=5"
+        },
+        {
+          "source": "新浪新闻_手机新浪网",
+          "original": "伊朗称袭击科威特美军基地 造成多名美方人员死亡 - 新浪新闻_手机新浪网",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pUUEtODFKMDlKOG1VNWt2cTZPRmZhYVpRTW11MmhlUE5FaHl4NDNvYmpqcVZnVUswVmpDcmo3WHNTdlBCekdVaHA0Zk83eU9oRmt3Y3NvWHBzcTNxRGVmSGVra1FObXRsdmtGY25pajJhSEta?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "本期无 LLM 分析层，仅呈现原始标题对照。",
+  "event": "美国对伊朗发动打击后，伊朗以导弹和无人机报复性袭击科威特美军基地，霍尔木兹海峡局势紧张，中东冲突升级",
+  "event_title": "美伊冲突与霍尔木兹危机",
+  "date": "2026-09-04",
+  "slot": "evening"
+}

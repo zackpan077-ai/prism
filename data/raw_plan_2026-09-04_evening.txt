@@ -1,0 +1,17 @@
+{
+  "event": "美国对伊朗发动打击后，伊朗以导弹和无人机报复性袭击科威特美军基地，霍尔木兹海峡局势紧张，中东冲突升级",
+  "event_title": "美伊冲突与霍尔木兹危机",
+  "why": "该事件被美国、印度、日本、俄罗斯、埃及、中国等多国头条共同报道，且各方立场（华盛顿的'非战争'定性、德黑兰的复仇叙事、地区国家的红海与油价关切、中国和俄罗斯的官方措辞）差异极大。",
+  "queries": {
+    "US": "US Iran strikes Kuwait base",
+    "UK": "Iran attack US bases Middle East",
+    "India": "Iran Kuwait attack Strait of Hormuz",
+    "Japan": "イラン アメリカ攻撃 ホルムズ海峡",
+    "France": "attaque Iran base américaine Koweït",
+    "Germany": "Iran Angriff US-Militärbasis Kuweit",
+    "Brazil": "Irã ataque base americana Kuwait",
+    "Russia": "Иран атака база США Кувейт",
+    "Egypt": "إيران قصف قاعدة أمريكية الكويت",
+    "China": "伊朗 袭击 美军基地 科威特"
+  }
+}
