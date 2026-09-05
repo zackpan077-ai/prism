@@ -1,0 +1,17 @@
+{
+  "event": "特朗普特使维特科夫与库什纳携停战方案访问莫斯科与基辅，推动结束俄乌战争",
+  "event_title": "美特使赴俄斡旋俄乌停战",
+  "why": "该事件在全部10国头条中均有报道，且美国、欧洲、俄罗斯、中国、印度、埃及等各方对谈判动机与前景的立场差异极大。",
+  "queries": {
+    "US": "Witkoff Kushner Moscow Ukraine",
+    "UK": "US envoys Moscow Ukraine peace",
+    "India": "Witkoff Kushner Moscow Ukraine peace talks",
+    "Japan": "ウィトコフ クシュナー ウクライナ 停戦",
+    "France": "Kushner Witkoff Moscou Ukraine",
+    "Germany": "Witkoff Kushner Moskau Ukraine-Verhandlungen",
+    "Brazil": "enviados EUA Moscou Ucrânia Zelensky",
+    "Russia": "Уиткофф Кушнер Москва переговоры",
+    "Egypt": "ويتكوف كوشنر موسكو أوكرانيا",
+    "China": "美国特使 莫斯科 俄乌 停战方案"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "findings": [
+    {
+      "title": "显著度两极：美英法德上头版，日本巴西完全缺席",
+      "body": "美国（Axios『Trump envoys Witkoff and Kushner to travel to Moscow and Kyiv this weekend』）、英国（BBC『US envoys arrive in Moscow ahead of Ukraine talks』）、法国（Le Monde『EN DIRECT...Kushner et Steve Witkoff sont arrivés à Moscou』）、德国（tagesschau『US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen』）均把此事放进头版前十，视为当日要闻。反差最明显的是日本和巴西：两国头版前十完全没有此事——日本头版被高市人事、尼泊尔救援、国内事故占据；巴西头版几乎全是国内政治（Moraes/Vorcaro 争议、选举民调）。事件对欧洲构成直接安全利害，而对日巴两国议程优先级明显更低。"
+    },
+    {
+      "title": "德语区独有框架：聚焦『谈崩了』",
+      "body": "德国媒体大量采用否定性结果框架，这是其他语言区罕见的：tagesschau『Kreml sieht offenbar kaum Fortschritte nach Putin-Witkoff-Treffen』、DIE ZEIT『Gespräche zwischen Putin und Witkoff enden offenbar ergebnislos』、Tagesspiegel『Treffen mit Putin endet nach fünf Stunden – Kremlberater sieht keine Fortschritte』。同时 Frankfurter Rundschau 突出『Putin droht Europa mit Krieg – „Sind dazu sofort bereit“』，把事件放入『俄罗斯威胁欧洲』的语境，这与其他国家以『和平努力』为主轴的叙事明显不同。"
+    },
+    {
+      "title": "俄语区信号：官方降调 + 独立媒体披露战事未停",
+      "body": "俄罗斯官方口径刻意压低期待：Интерфакс 引述佩斯科夫『Песков призвал не забегать вперед...』（呼吁不要在会面前对新提议抢跑）。但更值得注意的是 theins.ru 的头版标题『Россия не поддержала режим тишины...и атаковала Украину ракетами и десятками дронов』——指出俄方并未执行『静默 regime』并继续导弹与无人机攻击，这与埃及媒体突出『普京停止攻击基辅三天』的正面框架形成直接矛盾。"
+    },
+    {
+      "title": "基辅遭空袭：谁放进标题、谁只字不提",
+      "body": "同一事实——特使抵达前后基辅机场遇袭——处理差异极大。巴西 G1 直接放进标题：『Rússia ataca aeroportos de Kiev antes de visita de enviados dos EUA』；法国 Yahoo Actualités 同样置于标题『Les aéroports de Kiev bombardés par Moscou avant la visite』；埃及半岛电视台标题即『مهمة سلام وسط القصف』（炮火中的和平使命），暗示和平与攻击并行。而美国主流标题（CBS、NYT、CNN、Reuters）几乎全部只谈『和平推促』，不提基辅遇袭，美国视角的搜索结果中最接近的只有 Jerusalem Post 提到普京暂停打击。"
+    },
+    {
+      "title": "日本视角的独家角度：泽连斯基的『不满』",
+      "body": "日本聚合源提供了别国列表中缺失的角度：BBC日文版『米特使らのキーウ未訪問は「無礼」　ゼレンスキー氏が地元メディアに』——特使未先访基辅被泽连斯基公开称为『失礼』；以及乌克兰媒体 Межа 转载『クレムリンは停戦進展を期待せず』（克里姆林宫不期待停战进展）。此外日本搜索结果还混入了完全无关条目（伊朗、巴基斯坦、越南媒体日期存疑的条目），显示日文信源对此事的原创报道较少，依赖翻译聚合。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "对比同一事实——特使抵达前后基辅周边的军事态势——在各国标题中的定性：是『普京停火示好』还是『俄军持续/重新攻击』",
+    "rows": [
+      [
+        "US · The Jerusalem Post",
+        "Vladimir Putin halts Kyiv strikes as US envoys arrive in Moscow",
+        "定性为普京主动『停止打击』，被解读为对特使到访的让步姿态"
+      ],
+      [
+        "India · Telegraph India",
+        "Putin orders 3-day Kyiv strike halt",
+        "同样强调普京『下令停火三天』，接受俄方停火为具体成果"
+      ],
+      [
+        "Egypt · الشرق للأخبار",
+        "بوتين يأمر بوقف الهجمات على كييف 3 أيام",
+        "与印度版框架一致，突出普京『命令停止攻击基辅3天』"
+      ],
+      [
+        "Brazil · G1",
+        "Rússia ataca aeroportos de Kiev antes de visita de enviados dos EUA, diz Zelensky",
+        "框架反转：不是停火而是『攻击基辅机场』，且注明信源为泽连斯基"
+      ],
+      [
+        "France · Yahoo Actualités",
+        "Les aéroports de Kiev bombardés par Moscou avant la visite des émissaires de Trump",
+        "同样以『基辅机场被轰炸』为标题主体，将暴力置于和平使命之前"
+      ],
+      [
+        "Russia · theins.ru",
+        "Россия не поддержала режим тишины...и атаковала Украину ракетами и десятками дронов",
+        "俄独立媒体直接指称『俄罗斯未支持静默 regime 并以导弹和数十架无人机攻击乌克兰』，否定停火叙事"
+      ]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "外交进程框架：聚焦特使行程与『结束战争的新提议』，军事后果基本不进标题",
+      "unique": "Reuters 提供谈判前置细节角度：『US seeks to address security concerns before...visit』，突出方案出台前的安全保障协调",
+      "headlines": [
+        {
+          "source": "CBS News",
+          "original": "Trump's envoys Witkoff and Kushner visit Moscow with proposal to end war in Ukraine",
+          "zh": "特朗普特使维特科夫与库什纳携结束乌克兰战争的提议访问莫斯科",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXJOUVlIT2QwVG1QcTdHSFFJXzZsUnJTcExmd2s5dWN2RzE3RFNQaElvVDVLRGd0MDF4eDNQb05RMDlCOHpza1ZjZUtqaDl4cm5LOFJmLU9tUHFQNjFUSUhxVlVuM1lfZFBfMkg0RzhyMjVFVnYtVXFfRmFkY3ZkSG5TeFFHQ2thNXU4Y0JR?oc=5"
+        },
+        {
+          "source": "reuters.com",
+          "original": "US seeks to address security concerns before Trump envoys visit Moscow and Kyiv, source says",
+          "zh": "消息人士称，美国寻求在特使访问莫斯科与基辅前先解决安全问题",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEp2N095ZTZRVGpXbnNoa2M2RmZUZWEwMGlyekx2bzR1R1JZb056bjZVak1YVUpWNVhIellmSWVOTUxsbVpVX2Y2N2MyTXZSMHhZbW9jdjI4VHUyNjVOTEk2SFFDTDQwSmpTMTB4Qm91NEFVOGFrNmtXdmVkR2RETmFBcW5WWWFrT0hsUUZZQmFPcTJMdU5MckVDdk9WRjdMZUh1dm1n?oc=5"
+        },
+        {
+          "source": "The New York Times",
+          "original": "Trump Envoys Arrive in Moscow for Talks on Ukraine War",
+          "zh": "特朗普特使抵达莫斯科进行乌克兰战争会谈",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHBvd0R1dkhGbDc5aWRjbDZBZ1Etb2tscmxreVpxWXVNYjZPYjJ5YUdZM2NXWG85QnJDMWtyYlhXSFV1eXNERmNlMXdVWDdYMmI5bVliR3dvdFJ3UVEwX2N5VDkyNlg4UVpxQXZYaXdaUmh1eG01ZzNBc1B3RlN5aUFwU050cW5aWnY1UUpQQ0p5WHFn?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "进程追踪框架：以『抵达—会谈』为主线，同时保留俄方警告与泽连斯基表态的对冲信息",
+      "unique": "The Guardian 简报体整合双方信号：『Putin signals „chance“ of peace』，把普京口风作为新闻点",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "US envoys arrive in Moscow ahead of Ukraine talks",
+          "zh": "美国特使在乌克兰会谈前抵达莫斯科",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZSVRVVDBwOXBlNThGT09XTGNMWGVodkx5aExScE1sSDNnOFBYTW9ERGtsNFU1b1dKdGc4QmdLbWtZbl82X2cwcEo0YjFVZkxlWlNkcTNEV3lmSGRG?oc=5"
+        },
+        {
+          "source": "The Independent",
+          "original": "Ukraine-Russia war latest: Putin official warns Trump over peace talks as US envoys 'head to Moscow'",
+          "zh": "俄乌战争最新：普京官员就和平谈判警告特朗普，美国特使『前往莫斯科』",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSHhTVUJjUkJ5MzJ3WGJOcUJETTBzX0NtN283U2tlY1NyZi02dUltelNpUDdEYnU2alJSNTRuRy1fMm1yOXlqOExPNE1WZWpRa0JMTjVJaTZQeUVUb1BtOU5sLXhuRTBjYUxHRXhlQ3UtN3Zydmg4dlJMX3ZDU01pR1F4Z2sxakJuM2FwMk5oZFhQRHJST3pVR2F0di1CNGN5WHdLUzNnLUYxOVNpVW1mb0NNdXBGM3lNVmpvMjRHek8?oc=5"
+        },
+        {
+          "source": "The Guardian",
+          "original": "Ukraine war briefing: US envoy to visit Kyiv in coming days, Zelenskyy says, as Putin signals 'chance' of peace",
+          "zh": "乌克兰战争简报：泽连斯基称美国特使数日内访基辅，普京释放和平『机会』信号",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYmxBVFZFZ0ZPMXlDbHJrZjFJTWd6UjNFb1EtaHBPZ00xOVBRWEJ5Sk5QazVxVUI2Um53Tzh4Rm1mVEFGNW5Sb2oyYkJvamlkMFhlTmhqaC1tbGdOTWtmM2JBVXhobFV4SUxkcHdZSjdPZmNBWjhXMVAtX3NsMGpVVnQ4b3VUQi1HVmJHdE14dDdFYmE4VUtVRUdiTzY4VmlvMXcyR2NjOHJkSHdfbVE2eFlLMFZzcm5hWXpUdVNheVF5N25hQ0FJUDBVOTZta0lfN2MybFlkTm5BS2NKY2Rhbkw3ZmU1ak0?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "转发国际通讯社为主，同时突出『谈判停滞—重启』与普京停火令两个具体事实",
+      "unique": "Telegraph India 把普京『3-day Kyiv strike halt』写进标题，把停火令当作事件的核心成果之一",
+      "headlines": [
+        {
+          "source": "Reuters",
+          "original": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine, sources say",
+          "zh": "消息人士称美国特使维特科夫、库什纳抵达莫斯科进行乌克兰和平会谈",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5"
+        },
+        {
+          "source": "Telegraph India",
+          "original": "Trump's Ukraine peace pitch sends Witkoff, Kushner to Moscow; Putin orders 3-day Kyiv strike halt",
+          "zh": "特朗普的乌克兰和平方案派维特科夫、库什纳赴莫斯科；普京下令停止攻击基辅三天",
+          "link": ""
+        },
+        {
+          "source": "Firstpost",
+          "original": "Trump envoys Witkoff, Kushner may visit Russia, Ukraine as Moscow peace talks remain stalled",
+          "zh": "莫斯科和谈停滞之际，特朗普特使维特科夫、库什纳或访问俄乌",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWIwWWMxTkN5X2FaVWh6UFNaZjlYYjh4dGpPQkxKcU9ZX0E2MUdKQVhJck5JbHZTTDAyeUw0SzRKQUpaS0cwVDFkYkw2VEs3UEZPTU5PbXltSThDazAwZDhjUW5mak5ORXlNWk5YV1Axc2Y4OGpIdVRuQmIySG9IcFFDLWpmd2ZFWnVzekFPdUtkOTlXdlpyTnQ0bW1nQWhYRl93TXZfbnJrREtseW5OdmxXMnpNMDdpR28yUjBEMUxhUG1MYkwwVFRiWVY5bjFNVmfSAdcBQVVfeXFMTzVYVi1CQUVmaTZWdUcwSVcydUY2WVJTVU5MaHc2bGlaSFpmcEtlNWZ3MUpSLXFfOFZmN1dSRTB2T3JCN05kbU1BSjUxRXh6R1lXeURTaC1HeExLSEZDanYtZFVzR25VLXRMaU45XzdCQ2h4OG9xWlM0SjdLUnZ5N1RCTHc2VHpZV0tWM0Yyb0lUbmhsRXhQa0JKTkhnalUwbWEzT1F1eE96RjltZk5naDNrR1hQRl91VE9uNWljQTlXakUzZzFRcFhwY1BLaGdpdDFXNHJWbkU?oc=5"
+        }
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "以乌克兰与西方信源的翻译转载为主，附带泽连斯基的批评性视角",
+      "unique": "独家角度：泽连斯基称特使未访基辅是『無礼』（失礼）；另有克宫『不期待停战进展』的降温表述——这两个负面信号在美英主流标题中均未出现",
+      "headlines": [
+        {
+          "source": "朝日新聞",
+          "original": "トランプ氏「戦争終わらせるための提案」 特使を初めてウクライナへ",
+          "zh": "特朗普称有『终结战争的提案』，特使首次前往乌克兰",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nNWFrYk5sSzllTmRwUzJiSHREQ3ZRazJiV1FkWDhoMnVMSlBzR3BBZ1p6MGlObHpkcDBQYW5waDdRLVlUUEpkR0xva2pJSF92R1BlbEs0RGo4bV9INDVxcXVFZjlkNHM?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "米特使らのキーウ未訪問は「無礼」　ゼレンスキー氏が地元メディアに",
+          "zh": "泽连斯基对当地媒体称，美特使未访问基辅是『失礼』",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FZlJmQnpiQVdPZU5xRERINGFrT1BlNmRSY0h5N2pwTEswVnlyQmpTU0luLXgwRjVGVGtXXzdIWTJvV2VhUER6S1V6ZEhOcFVNSlBVT01fSUZrcldwMV9Z0gFkQVVfeXFMTkRDaXJJQi03cnVERk5DTHdQeU9GTmNTYTE2YVh3dU5idlpReGxralZUVkRVTXdmb1g0VlZKM2s2bkJycXF1QzlxdDZVeDJFUl9HdWZscGNHNWNiVGpGcWdXWnY2Mg?oc=5"
+        },
+        {
+          "source": "Межа. Новини України.",
+          "original": "トランプ氏の代表が5日にモスクワ訪問へ、クレムリンは停戦進展を期待せず",
+          "zh": "特朗普代表5日访问莫斯科，克里姆林宫不期待停战进展",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43aTFDMU94ZWkyWWtTSUlzVmFRVkJmcF9FeWdVMENmdDVvb0JQQlh1N3prTW96RzBfajZrTGdUTXF4RkxKMlFaZjQxVlFlSk9VMGIwaXlaMkxqTmx4emc4QXNhZEFGSmc?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "任务追踪框架：聚焦『特使使命』本身，同时把基辅遇袭与普京停火令并置呈现",
+      "unique": "Libération 与 Yahoo Actualités 分别从『普京下令停火』和『基辅机场被轰炸』两端呈现同一时间窗，冲突性事实进入主流标题的比例高于美英",
+      "headlines": [
+        {
+          "source": "RFI",
+          "original": "Guerre en Ukraine: les émissaires étatsuniens Kushner et Witkoff en mission à Moscou et Kiev",
+          "zh": "乌克兰战争：美国特使库什纳与维特科夫赴莫斯科与基辅执行使命",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3QyeWxyNXhmNG9NdVB3WUZsM29KWWdGVDJRVk9fdHIxYzkySHN5VnNCRGx4VVBVV2NPX1dnUFZTdmlZMVRleUxvR2FDOWg0YjJfYjFPZmZkalBBX2FjcXJIakxFRHd4bTJBTUlOZktBNTcxYXVrWWxNYWUwMWNhR3BjQlRjR05aMUhXVjdoaDZVMExTcTU5MVRUcHBGVGoxZjdlY1Job3FqUjBORXlqdS1kNDB5SFJQVVpLSlNLOFhhbU5yTk9PMmVIYVFSUQ?oc=5"
+        },
+        {
+          "source": "Libération",
+          "original": "Poutine ordonne l'arrêt des frappes sur Kyiv pendant trois jours après la visite des émissaires de Trump à Moscou",
+          "zh": "特朗普特使访莫斯科后，普京下令三天内停止对基辅的打击",
+          "link": ""
+        },
+        {
+          "source": "RTL",
+          "original": "\"Nous avons une idée pour la paix\" : Donald Trump envoie ses deux émissaires à Moscou et à Kiev pour résoudre la guerre en Ukraine",
+          "zh": "『我们有一个和平的想法』：特朗普派两名特使赴莫斯科与基辅解决乌克兰战争",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWGliLVFiR3g5QktvaVRzMVNTcy11bU9MZUtWUUVtdjFjaE1ncjA2OWMwTlV5VWxoZ3h0aE8tRWowLXhwd0ZIV01KVzZWTlVQUXRMV0locjktcEltSC1uZEF3QnF5Nm1iakVYcjduSE96emE4ajdiakdudllBYmZVUllKcnVIYTFzM2VwcTcxOENiV001amRFTXdhT1ZhbldBdHpHTWp2ejl0b2t2Q2FQdlBDQzNMbGt1ejBGdUZaenV4N3hKMjZZLUVaT3FLcF8xWThPSTg2U3UxWW5qTEhLbVFlRU5lZ2ZSaHNENktmV1hZRkYwMUNQaW1nb1BjYmFVa2dyUl9n?oc=5"
+        }
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "怀疑框架：密集报道会谈『无果』与克宫『不见进展』，并突出普京对欧洲的战争威胁",
+      "unique": "独有角度：把普京『Sind dazu sofort bereit』（随时准备与欧盟开战）的威胁与和平谈判并排呈现；并具体披露会谈时长（五小时）无果",
+      "headlines": [
+        {
+          "source": "tagesschau.de",
+          "original": "Kreml sieht offenbar kaum Fortschritte nach Putin-Witkoff-Treffen",
+          "zh": "普京与维特科夫会面后，克里姆林宫显然几乎看不到进展",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RcjcydXlVUmtabHNMNVpTX2NhQUUybVZuRGFJNlhrNHpJYS13STNGNnZJSG11VFBiTi1Db2NKd1dhcmtXZUR3M01VZi1RT2FEbVR6RGpKUl84dGU1Z0dtQkhlT2hjU0d6SmJfOXhRVDRFZzcxdjZDcEtFbw?oc=5"
+        },
+        {
+          "source": "Tagesspiegel",
+          "original": "US-Gesandte Witkoff und Kushner in Moskau Treffen mit Putin endet nach fünf Stunden – Kremlberater sieht keine Fortschritte",
+          "zh": "美国特使维特科夫与库什纳在莫斯科，与普京的会面五小时后结束——克宫顾问称没有进展",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNU3UwalZHVXA2OWRWUVNWaVdmRG8yUF9kTTFqOGozMEVpUHdlWGptLW9rZW1rTHdXaG1xdGI3TkFEcWFjU3M0N1pXVndpaERlSVNULVF6RjJvODFwWDVYVW5TUmlQa0dGbG5BWlZxSU40cG1DVXhUVnpfV3k1Wk9QSGw2WVlTbFBsTmUtWkF3UFRZS3ZWaFhZa3ZMYlIteW9kWWdIOFRrRTZLNUk2alp4dTNDTHM3N19IOVRLbG9mSUxLd2FiT0VrWVllenZ1QUdwV3RqTk9tdnMxTGoyWk95SXBMNEN6SU54YzRjaGxlYWJxbXd6UzJCUE9QLXpYZFlRcUotcUl6REJ1Y1RB?oc=5"
+        },
+        {
+          "source": "Frankfurter Rundschau",
+          "original": "Ukraine-Krieg aktuell: Putin droht Europa mit Krieg – „Sind dazu sofort bereit“",
+          "zh": "乌克兰战争快讯：普京以战争威胁欧洲——『我们随时准备开战』",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3hIa1pEUG82Z1p1WkcyZlg1YXpUOTg2aEFJU250WV9zYXdrVXBIMmFUNVJWa3dFMWFlY1k4cHdZM2h3blNoT3NtZVNjVGEwRHpGU3ctQlBXS0QzZWVGYUpHS3ByRjRKQ3FtUGR1UUliVDR2MUlqTnI5WnpHZDl5eWVBaEFjR012MTREdVVtNFZfQU5YQllBU0ZLa0gyX3ByeEk4cHhQdHZRRVVldGlqMjVleXZ6X0hkZUxRVWloaFc?oc=5"
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "以泽连斯基视角为轴：基辅遇袭、停火提议、谈判安排均通过乌方表态呈现",
+      "unique": "Agência Brasil 提供『Ucrânia abandona ambição de ser da OTAN』（乌克兰放弃入约野心）的谈判背景角度，别国列表中未见",
+      "headlines": [
+        {
+          "source": "G1",
+          "original": "Rússia ataca aeroportos de Kiev antes de visita de enviados dos EUA, diz Zelensky",
+          "zh": "泽连斯基称，美国特使到访前俄罗斯攻击基辅机场",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTJ1Nl9WRUVvVldtdmRIa2FfcGplMFJoY3V0X0pJMTloam4xTHV5ZWllOVUtVEZPZ1BzVEVHVWJCenczcUFQdHpjaUVtWmNLUW5fWTI1bFZySGxZOWJrRzQ3RG9hSHpud2xfQ0VSRFFQdkhMYmNxQUNGdFNHX2ZMQjVwcUx5LWVadElR0gGaAUFVX3lxTE93NXNHWXBLWk9wU2NYN3VCMG5uSmk5Z2d5ako1Zk5ic25ZcWM1Ul9ZeGFGRXBKYjBnbEl4bjlmc3kyaE84VExxd25jSm5QWGVqcGtvWjVXLTI2bmI2MU9fZkhMQnFrd01oQ2pXTlBUcS0xejZRaG41YmZGREUzZ2ZwdzEzdVpiRmZnYmRLLWRPZUNhY05nMFlQWEE?oc=5"
+        },
+        {
+          "source": "Estado de Minas",
+          "original": "Zelensky propõe cessar-fogo à Rússia durante visita de enviados dos EUA",
+          "zh": "美国特使访问期间，泽连斯基向俄罗斯提议停火",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2RiRGxCNWpOT3RURUU2T3drYm0wYmRPdC1uZmJoMjdHUHBkdjdBaFFfMWl0OTNiQ29CNnFhbEs4Zm1mZ1YyOXJKNkFjNnlQVEx5OURYc3ppenp5UHNLVGhtVm5VZUlsSWVQWWJ1LWtSeW9uRjBsa2cxT280QmtLM0ZDYTIyVnpSTmdqS0ozYUJSOWRabnMwNXBqTERJV1VMdTA3U3lBMkZlLTRaWm12eHJlcUdZQjJmYndUalR2YnAyN0J4Wk1r0gHMAUFVX3lxTFBkcVFLMFVaMjVnQllWWHVFNjFVMF9Lc1E3R0NFR3pFeUtxZmxwWlFmSGszY1JrRHF5YURMdjRzTUVqeXM3UXhfbUtmQVZOSkpWdC1FV3pnZ3puRDR6S2p4M3V4aVRHcVl0bi1tX0l4WXEzVExLOHRQb05JOFFFWFB0OGNQZEd3V1NIU0R5b3BHQnViY3VlZmpRRUl6a0FxTlBza3BROEV3ZjZvOU5rQWlYLVRZRElad2pIOF9zVWIyYVNUQ2Rqa3Y5RGxEWg?oc=5"
+        },
+        {
+          "source": "Agência Brasil",
+          "original": "Ucrânia abandona ambição de ser da OTAN antes das negociações de paz",
+          "zh": "乌克兰在和谈前放弃加入北约的野心",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE9XQ2FJYmpuM0lsN0plREdfd1BQcC1aVHcwTmNUMDdWbXdPOURoNVl4cUlnSkFUX2p4R2pQSF9SM1ppLWJrWldHQmZSUmk1c1FNVDg5Z3J2VHg4eTk3TU5LR2xBRlZiXzJNcDlrb3FGTUkxVWhReFMtWklaNmhfSkwwQm42YmhFZGU3dDR0Yk1tdXFPOTUyT0lISGRGMXVBdzhCMlpwd25lT3VzS0tScExCcHI3T2xHRHNVUTN4NmYtNklFWlRYXzNCUHRwdw?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "到达事实框架：以『特使抵达』为中性事实报道，官方口径压低期待，强调『普京将接见』",
+      "unique": "Интерфакс 独有细节：『США потребовали от Украины и РФ не бить по столицам』（美方要求乌俄在访问期间不打对方首都）；theins.ru 则披露俄方并未执行静默 regime 且继续攻击",
+      "headlines": [
+        {
+          "source": "Интерфакс",
+          "original": "США потребовали от Украины и РФ не бить по столицам на время визита Уиткоффа и Кушнера",
+          "zh": "美国要求乌克兰和俄联邦在维特科夫与库什纳访问期间不打击对方首都",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XSlB3R0x0S1hxNDlrMDNpTnNYQkZwNVdCRmk3OWRrV2UxOXJ2d0M3aDhHYXk2TkpCNkgzQXhaOEFRNDhJcWRBdzJIZ2FJUdIBS0FVX3lxTE1YVHNqR1JSbWtwd2VfMWNTbnUzbVlqZXpSek5KVzhKS1lDRV9OeU0xRXpfdWtiY0VfQXRXWEhkNG5mQUdQRXQwRmZZVQ?oc=5"
+        },
+        {
+          "source": "Интерфакс",
+          "original": "Песков призвал не забегать вперед по вопросу новых предложений от США по Украине до встречи Путина с Уиткоффом и Кушнером",
+          "zh": "佩斯科夫呼吁，在普京与维特科夫、库什纳会面前，不要就美国新提议抢跑下结论",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Kb3hjUkJ4UjgzNEZFeDBSR1p3YndrTTJRYy1JMFlOeTNWNEo0aDBnTHRNcF9BUDVGNkNVMmR4VWlMX3lBM0JqcUV6WEtGekHSAUtBVV95cUxPTmtNcU9QX1prdEZ5ZVNHZEQxR3hOWlp5SExUb1JwcE9wRWJSUmxjTWxReGxjVDMtWVhRZEVnUHRoTjZ5UjZKQy1STWM?oc=5"
+        },
+        {
+          "source": "theins.ru",
+          "original": "Россия не поддержала режим тишины на время визита Уиткоффа и Кушнера и атаковала Украину ракетами и десятками дронов",
+          "zh": "俄罗斯未支持维特科夫与库什纳访问期间的静默 regime，并以导弹和数十架无人机攻击乌克兰",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kYklyY1ZxOF9Cd081QUd1WW0yaWt2cmNJLXZ1TkZycWtNT3BSbnpOVmR5Q3doZ1prb1JfcE5YYXNYaHM?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "和平使命框架：突出『携新提议抵达』与普京停火三天，半岛电视台额外点出『炮火中的和平』张力",
+      "unique": "الجزيرة 标题『مهمة سلام وسط القصف.. وروسيا تصعّد』（炮火中的和平使命……俄罗斯升级）同时呈现和平与升级两面，为阿语区罕见的双重框架",
+      "headlines": [
+        {
+          "source": "الجزيرة نت",
+          "original": "مهمة سلام وسط القصف.. ويتكوف وكوشنر في موسكو وروسيا تصعّد",
+          "zh": "炮火中的和平使命……维特科夫与库什纳在莫斯科，俄罗斯却在升级",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPekViTG1sNU4wVUpiVWlTVDBkbXhOXzZZLUR6aFdHeE5LZjNqQmxmUUVDTm92OU45NzQxM0xXUUNhRTZSdVpVLUN3b3A2LXhfdWl1MVJIYTZzenpBTDNtUjloZmgtMzlKdjZ4WnZHczhhVVh5YjJ1ZjFnUHNaZE9LOEcwa1hmNWE0RHkyQnZwNWVjajNwYXlzNHZPUzg5MmFtVXJyZE92bFZkMkxDOWI4QXlSRC01Z2dYZmRuQ2hHdDZQUmVMcFdEUC1PU1NMRjFhSS1TUWN6cTFtaC1DMWJzWUNZd2kxYnQyZ2RWcUlRTVBEUXJTZ29xc21RVVFyUnBNQ29DNzhPb0lvTlkxRzR1bk5Ja29QZDVXMjJkbHZlYjUwMGkxNS1iTm1DQm4tcWRmd1hXQ3ZBeU8ycE5VTnFsc9IBxgJBVV95cUxNZVJ5em1lLVVBWTBzdk96TjNoNXVZOGZCMEtVVjJNekVwQ0JlZmwxbFZ6TVdkZ2VvMGdSMlZScGlEVVdIc2JMMVBsdUZET0ZKM3FSZlduaVBtdU16aFY3M2o1anlhRGNWeHA1emJ5clZCTnJuWjl4bFpoR0pqSkJPOTM2LVZCUVVrZDRCZ0VUTWExOGNGd0lKRHFudzBnSFVpaktwTjRhU01oeGp4b1F6eEZkSk5QSXlNTEhxRmNjSERoSUR6cUJBeEJib2Rud0dTV0dtSzdLVGhOQlhJVDhLNmF2NGJSWmhmMmlsYm00dEpTXzhtZGotZlE5UEVkRGhocWlkMkZuVl9jWDlvN3hKU2U4cmpDbnZTdHBETTNMeE5JYkFPWDNFRWdKcnhubnlrdWlzMF8yTjltbjIxRXRrZkJTZERoZw?oc=5"
+        },
+        {
+          "source": "الشرق للأخبار",
+          "original": "ويتكوف وكوشنر يصلان موسكو.. وبوتين يأمر بوقف الهجمات على كييف 3 أيام",
+          "zh": "维特科夫与库什纳抵达莫斯科……普京下令停止攻击基辅三天",
+          "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNUnVVM2hlak4yZFRzV1ZlYWhPZDVSZTB0OEFoVEZBZmpzRGpkWkhyVl84VWVkcXh5Y3BjbmVNMXRjZGlKNVZFQk1JdEp5YjVqOU51SUNKWm05ZDJFWTA5dnhLV1o3a0JhY3prWVpWR2p4NEcxYkhFMHBDUVZId2FCMEJPQ2paSVlUMURCaG5Vbm5PUzAyNjhTOFBXQWFKV28ta3cxZHI1V1ZURDRRY3RobkJLaVlYNVhRVHRtMXhQa1dqZDB4VU15bWltWEVDM3lUaFlSUlotS2ZFX0RFdWoyZU9GamVQRHJqTThqeFlWeEFNdTU0TWNLRm1hdXdjMXZ1UmpkSGZIQjNsTjZ5UFpGVXhXZGJncFFjQU9HeHllOW4ybkw3aDhfTy1rY3R0Sno3VUxmcHNTd0N0RDlsN0sxaWNLQXVXSndJOENvN3JQUWcxV09maHpTV0pMNEI4UUpRYXJReGV2X0lTOE1IOGxuZVJMekl0VVM5SnhBb2pWRG5nQ2UxZU9DZktILUdqalFuSm4teXZ6TENaX0ZCQVRrbFNhTlBBdGZvM0Vua2lKTmVzcE1ORS0tUkVKajVYNGY0?oc=5"
+        },
+        {
+          "source": "اليوم السابع",
+          "original": "ترامب: ويتكوف وكوشنر يحملان مقترحا لوقف حرب أوكرانيا وبوتين لن يهاجم الناتو",
+          "zh": "特朗普：维特科夫与库什纳携停止乌克兰战争的提议，且普京不会攻击北约",
+          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxONmZfV2RRUXV5bE9mcS04R2pIeko2MndPQVBUZzNOcDRlWU9HczhCWl9MQXRzNlc1RmI1Z0VRMzRhbkFoS3pRelFiX1ZadlE3a1B1c1NJamRfc3JZbVJGVXJET0xRTkduX28zSGlEeE1tMTlKbzY2cGl1MVp6d2N6UmxCdXJHeFpLcTkyN3JIWV9xQlUwSWdsU3ZuMllUenV0Vm55UWVsQmRJLWVTc2haUGo4a3NzeHBNTkVhY1kyaG9JS25DQjE1RnBGVkhDbVd6VDRxaTAtUnBWb3Q1RzJDbld6emY0YjAwdUh1aDZTQ3J0dmxTYjF2VGwyOHZraTZFTlhzZi0zNW90anVWTTloWV9MQks1MmNNWmhsYnlMSXhHZkZ6dE1OTXk0MjZZVHlrU3pnZXVhM3lQdDNVc05kVEZrMnQ2UzlkU0VJa3RjRGdwWml2V1pLX3dkd1JfQy1FVTZVWGZuTEJIcU5pUTNITkU1SWd3VG9ZdTNHbkh6QzhmLWttY3dfLWpVTUI4MllldGlMX1NhM2NPcjcxWE1rZGduOURfa09KUE1yUVR2dkllWUFZa3FzUEg5bElOQXlTVURzUEVvbWwzUWE5UWlqUHc0WWtLX0VfRnZPRlp4bDJYWWFwY0FpSldsRnlndTZyZDlhU21CRER5b0s4SzlmbDl2LXTSAf8DQVVfeXFMT3ZtNXZQYVlucThjbXlGREd4MUVnNW9hY1FnemtkbDF5Y3htcXo0Y01TR3N2dWU5RXRQc2VGZFdNN1RXcXdCSDZWaWZNYS1EaF83RW4xWWxHSGcxcndfOHBIVDNmV2htcTM4Qkl3ZWJYNDRfZWxDU0lQaGxKVXJjR0JYMURlM0UzcnNScUxZWWp0bjBvdGJZTnpKTGFaMjRKNG9SUUY4LWRkcGc5elJjU3kwVUN1NzJJcVBvWVhkakJCVEoya0xBa21odnJpMlc0a1ZaQ01MNXRjM1N2b1diVHk2SnBMUGpiQXMzMjJTbUN4M3NZWlVXSkVIa0tSMk4xT252Q3lQX09hVktKSnlkR3p2UTRkVDNaU0hleHNzRFhyUlFGTVBoeG5nRTB3UUdWSzRLOU9oTTQ2NHJQVnJWRUVPdnRweHVPcG9VMlZXcTZHcnlKQ3VCR1JKRUN2NlQ5cEtLWExTbXZPX1pDUVV0V3ZzMUVtQklkMy1vX2luV3NFcXNXT21LVHlrZ0V2bFNQOTI5UHRuVVdvV1BaYW1yVXptU0RjcTh2a2dkei1IWjVza0xkQW1TQ2lYNHR3WmJ2QkhDX3h0TDNLc2NFejV2TVBXMk1ybUF5ZHpRNDBMM1ZXbDZ3MGFQRmRPd1F4bnBOTnhzelVMZkZWOGV0VzZ3Zw?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "方案与谈判框架：聚焦『终战方案』内容、美俄分歧与第三方会谈，不聚焦特使个人",
+      "unique": "多个独家角度：BBC中文的『28点计划并非最终方案』、华尔街见闻的市场反应角度（『油价跳水、欧股跳涨』）、美国之音的『第三次世界大战』警告——经济与风险维度是其他列表所无",
+      "headlines": [
+        {
+          "source": "凤凰网",
+          "original": "美总统特使抵达莫斯科，将向俄方提供结束俄乌冲突的方案",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jeUM3SUdCd2s4b1dhc2FPY3JMNWN3WkYzWDItVkdpcVVuSDVJLXJHM3VMckNaSUZxRVdLU1FBS0lfZTRUdWFTLUFZVnI?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "特朗普：美国结束俄乌战争28点计划并非“最终方案”",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TMEd1WkcxMTVnZEhJRlM0MFRVTDlnVV9sVU0teENqekpGVTFSVlQyLXhIY1pNdjgxX1l4U2I4Y2M0ckZZc2tWazBEcXBSR3BILTlWeUN0R0lEU0xRV3pzbzNBM3Jvd9IBa0FVX3lxTFBwLW5FM2I1RnVFcU84WW9xREFqQ3RTSUZtVkNrQXR5OUJPeGJmX0VLd1Uyb0tMeEpzZlgzMXh6b3JLMjhJZFFoNlZEOWhZMUs5LUZya2dIX2w1b3UxWXlra0dWZzJ5RWZsaXJZ?oc=5"
+        },
+        {
+          "source": "华尔街见闻",
+          "original": "报道：乌首席谈判代表称接近停战，油价跳水、欧股跳涨，克宫：特使访美不代表和谈恢复",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fV0FLRHowaUs1a3draEJOZ0g3U3MxZ3NqTUhMMlZ5M1JHclhNeFRLYk9Udkw4Uk16TUNFLWZZdDI4VHRBS1RuVWdSREJCaENlNVZn?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "数据仅为单一时间窗的 Google News 标题聚合，含大量通讯社重复转发（Reuters、BBC、Anadolu 多国复现），部分国家（日本、巴西）信源混杂无关或转载条目，且缺少乌克兰本国媒体样本，无法据此判断各国整体报道倾向的长期差异。",
+  "event": "特朗普特使维特科夫与库什纳携停战方案访问莫斯科与基辅，推动结束俄乌战争",
+  "event_title": "美特使赴俄斡旋俄乌停战",
+  "date": "2026-09-05",
+  "slot": "evening"
+}
