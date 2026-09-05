@@ -1,0 +1,125 @@
+{
+  "findings": [
+    {"title": "显著度分化：日本头版突出、印度进头版、多数国家未上头版", "body": "日本《読売新聞》将此事件放上头版前十条（『ウクライナ情報機関の本部庁舎にロシア軍が無人機攻撃、長官執務室狙ったか…ゼレンスキー氏は報復指示』），印度 reuters.com 的报道也进入头版第三条（『Russia hits Ukraine's security service headquarters in Kyiv, Zelenskiy says』）。而美国头版被 Lindsay Clancy 案、伊朗战争等国内议题占据，英国头版全是国内政治（Reform UK、预算），法国、德国、巴西头版均为纯国内议题，事件未上头版。俄罗斯头版前十条中，事件本身未见直接条目，但多条相关：『Трамп заявил, что цель Уиткоффа и Кушнера в Москве - предложить завершить украинский конфликт』（Interfax）和『Зеленский заявил, что определился с географией ответных ударов по России』（EADaily），显示俄媒把叙事重心放在谈判与泽连斯基的『报复威胁』上。"},
+    {"title": "俄罗斯媒体生态分裂：官方叙事含炫耀与阴谋论", "body": "俄语检索结果呈现明显分层。外媒（BBC俄文、DW）平铺直叙；而 Life.ru 提出多种归因猜测：『Месть за убитых россиян, разборки с ГУР или подлость Зеленского? Чей дрон разнёс кабинет главы СБУ』；『Военное дело』直接质疑袭击者身份：『Не российский дрон? Кто на самом деле атаковал здание СБУ в Киеве』。更值得注意的是俄外交部发言人表态被广泛转载：『Захарова: БПЛА, ударивший по зданию СБУ в Киеве, попал «куда надо»』（Рамблер）——『打中了该打的地方』，属于只有俄语信息圈才出现的准官方喝彩式定性。"},
+    {"title": "『情报机构』vs『安全机构』的定性差异", "body": "英文世界普遍把 SBU 定性为 Security Service（CNN：『Russia strikes Ukraine Security Service headquarters』），但 NYT、Kyiv Post 等用 Intelligence（『Russian Drone Strikes Office of Ukraine's Intelligence Chief』），更突出『定点清除情报首脑』的暗战意味。德语媒体几乎清一色用 Geheimdienst（情报/谍报机关，DIE ZEIT：『Russische Drohne trifft Geheimdienstzentrale in Kyjiw』）；英国《独立报》则做本土类比：『Ukraine «MI5» HQ targeted』，帮英国读者理解 SBU 性质。"},
+    {"title": "袭击与谈判的时序关联：西方强调『停火前夕升级』", "body": "多家媒体把袭击与美国特使到访并置：rferl.org『Russian Drone Blasts Ukraine Security Services HQ Ahead Of Expected US Envoys' Visit』、PBS『as U.S. talks on the war are expected』、Al Arabiya/Monte Carlo（阿拉伯语）『هجوم روسي على مقر أمني في كييف قبيل زيارة مرتقبة لمبعوثي ترامب』（美特使到访前俄军袭击基辅安全机构总部）。英国《卫报》给出最强定性：『major escalation』（重大升级）。中国媒体则反向聚焦：美乌谈判（voachinese『美乌谈判进行之际，俄罗斯对基辅的战争持续肆虐』）、9月恢复直接谈判（联合早报）。"},
+    {"title": "非西方视角：中国与阿拉伯媒体的差异化框架", "body": "中文搜索词本身即含『谈判』，结果偏重无人机消耗战与和谈进程（新浪财经『启动「全天候消耗方案」？』），SBU 袭击仅有一条间接提及。阿语媒体则加入地域维度：半岛电视台『تصعيد في البحر الأسود』（黑海升级），《الشرق للأخبار》聚焦乌克兰过冬困境（『أوكرانيا تستعد لـ«شتاء قاسٍ»』）。巴西媒体另辟社会民生角度：CNN Brasil 关注基辅居民去留（『Moradores de Kiev consideram deixar a cidade』），Tribuna do Sertão 报道喷气无人机让超市货架被搬空（『esvaziam prateleiras de supermercados』）。"}
+  ],
+  "quote_comparison": {
+    "intro": "同一事件（无人机命中 SBU 总部、据报道击中局长办公室）在各语言中的定性差异：是『打击』、『攻击』还是『命中该打的地方』",
+    "rows": [
+      ["UK · The Guardian", "Russia strikes Ukraine intelligence HQ in ‘major escalation’", "唯一在标题中直接定性为『重大升级』，主动加判定框架"],
+      ["Russia · Рамблер", "Захарова: БПЛА, ударивший по зданию СБУ в Киеве, попал «куда надо»", "转载俄外交部『打中了该打的地方』的说法，准官方认可式表述，仅见于俄语圈"],
+      ["Russia · Военное дело", "Не российский дрон? Кто на самом деле атаковал здание СБУ в Киеве", "质疑袭击者身份，暗示可能是乌克兰自导或他方所为"],
+      ["UK · The Independent", "Ukraine ‘MI5’ HQ targeted by Russian drone strike", "用『MI5』类比 SBU，本土化解释机构性质"],
+      ["US · Reuters", "What is Ukraine's SBU security agency?", "以科普角度切入，弱化事件本身的冲突性，提供背景"],
+      ["Germany · STERN.de", "Angriff am helllichten Tag", "强调『光天化日之下』袭击的时间细节，营造突兀感"],
+      ["France · Nice-Matin", "Volodymyr Zelensky promet une « réponse significative »", "突出泽连斯基『将有重大回应』的报复承诺"],
+      ["Egypt · الجزيرة نت", "تصعيد في البحر الأسود وروسيا تستهدف مقر الأمن الأوكراني", "将事件嵌入黑海整体升级的更大地缘框架"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "俄罗斯袭击乌克兰安全局总部，与美方特使斡旋并行",
+      "unique": "Reuters 的科普式报道『What is Ukraine's SBU security agency?』，为读者解释 SBU 是什么；多标题将袭击与 US envoys 来访直接挂钩",
+      "headlines": [
+        {"source": "CNN", "original": "Russia strikes Ukraine Security Service headquarters in central Kyiv - CNN", "zh": "俄罗斯袭击基辅市中心的乌克兰安全局总部"},
+        {"source": "rferl.org", "original": "Russian Drone Blasts Ukraine Security Services HQ Ahead Of Expected US Envoys' Visit - rferl.org", "zh": "美特使到访前夕俄无人机炸毁乌克兰安全局总部"},
+        {"source": "The New York Times", "original": "Russian Drone Strikes Office of Ukraine's Intelligence Chief - The New York Times", "zh": "俄无人机袭击乌克兰情报首脑办公室"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "袭击是『重大升级』，同时高度关注特朗普特使的停火方案",
+      "unique": "《独立报》用『MI5』类比 SBU；《卫报》定性『major escalation』；Sky News 单独头条报道特朗普『proposal to end war』",
+      "headlines": [
+        {"source": "The Guardian", "original": "Russia strikes Ukraine intelligence HQ in ‘major escalation’ - The Guardian", "zh": "俄罗斯袭击乌克兰情报总部，构成『重大升级』"},
+        {"source": "Sky News", "original": "Trump says US envoys bringing 'proposal to end war' to Russia and Ukraine - Sky News", "zh": "特朗普称美特使将带去俄乌『结束战争的方案』"},
+        {"source": "The Independent", "original": "Ukraine ‘MI5’ HQ targeted by Russian drone strike as US peace talks loom - The Independent", "zh": "美国和平谈判临近之际，乌克兰『MI5』总部遭俄无人机袭击"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "以转载西方通讯社为主，事件进入头版第三条",
+      "unique": "Firstpost 把袭击与泽连斯基为 Kushner-Witkoff 到访提出的停火方案并置；Times of India 强调泽连斯基『誓言报复』",
+      "headlines": [
+        {"source": "reuters.com", "original": "Russia hits Ukraine's security service headquarters in drone attack, Zelensky says - BBC", "zh": ""},
+        {"source": "Firstpost", "original": "Russia strikes Ukraine's intelligence HQ as Zelenskyy proposes ceasefire for Kushner-Witkoff visit - Firstpost", "zh": "俄罗斯袭击乌克兰情报总部，泽连斯基提议在库什纳-威特科夫到访期间停火"},
+        {"source": "The Times of India", "original": "Russian drone hits Ukraine’s security service headquarters in Kyiv, Zelenskiy vows retaliation - The Times of India", "zh": "俄无人机击中基辅乌克兰安全局总部，泽连斯基誓言报复"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "聚焦『局长办公室被瞄准』细节与泽连斯基的报复指示，读卖将其推上头版",
+      "unique": "标题普遍强调『長官執務室』（局长办公室）为特定目标，并突出『報復指示/報復表明』；全网高度同质化，几乎全为通讯社通稿分发",
+      "headlines": [
+        {"source": "読売新聞", "original": "ウクライナ情報機関の本部庁舎にロシア軍が無人機攻撃、長官執務室狙ったか…ゼレンスキー氏は報復指示", "zh": "俄军无人机袭击乌克兰情报机构总部大楼，疑似瞄准局长办公室……泽连斯基指示报复"},
+        {"source": "朝日新聞", "original": "ウクライナ情報機関にドローン攻撃 ゼレンスキー氏「長官室標的」", "zh": "乌克兰情报机构遭无人机袭击，泽连斯基称『局长办公室为目标』"},
+        {"source": "産経ニュース", "original": "ウクライナ情報機関の保安局にロシア軍が無人機攻撃、9人負傷 ゼレンスキー氏は報復指示", "zh": "俄军无人机袭击乌克兰情报安全局，9人受伤，泽连斯基指示报复"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "聚焦泽连斯基的报复警告（『俄国天空将有无人机』），事件未上头版",
+      "unique": "突出泽连斯基对俄本土的报复威胁（France 24『«Il y aura des drones dans le ciel russe»』）；L'Indépendant 用『coup dur』（沉重打击）定性；另有法国媒体同时报道特朗普要欧洲偿还援乌费用",
+      "headlines": [
+        {"source": "France 24", "original": "\"Il y aura des drones dans le ciel russe\", avertit Volodymyr Zelensky - France 24", "zh": "泽连斯基警告：『俄罗斯的天空将有无人机』"},
+        {"source": "L'Indépendant", "original": "Guerre en Ukraine : coup dur pour les Ukrainiens, le quartier général du Service de sécurité ukrainien (SBU) touché par une frappe russe en plein cœur de Kyiv - L'Indépendant", "zh": "乌克兰战争：乌克兰人遭沉重打击，安全局总部在基辅市中心被俄军击中"},
+        {"source": "RTBF", "original": "Guerre en Ukraine : une attaque russe a frappé le quartier général du service de sécurité ukrainien à Kiev - RTBF", "zh": "乌克兰战争：俄军袭击击中基辅乌克兰安全局总部"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "无人机击中基辅『情报机关』总部，泽连斯基宣布报复",
+      "unique": "STERN 强调『Angriff am helllichten Tag』（光天化日之下的袭击）；德媒统一使用 Geheimdienst（谍报机关）定性；BILD 用谨慎措辞『soll getroffen haben』（据称击中）",
+      "headlines": [
+        {"source": "STERN.de", "original": "Angriff am helllichten Tag: Russische Drohne trifft Geheimdienst-Zentrale in Kiew - STERN.de", "zh": "光天化日之下的袭击：俄无人机击中基辅情报机关总部"},
+        {"source": "DIE ZEIT", "original": "Krieg gegen die Ukraine: Russische Drohne trifft Geheimdienstzentrale in Kyjiw - DIE ZEIT", "zh": "对乌克兰的战争：俄无人机击中基辅情报机关总部"},
+        {"source": "BILD", "original": "SBU-Zentrale in Kiew: Russische Drohne soll Gebäude getroffen haben - BILD", "zh": "基辅 SBU 总部：俄无人机据称击中大楼"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "俄无人机袭击基辅安全机构总部，附带伤亡数字与民生影响",
+      "unique": "强烈关注平民与日常生活维度：CNN Brasil 报道居民考虑离城（『Moradores de Kiev consideram deixar a cidade』），Tribuna do Sertão 报道喷气无人机令超市货架被搬空；Folha 给出更高的死亡数字（至少37人）",
+      "headlines": [
+        {"source": "CNN Brasil", "original": "Rússia atinge sede do serviço de segurança da Ucrânia em Kiev - CNN Brasil", "zh": "俄罗斯击中基辅的乌克兰安全局总部"},
+        {"source": "Folha de S.Paulo", "original": "Ataque de drone da Rússia provoca detonação perto de Kiev e mata ao menos 37 - Folha de S.Paulo", "zh": "俄罗斯无人机袭击在基辅附近引发爆炸，造成至少37人死亡"},
+        {"source": "CNN Brasil", "original": "Moradores de Kiev consideram deixar a cidade após série de ataques russos - CNN Brasil", "zh": "连番俄军袭击后，基辅居民考虑离开这座城市"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "无人机命中 SBU 局长办公室，官方口径『打中了该打的地方』，部分账号质疑袭击者身份",
+      "unique": "独家角度集中在两点：一是外交部发言人扎哈罗娃的喝彩式表态『попал «куда надо»』；二是阴谋论式归因，如 Life.ru 罗列『为被杀俄国人复仇／与国防部情报总局内斗／泽连斯基的卑劣行径』三种猜测，『Военное дело』直接否认是俄方无人机",
+      "headlines": [
+        {"source": "BBC", "original": "Удар по штаб-квартире СБУ в центре Киева — дрон попал по кабинету руководителя службы. Что известно - BBC", "zh": "基辅市中心 SBU 总部遭打击——无人机命中局长办公室。已知情况"},
+        {"source": "Рамблер", "original": "Захарова: БПЛА, ударивший по зданию СБУ в Киеве, попал «куда надо» - Рамблер", "zh": "扎哈罗娃：击中基辅 SBU 大楼的无人机『打中了该打的地方』"},
+        {"source": "Life.ru", "original": "Месть за убитых россиян, разборки с ГУР или подлость Зеленского? Чей дрон разнёс кабинет главы СБУ Поклада - Life.ru", "zh": "为被杀俄国人复仇、与国防情报总局内斗，还是泽连斯基的卑劣行径？炸毁 SBU 局长波克拉德办公室的究竟是谁的无人机"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "俄无人机袭击基辅安全机构总部，置于黑海升级与特朗普停火计划的双重背景下",
+      "unique": "半岛电视台引入黑海升级维度（『تصعيد في البحر الأسود』）；《الشرق للأخبار》聚焦乌克兰备战『严冬』的消耗战视角；事件本身进入阿拉伯语频道头版第四条，但当天头条被伊朗战争与习近平访埃占据",
+      "headlines": [
+        {"source": "الجزيرة نت", "original": "تصعيد في البحر الأسود وروسيا تستهدف مقر الأمن الأوكراني في كييف - الجزيرة نت", "zh": "黑海升级，俄罗斯瞄准基辅的乌克兰安全机构总部"},
+        {"source": "Euronews.com", "original": "هجوم روسي على مقر جهاز الأمن الأوكراني في كييف.. وترامب يتحدث عن خطة \"لإنهاء الحرب\" - Euronews.com", "zh": "俄罗斯袭击基辅乌克兰安全机构总部……特朗普谈及『结束战争』的计划"},
+        {"source": "الشرق للأخبار", "original": "مع استنزاف قدراتها.. أوكرانيا تستعد لـ\"شتاء قاسٍ\" تحت وطأة غارات روسيا - الشرق للأخبار", "zh": "在能力被消耗之际，乌克兰在俄军空袭重压下准备迎接『严冬』"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "以美乌/俄乌谈判进程为主线，无人机战是背景性消耗战叙事",
+      "unique": "搜索词即含『谈判』，结果中几乎没有直接报道 SBU 遇袭本身的标题，而聚焦谈判时间表（联合早报『俄乌团队或9月恢复直接谈判』）、无人机攻防消耗战（新浪『全天候消耗方案』）与普京『国家恐怖主义』表态的攻防互怼框架",
+      "headlines": [
+        {"source": "voachinese.com", "original": "美乌谈判进行之际，俄罗斯对基辅的战争持续肆虐 - voachinese.com", "zh": ""},
+        {"source": "新浪财经", "original": "连续6天重击基辅，俄乌冲突新阶段：俄罗斯无人机能力大增，启动“全天候消耗方案”？ - 新浪财经", "zh": ""},
+        {"source": "联合早报", "original": "俄乌团队或9月恢复直接谈判 美国代表料参与 - 联合早报", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "各国标题基于不同的本地化搜索词抓取（如中文含『谈判』、阿拉伯语只搜『طائرة روسية كييف』），检索词本身的偏向会影响各国结果的框架分布；且标题仅反映编辑定调，不等于报道正文的完整立场。"
+}

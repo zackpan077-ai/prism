@@ -1,0 +1,17 @@
+{
+  "event": "俄军无人机袭击乌克兰国家安全局总部，特朗普派特使赴俄乌推动停火方案",
+  "event_title": "俄袭乌情报总部与和平斡旋",
+  "why": "该事件被美英印日法德俄埃及等最多国家共同报道，且各方从'侵略升级'到'特别行动/和平契机'的叙事差异极大",
+  "queries": {
+    "US": "Russian drone Ukraine SBU",
+    "UK": "Russia drone strike Kyiv",
+    "India": "Russia Ukraine SBU drone attack",
+    "Japan": "ロシア 無人機 ウクライナ 情報機関",
+    "France": "drone russe Kyiv Zelensky",
+    "Germany": "russische Drohne Geheimdienst Kiew",
+    "Brazil": "Rússia drone Ucrânia Kyiv",
+    "Russia": "БПЛА Киев СБУ",
+    "Egypt": "طائرة روسية كييف",
+    "China": "俄罗斯 无人机 乌克兰 谈判"
+  }
+}
