@@ -1,329 +1,331 @@
 {
   "findings": [
     {
-      "title": "显著度分化：该事件登上美、俄、日头版，法、德、巴西、中国头版几乎缺位",
-      "body": "美国头版第一条即是『U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post』；俄罗斯头版第三条为『ВМС США потопили иранский танкер в Ормузском проливе - EADaily』；日本头版第五条为『米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化 - ロイター』。而法国头版前10条无一涉及美伊冲突（最相关的是乌克兰议题『Vladimir Poutine rappelle ses exigences…』），德国头版被州选举和黑客攻击占据，巴西头版全是国内政治（莫赖斯、卢拉），中国头版以习近平访吉、泥石流灾害为主。有趣的是法、德在搜索结果里报道量很大，但都没上头版——说明两国将其视为国际新闻而非首要议程。"
+      "title": "谁把它当头条、谁根本没上头版",
+      "body": "该事件只在部分国家的头版占有一席之地。美国头版第2位即半岛电视台『US, Iran engaged in tanker war: Where is the months-long conflict headed?』；英国同样将其置于头版第3位；日本路透社标题进入头版（『米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化』）。俄罗斯的EADaily以『ВМС США потопили иранский танкер в Ормузском проливе』进入头版第4位。但法国、德国、巴西、埃及四国的头版前10条完全没有该事件——法国头版被普京会见美国特使、移民协议与国内新闻占据；德国是州选举和无人机防御；巴西是国内政治（STF、Moraes案）；埃及是天气、黎巴嫩与娱乐新闻。这构成显著度落差：美英日视为当日常态化战争报道，法德巴埃视为非头版级事件。"
     },
     {
-      "title": "法国框架特殊：以『riposte iranienne』（伊朗报复）为主语",
-      "body": "法国12条标题中有9条以伊朗的反制为叙事核心，如『Frappé par les États-Unis, l'Iran riposte en attaquant des bases américaines… - Le HuffPost』、『l'Iran cible des bases américaines au Koweït en riposte aux frappes menées par les États-Unis - BFM』。法国还独家报道了伤亡数字：『Au moins 11 morts dans des frappes américaines en Iran - levif.be』——这个数字在美、英、日标题中均未出现。同时法国普遍使用『Guerre au Moyen-Orient』（中东战争）作为栏目标签，直接定性为战争。"
+      "title": "措辞定性分歧：『互袭』还是『美国打击』",
+      "body": "美英主流通讯社普遍采用对称框架，如AP『US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles』、BBC『US and Iran trade retaliatory attacks on ships』；而法国媒体几乎全部以伊朗为回应主体：『L'Iran réplique après les frappes américaines sur trois de ses pétroliers』。巴西媒体则明显以伊朗行动为主语，如CNN Brasil『Irã diz ter atacado porta-aviões e destróier dos EUA com mísseis balísticos』。同一事件在法巴视角下叙事起点是美国的打击，在美英视角下是双向对等报复。"
     },
     {
-      "title": "中国的独家角度：油价、海峡通航与『特朗普：美国已经赢了』的嘲讽框架",
-      "body": "中国报道出现多个别国没有的角度：央视实地探访海峡通航量（『央视探访霍尔木兹海峡：通航量低迷，美打击伊朗油轮 - 中国江苏网』）、韩国可能派兵（『霍尔木兹海峡，突传大消息！美伊互袭，韩国考虑派兵，或变持久战？ - Sohu』）、以及强调美方内部分歧（『特朗普：美国已经赢了；美情报部门：伊朗已打出自信 - wallstreetcn.com』）。此外中国搜索结果同时包含美国之音和法广（RFI），信源结构与其他国家明显不同。"
+      "title": "德国独有角度：油价与消费者",
+      "body": "德国的搜索关键词本身即为『Iran-Krieg USA Ölpreis』，12条标题中有9条围绕油价与经济影响：Manager Magazin『Ölpreis steigt wegen neuen Gefechten im Iran-US-Krieg』、ZDFheute『Was Trumps 'Wirtschaftskrieg' für Autofahrer bedeutet』、n-tv『Niedriger Ölpreis ist wichtigstes US-Ziel im Iran-Krieg』。此外还有独家角度Berliner Zeitung『USA schleusen verdeckt Öl an Iran vorbei – Bericht』（美国被报道绕过伊朗 covertly 输油）。没有其他国家如此密集地把事件翻译成加油站价格话题。"
     },
     {
-      "title": "日本聚焦『海峡主导权』与经济连锁效应",
-      "body": "日本媒体的独特框架是航运主导权之争：『米とイラン、タンカー攻撃の応酬 ホルムズ海峡航行の主導権争い - 毎日新聞』。日经则强调打击对象的定性：『米中央軍、イランの原油タンカーを攻撃「革命防衛隊への反撃措置」 - 日本経済新聞』，将CENTCOM的说法『反撃措置』作为引语处理而非直接断言。多家日本媒体还突出美方公开击沉视频（『うち1隻が沈没」動画を公開 - 日テレNEWS NNN』）。"
+      "title": "中国报道的『输赢』框架与半官方独家",
+      "body": "中国标题出现别国罕见的胜负判断：华尔街见闻『伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信』；财联社『确认伊朗动用弹道导弹打航母』。观察者使用『反手回击6艘』这种带评述性的表述。央视系还有现场探访角度（中国江苏网『央视探访霍尔木兹海峡：通航量低迷』），为各国唯一的海峡实地报道标题。"
     },
     {
-      "title": "印度视角突出美方的『嘲讽』与视频战",
-      "body": "印度媒体独家放大美方打击后的舆论战细节：『US shares video of strike on Iranian oil tanker, then mocks Tehran - India Today』、『'Permanently disabled': US shares video of strike on Iranian tanker, issues warning - The Times of India』、以及戏谑式标题『'Joined Iran's Navy at the bottom of the sea': US sinks tanker - Deccan Herald』。还独家提及新政策定性『\"tanker for tanker\" policy - Axios』。"
-    },
-    {
-      "title": "俄罗斯头条聚焦 Hegseth 的『威胁击沉所有伊朗油轮』",
-      "body": "俄语标题大量聚焦美国防长的升级言论而非打击本身：『Хегсет пригрозил уничтожать иранские нефтяные танкеры… - Портал РЕПОСТ』、『Пентагон: США могут ударить по всем нефтяным танкерам Ирана - Национальная Служба Новостей』，把事件向『美国威胁全面升级』方向框定。"
-    },
-    {
-      "title": "阿拉伯语媒体的对称化处理：美伊各打一半",
-      "body": "埃及版标题普遍采用对等结构，淡化因果关系：『تبادل استهداف ناقلات نفط بين أمريكا وإيران - صحيفة اليوم السعودية』（美伊互袭油轮）、『تصعيد بحري بين واشنطن وطهران… إيران تستهدف 6 سفن وأمريكا تضرب 3 ناقلات - القدس العربي』。BBC阿文版则突出伊朗的警告：『إيران تهدّد برد أشد بعد استهداف واشنطن ثلاث ناقلات』。与英语版BBC『US and Iran trade retaliatory attacks』相比，阿文版以伊朗威胁开头。"
+      "title": "印度的平民伤亡角度与俄罗斯地区媒体的『猎杀』修辞",
+      "body": "印度检索结果中显著出现婚礼袭击议题：BBC『Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians』、CBS引用万斯『extremely skeptical』——该角度未出现在美、英、日、法、德的同类标题中。俄罗斯方面，EADaily用『Иран начал охоту за американскими авианосцами』（伊朗开始猎杀美国航母）这种高度戏剧化措辞，俄语地区媒体普遍以『Иран атаковал…』开头，与巴西的伊朗主动语态类似。"
     }
   ],
   "quote_comparison": {
-    "intro": "对美军打击三艘伊朗油轮这一同一行为的定性措辞对比：是『报复』、『反击措施』还是『攻击』",
+    "intro": "对比各国标题对『美军打击三艘伊朗油轮』这一核心行动的定性表述",
     "rows": [
       [
-        "US · NPR",
-        "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
-        "使用『in retaliation for』（报复），将打击框定为对等回应"
+        "US · AP News",
+        "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
+        "以因果链呈现：先有美舰遭弹道导弹袭击，后打击油轮，动作被置于自卫回应语境"
       ],
       [
-        "US · CENTCOM官网",
-        "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships",
-        "官方信源用『Destroys』（摧毁）并点明船只属伊斯兰革命卫队（IRGC），强化打击合法性"
+        "UK · Axios",
+        "U.S. strikes Iran tankers under new 'tanker for tanker' policy",
+        "引入美方新政策术语『以船还船』，突出制度化报复规则"
       ],
       [
-        "Japan · 日本経済新聞",
-        "米中央軍、イランの原油タンカーを攻撃「革命防衛隊への反撃措置」",
-        "将『反撃措置』作为引语引述美军，保持转述距离"
+        "US · The New York Times",
+        "U.S. Strikes Three Iranian 'Shadow Network' Oil Tankers, Military Says",
+        "使用『影子网络』定性油轮性质，暗示其非法身份，为美方指控背书并标注消息来源"
       ],
       [
-        "Brazil · G1",
-        "Irã acusa EUA de ataque a petroleiro em meio à escalada de tensões",
-        "用『acusa』（指控）+『ataque』（攻击），以伊朗指控为信源，不直接认定合法性"
+        "France · Libération",
+        "L'Iran réplique après les frappes américaines sur trois de ses pétroliers",
+        "主语换成伊朗，美国的打击成为背景，叙事重心在伊朗的回应"
       ],
       [
-        "France · La Croix",
-        "riposte de l'Iran après une frappe des États-Unis contre trois pétroliers",
-        "主语是伊朗的『riposte』（反击），美国打击成为背景"
+        "Japan · 読売新聞",
+        "アメリカ中央軍、イランの石油タンカー３隻を破壊…「革命防衛隊」の攻撃に報復",
+        "使用『破壊』并点出『革命防卫队』，将打击对象与伊朗官方机构直接挂钩"
+      ],
+      [
+        "Brazil · CNN Brasil",
+        "Irã diz ter atacado porta-aviões e destróier dos EUA com mísseis balísticos",
+        "标题完全以伊朗对美舰的攻击为主体，油轮打击未入题"
+      ],
+      [
+        "Egypt · الجزيرة نت",
+        "معركة الناقلات.. ماذا نعرف عن الضربات المتبادلة بين أمريكا وإيران؟",
+        "用『 tanker 战』『相互打击』框架，附解释性设问，阿拉伯语世界将其历史化为『 tanker war 』延续"
+      ],
+      [
+        "China · 观察者",
+        "美军袭击3艘伊朗油船，伊朗反手回击6艘",
+        "强调数字对比3对6，用『反手回击』这一带武术色彩的词定性伊朗回应"
       ],
       [
         "Russia · EADaily",
-        "ВМС США потопили иранский танкер в Ормузском проливе",
-        "用『потопили』（击沉），强调破坏结果，不提报复语境"
-      ],
-      [
-        "Egypt · 今日沙特报",
-        "تبادل استهداف ناقلات نفط بين أمريكا وإيران",
-        "用『تبادل』（互相），对称化处理，不区分因果先后"
+        "Война в проливе 2.0: Иран начал охоту за американскими авианосцами",
+        "升级为『海峡战争2.0』『猎杀航母』，戏剧化程度远超其他样本"
       ]
     ]
   },
   "countries": {
     "US": {
       "name": "美国",
-      "frame": "打击是对伊朗攻击美舰的合法报复，官方叙事主导",
-      "unique": "CENTCOM官方通稿直接进入新闻流（centcom.mil），并强调油轮与『regional proxies』（地区代理人）的关联",
+      "frame": "一场持续数月的对称性油轮互袭战争，美方行动被表述为对导弹袭击的报复",
+      "unique": "NYT独家使用『影子网络』定性被打击油轮；Axios提出『tanker for tanker』政策术语；EA WorldView按开战天数计数（Day 192）",
       "headlines": [
         {
-          "source": "NPR",
-          "original": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
-          "zh": "美国打击伊朗油轮以报复对海军舰艇的导弹袭击",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5"
+          "source": "AP News",
+          "original": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles - AP News",
+          "zh": "美军称军舰遭弹道导弹袭击后打击3艘伊朗油轮",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5"
         },
         {
-          "source": "centcom.mil",
-          "original": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships",
-          "zh": "伊朗袭击两艘美国海军军舰后，中央司令部摧毁3艘革命卫队油轮",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUlTZFBuUlJVZUprUjUyUWdLUmkzSzR5RmZIOEZkXzAtWXppQ0tfQ2hCWDNiamwxOWxtbzNkMW1KdEFPZWtuamFSVEoxZzJpVFJjMjQ2a3N2eTA0aTM1VllnMXBiNU96VzJIT0JIUWpwRmtuX1oyWlhSVEppSDJUenZVcEI4X0VaamNxc053UU9BSHVWOFZUaUxVblBHNGlaM2I2NHU3MFBsTFhIWFNoYVR2Vkk4TnNrd2RkMUpqSjhxOUs1bW1ua18wNDQ0TWRPUnc?oc=5"
+          "source": "The New York Times",
+          "original": "U.S. Strikes Three Iranian 'Shadow Network' Oil Tankers, Military Says - The New York Times",
+          "zh": "美军称美国打击了三艘伊朗『影子网络』油轮",
+          "link": ""
         },
         {
-          "source": "Al Jazeera",
-          "original": "US says it hit Iran oil tankers accused of helping ‘regional proxies’",
-          "zh": "美国称其打击了被指援助『地区代理人』的伊朗油轮",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXFDN0J2QWlHVXRUSU1oaXQwSlBIR0ZrNUNDYndxMjZVMWVTdHVqd2Q2emwzZ2k1Z0JXLWN0bEZtLTVNYXBaZWxDRjZ0TF9WQlBYY0Z1NGJDWXo0dVk3ZjJBRHpseDFTM29nR29wc2N0dU03YzBiZlJ5LUxXcjVha2Z0TEQtQ3NYeHZvY2ZNYkwyX0RTenBuUXA1QjVORndPVGFOWV81WdIBrAFBVV95cUxNbW95UnRlVGF5dS12RG44T1lQLWIyTDU1cC04NWE0SXozcm0yVjhlNGRhTEZwaW91ckZncEl2QWF0bTlvSGpHOHJqQ3lKTDVvYVZ4T0lwbHZnMUNIU25wTUZzZzNvd0U1THJtVzZqSXZvVmN4dlRHaDR2ZWxwc016cHNsSHc1Nkx4Nmw4XzJoMGVFMDNGU1dscnA1LWZRRkFMTmI1bUYxWHRqMkZR?oc=5"
+          "source": "Axios",
+          "original": "U.S. attacks 3 Iranian tankers in tit-for-tat response - Axios",
+          "zh": "美国以以牙还牙方式打击3艘伊朗油轮",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DQWNrZGhFUEI2MFBHUVFJcldrMzBSbUktYXVTaVBzX1JRSkZ6emY5ZW5zanFSUEtGX2JIbWdRSWRwVlJHaXc5NlVoM1ItWFVpdkRuYWtTc01oWmRoN3BPQXFxRjAxTWhtTVlET0xXVXNIZEU?oc=5"
         }
       ]
     },
     "UK": {
       "name": "英国",
-      "frame": "美伊互报互袭、冲突升级的中性升级叙事",
-      "unique": "EA WorldView用『US War on Iran, Day 192』计数式框架，暗示长期战争状态",
+      "frame": "以直播滚动形式追踪互袭升级，突出伊朗『更迅速、更痛苦』的报复威胁",
+      "unique": "关注战火外溢至约旦、巴林（CBS『Jordan and Bahrain face Iranian missiles and drones』）；gCaptain从航运业专业视角报道",
       "headlines": [
         {
-          "source": "BBC",
-          "original": "US and Iran trade retaliatory attacks on ships as conflict flares",
-          "zh": "美伊互相对船只发动报复性攻击，冲突骤然升级",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5"
+          "source": "Al Jazeera",
+          "original": "Iran war live: Tehran warns of 'faster, more painful' response to attacks - Al Jazeera",
+          "zh": "伊朗战争直播：德黑兰警告将做出『更迅速、更痛苦』的回应",
+          "link": ""
         },
         {
-          "source": "The Guardian",
-          "original": "US military says it struck three Iranian tankers after American warships came under missile attack",
-          "zh": "美国军方称在美国军舰遭导弹攻击后打击了三艘伊朗油轮",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RaGwtc1V6SnRzUnp3N3dBYXk3cmw4TkNOd05PQk4ycFZkYU9iWkRzQUNoVnA4NDloc08tRTZPeWhFcGtQSllIZllRd2JWbFlBaTd5MGZRb1dEYzJlNDR1a3JqeHlaZmRLaGlSZWZtUjJKbDNHNmZpM2JR?oc=5"
+          "source": "Sky News",
+          "original": "Iran war latest: US hits three Iranian oil tankers - as Iran navy issues new vessel warning - Sky News",
+          "zh": "伊朗战争最新：美国打击三艘伊朗油轮，伊朗海军发布新航行警告",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT1NXRVAyZThCRW5nd2J0azR4Zl9mUzk4WHYtb25yekZkUTVFYWl2YlhuSWlQRjFPdm4zTFRxMFcyQlROZ1laaldMams1WUppRnlxeGUwUUZ4cGVjS2VxT2FJVV9VdmFGU09ZZno4d0sxNlJFOXptczRHUnpGUUI1V0F6Z3dWbkRxdkl2V0tZamNja2hRTmZsQzdhYW5Cb0FoU3FQb0JVR29FZDk2czZNcWlacURCbmJDZHpKZE1xTGwyRDNXNUhVWUVGdkVVVWVPN1A2ek00MW9PZw?oc=5"
         },
         {
-          "source": "EA WorldView",
-          "original": "US War on Iran, Day 192: Americans Strike 3 Iranian Oil Tankers",
-          "zh": "美国对伊战争第192天：美国人打击3艘伊朗油轮",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHpvT0N6OGxCSFJKU2RmZGJiM3Qza2pOTmdiYWVWU0FTYWRTMGVabzdpUzBrNWtZbmFHRXhHSTBQUEZYa3pSR0ZoUnhxU3RwYUlEdkpGbWVWZHF5dzViQTlLeXlLOWRGVTk2bHVfVEcyVTZFSnUtSUR5R3NpQVZjQzBlMlAzQ3cwMUtVMHhkTQ?oc=5"
+          "source": "CBS News",
+          "original": "Jordan and Bahrain face Iranian missiles and drones as hostilities flare - CBS News",
+          "zh": "敌对行动升级之际，约旦和巴林遭到伊朗导弹与无人机袭击",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5"
         }
       ]
     },
     "India": {
       "name": "印度",
-      "frame": "美方视频战与『以船还船』新政策是焦点",
-      "unique": "独家突出美方公开击沉视频并『嘲讽德黑兰』，以及Axios提出的『tanker for tanker』政策命名",
+      "frame": "关注伊朗对美航母的直接攻击与平民伤亡争议，视角比美英更具伊朗行动感",
+      "unique": "婚礼袭击『战争罪』指控与万斯『极为怀疑』回应成为多条标题焦点；印度地方媒体（Kanak News）以乌尔都/奥里萨语受众角度转发",
       "headlines": [
         {
-          "source": "Axios",
-          "original": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
-          "zh": "美国依新『以船还船』政策打击伊朗油轮",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5"
+          "source": "The Times of India",
+          "original": "US-Iran War Live Updates: Iran attacks US aircraft carrier, destroyer with ballistic missiles - The Times of India",
+          "zh": "美伊战争实时更新：伊朗用弹道导弹攻击美国航母与驱逐舰",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPb2diQVpkQ1FId0xkbGwzN2R3bEJYVFo3ZzU5cHpkR3Q1ZThpd2cwRXYzWEx0WUF4cU9NU2xPQWIzeWdWc1lPS0hoQXZzSm1mVkZPdllWY00tZUVGVFRLSnhVMHZjWHdIZlN0ZXZhV2RwazhkSkVuTnB2N3hZUGdIWFNKbml4ekV6UXh5SXBxTXVZUk9xUGtSclpBQVNoRHFZVWtHejdUSUZndVhSNW9pYW5HU1RTbE8yRjE0ZmxTOVFlQVBBbjlad1hQc2FPazZzU2tiQW85RHdIUi1abXZ0OVhqTm11c2ZVMlBFdThWS25UQXJGSVZKS1ctVmhvcFBBNHdLek9vNExXM0pNNjlKYndoUEM3U0Zoakw0OHk1aDFLNmk3cGJHdFRNYm5Wd9IBswJBVV95cUxQSGQ5bXhxNUEzcFZXbXVWSG9vNWlMRk5XeVp0dXJwLXJLa3ptTTlqczY3LXhJUlRXSVJHeTI0TEdtcjczWlNrSlI4cmJuUmxWamZpZDZlbkhiTWN6NF9hdXRiZk9OSjlhcnhyNTEtUUktaUhtc3VNeVdKdWNCdVc0amlQS09MTlBnUnlrWXhVcFJwVjJCSW1sSzZxc3d4V3lqNUZNcV9pQzFVZEZ4LVRXUGdXMkpCc0hmNVh6VXJRZWNsUTM3MjF5aTZEYS1RX1hvcGRjU3c0YmxRblZkbUgyTUVkZUlvWi1ja3RZMThKYmNnSHNZOFp5Rms4RnBJak1EY2hjaldUdmR3T2FkUVhrWjR5TnRRQk5FUUZBckhLM2JaMTVCX1ktNXFIcFNDUmFzYlpr?oc=5"
         },
         {
-          "source": "India Today",
-          "original": "US shares video of strike on Iranian oil tanker, then mocks Tehran",
-          "zh": "美国公开打击伊朗油轮视频，随后嘲讽德黑兰",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnFoNzVsTXJTQlhKb2VGNjhVVkpEUHMzLUh4M0RoZDJUck9xNi1LWVdrUEtLODZqYThlOC1iZWMxZVA0dWVZR3c5UmIyVkpKQ1RvS0VzZEljZG9ZWTZUaUNrZWs0U0pkSFQ0QThfeHc4eW1raXFKZWpJdmpXM1JHc2labW9lRGNZTWtnbFlrR1RFOFc2SG9SaWotVV9HTzloYnVtNGF3NjZYeXhWTjZySXVmNnlRd2lsOGfSAb8BQVVfeXFMTVRwVFdwb1pfcEhrUUVfTFBZRTlNUHVXbGpyUXVpNXRxdVhWNnh0Yk9mQ0MtTGxYMmhRZTBmd1k5Q051WTFTWnJ5c0VJSDFmYnl4VFdGSTNJX242VzFFWWlPblppS21FcW5TYTZpTDAzUFQtLXMzZWxqYjBRQjJxbEJLRU5fLTNVTGdYazBHR3hVazhKVTFPOVM0cXFjWnN6MVpIUXFxWVZHSE12aW14MDU2OTU3X1JZaEVDZUZWLXM?oc=5"
+          "source": "BBC",
+          "original": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians - BBC",
+          "zh": "伊朗称美军袭击致婚礼上4人死亡是『战争罪』，美方否认针对平民",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5"
         },
         {
-          "source": "AP News",
-          "original": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-          "zh": "美国称军舰遭弹道导弹瞄准后打击3艘伊朗油轮",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEtPbThoMkY0OEVqRWdxUlA0eDRZYlhPTG5qbEt5V1RnazFIVzBuZHJyU2VMVHdHMzBCWmQxRDhmZ0RnOTZ2WGZPLVJTQjExWFo2amZiMmJFM3Jkb3plWnJOd0dkeEtHLXFqaFRseExIc00wUHRONXdVVWVWMWhJRmxRZFhPVTJuS3J3?oc=5"
+          "source": "CBS News",
+          "original": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war - CBS News",
+          "zh": "万斯称对美军袭击伊朗婚礼聚会『极为怀疑』，并表示不会称此冲突为战争",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5"
         }
       ]
     },
     "Japan": {
       "name": "日本",
-      "frame": "霍尔木兹海峡航运主导权之争与报复循环",
-      "unique": "每日新闻提出『ホルムズ海峡航行の主導権争い』（海峡通航主导权之争）的独家框架；日经将『反撃措置』作引语处理",
+      "frame": "聚焦美军行动细节与官方声明，强调报复逻辑与对伊朗的经济警告",
+      "unique": "日テレ公布美军打击视频并称一艘油轮沉没；TBS突出美方『攻击将付出巨大经济代价』警告；共同关注『供给不安再燃』的能源视角",
       "headlines": [
         {
-          "source": "毎日新聞",
-          "original": "米とイラン、タンカー攻撃の応酬 ホルムズ海峡航行の主導権争い",
-          "zh": "美伊互袭油轮——霍尔木兹海峡通航主导权之争",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOSGVvSDFUTmg5eTZ4OGs5YVozZnhvR2xfYlFoQmhXWnBZSTVZQVotNFRiQ002OUtOQXUxOHNwZE8xQjh2ZFRkYkhzTnJzejdob3U4aUpFLU15dEVjZVV4V1BHQnRrSXNr?oc=5"
-        },
-        {
-          "source": "日本経済新聞",
-          "original": "米中央軍、イランの原油タンカーを攻撃 「革命防衛隊への反撃措置」",
-          "zh": "美中央司令部攻击伊朗原油油轮，称是『对革命卫队的反击措施』",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43YWxmWEFKVU9JbmNMeWU2aVJFaEp5SzVUV1EzTEJ6YzJQTkdOYTZxZUtxaWxacmFFM3hyWWpqblU2SDdIbWFHb0xOQkI3SHo4OTJud0Nsei05NmY2UW82Tm9obXlYcUtKajFLLQ?oc=5"
+          "source": "日テレNEWS NNN",
+          "original": "米中央軍、イランの石油タンカー3隻を攻撃“うち1隻が沈没”動画を公開 弾道ミサイル発射への報復 - 日テレNEWS NNN",
+          "zh": "美军中央司令部打击伊朗3艘石油油轮，公布『其中一艘沉没』视频，作为对弹道导弹发射的报复",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHB6SXF0T204R0tMRW1SMmdPU0VpRXgxckZGS2FwZXBZbVJpN2FySzV2MWdpbFlBMnBzc29yanZSY3dIMkpOMVVLdmZFWUdROG9MXzN3MTBJZnI0Y3IyUnpXODU2LWxUZ0pOQ21BRnl2WFJmemV5eXpCMVNFTFpVX3R3bG0?oc=5"
         },
         {
           "source": "TBS NEWS DIG",
-          "original": "米軍 イランのタンカー3隻を攻撃 艦艇へのミサイル発射の報復で 「攻撃すれば大きな経済的代償を科す」と警告",
-          "zh": "美军攻击伊朗3艘油轮以报复向舰艇发射导弹，并警告『再攻击将付出巨大经济代价』",
+          "original": "米軍 イランのタンカー3隻を攻撃 艦艇へのミサイル発射の報復で 「攻撃すれば大きな経済的代償を科す」と警告 - TBS NEWS DIG",
+          "zh": "美军作为对舰艇遭导弹发射的报复打击伊朗3艘油轮，警告『若再攻击将课以巨大经济代价』",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRjlzbkxBQV90VzZrNFo1SXZ1TWFSRHZUbFB0aVpRV1pEMnRpcVotR2IzR2ZxRUxhRXlGNkltNXBFTmpJUGZhQmhneDlGS2RHNDA5NmZ1NA?oc=5"
+        },
+        {
+          "source": "Yahoo!ニュース",
+          "original": "米軍のタンカー破壊に報復、イラン側はタンカー３隻と「米国関連」船舶３隻攻撃と発表…応酬で供給不安再燃 - Yahoo!ニュース",
+          "zh": "伊朗称以打击3艘油轮和3艘『美国相关』船舶报复美军破坏油轮……互袭令供应不安再燃",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVDRiZHJzZTRBRnBGTVFWVm55UGxvUXBuM09NLXYwYnRTQkN2NllNTkFhUGVmbXpWRmVpMjRkaUowdUU2d2ZNZHpxWmc0Y1VUb05oQVE5bUcwLUR6d1ZXZjhnUmFFbjc3VFpfZjhIMlBoaE53N1ZaRXB2bFpXZG8?oc=5"
         }
       ]
     },
     "France": {
       "name": "法国",
-      "frame": "以伊朗报复（riposte）为主语，定性为『中东战争』并报道伤亡",
-      "unique": "独家给出美方打击造成至少11人死亡的数字；大量报道伊朗报复打击巴林、伊拉克、科威特美军基地——其他国家标题中几乎未出现",
+      "frame": "美国打击在先、伊朗回击在后，重点在伊朗『更快速、更激烈』的升级威胁",
+      "unique": "Les Echos质疑霍尔木兹海峡是否真有水雷；多篇标题聚焦伊朗攻击美军海军无人机；『对等报复时代已经终结』成为引用语",
       "headlines": [
         {
-          "source": "levif.be",
-          "original": "Au moins 11 morts dans des frappes américaines en Iran, Téhéran riposte en attaquant des bases militaires",
-          "zh": "美国对伊朗打击致至少11人死亡，德黑兰报复袭击军事基地",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxON2pBQjNpdDVhb2Z5RTc0OUFyMk9oOUJsUGd0WlRTSVBnSGFlczFFMzVqMG82ZU5nMWltSTAxUXZ2RzBUdnZtbWNwZ2NWNnVkcy1xVHpPMEhKYWpkVlYzUTk0S3ltV182V3JwQXByUzREbFFmQkltTF9aSHNNcW9ZX2xsem9YRGF3dEVrNk1uMHNzVDhKcjNJWktTbFpVQjZydFV0cmM2ZlFkSFl4Y3RqTTFwMllTY1NmMlRYMk1La3l0TjRWZ3hNRHkwU3RTcDUtWnZxY0hsSTF4VWU2ODhldjBIZlV0cVVEXy1qRUREblh1M0N5cG1vYkttMFZTWGVQUDA3UDBWRG15c2llUU4ybHZNeEtGY0RsZWdQd2NpaWRqaXpsWWNlaXdsdHBVVnJBeWt0cG5YU0RJanJJV2c?oc=5"
+          "source": "Le Monde.fr",
+          "original": "Dans le détroit d’Ormuz, une reprise limitée des hostilités entre les Etats-Unis et l’Iran - Le Monde.fr",
+          "zh": "霍尔木兹海峡：美伊敌对行动有限度重启",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPblJkQUdLemdTNWdKSFc5RGxZYTVzaDlpbjkzbWZzVldwZUdEUXpnSE82TXdUcmppSWZmcEE0VU80dUFTRloxakhMbFBrNjRVU1MtSXhNeU5TZmxpZ1hFR2FabnV1WUd5a3ZxbFRDanNlbzExMVoxM0MyOG1yX2Vmc21DTGYwazg1RktENnM5MHJvVDB6NF9NcjV1N0huUGJ5UlRfb0JDYzA3em94b3M5aVhELUxnbGJhRmtmcDFuSndLZnNadlAxTUdGM2k?oc=5"
         },
         {
-          "source": "Le HuffPost",
-          "original": "Frappé par les États-Unis, l’Iran riposte en attaquant des bases américaines dans plusieurs pays du Golfe",
-          "zh": "遭美国打击后，伊朗袭击海湾多国的美军基地进行报复",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbFJ6V2FWbmtXRlZqby01Zi1ybEQ2SG1fbWpyeGR1MXpCczc3LXZrVWk4WHpKOVdrdG9MM1czclViUlcyb3M4Y0d4eTJZNmk3M1RhSTBBMmNObFFBMHg3NHNGRU00VkNsc0RDOXZ0UmE1Y3BITXppOFhqQjB4MGxFbmZGVTFvWTVWWm41TFJUdXZrVk9UTjBidmg5YUMwck9fTDVmczBXRzlsYlBmVUlMdE5iNlRZc0o0dnhWa3J1d0JmVVJKdjdYY3ZaWGZQOHJwakdpQnVuOThoVGFUSG1kQmtJRWdhVG54MG5UQXhjSXZmeWNlOHlOcQ?oc=5"
+          "source": "Le Figaro",
+          "original": "«L’ère des ripostes proportionnées est révolue» : l'Iran revendique l’attaque d’un drone naval américain dans le détroit d’Ormuz - Le Figaro",
+          "zh": "『对等报复的时代已经终结』：伊朗宣称在霍尔木兹海峡攻击一艘美国海军无人机",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV0lPTm9va3U0R01pTUY1d21iVE5HNnp4dDl6djVXSnFmU2FqTE52N2ZiVzVJY2hPVVhqeFUxRnA0Z3IzcFdSRmRpa0dXbjRjeGhIeHNrMkRzeFBSSkhNZEp6Q3ZjVnc1V2JJbWpfREhNWmg3LXRoTGZROGJZSTlRX1JaNDZFSXRaaDUxa2h0aGlVaDlpbzFLeGs1TjFULUhKbkMxZHpZYVhfQ0lPU3ZYSTd4YTYwSUVJVm1OVjJaSWZBeXNxOG56WE9pVUl3SHBNM0Q4?oc=5"
         },
         {
-          "source": "tv5monde",
-          "original": "L'Iran jure de \"briser\" les Etats-Unis après des bombardements meurtriers",
-          "zh": "致命轰炸后，伊朗誓言『击垮』美国",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVzh6b091Mm0xV3VmclJTaUpDSDZfcWdoQ3ZtR1RPVU9NX2NzMjc4cmxDcWkyT2I1a21JbWZuSUNuM1dTS1dBZHdhSlo3aDJ5VkE4dTBlVUVsR1RBMDl0Z3lCa0I2Vld4QWJmRE1WZ2dDWTdkNGgyU2JrWC1LYjY4YWpyQXdUZXlPZEw2NlFwblJjRlFzdWw0TDlSemNBTFV5WUVhWFR4SGhBM1hJSW5rQXNJaTFjQ0lqMTQ1QmhrMEFQeE0?oc=5"
+          "source": "Les Echos",
+          "original": "Guerre au Moyen-Orient : y a-t-il vraiment des mines dans le détroit d'Ormuz ? - Les Echos",
+          "zh": "中东战争：霍尔木兹海峡真的有水雷吗？",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWtPZFhFbzRkNHRsbEctelpYZEw5cUhxV1VDeC0tcDZGV1NhMUlPaGczZTl3dFJweHYyVGt6T2FRem1KNWpKWEN0TTBOZmczbE85VGJrV3dzNXVSMmpEOWU3bXEwTnh6ZmRxTi1RQUxHOW1OTWxldEM4b1V1c3dHX1VjYVdSUU9mbEs0cGZVdEtKNVBzenY3VWs3V0F1b0xYT2tQMC1wejNlVXJYcGpPMGo5QkswYWhacW0xUmpXM2ltR284azZlTTI4LVR3dw?oc=5"
         }
       ]
     },
     "Germany": {
       "name": "德国",
-      "frame": "海上战争升级与海峡航运安全/滞留危机",
-      "unique": "独家关注滞留船队规模（『400 Schiffe stecken noch im Persischen Golf fest - WELT』）与被击沉油轮的具体船名『M/T Kylo』；头版完全被州选举占据",
+      "frame": "把冲突翻译成油价与经济冲击，质疑特朗普的『经济战争』是否失控",
+      "unique": "油价对驾车者的影响（ZDFheute）、万斯称低油价是美国最高目标（n-tv）、以及美国被指 covertly 绕过伊朗输油的独家报道（Berliner Zeitung）；事件未上德国头版",
       "headlines": [
         {
-          "source": "WELT",
-          "original": "Iran-Krieg: 400 Schiffe stecken noch im Persischen Golf fest – erneut Tanker in Straße von Hormus angegriffen",
-          "zh": "伊朗战争：400艘船仍滞留波斯湾——霍尔木兹海峡油轮再遭袭击",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOW9ob0Z2U1JCbXlERFBJWmRqTl9adExtV1REM0pzTTlEMU1qQTdjMVJtRXRNQUdfTE44M0pkVnRHWFMzU2drVTlRRU5KVC1EUlJPMFU0SjN1WUZOMUtLT1RlYVV0c1Focml6dTBqaHdGM2hBTFFoUmdHSk9xc2VVdkJkRWNWOGpKemdQY2o2b0plbkJ1T2hBd1phc2J0NVMxNW05TE4tdkR2WTctWjZsdmRyQ0FaNHRodGIyOTJTYWJfX1hTZi1fNUNRMFJBcTljVHhLOUgtOEFid2ZmamhLWUV3Uk5uY050U3YtM1VxSFFxTC04dlQ5WU1IbUpGZHVuTHc?oc=5"
+          "source": "Manager Magazin",
+          "original": "Ölpreis steigt wegen neuen Gefechten im Iran-US-Krieg - Manager Magazin",
+          "zh": "伊朗-美国战争新交火推高油价",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTE16UFpTbEFvN2t3R1dGZmhPZzliZmRaa0dWdm5GRVV4SFRLU0ZLaEN0M21nWVgzbjZkNTFPNEVMbDBPVEFuVU9ycjNIeHlKMGVIOXp1dnZ0TmZ0TW1wREllb1RBMXFmUElkZ1YtTHRiRGhtRF81a2RMNWpoSmlybnlVSU00XzhEVF9yRXA4ZndJaHVONW5PV3diUFVmOThDdE1xN3ZMNE5IQ3N3RHFjczJXQzJuVFREVnNTb1Nfd0VfMXo1NU94cl8yYWZSMDh3NkhKWlBkMHE4TjRYN1ZxTEJhWldkQmlhNC14Tk4ycDBXT3ZSNVhj?oc=5"
         },
         {
-          "source": "Tagesspiegel",
-          "original": "Erneute Eskalation am Persischen Golf USA versenken iranischen Öltanker – Iran beschoss US-Flugzeugträger",
-          "zh": "波斯湾再升级：美国击沉伊朗油轮——伊朗曾炮击美国航母",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON1oyZjNpbEtXbFcxRjdrUGhZRVVhQ01CaHp5MXhER3JOVmhacUM3NnRacUJKZ1lpNzlNVEVDZkRYMk9NQXZnUmF3ZFkydnJQc2RTV0JzZjhnNjR5UHFfR1p3RE9qcGVXLUpFTHNIZVc0UXpKeGtCMEs3YnJJNTRMRDR0RkM4M3M3dDZ6VDE0M3Zfb0ItM1BFb01zelZqRlphYkNyelFUZzNEOW1ubXZ3NWNQdEYtbkFsUy1FWkh1S3lZcDd4SWlfa0NSMHJuVFkwTnlfSnJjNDZoNS16NUVnNXhGMGJIczlsTjBfUXcxcjFFMmxY?oc=5"
+          "source": "ZDFheute",
+          "original": "Iran-Krieg belastet Ölmarkt: Was Trumps \"Wirtschaftskrieg\" für Autofahrer bedeutet - ZDFheute",
+          "zh": "伊朗战争拖累油市：特朗普的『经济战争』对驾车人意味着什么",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG5zMHNJSEt6aFduVE5iRnljNkt6a0hsbG9heHd0UVFkWmZzeDVpVFdwa25fblBwdUJIM3FEektRdHBFVUN6YWlaVkNvRVVsaW9NeE95Mk05VlRiUm1iM3BPaWZlbG1hTDlGN1dGUmsybmg1dkZVVTMydGNnUTQ5OTZRRWcxM1dwNFBtZGVjbThTTzZKQ21oOVB2bnhzTVk?oc=5"
         },
         {
-          "source": "Merkur",
-          "original": "US-Armee versenkt iranischen Öltanker „M/T Kylo“ – Revolutionsgarden feuern Raketen auf Flugzeugträger",
-          "zh": "美军击沉伊朗油轮『M/T Kylo』——革命卫队向航母发射火箭",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEZvUjBtV3pOOUEwcDJISXVOTTZWUUNQQXJKbExOMDZXZ1lRV1pFNWpSMXZ6ZGNVQmg4UEhTVml4MVF6T3BSOUZLRl9FeVFHT3ZySkx0NGFpNUdKTjVpR0c3anNTOVF6aDY0SW9TZU0tMzVuaFVnV0ZobnhSSXAyMG5JV09wdGQzaDN3UWF6dDBlMkluZldabmhZYmpfZXZOV3ptM2x4dnJ4bVYw?oc=5"
+          "source": "Berliner Zeitung",
+          "original": "Straße von Hormus: USA schleusen verdeckt Öl an Iran vorbei – Bericht - Berliner Zeitung",
+          "zh": "霍尔木兹海峡：据报道美国暗中绕过伊朗输送石油",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmt4QTU1cUtSUGJZZjRXS1lQRXVtY0htR3RRMVpoR1VkMGNEakRISHpFT3dNMGZZWmV1QWUzamFhQ1lnSUJaWmx5RHlBaXREbUxnTUlFSXJDd3BsbW5RYk53b1NSOWlpRnU0Tl93Z24zcWxNTzdaUjV0ZHhMRWFUMXZoWGY5WldxN3I3eE40STNya0lkMmZJSjk4WUNBdlh6OWpVY0g5TjBsaVZsUnBYZG1Bb0JxNzdVR0gwalptcVhIQlZGalNGWHpaRQ?oc=5"
         }
       ]
     },
     "Brazil": {
       "name": "巴西",
-      "frame": "以伊朗的指控、回应与视频证据为核心的升级叙事",
-      "unique": "独家突出打击地点哈尔克岛（Ilha de Kharg）的战略意义；标题多用『acusa』（指控）等保持信源距离的措辞；头版完全无此事件",
+      "frame": "以伊朗的攻击行动为主语，突出伊朗对美航母、基地及海湾国家的打击能力",
+      "unique": "大量关注美军后勤困境（O GLOBO『Pesadelo logístico』美军舰船需航行3500-5900公里补给）；航母轮换与USS Abraham Lincoln状态追踪；事件未上巴西头版",
       "headlines": [
         {
-          "source": "G1",
-          "original": "Irã acusa EUA de ataque a petroleiro em meio à escalada de tensões no Oriente Médio",
-          "zh": "中东紧张升级之际，伊朗指控美国袭击油轮",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2txV19COUFlWFpzQnJna3puM0tMMlo1LWdOT0FZcVpjNDlQb1NHeXRKU1FxZWotSUtJVzhxd1FrOGRHU0ZydC05N21DQk9IS3B0cldXZlhqQjJVLUdyYl9DS2xKTTRScUJyZkVvQW9rMkZxRmpadHJ5Ri1zUWcwUWw2c0FvTmszWTlpOXJWNG9Qd3FhSlRqcERxYVVZSE16R0dNUXktLThEbFk0cHF2UHdoR1hPbG1FdTNBNUZFRE95THRQQW9IeXhuQVllellU0gHfAUFVX3lxTE1PektybkFpVnZSV19sclZQeTJ5QVR1aXhMUDJQXzN2cUFBcTNiY2c2VHQ0MUkzaU5qSW5QWHhPNHlDa0pBRmtCcnp5dTB5NzcxU1ZySmdELUJ5bmRuQk53dktPbGlJaXVKMmxXZ2xEYmQxT09jVjJTbHk5VFkta3M5by0zRjhPNFRYTEFVSk00M0dUN0UwdWJBUWNFNC1kQTJCZGxORFl0ZGtxNW9HT1lIS0U1TkQ5MER0anAtSklUM004NDlsSTAxczBNUVJQUV9DTnV1ZFhBNlc1SHNrVGs?oc=5"
+          "source": "CNN Brasil",
+          "original": "Irã diz ter atacado porta-aviões e destróier dos EUA com mísseis balísticos - CNN Brasil",
+          "zh": "伊朗称用弹道导弹攻击了美国航母和驱逐舰",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjV0YWY2NjY5ZWdPQ3ZHZTRBWG5zUVpDWEF0QTJZYTNic2tFc19xZEduc1ZRckRyVUVDOS1WaE1vWE9xOHRDcDZzOFhnSDJVeDQtOUdMRklhQS1WdEFBejY1SWpBaTFORmdnQ3BOdW1KQkZramsxZllfZk5XQl8xVks0VmM0OGFlX0tyRlRkd0xoQm1hLWRYTk9obnctSG0tZDczZ1FrN0dKTVFwU0NRSlg3MlEwZ3RGbkNz?oc=5"
         },
         {
-          "source": "Estadão",
-          "original": "Irã acusa EUA de atacar petroleiro perto da Ilha de Kharg, ponto estratégico iraniano",
-          "zh": "伊朗指控美国袭击伊朗战略要地哈尔克岛附近的油轮",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd01PaG5kNC1Ma0cwN3JTOEhNNFB5MGM1b2gxb2M0V09mZkJJbEF0RlZHUEdNM1o4cG5qbXVBOEtiVEx3VlFhWGt3dVVZQWJ1UWZLV25ZTENQWnJuVWZuYUpCUUc5R0MxQUhPOWlwRHFOdWZ4ZVVqbHFzMHA3U0dyWGdqVF8yT2RxR2hOY0J3cW8zdnpiQWhtbU9tOVlaMkpt0gGmAUFVX3lxTE1JdkctSk1kNmd5UDhiTXJKXzRsbmdfM0ZCM0lwYmJ5Qzctb2o0MndLVERva3FzSWJmOUx2eURCdUZlVExYbUtseDRtUVRGMHhBbmdzTDhhTjVKZ1NFVWt0djJNUVI3Wk1pVGp3dFdUNE5vRy1SX2NKdHA2VzB3ME9ialBNQndKR19lSXN3ZnppZHNkY3pvVWMzWmpELXFQMXBlZVk2enc?oc=5"
+          "source": "O GLOBO",
+          "original": "Pesadelo logístico: Ataques do Irã a bases do EUA obrigam navios americanos a percorrer 3,5 mil ou 5,9 mil km para abastecer - O GLOBO",
+          "zh": "后勤噩梦：伊朗对美国基地的袭击迫使美军舰船航行3500或5900公里进行补给",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcl91ODhEX3lhc1dWNW94SjVGeFptQkRILUxnV1d0NWVuRURmRVV3dkhfSFNpeHJXRlVoaDZGY3VIUVlKODJKREwxZkRwVjJMWTVpcHNYWi05V2JKUW1reW0ycExmMFZFSm00N194Mzdka1FyLVpvUGNDTnpPc0FUNXlnaWRDMFdmc3VGbS1UY2QyVW85RzVLWjlOd2hZU20yMW1KX01FWTNuWGJFSmhycHFucjJpSDZydlpXWjdnbWhWZXlVNjk1OXJvQWRDMWIzM1dQbVRkQWktRXA4U0UxUkZkV0NJTzE3LUo3T1RxaUNLVW1ERkgwckt2Z3ZOcWpsbTZqY1JjYnLSAZcCQVVfeXFMUDA0WkN1VDgzT1VRcFJzMTJQSVVuN2YtRGFQeXFpTW1sYjdRWExuRm5jTmF6bUFVLXJCdTl1a2ZqNWJmdk5ReDlSUGZ5N2tkUDY2aDhsS1NfV3Npc0FjTm1tUURnenpKOS1kYk1RdU9jR0hid3VaWUpBQk9QOVQzeVQ5WkRkWksyWjRfV2h4eWZEM2NWejlpOTQ1bzNzdngwSDB2cU9XM1hfUW5mTThMdVNYS2c5R0lqeWZfN2VVbWNmUWEtRmVhRzhOajY0dWdKWXcxT3JRWV9mSVp5akh0U0w3UWZ5M25OaDQ2WXdNUFRTSlVBMElpOTBrMmJIaGZac0kwQzd4WEhzdmoza2x3MXJPOHBDaFdz?oc=5"
         },
         {
-          "source": "Opera Mundi",
-          "original": "Irã promete resposta ‘com ações direcionadas’ após EUA atacarem três petroleiros",
-          "zh": "美国袭击三艘油轮后，伊朗承诺以『定点行动』回应",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMU1lVGpkWXkzZlFyS0MwLWFyN0F0aUZYakNIZGEweUNRNmMtVlJNWUluUlh6aEZtWDN0NG1ra0NfdE5LX0wxZDEtWllCM3Q3a3NnaF8wNU96VGgxSTJnZ21YRG1ER1lDeE0zdkNsbFZXUG50Y243bl8zRk1iVDQ4bG9aRDQ2czByNUJ0NFZMblBSUnBpVG9JXzNwVVBYX2wtd1B3cjZDQXFnVEI3MXRhZUVKN0J3bnpBMS1OUWZoenI3UUtQVHhSNmh4RXZmdw?oc=5"
+          "source": "CartaCapital",
+          "original": "Irã ataca países do Golfo e fecha Ormuz após ofensiva dos Estados Unidos - CartaCapital",
+          "zh": "美国发动攻势后，伊朗打击海湾国家并封锁霍尔木兹海峡",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelBOMTZzRTJmWDhfdVdLNEFOcUVFTEVlSVBZbTVwNDBEMHVhZFZNWk1COUdDdkVqZGVUelhWeUpCak5NNURrNjhVOTVKQ0xKMF9KamI3T1Q4OVVyYlBHelhVcUZUNExFbGpTSl85aWU1Qjg4QUZVZndvVGxOdDFyRGZUZmNjeFhrXzhuRWU5ZWlnY2ZKOEpzODl3ZmVEcXBieDA3Z0RZRTZTTlRudGh5Vg?oc=5"
         }
       ]
     },
     "Russia": {
       "name": "俄罗斯",
-      "frame": "聚焦 Hegseth 威胁击沉所有伊朗油轮的升级言论",
-      "unique": "多条标题突出『美国可打击伊朗所有油轮』的威胁，把事件框定为美方无差别升级；当天俄头版该事件与库什纳-维特科夫访莫斯科闻并列",
+      "frame": "伊朗攻击美国军舰是主叙事，美军打击油轮被表述为回应，措辞戏剧化",
+      "unique": "EADaily头版使用『Война в проливе 2.0』（海峡战争2.0）和『开始猎杀美国航母』的夸张修辞；引用赫格塞斯威胁摧毁伊朗油轮；该事件在俄头版被国内无人机袭击新闻包围",
       "headlines": [
         {
-          "source": "interfax.ru",
-          "original": "Иран угрожает мощными ответными ударами по кораблям ВМС США",
-          "zh": "伊朗威胁对美海军舰艇实施强有力的报复打击",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KWWVFMzlPczU0RWY3OVhOVkYyRS1oTDcyWkNRa3RpT0RHeGY1elVkbV82VzctdG0wSFZDZ0lkMEJxV3p6czRWdEhMQdIBS0FVX3lxTE5KWWVFMzlPczU0RWY3OVhOVkYyRS1oTDcyWkNRa3RpT0RHeGY1elVkbV82VzctdG0wSFZDZ0lkMEJxV3p6czRWdEhMQQ?oc=5"
-        },
-        {
-          "source": "Национальная Служба Новостей",
-          "original": "Пентагон: США могут ударить по всем нефтяным танкерам Ирана",
-          "zh": "五角大楼：美国可能打击伊朗所有油轮",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1RmQkV0OE5seFhPYkRoWDVRSWpqQmFrZVZfNmxRY1V5ai1nNThDblRjWkNRRk9HWUx1OVBXaFp1ZGN3aWc1d0swR1lDVXdRQmpWYno4OENXUEJDaXppdTNNd1VYT0I0UmNJNk5IMFRkSUg5T2FMRFNCYTdlSEhMaGtzUW5qWUJ0U2Y0Z2RFQnTSAZYBQVVfeXFMUHhWdDdhV3VuUmtZbDEyaUpSSmtYc3ZUb0FnMDlVc0xFRGVqTTI4VWFERnNHQWxvVW1vejV4MENyMUJrSGxaWGV4aFdQN3FxRmVMZVdGeDJuMDQ3UkN2R29BNEZBQUlVX2xzUTduVjdjUWFreXA4N0ZZUExsTWJyTnpfaVk2Ty0yZWlhekV6X2VMZ1F5ck5R?oc=5"
-        },
-        {
           "source": "EADaily",
-          "original": "ВМС США потопили иранский танкер в Ормузском проливе",
-          "zh": "美海军在霍尔木兹海峡击沉一艘伊朗油轮",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFpBcmp6N3NrOGhIc2o2c1pIZ3hUZW5WRnJjdnlVd3BOMWJMRC1GVFZhVm5nQ3EwdDAzQ0E0R05lNmFpczg5WFlRRmdFWWQyNFY4U1EtOWp0RjBCZ1gzY202c01TS1BselVFanA3dFV6bFhFdl9rVmMtZzFzRHlxR3I4QlpoNTdQMkQ0c09FYlVlTURWN1l4NEEwNWfSAaABQVVfeXFMTmIzMXE0cC1XMFRnUXZqZW5yRGFmYjFDY3JwZk9fWE9JVXZZV2hHb2hHNzdhSXVqUjA1by1Ra3NFSXU2c3VldUNnSmZIc3NrYk84aThUZ3o5VktfUDFiU05IN2U0ZkEtdUwzZ0ZCM0IwREMzMjlxVHBZRXpxNTJ1a010dFY0Zkc5Y1NGcUMwNzRHN2l5cEJzbDNQTTJzZzZHcw?oc=5"
+          "original": "Война в проливе 2.0: Иран начал охоту за американскими авианосцами - EADaily",
+          "zh": "海峡战争2.0：伊朗开始猎杀美国航母",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmUzNjJIV0IwREpEOVZnbjMxWUk1Tmo4QmF2N083X05xeWtIZXA4NW1jRXVPdEhQWEJiT0dOREhMNFVOT0ZuTXdpZkFIa054TEpfamoyQU15R2k3eUhodVRYSzdoUE54eHpRZmEyYXNqR3NjbjI5bS1QVmVnYVM0YkZDUFV5c2gzZFhFUmttQ3pyOUF4eXBuVkREM2tWYlRPY2VucmJ5dnEyR3dpekHSAbIBQVVfeXFMT0R0Wm14dEJOQzNsYldqMDJPQVkwWm1FTnd1Yjk3TUs2bS03emhVWTJGTmh2UEJmdWJULV9UWk9tS1llOWdTbk1JNTJNLUxXM2kzamhYMGxfNzZXMHVRX1BaNmZzaU81NHJxcEdiVlBfNDBJU0RVREhHc1dLSkFlUWJoSWVtUzhNTWVUeENrcVZsWUdlalh1V0dxUFFOSHk5dzJDb25tdG1tLVctY3J1Ny1PQQ?oc=5"
+        },
+        {
+          "source": "Рамблер",
+          "original": "Иран атаковал баллистическими ракетами американские военные корабли - Рамблер",
+          "zh": "伊朗用弹道导弹攻击美国军舰",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEgtUVNHOEVzSmtFalhfNVhlOUZiVXM5VjRsNlctRlQ4TXlsV2xmOXR5dU5XMjc1Qy01NWxKc1NoUjluMllJY0tpcWJIV3VLNzh3LTg0c3FBbGRtX2JSUDRiaGN5Wnl3ZWpkaHlaTWZSb3Zqc2NQc1otNVU0NmFZQ0M5VWMyNmJyQTFfdnZfUTd4Q25KSHBWMmlQanp6d2dkbkpKb2t6RkZUc0HSAbABQVVfeXFMUGxqVjlub0xGODYzaDR3VUU2NUdjU2dqM05WQWFpbkV3dzdEcTZJU3FTTjd6UWJUT3R5YXU4S3Z5eWFUci1OdzFiRjNocEpNZDM3VEV5bmtOMHE3anRwZ2JnaHIxMFF6WkdjVk1NVngwV0ZraFg5dWFITnZYZFdEd0MtWFhtUl94eUMzYl8zRVdrTWRjT2p2SHltYkJIaTNFbllmWHZiZTA3UVJtbzRHNTY?oc=5"
+        },
+        {
+          "source": "Armenpress",
+          "original": "США уничтожат иранские нефтяные танкеры, если Иран продолжит атаковать американские корабли: Пит Хегсет - Armenpress",
+          "zh": "皮特·赫格塞斯：若伊朗继续攻击美国军舰，美国将摧毁伊朗油轮",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nbnVBaWJDcGRyMzB1Tm1xVy11dVlVODNIdmVDNmJURGpodmRVUnJ0Y0laZGdfSzFlX2JEeUxHZGpvT0VPNWxBOWJPalFHX2hHNkHSAVdBVV95cUxNZjh4Q29henJtSXZralRNUWwtOTVyT1hRRjFodnphVlpWMGk2S1p1TVJYeTV6SmtaMEVaaVNEYXNrTzFGcEtTamxJZHVtQk1HM3pKc2JiLUk?oc=5"
         }
       ]
     },
     "Egypt": {
       "name": "埃及",
-      "frame": "『油轮战争』：美伊对称互袭、伊朗誓言更强报复",
-      "unique": "独家使用『حرب ناقلات ملتهبة』（燃爆的油轮战争）框架；多家媒体并列伊朗袭击6艘船与美国打击3艘油轮的对称数字；头版同时关注中国主席访埃与对伊制裁下中国的立场",
+      "frame": "『 tanker 战』的历史化框架：解释性、盘点性报道为主，关注冲突走向与伊朗的长战准备",
+      "unique": "半岛电视台阿拉伯语版提出『 tanker 战』概念并做知识盘点（『ماذا نعرف عن』）；出现特朗普称战争为『微不足道的军事冲突』的标题；将霍尔木兹与以色列议题并置（『حرب هرمز وإسرائيل』）；事件未上埃及头版",
       "headlines": [
         {
+          "source": "الجزيرة نت",
+          "original": "معركة الناقلات.. ماذا نعرف عن الضربات المتبادلة بين أمريكا وإيران؟ - الجزيرة نت",
+          "zh": "油轮之战……我们了解美伊互相打击的哪些情况？",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNaGt1NEs1Y21GX0dUYUJncjhOY0R3Q3pkdkcwWlFYR0VuMmplcGFTQ3FNeEdEYXowM09HYmtidXI3eEJsSThrOFhuamFPT2xxR185ajl4QlR4X3dkWm5HUjVZbWVPb3hSazRuYWlfck9nbEtDdkZzUVYwNU5KYXRXa2h2WVQ3SWJESmZTMlF1TXVqczZSSUhSb21RbElzTWQyU2hjb2pGT093NjlzQ2Z1ZzZSMXBXZG9PUlVqNGVZeXpGb3p3WEVYRkg5ZnR2LVFlVkdoa2tMdlNRN0xzb2d1c1pEbVQzd0ZoNlFCeUpXWjUweHhUVEc5SUEtc2NCMjBQVy13RXZTN1djUmxmR3VYOE1FbzJyWW8yVTFPSnF5NXlXVlRQd1BLTHNvcEstYWlmSjRIRnA4aTlkVGpsWnpoZGx30gHHAkFVX3lxTE5sUXRiRnhzZk1OMU05ZE1JeWJTR1IzeGdOU3JyQndUMUdtQWtMdTVLTzBwQVpGb0FkUHFxQkF1Y1ZrZkxSb1ZkVW10MlJQbEJWVWk5WkluZEctWjhJSUxLRzFZclV1NjREUW1UVjRlbGRnWVllUGk3V2xOODBkb1VJYUE4aDZWV1pLNk5mWWZORThGUVl5ZFl5eHdqNFVoRS00X0dlNXZSYl9vNFhXSnJScFFxay0wblRfejRGNW5aSzkyeGx0TU5MdWpnaU1HY2RaNEZxUk1UQjZfbUd3YkhydUduMFM1a2FVUk9mY1ZRU0JOTFJFWUZ1VFZJTThMd3FfdnhLMmh5bjZWTENfZDlZclRxVTB3V1RDd25yX1JEMGtRVldfd0V6RXFiUkNJZEVzVzRqbGpFelEtd1diMlZ0dnlEdFNMQQ?oc=5"
+        },
+        {
+          "source": "Masrawy",
+          "original": "إلى أين يتجه الصراع؟.. إيران تستعد لحرب طويلة مع واشنطن وتدرس استهداف أراضيها - Masrawy",
+          "zh": "冲突走向何方？伊朗准备与华盛顿打持久战并研究打击美国本土",
+          "link": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxOV3lObElGVDFNMXJVMDFBRVpPb2ZfTTIzM1FrMkI3S1hLd0x4R1BCemVvSnUwd3k1NklOaFM2cnNxdW9lSkt3aFRYT1llZldGbExoUDd0Y081aTF6MlZPbnRPdnAycW1mQ2VpQXlsSTl2eHpnSDM5clgxVEVWa2RUeW1obmdRNGZOYmhzVVNKMlNXTl9aZ2M3Z1VucWdncXVyb3ZsbjAzMi1vVlREZ2hXelA0V1FXbmVFY1JpczlfVUxENmpfTGlwUlJUTl9qWlFhUHNQZHVfNFFvWXZBSFFVYnpuempGaWd4R2xkaTVpRGczakFZV2NsWkVpRjgzbERzRlN1LVZGVUtTTmJwVzZDV2h0LUY0TmtrVEpYZUxpWmQyT0lpT2hfWGsxS3VaeEpVU3JlYkVlTV9WZUVqT1k1VXptTUJDMmhTaUZOUmZCOEVOdUNaeDZYblRsN3Y3WjZxUms1a2JobU9SaGZsZWtjWEdQemlibC0zeU1GdlFqLXF6UjVPa1JQNVRwQ3ZFM2Z3ZUFrQ2FQSkp3aTBxN0JQZEZFLVJNZWx6TzhfSEx4M1BGWXF6QTEwUFZ4cGdlakZCMkJwZnlXUlVoSHhBSTE3ZFIzcWI2Z2NEeWk5TjFjM29XelhqdTk0N1BlcVAwLVlMOXpGR1dYZUU1MjU5eDNXS1FqTTk2V2xOc2VaNWh0ZFFNWWRQa1EtV2pERndOWFMyY1FVbEx3aUJJaHhVNzlDdFlLLTI0dnV0VGd4c2tVSTVKSWRxWUtYQmhTYktrekZ6Qm5kUnFUR0R6WDdvQmhXZTA0WWZrbEQ5TVJxY1ZfN1FBSUM4NmdNR0NKOWJlUdIBgwVBVV95cUxOY3RrX0FvX3ZtTVB1X2pIM29mVmJrTVlWcTZfRVQxMkFXRlJOejZPejUzYUhkYnl5ZGFNQV9PUG0tSmJLTE5SZnVydTZrblFWYzV2NUs1Slh1dGREWU5ERTlqeHE5dFdhYUdGcEFoaHE4RXRSM3RmcFYtTE5DeS01aEpDRlM3UUx4d3lTU2FBY0RaMkxKZ09BaVB2LUp5U1RyOGUxcFctc1J0M3pNRXY5Tmd1T0xnMjBSSG53LTJ6VHEzcXVWUzZoZVFRRlgzejdfM0UzVkltQTlLZGU2bVAzeHZOb1FrbXdCVUh4U1MwUlNtS3R2SUJwMi1tYi1RX05RZGVKdHRGcHE2VHpJcWVuSzZ0TjQ3LVBsdjV4RGVIM1NhdDZLcTRWSDFIQVMzTmhEdzJSTTZZRmpVNUdnb3hkZDFqZVROUzZCYmxWX0RCRjhiSzFpMldpSDNUbmFFUkNXUzFVNDVRY3U2WnVFYXNZY01FZ2tKdzBWdk9YWHRWdy1KYzhfSGtvZE41bVB6Z3hoVVBjd3BiSEtuZWhYODBhSjVUTUotNWFJZzk5QVNVMWRiZ3lrcl95eTVMU0pZUEVkZHIxVFIyRnpYc2lpdEU4ZTQtank4QjFXaHcyaU1ZQlBCc01LTWJlQ1BUaHVnNGp5UVRYWnYzNmNhTllPQ054ZWhUQlhGeUExVVpDajktd1dXbG8yWVJqSE5lWk5vZ3kyY2o1anI1RjBRRF9BY2YwVlI4MGxNWnBiR0VyclIyMk1rWFBzamkzUXJVcWR5c0xHdkdTVVRfWDJsQ0JSQWt1Z1Bsd1RzeXpqZmt0ZEljeWNFcDdTcUFRZnNSeUx2MDJlOFNv?oc=5"
+        },
+        {
           "source": "BBC",
-          "original": "إيران تهدّد برد أشد بعد استهداف واشنطن ثلاث ناقلات نفط تابعة للحرس الثوري",
-          "zh": "华盛顿打击革命卫队三艘油轮后，伊朗威胁更强回击",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tc3pQc3JOaElBSU5PRFNXc1ZHNnR1QkRaWXlZRWc1aUE5N3ZFeXU4MEpza1JhLUlodmtZdEhGdGJqUVJCT1dLYk50UU1pbXhUREhPVDVWTEtEREo00gFiQVVfeXFMTWZOOWJPdnhmVjRhQlJXN2k3cVZZUFpENW1Ud1pneTNmV0lrWkZRRzVSa3J2TUltejFDcjh5a196Y2Z4a2RPR0RDZWZ4Smw3NkhkN3F6TkE5T1hkMjN3aEU1NlE?oc=5"
-        },
-        {
-          "source": "alkhaleej.ae",
-          "original": "حرب ناقلات ملتهبة.. ما تفاصيل المواجهة البحرية الأخيرة بين أمريكا وإيران؟",
-          "zh": "燃爆的油轮战争……美伊最新海上对峙细节几何？",
-          "link": "https://news.google.com/rss/articles/CBMirgVBVV95cUxNY0xSSHZZZkc2dVY4YkZELUp0Z3JrUmxlUVhNX1htNm95YV95Rk4tLWpDczQ1VDQySkxEMUU3R21PT1hSRVhnVEhoYmhOVzJOZjNRNXc3cHJMUEFjbVozczc1NFFxWFN2LUpfMjE1em9wYjRIellPamdMeldXUk5TVkQ1by1RdXNCbVdVMVQtMUMtSE9tT1J0OGp6ZVdwVlJuSGtSandmWEdXMGZuNzBWX3cxQlY2TzdsWkJsb2toVVdOQ1FpZlczTVJON1ZlUVJ4Q3l4YUExMWhvMloza2lacGZpMS1wWnE5U3BXcURDeXBoTzVJTzFYWWlqa2VPYnRCMVgwUmxCZnFwZTlVMmpFR3E3dDJFUElHS0pDM1dGd1NlR2ZfQXlmbW5DbUw5VzJxYUpucFFEWDA3NThMZTN2MU1ZYzREUFh6N2Y3NW85a29TTWhlNWFIbUw1b3FfWmV1dVVkN3dFNUpGLTBNX3k0dWo3QmNLdC1DSEZEWFRXMDRYSGx0ZmpnM3E4elBtdEItYWtiZXJDand3dVRrQkdIRkFvb3JXa3FiRTdtc3MxV1RNdDJTQ0VneE55VFpQQlNDUzVxenRmVGdSd0RkTm11clQ4QUlmY2tDQ1BtTWZYMlRfaEZEaGRYWXFzb04wQWt4ZDJUNFhZUnFGNWpqa1FMNnpRaGZKb0xBZUJUZlBrMnBaWWtaaXlrNXd3UlZ6b19Lb2Z4QVRYel9EdVhPLTBHTjdHY1ZhdktOd0tjeE5TX2pFZTdHTUFZVUJNb3FXLW43NDU0d1hhU3ZvNWFHckt5REtVdlAyME1fRm1qTWlUVFo4NjhHMG5pSjJOWUhuV1lvbWdwMmdrTDBVRmZjYUZhaHJSOVBJQXlZQ2N5eFY4V2ZJcmM0blNyWFE5S1c2UQ?oc=5"
-        },
-        {
-          "source": "القدس العربي",
-          "original": "تصعيد بحري بين واشنطن وطهران… إيران تستهدف 6 سفن وأمريكا تضرب 3 ناقلات نفط",
-          "zh": "华盛顿与德黑兰的海上升级……伊朗袭击6艘船，美国打击3艘油轮",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaVA5V1NtNGpOQjh2Z3BMOWxvSEp5R0NvTmpYWkZwbXpuN01oMUd2TUJ3VEFOOS1abmJUMUZ0M0h4ejQ3QmpYbm0wLUlsM2RjTGwzSVd1V2F3ZVM2STZVeG54ZHJ3Y3NoY1czZndTVnVoSnlLb0VfRk9WSXhUbjNHbW4xUkxEQVBvT085R3RWWHJqS2ozTUpvV09pZ1dUVW1BSDFXUldicldqQ2I2aXFjYmVTY2hPOVNEX0hvY3VPd3dVMkdMTWhvNG84bzVlNm5LaEN1QVlqdzJITDVpMXJPOEl5cDF1MDFRU2dnUWdoQWJvcXl1SVYwSndfSlJSN0NzbmlNbHNmbUNlZlU1SF9LWVpWRExjd2tjSXB5NU1tUzVWMWRRLUw4TW52QzZzc2RnSFQ0SV92clpCblB0MU5lVm5zU0NLVnc?oc=5"
+          "original": "ترامب يصف الحرب مع إيران بأنها \"صراع عسكري تافه\"، وواشنطن تفرض عقوبات على بنك تركي بسبب صلته بالحرس الثوري - BBC",
+          "zh": "特朗普称与伊朗的战争是『微不足道的军事冲突』，美国因一家土耳其银行与革命卫队的关联对其制裁",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlT1hKcVFoUlczOERWM3V0QUNYNTNrMER3S21iYnZRYU9UcERnNmVlTC1PRFR4QVgxSXY5V21SSXFUc0hvR29venJ5SWhqYnl2Y3prQmJtWVVJbjBB0gFiQVVfeXFMT1NQSWVyaTJDSkwtQUx6emdKVlNwWFd4ajhTZEIySzAtSkZHbnVJWlA4MUFta0VaNnFoWWs0dVJTUWY2Z25FdEdaTlpwMnpDWHBNeVFlWjRpZGtBclppT0NPUnc?oc=5"
         }
       ]
     },
     "China": {
       "name": "中国",
-      "frame": "互袭僵局+经济与地缘外溢（油价、韩国派兵、持久战）",
-      "unique": "独家角度最多：央视海峡通航实地报道、『韩国考虑派兵』、『特朗普称已赢vs情报部门称伊朗打出自信』的内部分歧叙事；头版完全无此事件，以国内新闻为主",
+      "frame": "美伊互袭的攻防细节与胜负判断，强调伊朗的抵抗姿态与不投降立场",
+      "unique": "出现明确的胜负与心理判断（特朗普『美国已经赢了』、美情报部门『伊朗已打出自信』）；央视实地探访霍尔木兹海峡通航情况；伊朗议会议长『回应将更加痛苦』直接引用",
       "headlines": [
         {
-          "source": "中国江苏网",
-          "original": "央视探访霍尔木兹海峡：通航量低迷，美打击伊朗油轮",
-          "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmk2WnVWSWNEbHRvemRGeFFoTWQ0Wk1oQ25YaW9aOUdra1ZjOUVERlY3dEk2TFBPcU9laUQtZGZfTEJKdjBlRUgwRmd0UWgtX2VieGR0bVdUQWg2UFFxN0xuVW0tS3JqeFVCS0JzU2lrbWwyMmtOSVYyam15M25ueDlvQ19Ndw?oc=5"
-        },
-        {
-          "source": "wallstreetcn.com",
-          "original": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+          "source": "华尔街见闻",
+          "original": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信 - 华尔街见闻",
           "zh": "",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42Y3g1bGdvS25UNy05TnlPMXRNQmU1LWU4NkJnN29xakhDbWhZbXVNRDhIeXRHSHhBd2syMEszRjhMdGRqd3FoSTlSRmdMSWlFbGhZ?oc=5"
         },
         {
-          "source": "chinanews.com.cn",
-          "original": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
+          "source": "观察者",
+          "original": "美军袭击3艘伊朗油船，伊朗反手回击6艘 - 观察者",
           "zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ENUVmemZCalB1Qkc0eGtGd0pWVDdLUW8wSzBRbUJGekc0eEtibGhFVkpLejFadk5SYjRvb2pIeVBLY3plT2YzelZ6OElUNjZ5Y0t1QUlqdWphSFVzQU84cTFtRU1ibHBl?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhdWtJcU5VSmFpLWNYM282UzBnSVFGY04wNldfdWdKZWxjZlpnSWwxMTlLQ0liSTRDTHJ5Mk5QdHNEWExkZk9wN1hWR0lwLU1TYTB6OVdWMXdfTE5nWjlSV2RTclNKaC1ZQ2c?oc=5"
+        },
+        {
+          "source": "中国江苏网",
+          "original": "央视探访霍尔木兹海峡：通航量低迷，美打击伊朗油轮 - 中国江苏网",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmk2WnVWSWNEbHRvemRGeFFoTWQ0Wk1oQ25YaW9aOUdra1ZjOUVERlY3dEk2TFBPcU9laUQtZGZfTEJKdjBlRUgwRmd0UWgtX2VieGR0bVdUQWg2UFFxN0xuVW0tS3JqeFVCS0JzU2lrbWwyMmtOSVYyam15M25ueDlvQ19Ndw?oc=5"
         }
       ]
     }
   },
-  "limitation": "本数据仅为单一时间点的标题快照，无法反映正文深度、后续更正或各媒体社论立场，且部分国家（法、德、中）的信源中混入了外国媒体分发内容，不代表本土媒体的整体报道比例。",
-  "event": "美国军事打击三艘伊朗油轮以报复伊朗对美舰的导弹袭击，美伊在霍尔木兹海峡冲突升级，同时美特使与普京会晤推动乌克兰停火方案",
-  "event_title": "美伊冲突升级与俄乌和谈",
+  "limitation": "各国检索词不同（如德国聚焦油价、巴西聚焦伊朗攻击航母），可能系统性放大该国特定框架；头版样本仅前10条，且部分媒体标题为聚合转载，据此判断显著度与立场差异需谨慎。",
+  "event": "美国与伊朗在霍尔木兹海峡及周边爆发油轮与军舰互袭冲突，局势持续升级",
+  "event_title": "美伊油轮冲突升级",
   "date": "2026-09-06",
   "slot": "evening"
 }
