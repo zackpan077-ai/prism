@@ -1,0 +1,17 @@
+{
+  "event": "美军以报复伊朗弹道导弹袭击军舰为由，打击三艘伊朗原油油轮，伊朗誓言更猛烈反击，美伊冲突升级",
+  "event_title": "美军打击伊朗油轮",
+  "why": "该事件在全部10国头条均有报道，且各国框架差异极大：美国强调报复正当性、英国关注经济与安全影响、伊朗周边及俄中媒体突出伊朗威胁与美方弱点，是视角分歧最大的硬新闻。",
+  "queries": {
+    "US": "US strikes Iranian tankers",
+    "UK": "US Iran oil tanker strikes",
+    "India": "US strikes Iran oil tankers CENTCOM",
+    "Japan": "米軍 イラン タンカー攻撃",
+    "France": "frappes américaines tankers iraniens",
+    "Germany": "USA Angriff iranischeöltanker",
+    "Brazil": "ataque EUA petroleiros iranianos",
+    "Russia": "удары США по иранским танкерам",
+    "Egypt": "استهداف أميركي ناقلات نفط إيرانية",
+    "China": "美军打击伊朗油轮"
+  }
+}

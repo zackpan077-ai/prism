@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {"title": "美伊互相『应酬』与『报复』的定性差异", "body": "美国与多数国家的标题把美军打击定性为对伊朗导弹袭击的『retaliation/报复』（如美联社『after saying warships were targeted with ballistic missiles』、Politico『retaliatory strikes』），而伊朗方面动作则多被表述为『threatens/vows』（威胁、誓言）。日本媒体则更强调双向对等：『ミサイルに対抗、応酬続く』（对抗导弹、你来我往持续）、『タンカー攻撃の応酬』（油轮攻击互殴），把美伊并列为对等交战方，弱化单方『报复』叙事。"},
+    {"title": "法国独家聚焦人员伤亡与霍尔木兹航运后果", "body": "法国版结果中独有的角度是伊朗后续反击造成的死亡与油轮倾斜：Ouest-France『deux morts et un pétrolier de 300 000 tonnes qui gîte dans le détroit d'Ormuz』（两人死亡、一艘30万吨油轮在霍尔木兹海峡倾斜）、Mer et Marine『deux marins tués dans l'attaque du pétrolier saoudien Sidr』（沙特油轮Sidr遭袭两船员死亡）。其他国家标题几乎不提第三方商船伤亡。法国还突出油价：『le Brent bondit de 4,3%』（布伦特原油飙升4.3%）。"},
+    {"title": "谁没上头版：巴西、中国、俄罗斯显著度最低", "body": "巴西当天头版前10全部被国内政治（最高法院之争、大选民调）占据，美伊冲突未上头版；中国头版前10无一条涉伊，仅有央视记者霍尔木兹海峡探访作为次条报道；俄罗斯头版被普京行程与乌克兰议题占据，仅ФОНТАНКА一条地方媒体进入前10。相比之下，美国（AP头版第一条）、英国（FT头版）、印度（The Hindu头版第一条）、日本（路透头版第一条）均把该事件置于头版最显著位置，德国tagesschau也上头版。"},
+    {"title": "『影子网络』『革命卫队』标签的使用差异", "body": "『shadow network』（影子网络）这一美方定性词仅出现在纽约时报英文标题并被英印转载：『U.S. Strikes Three Iranian 'Shadow Network' Oil Tankers』。将油轮直接归属于伊斯兰革命卫队（IRGC/الحرس الثوري/革命防衛隊/КСИР）的是美欧日俄的主流做法（如STERN『Öltanker der iranischen Revolutionsgarden』、Bloomberg『革命防衛隊のミサイル発射に報復』），而半岛电视台英文标题则用美方『accused of helping 'regional proxies'』（被指控援助地区代理人）的引述式措辞，保留距离感。"},
+    {"title": "日本独家提出『タンカー対タンカー』新方针与海峡主导权框架", "body": "Forbes JAPAN 提供其他国家都没有的角度：『新方針「タンカー対タンカー」を初適用』（首次适用『以油轮对油轮』新方针），暗示这是预设政策而非临时报复。每日新闻框架也独特：『ホルムズ海峡航行の主導権争い』（霍尔木兹海峡航行主导权之争），把事件结构化为两霸权博弈而非单纯的攻击—报复循环。"}
+  ],
+  "quote_comparison": {
+    "intro": "对比各国对『美军打击三艘伊朗油轮』这一同一军事行动的核心定性措辞",
+    "rows": [
+      ["US · AP News", "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles", "中性时序描述，因果链放在军舰遭弹道导弹瞄准之后，未用『报复』定性词"],
+      ["US · centcom.mil", "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships", "用『Destroys』（摧毁）并直接冠以IRGC归属，完全采用军方口径"],
+      ["UK · The Guardian", "US military says it struck three Iranian tankers", "用『says it struck』引述式表述，归因于军方声明而非直接断言"],
+      ["Japan · 福井新聞", "米軍、イランのタンカー攻撃 ミサイルに対抗、応酬続く", "用『応酬』（互殴、你来我往）将双方对等化，不突出谁先谁后"],
+      ["France · TVA Nouvelles", "L'armée américaine dit avoir «détruit» trois pétroliers iraniens", "『détruit』加引号，明确标注为美军自称，措辞谨慎"],
+      ["Germany · BILD", "Hier fliegt ein Mullah-Tanker in die Luft", "用『Mullah-Tanker』（毛拉油轮）这一贬义修饰词，小报化、情绪化处理"],
+      ["Brazil · Opera Mundi", "Irã promete resposta 'com ações direcionadas'", "强调伊朗视角的回应预告，动作主体换成伊朗"],
+      ["Egypt · الجزيرة نت", "واشنطن تقصف 3 ناقلات نفط إيرانية وتقول إنها رسالة للحرس الثوري", "用『تقصف』（轰炸/空袭）这一烈度更高的动词，并强调『这是给革命卫队的信息』"],
+      ["China · 新京报", "美军称打击3艘伊朗伊斯兰革命卫队油轮", "以『美军称』引述开头，聚焦油轮的革命卫队属性"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "美军对军舰遭弹道导弹袭击的合法报复行动",
+      "unique": "国防部长赫格塞斯『vows to sink tankers』（誓言击沉油轮）的政策宣示，以及军媒（Air & Space Forces Magazine）披露由战斗机与无人机执行打击的作战细节",
+      "headlines": [
+        {"source": "AP News（头版）", "original": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles", "zh": "美军称军舰遭弹道导弹瞄准后打击3艘伊朗油轮"},
+        {"source": "The New York Times", "original": "U.S. Strikes Three Iranian 'Shadow Network' Oil Tankers, Military Says", "zh": "美军称美国打击三艘伊朗『影子网络』油轮"},
+        {"source": "centcom.mil", "original": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships", "zh": "中央司令部在伊朗瞄准两艘美国海军军舰后摧毁3艘革命卫队油轮"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "美军报复打击与伊朗威胁升级的拉锯",
+      "unique": "头版FT将事件置于头版显著位置，且The Independent头版把伊朗战争与英国经济压力挂钩（『Iran war puts strain on economy』），这一本国经济外溢角度为英国独有",
+      "headlines": [
+        {"source": "Financial Times（头版）", "original": "US strikes three Iranian oil tankers in response to attacks on warships", "zh": "美国打击三艘伊朗油轮以回应军舰遇袭"},
+        {"source": "The Guardian", "original": "US military says it struck three Iranian tankers after American warships came under missile attack", "zh": "美军称在美国军舰遭导弹袭击后打击了三艘伊朗油轮"},
+        {"source": "Iran International", "original": "Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers", "zh": "直播：伊朗威胁更猛烈打击美舰，赫格塞斯誓言击沉油轮"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "以CENTCOM官方通报为主的转述式报道",
+      "unique": "关注打击地点细节『near Kharg Island』（哈尔克岛附近，Investing.com），The Hindu头版突出伊朗誓言更严厉报复（『Iran vows tougher reprisals』），把伊朗反应放在标题前半",
+      "headlines": [
+        {"source": "The Hindu（头版）", "original": "U.S. military strikes oil tankers as Iran vows tougher reprisals", "zh": "美军打击油轮，伊朗誓言更严厉报复"},
+        {"source": "Investing.com", "original": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says", "zh": "CENTCOM称美国在哈尔克岛附近打击三艘伊朗油轮"},
+        {"source": "BBC", "original": "US and Iran trade retaliatory attacks on ships as conflict flares", "zh": "美伊互相对舰船实施报复性袭击，冲突升级"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "美伊『タンカー攻撃の応酬』（油轮互袭）与霍尔木兹海峡主导权之争",
+      "unique": "Forbes JAPAN点出『タンカー対タンカー』新方针首次适用；每日新闻以海峡航行主导权框架解读；TBS独家引用美方警告『攻撃すれば大きな経済的代償を科す』（若再攻击将付出巨大经济代价）",
+      "headlines": [
+        {"source": "ロイター（头版）", "original": "米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化", "zh": "美军攻击3艘伊朗石油油轮，报复美舰遇袭，互袭激化"},
+        {"source": "Forbes JAPAN", "original": "米軍、イラン石油タンカー3隻を攻撃 新方針「タンカー対タンカー」を初適用", "zh": "美军攻击3艘伊朗石油油轮，首次适用『以油轮对油轮』新方针"},
+        {"source": "毎日新聞", "original": "米とイラン、タンカー攻撃の応酬　ホルムズ海峡航行の主導権争い", "zh": "美伊油轮互袭，霍尔木兹海峡航行主导权之争"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "『新油轮战争』带来的人员伤亡、航运危机与油价飙升",
+      "unique": "唯一系统性报道第三方油轮死亡（沙特油轮Sidr两船员死亡、阿联酋油轮遇袭）与30万吨油轮倾斜的版本；同时独家披露美伊相互指责与否认（『l'Iran accuse les États-Unis, Washington dément』）",
+      "headlines": [
+        {"source": "Ouest-France", "original": "Dans la nouvelle guerre des tankers, deux morts et un pétrolier de 300 000 tonnes qui gîte dans le détroit d'Ormuz", "zh": "新油轮战争：两人死亡，一艘30万吨油轮在霍尔木兹海峡倾斜"},
+        {"source": "Le Parisien", "original": "L'Iran menace d'une « lourde riposte » après l'attaque américaine de ses pétroliers, un navire frappé au large du Qatar", "zh": "油轮遭美国袭击后伊朗威胁『沉重回击』，一艘船在卡塔尔近海被击中"},
+        {"source": "France 24", "original": "L'Iran attaque deux tankers dans le détroit d'Ormuz après des frappes américaines", "zh": "美国打击后，伊朗在霍尔木兹海峡攻击两艘油轮"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "美军摧毁革命卫队油轮的报复行动（附视频）",
+      "unique": "tagesschau将该事件推上头版（第4条）；BILD以情绪化小报语言『Mullah-Tanker in die Luft』（毛拉油轮爆炸）处理；多源强调公开了爆炸视频（『veröffentlichen ein Video von massiven Explosionen』）",
+      "headlines": [
+        {"source": "tagesschau.de（头版）", "original": "USA greifen iranische Öltanker an", "zh": "美国攻击伊朗油轮"},
+        {"source": "STERN.de", "original": "US-Militär: Drei iranische Öltanker der iranischen Revolutionsgarden zerstört", "zh": "美军：摧毁三艘伊朗革命卫队油轮"},
+        {"source": "BILD", "original": "US-Angriffe vor der Küste Irans: Hier fliegt ein Mullah-Tanker in die Luft", "zh": "伊朗近海的美军打击：这里一艘『毛拉油轮』被炸飞"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "美军打击与德黑兰回应的对等转述，以视频传播为卖点",
+      "unique": "几乎所有标题采用『EUA atacam... Teerã responde』（美国攻击…德黑兰回应）的对仗结构；多家媒体主打视频（G1『VÍDEOS mostram』、CNN Brasil『Vídeo: Veja o momento』）；且该事件未进入巴西头版前10",
+      "headlines": [
+        {"source": "G1", "original": "VÍDEOS mostram ataques dos EUA a petroleiros iranianos após Teerã lançar mísseis contra navios norte-americanos", "zh": "视频显示德黑兰向美国军舰发射导弹后美国攻击伊朗油轮"},
+        {"source": "UOL Notícias", "original": "EUA atacam petroleiros iranianos e Teerã responde", "zh": "美国攻击伊朗油轮，德黑兰回应"},
+        {"source": "Opera Mundi", "original": "Irã promete resposta 'com ações direcionadas' após EUA atacarem três petroleiros", "zh": "美国攻击三艘油轮后，伊朗承诺以『定向行动』回应"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "事件事实转述为主，背景化于霍尔木兹海峡与油价议题",
+      "unique": "Вестник Кавказа提供解释性框架『США против Ирана, удары по танкерам и нефть』（美国对伊朗：油轮打击与石油）；事件未上主流头版前10（仅ФОНТАНКА地方媒体入榜），整体显著度低；DW俄语版提及『у острова Харк』（哈尔克岛附近）地点细节",
+      "headlines": [
+        {"source": "Интерфакс", "original": "Военные США нанесли удары по трем иранским танкерам", "zh": "美军对三艘伊朗油轮实施打击"},
+        {"source": "Интерфакс", "original": "Иран угрожает мощными ответными ударами по кораблям ВМС США", "zh": "伊朗威胁对美国海军军舰实施强力回击"},
+        {"source": "Вестник Кавказа", "original": "Что происходит в Ормузском проливе: США против Ирана, удары по танкерам и нефть", "zh": "霍尔木兹海峡发生了什么：美国对伊朗，油轮打击与石油"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "美伊在霍尔木兹海峡互相瞄准对方船只与油轮，冲突螺旋上升",
+      "unique": "阿拉伯语媒体大量突出伊朗革命卫队视角：『الحرس الثوري يعلن استهداف 6 سفن في مضيق هرمز』（革命卫队宣布在霍尔木兹海峡瞄准6艘船）；『الشرق للأخبار』引用美方威胁『سندمر أسطول النفط إذا لزم الأمر』（必要时我们将摧毁石油船队）；半岛阿文版定性为『رسالة للحرس الثوري』（给革命卫队的信息）",
+      "headlines": [
+        {"source": "BBC阿文", "original": "إيران تهدّد برد أشد بعد استهداف واشنطن ثلاث ناقلات نفط تابعة للحرس الثوري", "zh": "华盛顿打击三艘革命卫队油轮后，伊朗威胁更猛烈回击"},
+        {"source": "العربية", "original": "الحرس الثوري الإيراني يعلن استهداف 6 سفن في مضيق هرمز", "zh": "伊朗革命卫队宣布在霍尔木兹海峡瞄准6艘船"},
+        {"source": "الجزيرة نت", "original": "واشنطن تقصف 3 ناقلات نفط إيرانية وتقول إنها رسالة للحرس الثوري", "zh": "华盛顿轰炸3艘伊朗油轮并称这是给革命卫队的信息"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "以『美军称』转述为主，强调局势紧张与伊朗导弹打航母细节",
+      "unique": "央视记者实地探访霍尔木兹海峡报道通航低迷（『通航量低迷』），为各国中唯一的现场探访角度；华尔街见闻独家聚合特朗普『美国已经赢了』与美情报部门『伊朗已打出自信』的内部评估反差；事件未进入中国头版前10",
+      "headlines": [
+        {"source": "中新网", "original": "美军称打击伊朗三艘油轮", "zh": ""},
+        {"source": "央视（宁波）", "original": "央视记者探访霍尔木兹海峡：通航量低迷，美打击伊朗油轮", "zh": ""},
+        {"source": "华尔街见闻", "original": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信", "zh": ""}
+      ]
+    }
+  ],
+  "limitation": "本期数据仅为单一事件、单一时段的标题样本，且部分国家版面被美俄乌克兰会谈、本国大选等强势议题挤压，头版显著度受同日竞争新闻影响较大，不能据此推断各国媒体的长期报道倾向。"
+}

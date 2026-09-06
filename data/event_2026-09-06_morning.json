@@ -1,0 +1,776 @@
+{
+  "event": "美军以报复伊朗弹道导弹袭击军舰为由，打击三艘伊朗原油油轮，伊朗誓言更猛烈反击，美伊冲突升级",
+  "event_title": "美军打击伊朗油轮",
+  "countries": {
+    "US": {
+      "query": "US strikes Iranian tankers",
+      "items": [
+        {
+          "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFRdGRLT2Y0eEtsblc4WEZPWGs2a2JFNW9ULTFwSHQ2TlpzUEs0NmxHdjZYV1pjdnVoenM1MjBiRDZhVDZkajRzVVl0RF90SzNNWEprTXN5NkN4NW84LWVqR0xMU0pkVFB1REd1N3pIajlEaHJDczBCNGc5a1czX2ZjT05DTkFqTlhmOHBHeGR4QQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:47:37 GMT"
+        },
+        {
+          "title": "U.S. Strikes Three Iranian Ships After Missiles Fired at American Aircraft Carrier - WSJ",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelpFSWtyY0FMcVVyaTNlZ0pKdnVzSGM3NjRDV1hUVmR0bm5jb0RBQ0JkNS1vTS1hOHlUcnNhWmdXcVNlS3NVUzFGaktoN1dJX21NTVRsUENWRks3T1ZaRlFhdzNKaTJiclVOaEVibW9laWNTaEtGdW1qa291ZVRTbXhKSlFpZDdVUU94OThwWTk3OGFsY1l3WkJkZkJydjhzZWtmdk1DREJXXzNKeFVVNHNVSlk3WnhVLVZTVDhjZHExekZUVl84?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 17:45:13 GMT"
+        },
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted - NPR",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:05:08 GMT"
+        },
+        {
+          "title": "Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:18:59 GMT"
+        },
+        {
+          "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’ - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXFDN0J2QWlHVXRUSU1oaXQwSlBIR0ZrNUNDYndxMjZVMWVTdHVqd2Q2emwzZ2k1Z0JXLWN0bEZtLTVNYXBaZWxDRjZ0TF9WQlBYY0Z1NGJDWXo0dVk3ZjJBRHpseDFTM29nR29wc2N0dU03YzBiZlJ5LUxXcjVha2Z0TEQtQ3NYeHZvY2ZNYkwyX0RTenBuUXA1QjVORndPVGFOWV81WdIBrAFBVV95cUxNbW95UnRlVGF5dS12RG44T1lQLWIyTDU1cC04NWE0SXozcm0yVjhlNGRhTEZwaW91ckZncEl2QWF0bTlvSGpHOHJqQ3lKTDVvYVZ4T0lwbHZnMUNIU25wTUZzZzNvd0U1THJtVzZqSXZvVmN4dlRHaDR2ZWxwc016cHNsSHc1Nkx4Nmw4XzJoMGVFMDNGU1dscnA1LWZRRkFMTmI1bUYxWHRqMkZR?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:24:40 GMT"
+        },
+        {
+          "title": "CENTCOM announces retaliatory strikes on 3 Iranian oil tankers - Politico",
+          "source": "Politico",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZpcHpBVmk1S1dweG9KOFFKRE9RaDhjVnF4dUpfZURDR0YxbjBaU2plRU1nVkZIWDh3My13MWNHYjNwN2dyZjVVT2hKTUswakQ1RE9UOWt2QTN6b0xJNTU2RjJVTUlRRmRtb2gxUEJYTnJIZ0Y2RlYxOVNaSmw4TzhoMUxLYnhtN0w3cTRtS01xd01lWF8yelhPMmFNMWZvVnY2NkV3dw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 17:40:00 GMT"
+        },
+        {
+          "title": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships - centcom.mil",
+          "source": "centcom.mil",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUlTZFBuUlJVZUprUjUyUWdLUmkzSzR5RmZIOEZkXzAtWXppQ0tfQ2hCWDNiamwxOWxtbzNkMW1KdEFPZWtuamFSVEoxZzJpVFJjMjQ2a3N2eTA0aTM1VllnMXBiNU96VzJIT0JIUWpwRmtuX1oyWlhSVEppSDJUenZVcEI4X0VaamNxc053UU9BSHVWOFZUaUxVblBHNGlaM2I2NHU3MFBsTFhIWFNoYVR2Vkk4TnNrd2RkMUpqSjhxOUs1bW1ua18wNDQ0TWRPUnc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:12:16 GMT"
+        },
+        {
+          "title": "US Fighters and Drones Strike 3 Iranian Oil Tankers in Retaliation for Ship Attacks - Air & Space Forces Magazine",
+          "source": "Air & Space Forces Magazine",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkdsREpXUFVsTXNZMUwyVnNlN1pTSV8xUklBQzRURWlYUEY5LVBnSEszUzUwTWVxbGRWWGZFYm5hS1k3TTNXZmpNNUZyLUtoZVFmY2xHVUkxYll0RTYxb2JOWlNaQUVkWUZ3c293cE9jRVZXOGVPTUxPeVc0dTMxZEJadC1pRWg2bkxCNjhkUzJ0eGJDLVZ0YVpQNUZtSlVfbkxXd29zVktyaDBOWUxpZks5YW8wTnpqNkw1ZzZ4dE1ZbnZNa0dadFdXXzhNOEVEYU1N?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:33:11 GMT"
+        },
+        {
+          "title": "US, Iranian forces fire at vessels in waters near Iran - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:37:37 GMT"
+        },
+        {
+          "title": "US military strikes three Iranian tankers in retaliation for missile attacks - CNN",
+          "source": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:52:09 GMT"
+        },
+        {
+          "title": "U.S. strikes Iran oil tankers after Iran fires at Naval ships - NBC News",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGc0Y19nMGJOY2xQMnpFdkprWlJ6UVVFenZZY2hTS2k4b29WbzBrRDFVblR4Z0hQVkhyc2tmYThpWHZLTHJMRVRDYWFpTVRjb2FzR19mbmJFUXdnMnBSZzhrWGRZZjIybEdoeXpqeDdJYjZnRWJDVEZQalhvUlVVZmlYTVdyTDZ2RkpHM2FuTUVQYmFNNFl1aDM2SWV3STlJeVA0UDlkemlmZVcyT3ZzUHlPVnNOVzA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:04:37 GMT"
+        },
+        {
+          "title": "US strikes 3 Iranian oil tankers after missiles fired at Navy ships - FOX 9 Minneapolis-St. Paul",
+          "source": "FOX 9 Minneapolis-St. Paul",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTdoNkJJeUZwUmNLSGZlS2ZEU1NTM3ptcnVJNEx4ME5VbWV0TDZjd0dmMFdVV3dRaTVXVnN4Rnk3RFVmTjlRdWNFa25RMDFBaVotS0FDRkE5QnJEbzg0bHdqSWM0ekVYUWZpbWxzX1dxenp0bGx5cWNKZEhCTldnNGQ2aDFVeXRPWEZLSWU3OVdBMlFq?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:28:02 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "US Iran oil tanker strikes",
+      "items": [
+        {
+          "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFRdGRLT2Y0eEtsblc4WEZPWGs2a2JFNW9ULTFwSHQ2TlpzUEs0NmxHdjZYV1pjdnVoenM1MjBiRDZhVDZkajRzVVl0RF90SzNNWEprTXN5NkN4NW84LWVqR0xMU0pkVFB1REd1N3pIajlEaHJDczBCNGc5a1czX2ZjT05DTkFqTlhmOHBHeGR4QQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:47:37 GMT"
+        },
+        {
+          "title": "U.S. Strikes Three Iranian Ships After Missiles Fired at American Aircraft Carrier - WSJ",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelpFSWtyY0FMcVVyaTNlZ0pKdnVzSGM3NjRDV1hUVmR0bm5jb0RBQ0JkNS1vTS1hOHlUcnNhWmdXcVNlS3NVUzFGaktoN1dJX21NTVRsUENWRks3T1ZaRlFhdzNKaTJiclVOaEVibW9laWNTaEtGdW1qa291ZVRTbXhKSlFpZDdVUU94OThwWTk3OGFsY1l3WkJkZkJydjhzZWtmdk1DREJXXzNKeFVVNHNVSlk3WnhVLVZTVDhjZHExekZUVl84?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 17:45:13 GMT"
+        },
+        {
+          "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’ - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXFDN0J2QWlHVXRUSU1oaXQwSlBIR0ZrNUNDYndxMjZVMWVTdHVqd2Q2emwzZ2k1Z0JXLWN0bEZtLTVNYXBaZWxDRjZ0TF9WQlBYY0Z1NGJDWXo0dVk3ZjJBRHpseDFTM29nR29wc2N0dU03YzBiZlJ5LUxXcjVha2Z0TEQtQ3NYeHZvY2ZNYkwyX0RTenBuUXA1QjVORndPVGFOWV81WdIBrAFBVV95cUxNbW95UnRlVGF5dS12RG44T1lQLWIyTDU1cC04NWE0SXozcm0yVjhlNGRhTEZwaW91ckZncEl2QWF0bTlvSGpHOHJqQ3lKTDVvYVZ4T0lwbHZnMUNIU25wTUZzZzNvd0U1THJtVzZqSXZvVmN4dlRHaDR2ZWxwc016cHNsSHc1Nkx4Nmw4XzJoMGVFMDNGU1dscnA1LWZRRkFMTmI1bUYxWHRqMkZR?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:24:40 GMT"
+        },
+        {
+          "title": "Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:18:59 GMT"
+        },
+        {
+          "title": "US military says it struck three Iranian tankers after American warships came under missile attack - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RaGwtc1V6SnRzUnp3N3dBYXk3cmw4TkNOd05PQk4ycFZkYU9iWkRzQUNoVnA4NDloc08tRTZPeWhFcGtQSllIZllRd2JWbFlBaTd5MGZRb1dEYzJlNDR1a3JqeHlaZmRLaGlSZWZtUjJKbDNHNmZpM2JR?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:05:00 GMT"
+        },
+        {
+          "title": "US strikes three Iranian oil tankers in response to missile attack on warships | ITV News - itv.com",
+          "source": "itv.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlN3bjFGcHJUSG00SkE1ZThlU18tME44RzN2RU9GOTRreTdFR3h5MExqN2ROWm0tZnlONFMxTlZJM3BlV3ZMSXM1OGk0dFpCaVlLa19EQnphMDd3SEp1djYyOUdqRnJhMW1VTXlhWVBVMTZISU82M1ZxN0dGMmVsd1M2Y01UcTRTQklUMl9pUUJsS3AxT09zR0F4dnFZRUdzRHotcEo1bnFWV3pOZWxDTlVSSVI?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:05:22 GMT"
+        },
+        {
+          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted - NPR",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:05:08 GMT"
+        },
+        {
+          "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFdHUjNvUG9RMmZ3VVE2Vk1OZ28zajNuZGdGTjZPMEl6ZGpZeWU3ejU2aTgtaWoyY3RlRS1KR0dvNFRuWlI1bW5PWEY5clhkNFE5eklrMkl0dU9IODljc2tNOWRWZ1Rtcm0xN0tmUGFnNEh3LUJFd1U5UElfQTYyaklB0gGHAUFVX3lxTE5CZVY1SVM2aEVJTHdFcl9ZYU80MHFDb3dFTlUteUdCTFNqdXZFRWlpUURMUjEzVEhrSG9mTkYtcVpDcnRvdzlkdVN3MmhSYzlJdnowM0VsNzJQbTJrTnV0MFotQTczemxoTlhOc3VIQm1ZQmI2MDNFZW81aW8tdHVacjdQUkFBZw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:59:41 GMT"
+        },
+        {
+          "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Al-Monitor",
+          "source": "Al-Monitor",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnEtOEYyTXNsc25rTllEUkJlQUVaMEdZTEZtTVFIUkM4MWJWVi1pSHRIenZZMTc2b3dYOHhQVFhLeWtxYzlDdGxYR055V0VfbWphSXpOaG9ieTRNLS03V1NvTXhrNVpIUXd5RUVPT2J4TUttZ1hmWDl4VFpyZUxzUnJfeURxY3BMRGpTSXota0ZRZ3BCS3dnc1prOFM0Q2Vja29kaVBBYllLUG5vWjdSa2FwQ0VLQTJ6TUFEVA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:06:33 GMT"
+        },
+        {
+          "title": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says - NBC News",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:06:36 GMT"
+        },
+        {
+          "title": "US, Iranian forces fire at vessels in waters near Iran - Al-Monitor",
+          "source": "Al-Monitor",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazVkYy05LV9ZdEctLXhQVS1ZQnVUT2U5TVRMRXd0cVVBNkQzUFliSGd4QWhOa3ZvQUJ2WVpIVzU3QzNTcU9ELUJVTEZza2dpWWFFcHhxQm9PNGluZk1PbWt0dTFOek9zNmJvUnUzc1djYlhka1pNT1lQYmZVN1B6YUUwUVd1OFRTT0VpOTNRZi1EekVTLVhN?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:51:18 GMT"
+        },
+        {
+          "title": "US says it struck three Iranian oil tankers after attacks on warships - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ISlAxTnJlbDFHUmRXT0JrZmx4a3F4XzlFWEFwZjVUaTUzdnpvdEpkend2N0tfMHg2OTNzOTBNY25uSTB3NnNoYklMa1c3dkJ2MkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:53:43 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "US strikes Iran oil tankers CENTCOM",
+      "items": [
+        {
+          "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFdHUjNvUG9RMmZ3VVE2Vk1OZ28zajNuZGdGTjZPMEl6ZGpZeWU3ejU2aTgtaWoyY3RlRS1KR0dvNFRuWlI1bW5PWEY5clhkNFE5eklrMkl0dU9IODljc2tNOWRWZ1Rtcm0xN0tmUGFnNEh3LUJFd1U5UElfQTYyaklB0gGHAUFVX3lxTE5CZVY1SVM2aEVJTHdFcl9ZYU80MHFDb3dFTlUteUdCTFNqdXZFRWlpUURMUjEzVEhrSG9mTkYtcVpDcnRvdzlkdVN3MmhSYzlJdnowM0VsNzJQbTJrTnV0MFotQTczemxoTlhOc3VIQm1ZQmI2MDNFZW81aW8tdHVacjdQUkFBZw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:59:41 GMT"
+        },
+        {
+          "title": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MR2lQUEVfWHpBVV9NQjVxS0x6WldUNHB1RzFWSzlDa0hYWm1wYVpxMEVhdkRiT1dCeGVlY2Y5d25uR3lQOEtxbW5CVG5VNDRhRmFvU2NLQlN5UQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
+        },
+        {
+          "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXFRdGRLT2Y0eEtsblc4WEZPWGs2a2JFNW9ULTFwSHQ2TlpzUEs0NmxHdjZYV1pjdnVoenM1MjBiRDZhVDZkajRzVVl0RF90SzNNWEprTXN5NkN4NW84LWVqR0xMU0pkVFB1REd1N3pIajlEaHJDczBCNGc5a1czX2ZjT05DTkFqTlhmOHBHeGR4QQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:47:37 GMT"
+        },
+        {
+          "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’ - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXFDN0J2QWlHVXRUSU1oaXQwSlBIR0ZrNUNDYndxMjZVMWVTdHVqd2Q2emwzZ2k1Z0JXLWN0bEZtLTVNYXBaZWxDRjZ0TF9WQlBYY0Z1NGJDWXo0dVk3ZjJBRHpseDFTM29nR29wc2N0dU03YzBiZlJ5LUxXcjVha2Z0TEQtQ3NYeHZvY2ZNYkwyX0RTenBuUXA1QjVORndPVGFOWV81WdIBrAFBVV95cUxNbW95UnRlVGF5dS12RG44T1lQLWIyTDU1cC04NWE0SXozcm0yVjhlNGRhTEZwaW91ckZncEl2QWF0bTlvSGpHOHJqQ3lKTDVvYVZ4T0lwbHZnMUNIU25wTUZzZzNvd0U1THJtVzZqSXZvVmN4dlRHaDR2ZWxwc016cHNsSHc1Nkx4Nmw4XzJoMGVFMDNGU1dscnA1LWZRRkFMTmI1bUYxWHRqMkZR?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:24:40 GMT"
+        },
+        {
+          "title": "U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says - NBC News",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE9QLUF2VURBREN1RW5CZ2Z5cjdiTUpvU2Zhd3FKRHJ1X2FSQmZqMlNXUFN6Z2VrelJ3Nkl4OHRRYkllZGRSOVdFdlhEVXpvMGkzcENnYVZHMjVRcVZ0WUxvR1Q5ZEFTYWNydjlyc2M2ZHF3Y0JYU1ctSndocV9tS2UyNG9ZdzN4dE1zakxTcTdoNXhpMUE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:06:36 GMT"
+        },
+        {
+          "title": "US strikes three Iranian oil tankers after IRGC attack on US ships, CENTCOM says - The Jerusalem Post",
+          "source": "The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xSkRuVlhvbHBrWjViSVZfSTgxZE9JcnBLSHRyMDAyN1ZYRTZUUzh0aXVMd0RyVF9JM0JCT3dpZ29rWEZUSXBGTjFjbDBYSjZZLU1jMFI1TXhudUdxZWtvaDlueG4zQnZqVUE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:11:10 GMT"
+        },
+        {
+          "title": "US forces target 3 Iranian oil tankers in response to IRGC missile attack - Fox News",
+          "source": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFhWaEYzbk9CbDhsSXpDLVRieU9iOEpOUXZLVVpGUm55dUJjN0diVXFYZHVZWDdOOGNfSDhYTW1NZkVKWG1rWjhuVEw4MHVHNnU0NFppRldGdGVuTWtrdDVsNWU1Q2U1Q0VVaWRZSEtXcExqQmlscnJTTVNlU2RubXNJUm9TZE5uVXg4M3FR?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:29:10 GMT"
+        },
+        {
+          "title": "U.S. strikes three Iranian oil tankers near Kharg Island, CENTCOM says - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQREVBUUVycWRwV19hN281LWVEbWxNWjgza3dWWkY1azlxSktjcHV1clhxV3MzeUlrdmJsSmNqV1dGMno2Tzc0ay1oMGJiTDR4NmJFUEVYY0ZGNzdVTGJQWVV1LTltUms0djEtOGhyc0U5OFRHN0o3M0xVb0RJbGJMV0VfeU5nSmpmYVdXbHY2UVp1eWJZYlZOX0lBYk9SaHZwSW54QTRKUHcxZ0xzZGdEVUVCZjFWeDFHOWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:17:50 GMT"
+        },
+        {
+          "title": "Iran live updates: US strikes 3 Iranian oil tankers in retaliation for targeting warships - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWozQmNPeW5zV2R4cVBLVGMwREd3dk9nQWNscFlJeU9zVUlvTjRtZTI0d0hlVjNZQ21QQm1JTjNOYWFsdDlHRlU2SEREVnBnRDctTy1jcnk4MTdWM205M1Rvdms4QWZiWW1aazQyLWtrZmFfalkxS2Vma0VnWm50MGxjTENFM05hYTBxc2ltUW5tc0RsZUJ2U0ctU0VwV1J0SE5MREVPcGo1UFdOdHlsR1FwUXY3OUXSAbwBQVVfeXFMTTR5SHowU2xYUWloQThfZ09MelVrdDljMW5jUm5CaVRPNjJwQncweVQxdFJjZXRMY2pQQWhzMnc4TEEySGFObjNudnJvdUNYT3hLdHpmVlE2ZjdHT2Z4ZEVzLWRpSkxoR0ptVlBFRTVMSW1HR2tqamp4WGQ4SDF6bWZxX3JlWEs1d3dJNy1zZFZ2OHd0LWFyNUFOampQdFU3UmFjdGsxUlpvQ2xLRlhsOHVua2NSdm9YdWhuemQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:47:59 GMT"
+        },
+        {
+          "title": "U.S. military says it destroyed three Iranian oil tankers - The Hindu",
+          "source": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnNnaWRwM2wwNjV4VUFpNVN2c05IanFoc3ktdXExaVVFQXFaOG8xVVptXzhFbW92eXpqdFY5YlN0ODBIdXRVSnVQLU9iT3FPU19ibkdmRTJBLVpVSV9NblZNaHdPYUYzUEVZdXVxOERaMjc1SzZkcXJqaXhkbF9nVmdGR2R0ZERTZGpST0NKclQ4VDVjbVFUSEIyTUpWZWZYb0F1Xy0xckR2c1RmVG1PeVhyczdfZU5ZR1c00gHCAUFVX3lxTFBpYTN1NV9rM1VkMWRodThsNjVwRUVlYUhnQ0ZGVks1ZUdsQXF3d0l3dTJjd2MxRkxQdWQ2TXh1WElhTjk1X21UdDJPSUZuS1F0cjY0eDhNU2RNOEtMV3JWbTlJYmVtN0JwS3lMNm5YMUdUYm1RUkpGWmxrRzh6NEdVSFVNRkZMa2xaWGYzWFNWUW9lalp2MFVFbDU4MFh3X01OZmJPTXdYNHcyRVllR0l1QW8wWFlUSTFkV0hCeldGME1R?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:12:38 GMT"
+        },
+        {
+          "title": "US military says it struck three Iranian tankers after American warships came under missile attack - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RaGwtc1V6SnRzUnp3N3dBYXk3cmw4TkNOd05PQk4ycFZkYU9iWkRzQUNoVnA4NDloc08tRTZPeWhFcGtQSllIZllRd2JWbFlBaTd5MGZRb1dEYzJlNDR1a3JqeHlaZmRLaGlSZWZtUjJKbDNHNmZpM2JR?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:05:00 GMT"
+        },
+        {
+          "title": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post",
+          "source": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXUyT3djU2gxZUJQcWxaN3ZwMGRzU1VJSmhsNWVzYmpXTmtnR2dFYnpXN3BUa3hmUkhLVG9FSnZMdXJ5NmRqanBGLS1oS3VQcWJ3SndiT1lsS3hkb3VJUGFzbWQ5UmVDUjJweTBYdkN4X2JFWHNMUVRxLVdQWS1jTVJub014WFRRdG02M0gyNXRna2FDRE42OEFPRWtuTmx1S3Z0bEg2VU5SMFlpd1k4ZWVrMDJDUWZF?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:18:00 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "米軍 イラン タンカー攻撃",
+      "items": [
+        {
+          "title": "米軍がイランのタンカー3隻を攻撃して破壊 米中央軍 「米艦船への攻撃の報復」 - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OYWVYeTVCTnBlWmtJQ3pyOWY0STFOODFmbTdZTFZMTGx5amI5dDNoajJ3M2p0dkFRUGIxRW5qN2xqMEFXZHIyNDM4YWtCekIy?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:17:27 GMT"
+        },
+        {
+          "title": "米軍、イランのタンカー攻撃 ミサイルに対抗、応酬続く | 全国のニュース - 福井新聞社",
+          "source": "福井新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cGFkOWZreG1fTmt0RkR0Z19xS1RYSF9iX3RvODlxWDRyeWx2Q3hreUVBZmgtY3BoNTRpajZjT3c1UlRQZFdpbjZNMXJWY2pOelFCeHVrZm5NUnVvUWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:54:00 GMT"
+        },
+        {
+          "title": "米とイラン、タンカー攻撃の応酬　ホルムズ海峡航行の主導権争い - ｄメニューニュース",
+          "source": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblRGOHZKNzFMLW92QmNjT0FwelFNeXhhOTA2WmJnUHFWYjRKNkRMY21GZUppOEtGZ2sxZTQxUGtGSmNLUW5qN0tySWdNR2ZTczZfMjdlYUFQZjVYMWpYVHkyTmVwZjNNVllCX2E5RU4xU1p0WWVBYVUzYXVKbnNfRTJ4dTFDYVVzOXA5dnpxLXdXcUV6d09z0gGXAUFVX3lxTFBuVEY4dko3MUwtb3ZCY2NPQXB6UU15eGE5MDZaYmdQcVZiNEo2RExjbUZlSmk4S0ZnazFlNDFQa0ZKY0tRbmo3S3JJZ01HZlNzNl8yN2VhQVBmNVgxalhUeTJOZXBmM01WWUJfYTlFTjFTWnRZZUFhVTNhdUpuc19FMnh1MUNhVXM5cDl2enEtd1dxRXp3T3M?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:11:00 GMT"
+        },
+        {
+          "title": "米軍 イランのタンカー3隻を攻撃 艦艇へのミサイル発射の報復で 「攻撃すれば大きな経済的代償を科す」と警告 - TBS NEWS DIG",
+          "source": "TBS NEWS DIG",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SRjlzbkxBQV90VzZrNFo1SXZ1TWFSRHZUbFB0aVpRV1pEMnRpcVotR2IzR2ZxRUxhRXlGNkltNXBFTmpJUGZhQmhneDlGS2RHNDA5NmZ1NA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:55:31 GMT"
+        },
+        {
+          "title": "米軍、イラン石油タンカー3隻を攻撃 新方針「タンカー対タンカー」を初適用 - Forbes JAPAN",
+          "source": "Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rREN3Xy1LVnEzYmlkRHNzd2Y1blBDZGhEekJoY0FaeGhpU0VXREktM3dyeFpTYkt1MUx0NTNqUmNjbGtzakpybTVGM0F4R3pVUWpCX1dBZTJPdw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 01:00:00 GMT"
+        },
+        {
+          "title": "米軍がイランのタンカー3隻を攻撃 米空母と駆逐艦への弾道ミサイル発射に対抗 - 産経ニュース",
+          "source": "産経ニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwaEVjS2JYTzhxdFBpZFBDcHF6Ry05aWtiRzlGVk5GYXZBTkpwdlUwMmtOTU5IVDhENHJKUXZnbHFCY2dYLW5NMzNNNTF3N3U1djA4eENISlVjM3NiT29ldlRpOF9waU5ZaHBnbXNMZEUxTjBlYXc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:00:34 GMT"
+        },
+        {
+          "title": "米軍、イラン原油タンカー3隻攻撃－革命防衛隊のミサイル発射に報復 - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTmQtc1RaZ2JJYkIyNjNweldDM1lTSXlVUXBESV83SFFQZUY1cU9ZZFZ3LXNQVUtTUDNjOFVOMXphNTRzcEtxUTI4b2Q1cFhNbzRNM2d1a2I3N3EwdzF5REctd18wcm1hVmtfOUJpekp4VzhDTFh3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:44:00 GMT"
+        },
+        {
+          "title": "イランのタンカーへ飛翔体、輸出拠点近海で 地元報道「米国が攻撃」 - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HQ1BZWnp4NUYwQkdwZlhST2ZBR0MxN2k4aGdkQmFWUHN1ZzlmOEJmSnUwNDNHMzV3QmQ0RGkxN2tjS2gxVmRKY1JBU3VOMVh1dHZOZm8xR2t3UVpHeUhXSVNYdERvZFk?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:24:20 GMT"
+        },
+        {
+          "title": "米とイラン、タンカー攻撃の応酬 ホルムズ海峡航行の主導権争い（毎日新聞） - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1McHlGaW9TQkVBeHpFckNid0VTRWtid3pVcE9Cc1JKTDZjb1VWZFBiRW52eDRWY1RnZXR3dUhKNWJFY1VLLXE4UTM5R1BuYmNsQWhVM2JTT05yd1loVHZLSlp4UU5mRWYxbTJOTllCSmFHZE1KN0xKRVRPeGNMeXc?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:11:42 GMT"
+        },
+        {
+          "title": "米軍、イランのタンカー３隻攻撃 革命防衛隊も報復主張 - jiji.com",
+          "source": "jiji.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWI5X0VObFh6SDJJSm91N3VEUGZodkZ2b2JjUmZ3SzRDaGJzQkpKOFJjdVAwX3B6ZVVTYXg1a3YxdllJSFJXVVd5Mzh2VEU1b0pITk5Uc2YxSF9nVGRCc0FhWWt2Vjg3bm1IRHNVS0lDTnFsRnRHaVE0VFg0X2hpanJn?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:14:00 GMT"
+        },
+        {
+          "title": "【速報】米軍がイランのタンカー攻撃と報道 - 47NEWS",
+          "source": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FdGR0Q1lLaF9GTDVpTjhGZ01tV245XzdidVRhM0tIblBkOUxHQ21ORE0xbWtKVjZNaWFibkZaYndNclZHTFRYSXU3SQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 08:45:41 GMT"
+        },
+        {
+          "title": "【図解】米軍、イランのタンカー3隻攻撃＝革命防衛隊も報復主張（時事通信） - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43SGxtZ2sxOWdRS1pocFV2bW0zSEFtalhtU3hCbmk0TnhmMm9KVk5SaE4zUUhyMDFqc3V5TGw5aHhyQ050Vjg2X2hHNE4xNnhqT1RFTWhsNEpvSlFPcFI2NDFIeXd0MjRwN01tZXgwWHdQMXhuWFh1NGNvN2dmb2M?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:35:53 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "frappes américaines tankers iraniens",
+      "items": [
+        {
+          "title": "Dans la nouvelle guerre des tankers, deux morts et un pétrolier de 300 000 tonnes qui gîte dans le détroit d’Ormuz - Ouest-France",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcmJidDE0djRPbllLVldMbkVQQ3RwWUFmOFRhb3cxZHY4c0lwZzB2OVBwdTB1cmdMcnpsVjNkeUJCQVMwYzFlNHlJTm5DS1ZocFJuZXVfc1N2RmNKbm5UeHlSMzltVF9MNldLbTVQeFhMT1d4MlF3MXdncXVuYnM4MllfMU41b3NIdkR0R3U0Q3BFR2ZSMmZ4NkZvc3c4akVTOUJueEZmYlVhdmxqeWUzYkNXTFBZR1JTalV4VEtaUFBjd2Y5S204a3ZpZTl0MlAtQ2dhejRmZ3VSSzYtdUd3N3NhS3JoU2VnbzVsQ19feHdVd1NYcU5kbzl0SW4zVmR4Sy1YRUtuLVdoY3BieEdLcGRfNnNNMGR0MFFEbXRleV94YTg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:02:40 GMT"
+        },
+        {
+          "title": "L'armée américaine dit avoir «détruit» trois pétroliers iraniens - TVA Nouvelles",
+          "source": "TVA Nouvelles",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUYtMkxXZjZOSTlEanBKU2owWk9BOHozTllNY1ZqMDExMmhKZ04zSzVQZkFrRU54Zy12VGxMT1R0QWhlOXdkbTVIS1ZFSmRLS1M5VVlZZ05DSFAtczVETG00RVpVTHpYUWIwV3JYS0ZyUGlGenVvS19GZmpaQlBTN1ZKU1BNVlZmTDhSaFBQN0cxVWZCUWhBUHBMMy1Ga2FlTkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:36:34 GMT"
+        },
+        {
+          "title": "Détroit d'Ormuz : deux marins tués dans l'attaque du pétrolier saoudien Sidr - Mer et Marine",
+          "source": "Mer et Marine",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWdkbU9BQVdsSlFjTkt3eEFJcTNNS3ByVlFmTlRKOW5KMzFBdlZpQnhTUmllNVhqdzQxTVprMUNsUlhyZ0hyMzJ5dks0ejUwRWlTMUxNVTZjcXZ6bUVKYkVieF9ZYTRKRUdwd2ZyUzJvNDR3bFNUUlFzMFpHM1pHQk9lbTQ5TXpiQnktSW9KbnhaNU5lMjNyS3k5clNKM3lRd1FYTGZkVXBXalRsMUZjQ2pvTTdWN09IWGNudkVSbw?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 23:55:00 GMT"
+        },
+        {
+          "title": "L'Iran attaque deux tankers dans le détroit d'Ormuz après des frappes américaines - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTZ6dlBTc0RfRmREOHRKNFRqSVpzME9sSF93a0pIWUV5OUFmeW56cEVYSmVhOTRfSWVDSkdlS3NJanN0TDZIZmZKZW1GMUVUTGZONjhreUZiUEdMR1EwdTU0ZXBQU1BFSXFlTlZGQ1ppZjZDV1ByZlEtVkhRZTVGTEhBUWNoeUJtbjlrWmNONEhPeGNyaTZPdzNzZEoySTYxT0Z4TnM5bGpYSEhUWlFQWlg3MnZyVThXTXVHMnJuaHFMbGFHSEszMVpLVkJhM2M3cGdEMFMwWHVHV3g3?oc=5",
+          "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Explosions de tankers dans le détroit d'Ormuz: l'Iran accuse les États-Unis, Washington dément - BFM",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbUU0V2wtZlVOak8wajNKNENVcmMyUkVnWVFSdXZPTHVEZ3Jial9Id2M0Mm1uRFZneW1oSXRWSlIwVkdnLVdmUmpYQjdmeTZ0Z284NEhQc3ZSTFZYUWI5cWVXbm5aSDRhUUN6aGpJQ1MzNG1IUnZSRjlfdHFuTWhFbGRuRkxDN3dIUG5Jd2E5Z0NTZVdUeHUwM0dURTNRaXhmbU9NcjVHak9ERkxsRWJkZFUzaVREY2RXOHctTl9lMUxHcmJmNE1aT0QyTG5aNDRRUVBwYXp5OFJLZzRWXzY0enpLSTRSM0l4LVRXa2pVRk1DeFdpVW5SWEVVQkVROFBoOUFJ?oc=5",
+          "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "L’Iran menace d’une « lourde riposte » après l’attaque américaine de ses pétroliers, un navire frappé au large du Qatar - Le Parisien",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOSE9DSXY0UGo4UEpiVDgzN1c3MWF0TFZnYmJmOHJOZ2s4eGRrZ3FRYjB1ZnduWnEwdnpydU9IYktKeXVuVmFFSG1tUmRkNWF3RWtaaUtEcGptc1Q0b0RmZW0yQVZWakg5ODJqTm5SZVU1NE9HLUFIem9pTFFYWHdWMGNKNThsNWNzRVlpUzVUVlA3OHgtWWEyYTgyN0NzcUVSWUlyeHZDU1cxMjN5ZjBtbXAzUXduMmVYZDFwLWxVVjlLSHBiOTIzVVE0VUhtN1lYanp5Z2ZIOXF5VmZQYUxQZlFIZ2tSVGM4cC1wNm14V3dQV1EzSlZSOTlldnJrSmNzZDdNNTJXeTB5dXBmVVZDR3Z6TGNfN0didjdMaFNVRkZZeXdx?oc=5",
+          "pubDate": "Sat, 09 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Détroit d'Ormuz : des navires, dont deux tankers émiriens, touchés par des missiles iraniens - La Tribune",
+          "source": "La Tribune",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV3NNQVJtWl9kTmVlc0FHY2NMZEVhMlowWW9zOWtPbGUxYVNlZXFJdDF0dWhZdGZodkE0cDZpZGttSHVZU2ZlZ0d5U1A0NG5LQ2FlVG80SVRidFlqM0REWjNnem1vQUhtSWdtclRhR2JIYk5EMFgzbVJuTnN6UEhYRjliT2kxRURhVk5RZ2lMSXVnQk1CVDFWRU9YRmwtcGtiU1MtbkFMX19tbjg0QjFXMTh1THZiWW1DUkw0Mm5ia000dHN1VkJ6TnBEU1kySGJOV0FKc0FMZnE3LWg0NUQyNkpXVFVpa3FuZ2RzTUlhM3kzZw?oc=5",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump a demandé à Netanyahu de retirer ses forces de Syrie et du Liban, rapporte Axios | Direct - L'Orient-Le Jour",
+          "source": "L'Orient-Le Jour",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcjl3TkZfSWhULXlhLUFQNnNoTTV2Qk1zX1dtRjU2RnNmakJYMnIwUlc3bmJ1UTJTOVRpZmQ1QVgydzJVeVV5SjVjYlhmM05jXzVZNnBpS0hySmg4ODhFaUs4NERWUjQxWnBHUlA3TllHaXFkdUIwNy1lZFhERXZOTXdFdkRwOWVOdUtiSlZPaFdGWTBvQUxJUE1YZUg3aXppMHpHMlN3VmhoQWN1OXVJc1ZSMjNLX1VZMGZTUUMzeFpYNWRXREZUb1ZiR1lNRHJmTWNMeTFvN1l5emszUXhBQlR1eURZWmVZeGRhZVZIWHN4ZHlVNEhkQnJydUdNa0szVGlwMThLWmNSZnMtaTRrRGNnZld0a1JI?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : l'Iran défie toujours Trump - Les Echos",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmhnQUY4eUJxdVhueFZTT2c4QTFxQnV4VjQ4TVpuWnA2YUUyd0N4WmktSTNGUll2ZW1CVC1VZVJnT1ZLMVhFcm85Vk82RzdCYUJOVUdKZDc1ZmV3aVRaUlA1T2RQVXlQN25Jd2JUV2RmREtGYURWZ044eVF1bnBnaVNIX2R0S0FwZTZLTDVQQThSSVVXNzItTVBZMDNyaEFrdy1pRnAwd2VvODNBU1g5UHVaejUxRFNwa2xmckR6WFVhU0FtOU83SERsMEFfMmh4TFNuUw?oc=5",
+          "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran : frappes sur trois tankers dans le détroit d’Ormuz, le Brent bondit de 4,3% - Enderi",
+          "source": "Enderi",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFlQTldsU2RFZmFVdjZDU3FYM0sxa0dzNXAxUlVEOU5PREEza1NVZWMxbk82WnpzRHlraU1xbVZjc1dHLUJ4SmJzUHJ0NU1lUkE3Y05IMVhnNGlwOGx3cFc2aDZaM3huUTA1blU1LVhPaU1nTVNndkVBTVQ1YnBHQ1hoUDE5OFVEUDdWcTNEcWQyUFNJV0VOaHBR?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : deux navires émiratis attaqués, un mort, nouvelles frappes américaines… Les dernières infos - Ouest-France",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUC1RUmIzTC1HdXpLUHVRWWFQemc5d3pHOWhZSWdUbURubFpxZEljT3RmRE9TUWRwbjEzc01kNm9BWDJoalM2RVRCUGNhaDMycUVjeWYtN1pneElpUE1OZkFaN0VmNDV2RjA5UGYtdGh2ZTJjOVVQQTFLQTI3bG5UQVdpV3BKNktwekZBLVlScWptbktXSllJZ2tFSllXQ2czdllkV0k1eEFxNS1fbFZyWllIQjZzVHhYcjI0ZEwxUERvU05lZEhtc3k4d1MxQVZZalVqbndNYkRIb3VKamYtaGY3cGpmVkk5M0tMeGJtUTVuUHNiRGFuQUp1VzhRa1lRMER1QTNZdDRxRFI2NzF2UnNMWUNRaU9Kc0d0U3B4cURzQQ?oc=5",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Pétrole : le brent repasse les 90 dollars après des frappes iraniennes sur des tankers à Ormuz - Coin Academy",
+          "source": "Coin Academy",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14WHloOXpPMmJSd09MNHRtSlZyTjk1M3dhXzdRcW9RNGxIaHpXUWNvbTF5cUIxQk5YbFpPMDFnaktBWmsyekxKNmt5Z2lrTHB4VDdSUXN0dXhjUnk4MVNaZVBSUlpWcEd4NHY1dHF2MnFaOTBBR3c?oc=5",
+          "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "USA Angriff iranischeöltanker",
+      "items": [
+        {
+          "title": "USA melden: Streitkräfte zerstören drei iranische Öltanker nach IRGC-Angriff - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmhXbVVVWWVqYWNIVHBQSnJ0cHUxeVVBQXRzZFBLVVNPeUI4b3Z4d0tHV2E5VEFvbXdzcDRGNFlGWWhLTUhDLTF0ZzgwenB0azJ2WFN0ckxtQW51SGZsZXJNTWJQZFNZOHhtWG43TjdBZnR0Y1Y1M2pvR3FIS0tiQWUyX1p1b08zS01LNmZKQ2E2MTlZREhnaTVHTGNLcUd0emRyNUhESTM1Vko1dkVj?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:44:55 GMT"
+        },
+        {
+          "title": "US-Militär greift drei iranische Öltanker in Persischen Golf und Golf von Oman an - Kurier",
+          "source": "Kurier",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzBnSGNKOFpOamV1dWhfVjJQeDhkSFVobWNwUHg4N3dTVkoxWktSM1QwU0xja0pMazhNRmwxNjBrcXpJSGFKM1RwTkZ5M3ZndllpYzlBNkR6WDNrMU9IaHROVlpERnNTcmNPTW94LWZoV2xxLTBFV0NuYjNkUy1QdTBwU01vcjUyc29VTDFqa2ZVam1SVVc4VGZBaC14eHRQUGgzWDgyamJwdm5uejdCY0g0YkFGNEdHNnlZWnBiS09ncnF4?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:42:39 GMT"
+        },
+        {
+          "title": "US-Militär: Drei iranische Öltanker der iranischen Revolutionsgarden zerstört - STERN.de",
+          "source": "STERN.de",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTFzMHFoSGhSTTJhUFVpekZ1UlhzbVJJX1ZMY1NxZVpRMTc0MXJYLXFVeFZGWTE3cm43ZC15NlF3R2YxUTJzUnZONGtlWDBKcm1zV3RjQUV2ZzRJa3Bhb25pbGQ4dDhvdG5oTTFybjdwS0hnN252NTBPYy1OSW1WbTRJTUQzSU9xZmhqcUdHWUR1c0oyU0ZoUjBOSTZIcklSeDZsNFRURmV4SGRTZHZhVUJ6M3d6dzNUcUpxRQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:26:28 GMT"
+        },
+        {
+          "title": "US-Angriffe vor der Küste Irans: Hier fliegt ein Mullah-Tanker in die Luft - BILD",
+          "source": "BILD",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW5uXzJMM1JQOUNJQXBlVmRCWXFaSDFINU1US3ViYkY3U0RhdlZxMG1nYzdadWhjdl9wcDNJX3hTNWRPZG9MNDFJU0l5MVJ1M0daWHI5T0xBUERtbUY4VlVwSl9JX0ZlVFdraldDX2pxTUdBWEJKbWVrRGhEb0o0aHAxQkk4RXBycEdUYzdVNzhkRng1dUEyOTZvbHVmTnEwU2dPeWJfQlJIUEFITWlMZllPNW9kVWktTVE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:43:04 GMT"
+        },
+        {
+          "title": "USA melden: Streitkräfte zerstören drei iranische Öltanker nach IRGC-Angriff - ffh.de",
+          "source": "ffh.de",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaW9XV3lYZkVBcVY0MzNNZFhxaHIyci1aWWhSUEY0ZS1GOXY1czBJSE5KLWVkZXlTbFFQR21PY1cxWWFOMmdiRS1TTFlEYU5EdXdERjRLSUNpYXdhNW1fNFVaV1IySnJ1ZU42Nm95LVg2cktDMmhwSzlQN3Bfb2VDYi1WUmRCZ3p1UU1iRzByNVNleHNnU2c2aVUwV3pPZEVxU0N0Z0dNbTliTU9FWkkxMHlpWG95Ty1ndWVGdGRTTHE1ZW8?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 17:28:01 GMT"
+        },
+        {
+          "title": "USA zerstören 3 iranische Öltanker nach Angriff - Blick",
+          "source": "Blick",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeW9jVVl1U3BZdXZEbXpuVGVYVFluWTlqQlF0M2lELUhvRDZkVF8tN2NIN09uZTF5enhqODhjdG44ZHdza0pqOHI2YlNYV1QtanBnMXRMaDVob0ZSRjZnY1lldFpsb3RLOXk4ZktiMFdMc2E5QlVlT3N4SHN4MURyc01BNnZRdnRiRzY2M1FXdTkxTk9VWDMtTUNNOVBaNVR5TEFZNGhERFpod2NJTFBnSGwzVlA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:21:27 GMT"
+        },
+        {
+          "title": "USA greifen laut CENTCOM drei iranische Öltanker nahe der Insel Kharg an - Investing.com Deutsch",
+          "source": "Investing.com Deutsch",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHNRbm9iWE94THJ3U1U3TDBxS3FpbHY3Q21wbjZjdUlnbEVIbW04bkQ1TVpISnZDVjlZTkVFX21BTGVWNm82VXM1ZEVsQU9DdFNhcmhaYjI0djVhTk5fSnRLWndzQzk1by1ZTEdoemEtRU5YNUhBVkVBcWhqZjRVVjhXVTZIV1pRLUNDVDZRMEp2a2xMM1VZQW1USGozQkdEdkh4M3Y1elppRzVXSkQwQnVGNkJJZi1RbWdndzZqcw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 04:40:00 GMT"
+        },
+        {
+          "title": "Die USA greifen drei iranische Öltanker an und veröffentlichen ein Video von massiven Explosionen und Bränden. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTktoVUYwXzJIYmE0OEVSZXlFVndPdDNQWXM4TEV2VXZwbnZPVmdIbkZUZ2p0dERYOExmU3JtZlNUaFI5NGdKcDk5V1NXSy1SYXk1Q3Q2VVZEZkkzaXZaRl9yV2JqNkFFcDJNeGFjS1cwOHZkZkJZZHhNblRnLTRJdWlTMEdJWVc3SUxhMk93?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:27:21 GMT"
+        },
+        {
+          "title": "USA greifen drei iranische Öltanker nach IRGC-Angriff auf amerikanische Marineschiffe an, teilte das Zentralkommando mit - MarketScreener Schweiz",
+          "source": "MarketScreener Schweiz",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVFHZHNrcUR2X29QcUc3cFNMaTJrVndyak1ZdWFCcHpKd2l6eFZLYU1VTUk2Vzd0VWM0bjkyRDJRM1J6SXdlTHNVNEZ4RUg1RjljLUh3N0FLQlhYQmVDWVdtN0o5bURyWUFyMGpoeGphTWVPeUVEU0I2X2lxeXRPaUw3WGVjcF9ja29mNWRnVlR2eWQtbnRQV0VRdXBDZE1LNW4zcGtKOXpYT0V2NGZLTlRwQmtxeEdTZ2YzdlBNZmtwSTBQN2RfVjgzUmRfOTZzczFMMQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 06:55:16 GMT"
+        },
+        {
+          "title": "Die USA haben drei iranische Öltanker angegriffen, nachdem die IRGC zwei US-Kriegsschiffe attackiert hatte - Informat.ro",
+          "source": "Informat.ro",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkhWYWhieUpNQkRQa1pWeDllSE5tOThELU5jS05uWG51V202cUlJNkZNeU1vZjVVTXo5VF90UlFyUFZnb3pLdFZyZHQtdlVSVnFubWRpWFpxaFlOSGxmdVp6SVpqNkdpeDJKVlpFdi00OThqM1AwVDZTZDBYZ3YxaWt0NWJwYlFkU2ZwX2VZY3E5V3N0dWFQb0ZKMTMwUHpLUkRTOE1pXzBjcVp4T2lyMXFSeUg3QQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:00:19 GMT"
+        },
+        {
+          "title": "Vergeltungsmaßnahme - US-Militär griff drei iranische Öltanker an - Kronen Zeitung",
+          "source": "Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8wSlVQNjlTZnRfV2RvNVNuOGduRHZlS1lrVkRtdmEySnJONEw0dTZrRzZSeUxfbmQ0OXd4NkVHM2x2Zw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:48:00 GMT"
+        },
+        {
+          "title": "USA setzen drei iranische Öltanker ausser Gefecht - Blick",
+          "source": "Blick",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUl96ZWdGcHhxZ1dxQnZtOUNRSEtIS3QxRjZnRkx0S2MySENQTC00TDdtdFhsUG0waExaaDR4eGRrS3dYbnQ5SkV4SUpWOTZ0VnFZVGtPVHd4VU55TUZiNWJCX2ZkcGJDalE3U3FPQ0hONzRMQUxiY0dKX195U2lOTFd3dUlMUm1UNk9kSFVLT3g5WVBUblAtVVBSXzdHZUJYMTNsYXJ3cG1zVTkzSEpCbnpReEtENURiNXhvRHk2X01QekpOSmhjQkJveHNhVVJWZ3p6MHU2aFhKdw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:21:27 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "ataque EUA petroleiros iranianos",
+      "items": [
+        {
+          "title": "VÍDEOS mostram ataques dos EUA a petroleiros iranianos após Teerã lançar mísseis contra navios norte-americanos - G1",
+          "source": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOei1LQkVhbV9mUGZQdXBybjBwRXd5VjFfcmFSU0RiNW8wTS1QT2JIWkhZZVBhV0YwajhtODl0T2paMUdaa0c5R21rNkNrb213VU1PRDByRlcwVnhWNmhFX0tsMjhJTV9oeWw4a01BUjJ4aXN6emtyRmljY1ljWFVpbUxjQ3NDb09Oa3phSWVlZjhvSi0wTUxTU0NkbG1JY0xVd29fbG1JdHVoRkRZOFNrOU5YWG1Jd0d4MzBZQXVpT0JBWDZ6TWlEUzc3eFVDeFd6ekNSVXNQMmhBTkRaZHVZM1VnNzdvTE04MmJiSE9SczI0MjBObVHSAYQCQVVfeXFMTjNFWTBGQ2t6azZCQ2hUNG5QdnBLRDZ3Q21Hc291TzBKWkJvcEN2amxkR2w2bTBVOUw1V1ZrSk1nYjZVdzYzakhseGJFYVlRV01ROXd6ZUFTWHRNdkVWX0VIMzdJM1NTOUE5YjVaSjhNUlJXS2xVZjF0QWFVSDJPa1lwaEF0Yk9MZm42UkZ5NjdnU1o0TDJYbHRGUmN0Qkw5bU5hUmExa3dJa2RoTmxGa09wSHNZSzZxX3QwTVB1RFJFZG5LRWZQMzdoMDFfLXc3UThSYUE2OWh3VkQ2VDlJSG16dGc4aEUtRHBzc3B4dzlWSG9UZjg2TDBxQ1dkaWF1N1M2REU?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:36:28 GMT"
+        },
+        {
+          "title": "Forças dos EUA dizem ter atacado três petroleiros iranianos - dw.com",
+          "source": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVZDYzBWcnhvaHR3TGNBUUJHT1gwSGZvcVhtZ0w3UWo1aE1fYk9qNEc2Z0Y4aU1PWndsZ21zZzlaa2wzSGJKQmhFRHRHV3RQSkJYNy1jZjBoRVpSQmt3cmZ2ZnU1N0hTdDVXdjlyUHVSZEQyZEFJS1ZRMmZDU3BpaWdpTGVqZ3JtRWRvUDQxYWdNa29SeHhnZzJmMnNsWW9IZVZtMHc2akfSAagBQVVfeXFMT1FWQ2MwVnJ4b2h0d0xjQVFCR09YMEhmb3FYbWdMN1FqNWhNX2JPajRHNmdGOGlNT1p3bGdtc2c5WmtsM0hiSkJoRUR0R1d0UEpCWDctY2YwaEVaUkJrd3JmdmZ1NTdIU3Q1V3Y5clB1UmREMmRBSUtWUTJmQ1NwaWlnaUxlamdybUVkb1A0MWFnTWtvUnh4Z2cyZjJzbFlvSGVWbTB3NmpH?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:05:53 GMT"
+        },
+        {
+          "title": "Vídeo: Veja o momento em que os EUA atacam petroleiros do Irã - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc25XQWwwRWJyRmMzR2F2bm5IR3QtVnBKNmNrS2hKc2N6enJ1YTU3UGgtOVRheWQzRVZZb2ZIejB4T0wzUU1sSFFkVFdCYVd2QmpsLUFwOS00eTRka3ItNzBtYm9GVF9vYU5LSF92SGJhWHpVRXBQZl9WRW1pVDFNVk5NZlJBQTlFZGpwSzdLa00tOFYzRDV2ZkdBQlgzTXZOblhxb0JyOA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:03:50 GMT"
+        },
+        {
+          "title": "EUA ataca petroleiros iranianos e Teerã responde - UOL Notícias",
+          "source": "UOL Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNam82bnpFX21iUDQ4ODJqNnNxYkU3R1dINW51bEVub21mcFR1bHJWdHNRSDIya0xpWVJ5a1dvOVdWc0R0OWw5bldSSFhOTmNzR0tFRWJSMDFmMjR3Q1Y0NG04Y212QlZjSVh6WlFyZEdHanNBYWtVb0RyNEIzdG45NDZSem80M045b3RQbTdnNmN1aUlDdmNlcmtadzJTd3EwYldiVTRnWnFXNnNxczZRUmtlSUdFSUdjOUFDelh3cWtHNWJIZXFScmtxYjZrUXpWZEE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:37:05 GMT"
+        },
+        {
+          "title": "EUA atacam petroleiros iranianos; Teerã responde - Jovem Pan",
+          "source": "Jovem Pan",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUthU3NlN0RzeHFNd0YteGdsNjUtamdHcE9hYXRucGZRRFN0ZXRtUWVOOWh5V0k2LUVhWngwelQzVE1XbUQ0Y2tnODZjZVlSaFp6WEhlRVlWTF9BMWFzSGpUVWNCUjJ0SHJWUlR3cndhSDIwaFpVR0FzVXJlNnJKblF5RzlaeHg4NmZKUGtJbG1ON3NVaVB0aS1FbVQ3c01oZnlpdWdB?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:36:33 GMT"
+        },
+        {
+          "title": "EUA atacam três petroleiros iranianos após disparos contra navios da Marinha - Jornal GGN",
+          "source": "Jornal GGN",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTFBTFJ3MEw3UUZ0RlRkcUdGYlp4Zk1sRlpLY2tUVGhsZlhZZUpjbkRrRFYxR29lc2FvUnpVR2hXdDA2UXVpRjIwN2QzMm5xOEFXVDlNSHRlR0tlLUtHcGxjTnB0LS03cnNOYzAtU0tBU0N4ck9xRV94bVFBc0tybjFsODJlb2pDU2tjY3h2Y1hFdERh?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:43:00 GMT"
+        },
+        {
+          "title": "Irã acusa EUA de atacar petroleiro perto da Ilha de Kharg, ponto estratégico iraniano - estadao.com.br",
+          "source": "estadao.com.br",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd01PaG5kNC1Ma0cwN3JTOEhNNFB5MGM1b2gxb2M0V09mZkJJbEF0RlZHUEdNM1o4cG5qbXVBOEtiVEx3VlFhWGt3dVVZQWJ1UWZLV25ZTENQWnJuVWZuYUpCUUc5R0MxQUhPOWlwRHFOdWZ4ZVVqbHFzMHA3U0dyWGdqVF8yT2RxR2hOY0J3cW8zdnpiQWhtbU9tOVlaMkpt0gGmAUFVX3lxTE1JdkctSk1kNmd5UDhiTXJKXzRsbmdfM0ZCM0lwYmJ5Qzctb2o0MndLVERva3FzSWJmOUx2eURCdUZlVExYbUtseDRtUVRGMHhBbmdzTDhhTjVKZ1NFVWt0djJNUVI3Wk1pVGp3dFdUNE5vRy1SX2NKdHA2VzB3ME9ialBNQndKR19lSXN3ZnppZHNkY3pvVWMzWmpELXFQMXBlZVk2enc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 11:50:00 GMT"
+        },
+        {
+          "title": "EUA atacam petroleiros iranianos e Teerã respondem - Folha PE",
+          "source": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1hHcnBHUDFzY1QxVHg5cVVSRUZXVXhwQVNFZTVoai01SURadmg1MVhfUVQtc2hFazNicnhZXzZlQy15SGFpTDY4YVhwaEdkLUY1TUw3MzNCLVFnRG9maHp3Q1ZrQUZNbWJ2TGJsRTZ5LVZMV3FFU2owbi1vRDc1REFFV1dlTWowSmJwdXVFR1VMQVduYkk3MkVR0gGeAUFVX3lxTE5qMzJIdEJJWlhnSHNBSEFWZG5aTVFXSGh4VFJQRnJxQ1BnakNNOURsUGpsdW04YmVHejE3SVFmdHVTR25FM21zUHgzUEV4WXoxQzIyMXoyX25vQ0RnYzNoX3M4S2UwRlkwQmxZUmxJLTczN2RVbUFQZUd4LXl3X2FUNUxRT3ZMY0JuUVJXN3hKZ3RKbFJMUjdtNlBjR3B3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:17:00 GMT"
+        },
+        {
+          "title": "Forças dos EUA dizem ter atacado três petroleiros iranianos - Terra",
+          "source": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcHhnVVJwaXBMeWVfMXFGX2pZOTdsMmNQa2ZxV2pOOUQ2UVE4UGFPVVBmZWZXaF94WE04R3l6Smk3RUtwem9VS3pkSE43Wjhodm1QejFhQzNLZUlPdzZJaDFXWUtMRWZCZWF5eWdoc2loSUJISW1fUDhyU2FlYTlEQ1Q0V20wSW9mZUstVW1fYkZPTEM3TVBRYVBDcDNfQ0h6OFdBNEp0TXIyQXQ0azlDb2dtc0lpcmxybkQ3UHFVUmZUZWZhOTNGOWZaOEZVYkM3czY4U2N3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:14:00 GMT"
+        },
+        {
+          "title": "Forças dos EUA atacam 3 navios iranianos de petróleo bruto - SBT News",
+          "source": "SBT News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnNjckRNQ1M1RVJid2dyNlplNlhtMTByZ3VHcG5ydnVKOVB0cUM1RW5NaDlnN09aMTBXcXFnUjNmSjVxT3lwSEZPdjdGUjdDRjI4WUdJTzZJVzhOM1EzSmpjSTZFZmp5R3AtU2dpYjYzZ2JMcVB0UXRBWUVOejlxNWNLMTZQMUdkbFZJR25qbkc4ZEt3a2VobDVzaUpldDB6?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:41:40 GMT"
+        },
+        {
+          "title": "EUA atacam três petroleiros iranianos após ataque a navios de guerra americanos - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFxelBzeVBYQjdoY0xFZEc3Q1pGUGRVU2Q4QWFqenBZMFlQdEtaWXhMODV4NTJVWnlxT19CUENiNm1veFp1MFBBQlRJTVBheDRaVFVkT3pzVGk2NHZVX2wxZVQzQll0ajh3MGQwV2pielZzWVY3N0V2RDlzSDdiS01fX1MtWFl3dk1rT19KaGZBZHVnNUdxbUpOYmJwWC1WSDZ5Q0dESUNNcTU1NkZTbFRLRVl3cjdBZTJzbmhFRGxPZk9LVllzdkZBWjXSAdsBQVVfeXFMTXZod01jRDRPV3h4R1NFbC0zbUttV3hGOFA1MWhSRDRFcG9HYW5LWFNqRGRCLTBXdFRtODRESUpsUk9ETEs5THhLWmwtUEViVWlSV29ITDJ2dXlTS2ppVE5XcGY3aFdUN3lGTzh1WXBuS20wMlQxRTNsb0F1cWh0OE5YUzVXSmt6ZHVRc1Y0dkY5S2NNMW1ldGtlUGJ6THA2TzZYemZvSFZZaVNhY2JxaWxkUGM1R2F0MnQ4UHFuYTU0QlhoUi05cE54WE1zZUFGSV9lTlktVXRiN2lF?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:03:35 GMT"
+        },
+        {
+          "title": "Irã promete resposta ‘com ações direcionadas’ após EUA atacarem três petroleiros - Opera Mundi",
+          "source": "Opera Mundi",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMU1lVGpkWXkzZlFyS0MwLWFyN0F0aUZYakNIZGEweUNRNmMtVlJNWUluUlh6aEZtWDN0NG1ra0NfdE5LX0wxZDEtWllCM3Q3a3NnaF8wNU96VGgxSTJnZ21YRG1ER1lDeE0zdkNsbFZXUG50Y243bl8zRk1iVDQ4bG9aRDQ2czByNUJ0NFZMblBSUnBpVG9JXzNwVVBYX2wtd1B3cjZDQXFnVEI3MXRhZUVKN0J3bnpBMS1OUWZoenI3UUtQVHhSNmh4RXZmdw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:52:00 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "удары США по иранским танкерам",
+      "items": [
+        {
+          "title": "Военные США нанесли удары по трем иранским танкерам - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxSGRMTXJZT3JROFV2dE91TTUzWm1kTWU3TzVkT1lIb2xtSHI5YjZ0dmE3UGdHakVRYzBqUlU2NU9mMnh4TGJsdWNFMkQ2QdIBS0FVX3lxTE1SQ3d1eDNzc1JmLXhWblRGYVFHQ1hpUzZQTTFlbll0VlpKMlRlc0RqampuUmhmcjlFdDJfQTRUTXlkR3dsdDVPR013cw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:09:00 GMT"
+        },
+        {
+          "title": "США нанесли удары по трем иранским нефтяным танкерам в ответ на атаку на американские военные корабли - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83RHRjRmlad01WUVd4OS1pM0VLV1J0elozVGNBcVdpZkN2MDMxeHNjN1hXdlJCWVd5YVVKa241bmxkTGdBRzBLQzhSdjhDNHAySnpNZmhDRU5VaXBHemfSAWNBVV95cUxOOGpNdF95dUxiMVg4bnluZnpNQTZ1eXdPYjdXbEwwY3ZBUG1UclRNaERrSVZxUUsyeVpQQnNJaWkwZFE3MWFTQXM4NTdXLWpzRUtUTlpCdWEtX2JCM3UyR1pMczA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 17:51:53 GMT"
+        },
+        {
+          "title": "TRT на русском - США ударили по трем иранским танкерам - TRT на русском",
+          "source": "TRT на русском",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zSmZ2aTNWRTZnQUpFU3ZxMHdEVXRDZ2NXaU9VRHdmWWgxV1dKSU9XeUVIUmRPNGE0MkNuYWpNXzR6dHpjOEZZejRBbThNSklQRXpuRGdHY01fMmM?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:16:13 GMT"
+        },
+        {
+          "title": "США нанесли удары по трем иранским танкерам после того, как Иран обстрелял американские военные корабли - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMitAZBVV95cUxPaXVGSEwzblFBOHRacktMc2pWT011b2R3UUE4WEIxYWswUWdHZ0lUSDRJMlB3WVIxSmMxNUk5c0ljNS0tYkVSSnpvRktldFNtd1ljZTNRNmlpTi1aZURZN3pWVDNRTm5hOGlKN0JWX015NnlmVGl0Y3RQM0hZQW5ObHdwa1hubHB2UFk1d0U3SkZsbnY3MDBqbjlfYzBBLTR5bDRRemJPSUcxT244Qmk0Yk92UWF3SThkemJRdDNPV2xuMzZIa0FkS24tMlNfTndEVmJkMlpRWFl0WGRSenY3RzhnSGtTOWROMmdHR21fYTUxN0dTVnpnanFROTBRcDREakI0TktDQjQyeVZ1aFJ0ak8wYWVCMDZWcW5uSl9USy1WUzVxcUhzTTlqaEpMdXFjTE1HT0pVeGdqR2I0LThkc082YTRfY3lDS2V2UEFSSV91Mm5JVENtT0NpeGUxWEEwdEowY1pjbng0VTkzXzhKNWFKYzFDVFo3LTYwY3dFMGM1aW1HbGMxNHpNTjRPT3IwZUtIUUM4UTNxeFRUQVYyRVlfcUs5dHkzeHFBMmhMVU1VMmo3SElHWXJHS3l1eFFMNTczMWhjOHFRaEV5YWJvZEV2WmQ2Sjc5NmVGYXYtRWt5SDNDT3FjejU3aktjTnJFeDdyV2xmNzRjWm5uc2NucEY0UzRCbHRGc2I4bi1UUjgtU0ZmdEM2akpSaTk0eGpzTWNnWG95RUg2enVWSzNSQWtVNVJ1akZyRklOYTBJbFpUS0E3am1ERUthdnBYOUtTRGdqdGk3U1ZoSlZQeDF1Rk1MZFZXdWg3bzhDUmNCQ2dYcWkxczcwazFRS0NPdFhUNi1QVDh5WEQwbWdwUW05Zk1Sc0xRSlVIZEY5dThDOHdNVHdCTU0zU0JjbVFIZjVQSGZXYXNYZkI4ODNXQzRfUE1lVWp2TWdYQWQzSjBaSXlpczl5NVlSWm1YU1MyX3FOcERUenlVdHd2X0FPZDBTMUFBby1yWEJfWjQ1Wk1YZGpycDl5REFmMHJEbWpPbkd5SHJ0T01KOFd3RFIybWhVZDBFdGVUR1NHaktQd0dwQTdFUEdk?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:06:33 GMT"
+        },
+        {
+          "title": "Иран примет ответные меры против США после удара по трем нефтяным танкерам - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHNVSkVKdGRSeWJ6M2ZSaFk3NWZabnpzZ3VmWkxiYVhBQktZQV9XX05LMUxDUzhJeWZnNGllMXNqY0RNWEhUUXd6MWg0RFdHNnRSbG41WHVmV2IwcFVvT1JZcXRYdXFKa3dZZWRPcDlJUlNxRHNCbm1HYTZtTWd6UlVrcUpiUnljcDJaR1dQYWJiYmdPa3BYQ3hYWGgtckxscUl5Ykl3NXRlSGlzVnFNMdIBsAFBVV95cUxPcHNVSkVKdGRSeWJ6M2ZSaFk3NWZabnpzZ3VmWkxiYVhBQktZQV9XX05LMUxDUzhJeWZnNGllMXNqY0RNWEhUUXd6MWg0RFdHNnRSbG41WHVmV2IwcFVvT1JZcXRYdXFKa3dZZWRPcDlJUlNxRHNCbm1HYTZtTWd6UlVrcUpiUnljcDJaR1dQYWJiYmdPa3BYQ3hYWGgtckxscUl5Ykl3NXRlSGlzVnFNMQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:55:34 GMT"
+        },
+        {
+          "title": "США: военные ударили по трем нефтяным танкерам в Ормузском проливе - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVQ1YklRMzdIMENJTFpEMmpkRnQxTVQxQkdCLTNiU2RET0pqckNQaEg3eHM1eFlnWjlQMjQyaVpfdVRlMGEzdlFxM3FvRzJBaWdwUUhNY2lHdkxQWUV6blc4b2tTa3RfSzNaMXR6YnZLcWhpQkQ4WFVTT2dxVllXM2dWRlZvNFJwS3gwVEpMQl9vdjlyWnBQcjBzUWZIVXQ3eDJMM1E3RFMwdUtHY0hj?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 09:45:14 GMT"
+        },
+        {
+          "title": "Что происходит в Ормузском проливе: США против Ирана, удары по танкерам и нефть - Вестник Кавказа",
+          "source": "Вестник Кавказа",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWQxSV9kUXFDUUxRS21sZU41cmFjMHdNdV92SnhjcVJGazFRUWtxTms2dWhQQmI5WThRZG1JcUM1alA4VU9YaXFoYW5qRlFLTmNONkJNeDVtQm82RHhRWENkZHdVQ0VUWWlUSTg5LTFjV01zUEJ5bmFLU1pmOVJZRktTTW81NWdndHlCcGg0M3NlYXlCVExEdHVWQmJLSm1sTWNSTkJsSU41YXdBdUFJUUJvdXQ4QdIBSkFVX3lxTFBVRmVxLXY1YXN0QUR1UjZhVlU5anhKbW9HbXhxWTdIeVI4V05lVXNZeU85el9PamVVRkNZeW9meW5UVTE2REJ3Zll3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:03:44 GMT"
+        },
+        {
+          "title": "Иран угрожает мощными ответными ударами по кораблям ВМС США - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KWWVFMzlPczU0RWY3OVhOVkYyRS1oTDcyWkNRa3RpT0RHeGY1elVkbV82VzctdG0wSFZDZ0lkMEJxV3p6czRWdEhMQdIBS0FVX3lxTE5KWWVFMzlPczU0RWY3OVhOVkYyRS1oTDcyWkNRa3RpT0RHeGY1elVkbV82VzctdG0wSFZDZ0lkMEJxV3p6czRWdEhMQQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:07:00 GMT"
+        },
+        {
+          "title": "США ударили ракетами по иранскому танкеру у острова Харк - DW.com",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3doMGI3SjdPWW84UkxyX29XU1VKTHNuUHdCZk5PVW5PZGZuNDJMdzluM1YxMWE5cUxRLXl2cDQ1TWZJN3UzOTVlSnZRaXdwOWxVdk9lZGpyMkVLT28tX01rckY5Nm9ia2gxSkdEYmxjVldPcTdiZEFrLU5SSDFDdXlpNkxVUm53bU11UUNMSjdXVnVPRS1qdXdZdnrSAZwBQVVfeXFMTW81dGxZUmpSZTZUZVF1X2Jtb0o5VnJqWEZ4XzZ1SXZqb1drTm1CY3VYTFlMSXd4REwySzN4Zl9zQUhhbFJfVGlqdmxsX0tFMmcxcTc5bHNVN0l0WnRybmJua004WF95c2ZhNk5EdUFheVhXa3BHbDJKUEFMd0plaktxLXlRRWdQb0tkRjRyYUcza0o4aVh1QnF0dlFT?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 11:27:54 GMT"
+        },
+        {
+          "title": "США ударили по трём иранским танкерам после атаки КСИР на корабли ВМС - Аргументы Недели",
+          "source": "Аргументы Недели",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU9pcDI1RENMYW1MbThTbm9GX2dVU2pjY01yVWtDQXpDdmg5UkRyWktyaUVud3lBWno5RlFmbVEtNzlwaENyUHlQSlQ3VkxQYUY3N3I0a2VDeHgxd08tODNqaVowTlFWc0RmLTNqTXVQdlBwa3JnOVAwQ3RMUl9Kbkd1dXpKM0oyM0QwZ2hNMndWQkZkdFl6YjNGX1U0cW5xVkhUTG5rV0E?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:17:00 GMT"
+        },
+        {
+          "title": "США подтвердили удары по трем иранским танкерам с сырой нефтью. И показали видео - ФОНТАНКА.ру",
+          "source": "ФОНТАНКА.ру",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3VVBsMldGYnRBU2piN0VkNjI2TnVPX09mQjdBWWowTUtSNVlkaElsNFVpaDQzWlYzY1ZZZ2RIeGlPc3ZYMWNiMW5PVVJnenZEXy1ndndlWQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:29:00 GMT"
+        },
+        {
+          "title": "США нанесли удар по трём иранским танкерам в ответ на обстрел ракетами - Європейська правда",
+          "source": "Європейська правда",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZUFVqZ1hRckpBV0U2YzY0WE5CSzhaQ0dxcmxxdUtOTVFsWWtpOWY0cl96S0J5TC1OQjdPbWVydFJPcEZ0dkI3Ny1PVlk0SlNwSWRmQkxCZ1RIUnhtR2FFZjh2NkZCUC1LYVl5UWttZlJ4RUZoVTd0c3NKQdIBe0FVX3lxTFBZUFVqZ1hRckpBV0U2YzY0WE5CSzhaQ0dxcmxxdUtOTVFsWWtpOWY0cl96S0J5TC1OQjdPbWVydFJPcEZ0dkI3Ny1PVlk0SlNwSWRmQkxCZ1RIUnhtR2FFZjh2NkZCUC1LYVl5UWttZlJ4RUZoVTd0c3NKQQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:00:14 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "استهداف أميركي ناقلات نفط إيرانية",
+      "items": [
+        {
+          "title": "إيران تهدّد برد أشد بعد استهداف واشنطن ثلاث ناقلات نفط تابعة للحرس الثوري - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tc3pQc3JOaElBSU5PRFNXc1ZHNnR1QkRaWXlZRWc1aUE5N3ZFeXU4MEpza1JhLUlodmtZdEhGdGJqUVJCT1dLYk50UU1pbXhUREhPVDVWTEtEREo00gFiQVVfeXFMTWZOOWJPdnhmVjRhQlJXN2k3cVZZUFpENW1Ud1pneTNmV0lrWkZRRzVSa3J2TUltejFDcjh5a196Y2Z4a2RPR0RDZWZ4Smw3NkhkN3F6TkE5T1hkMjN3aEU1NlE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:31:40 GMT"
+        },
+        {
+          "title": "شاهد لحظة استهداف الجيش الأمريكي لثلاث ناقلات نفط إيرانية - CNN Arabic",
+          "source": "CNN Arabic",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWFZNmlFRHJwbkQ3cS1zZXpFc0YzcU1rVy1FSm1ncmQzS2tIRHhyR2J2M19ka0Z1a1dZd3Z3Q0lEX0pKNHNZVDBXdVV2QkM0RXFZZ0xiTnNNb0k3YW8wcFlyMm9lcXNGT2lOa200ZUowbkxpSU51Q0F2bkhQU2hDY3Q3UDlsQm45ZHNjVE9WVQ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 19:38:50 GMT"
+        },
+        {
+          "title": "الحرس الثوري الإيراني يعلن استهداف ناقلات نفط وسفناً أمريكية عقب هجمات شنتها واشنطن - TRT عربي",
+          "source": "TRT عربي",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XSWlOY2lOamVkcXdCczhhTzl0b3B6bS1iU1VpekFRQnRaWTZ6RDNEcTJsVUQzQjFmS1dvY1NqZ19IZi05WUtEc2s0UjFRV19CaVZfdWZpTjU?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:08:30 GMT"
+        },
+        {
+          "title": "الحرس الثوري الإيراني يعلن استهداف 6 سفن في مضيق هرمز - العربية",
+          "source": "العربية",
+          "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNZmxjay1oWXF5eW1FbEpfYzFIZEVPdzFUOWlRZkowamJyMzZ4cmNKbXoyMkgyTTUtcUhjaXpvUm1XR0NxdlowTi12eU04aGhhRjJkS0w1STZSQ0QzcGpMU3hPcFhhQjl5VFIxajBhUUtNY3lVU1R3NzNwLTlwelJVOURId2ZEajJsbUh5ZmZ3ajJjTnMyOVNUbmNwM2VHR1VHVzJKbHo1dEQ3NDk3aHVIQ0VEbXFQNXNDTmcwaF9KQmc0aVZBQkgtLWJST1NEQjBUc19uSUF5OWZOekoxVWVVOTZwYlRyU3V3a0NhSmM0SzlobTlteTZJRXA3MjZEZlZaMjFPWEU0V1lST0c2dGtLajExVHNMYUR1OUVOcjVqWmRneWc4ZUNJenpzQmNuM1dZeG9KM2sxMld6d1RVNnAzZHl4MWVYZmhJbVBYdUNrdFdzdW9TMWxIaGx4QmRWVUdaM3hqaXBuajEyRWpueUFDQ3JIclVlbHk2UlNBbXVsdzk4SFZZWW9UUF9yeG5GN2hMenhRSUxPTHI1bGRMMk5yb2czNjAzY2ZlRUF4WklSSlFIQVRKRjY0aUxleWlkU1ljMWgtdUpYNmV5UmFxdHh3ZDZ0U09GcVh3MDhPZVVIT3IweXlqQ2NTWGVBWGMzT3piRHUzU3dnYTBVdTRnVnpFLWZkUVF6ZkcxU2xocVdpRy1hT0NwVVN3R2pqVEFZRXVranQxQmJTRGdPcEtuUVVmNFBQanhzRnNKUXpJbUxVZDlRc09FXzlCS2ZPZ2pkLXJVdElmUDdnV23SAd4EQVVfeXFMTmNSTUtnTXU3U3ZhYjE4U0hZWUdZMnlUMDZpOFVuc2JET1VQRHh1WEY0NktuSFFUd3RmUFhkdXR1Vzd0VndRT3ZQQTNlR2k3aHRTUkdBMXVpMXpMSldxdzB3dXFWZWM3bWZLZTM3RDVSVnFJYkNTTlBsQ2ZOVXBQRzVhWWd4MU1wT1FlaWVIVnJHQUIwWWxnV0g3QkNBX2pWNjRyTDduR0tBMXBPekZjZE93VGJyOEpxMmhqVmFlY0RfTjQ0REZ4Z0RnMkU4cVFyRlNHMWt0MHJHSk81bkxWams0RDFXakNYeDRMOVd5bDRVNnVuUnVNaEFpUHhPSU5XTlZVUTVEd0NVMVBHTXc0TDhEdzRXSC1nTnBSOFIyWjd0TXJxSk5laFNFMEl0THI4XzhJU0htc3dNRVotR0VlZzM2OG50RHFPa1N3Y01GZlRZa055SmdtLXdycUdTSFEwbzVEMVZHOFFZVkhLUThEejk2RG1FRDhmazc4V21DVHhoaThrTWVLN0l4d1FkTVhxTnlFQWh2QVlxRHVCb1JwNWp5RGJObFZlalNYczJtcHhqdjV1dGtkb2l5aE1RUkFSUnh1SnN0cG90R0RBWW96RVNldTMtS0c5V3lXMGdMVnJWS1VKLXdfVGNmd2FDLWxlUjYzTFZ6ME9GWnlCWnFJOXVqbjhiUVFtMlppS1NGZWxwbDhTTG9HVGJQeWlVcmVqWDZYZlBweFp1VmpJWExMdXRwRi0tV3NZcTRuem9HSV96Zk9DTkl4VE44S3dGRzREZHltdjNzcXZSdHFIbnp3?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 19:55:00 GMT"
+        },
+        {
+          "title": "أميركا ترد على هجوم إيراني بضرب 3 ناقلات: سندمر أسطول النفط إذا لزم الأمر - الشرق للأخبار",
+          "source": "الشرق للأخبار",
+          "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNM3NpZHU4NXNMVWpJMXRwQnVRY21LWkZLWXl3V1NIaUVWTWRjZFBWUTJxeU11RVVJN2ZEMUExN01uRnFQVWM2QkkxcXVuaGVEUkhxME50RlBERE5VOGdPN1BzZmdBODZqdmZmUk43T1JIUHJKbTJOYU8tckJsRUlaTXFDWHV3NncxOHNyN0ZHdWQ2MkUyUGltSXBWbl9OTldKbUx2UVk0OVZOZDdlS2FBRG5mUHRCUVYwUHNmdmJOQ1N5RWJnV2p1WWViZlc5MFZkb0gyY0p6al9BaW9oc2tXZV9paE0zc3E2bnZBZVctbHNPNmZsX3cwdzFIQjdFWXRDd05XTDdMS0VmWm9LbWNXQ1VHSHFlaWZ0eXFVejl4QU1lSEExcjhqZWNmUU5PMjJoS21Ga2dleS1lZFFPREpJaEg3OWV3RUZEdkp6OFB5eG5oOG1yZF80MnFIMHV4elFqdi05ZnRiSnl2WThRZEFQTU9yd3BJeENpVUpVWlh5VldxRUxuRUhCT3Q3eVUydU1hUDlOSTlOTGE1eFU4QVphajNUOU9rQmhMaVVjSnB6Uy1DZDNXdzFHRlhIVnZjWVoyV25N?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 18:07:16 GMT"
+        },
+        {
+          "title": "أشرف سنجر: استهداف ناقلات النفط ينذر باستمرار التصعيد بين إيران وأمريكا - اليوم السابع",
+          "source": "اليوم السابع",
+          "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxQWGkwclRyYzBhMjd6VTU5bGMxbmdJQzBOMXFDWnNOdnlzY08xendLQU9lRjNZdlNwTE5vUG4xckxCZ1JtNXBxR3JJeGJDSDZ3QTJ6Q0N4cFNCX0FneVpYWlZ0cko4YUI4c0FfNFluT2ZDMl90T0liUDh0cDJTcHJaYWxEc2lkNVBZTWE4Y0xwbVg1QkdTYWJzUFJ1eThhZVRkN0FSbTdiQk1qaFVMYkVNVGtEU0QtVVlVZGVHeVlMVmZwY1YyNmR1RkRMRElCeFdnekRjYjFiMFhqd3N2aVY5UU9NTFlNWjVRc0s4NkVXcGplMWxLa041MmkwdTJsSmgxUjg5ZzBESGktZmNYdFRFdG5MZW5iSjRrckFjbEMtcU16SElZcGFqaTFXcWpjVDdRbXJFT3BHSXdlNnYzQjlGNlJmTVNIb3lyZjBES2pWUm8xclk1REQ2c0dNcmlyMXhqX0cybXltQncteHFOZWdDRTJZWFdmMUloLUlPV1I1QmRZTmhrZW9TU1I4TmdhLVY0VnhSTUVoRENSLTJ6TDNRbDZpcURVRjZZcXZSR2NycWw2SEdUM3JfeHlnem0tNi04TXhhTFVta0ViV0EyYlBTLW1JTkNVbjVZSkc0T1VhX1BxUDREM09FZU83X09EcmtpM3VlcnFzSWdSWExHcmE4RFpXS1FxZUNDaGdTNdIBhwRBVV95cUxOanNueXI5cGZFQU9kSDVSX0kwWnZhaTVCNzlmMWtkVXB2dHItQURTUU1Ud2hNVk5YNEJDSTA5c1Zpd3h3Mk1Ia0V5UFRsWVRqTzFJVmlSR1RqQjJybnJadDlnRzRrZnJmaXNNNFB4eEc4bGprV3RvREtjNzVKcmxhNXJTb3BYOWsydnV2ajVXR3E1Q2hrSGFnY3lSV1JaZDRqOEJpeS1PMkU1ZU1RRHFfZTBkWHdxM1BhODJyOTl3UmF3Z1hvcUZHMzZtZEVROEVMR19zYW90THpYRkd0c1FkME9EUEk4STBCbUdUdTY5VFRDaEtUT2ZBRFJoWjlmMUp6UHVYTkdyOWw0Qkg2LVNhc1had2hQSGIxZjlwNWlOa1hJRElCeWtJeEQ1NHlDcFpVNl9iVjIxYzZjc0R4YmI4NzZTbUhEU0pONUpPeDFhdTBZeVhwQlhaLWJybDE4cDZyZFI5YVFfMnVmS01EdkRNQkpfRVBSSzg5eHRXbGpaMHZTYzlOSkFZSTdYNnl4LW91bHNWWHZodFZlOHl2bXMzSXRfMWwyNzIzX3lUZlpBMjh3WVNXcDFLaV9KUnNLZE5qdllNS29uSHQzUW5RdzgzdVozWkg2aXdleDRqTFdCRHBrbzJfSE45TUJGWmZwaG5nWG56OTU4WmlTQWZmR0pUX19JOWJFN1k?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "title": "مواجهة في مضيق هرمز.. ناقلات النفط والسفن في مرمى الضربات الأميركية والإيرانية | التلفزيون العربي - التلفزيون العربي",
+          "source": "التلفزيون العربي",
+          "link": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQREppalppYV83aUJKOWpORWZzMFFrcGRrMlFxUEFOeHRmUE1kNmVfYXU2TzFEY2ZTVHZpWGJxdzdkTDAtYjY1QmNXQ3M1N1d1dFpMZjlVQUNwRUFraEdqa1VLaE9KSUNEVTlrS2VnVFlHa2REamltNWZaVk5QSnc0cXByRTBCaUVQb3B4UlZLSFNLNk8wUzg4ODNmX2pCUzVnbDVDc1EwbW1UNzlCR01GSmxEazAzb3pxVU5HS1VZd0JMMFVSN0pTLU1JZ1VRMHU2dmEySV9rcFoyaHl6blZMOUt3bjdVRm5NZGI1dWdyQWU3bFhIQWh1UU5YczZ3NEYtWjlPa29zVUVOLU9VTURkYW0zTGhtOThOTEplU0pSdDJVY1FJdmtNTTBndmhWMS1Ic01KTDJ3d3J1bGs0M1ZqOW5BcFI0NXJ1NGQxOGdBaGc0Z3V6dFB3UEh4Y0FRcWlNbW1ZcmZZeHJ2enJteXVwWWhzbTF3TC1UUW9tcmRXYktfWnlWUXhDbUNSVmNQRE5iQ1dabU8xaGFLZ21Rd1RJV1V1QVFmdE4wbGJuMnQyeXFzV3BlYV9hLUZFaHVCNDZsMVBWcHFLZHpkNVFySlQ2UzJZWFM1SUVDTmNneVdKV0l6SVdFM3kwU3BoRWdoVkV1VWlCdVdpWEJXVVEtMklORXVmOEJoV1dhNVBoMlZhX1RuRjN3Snc4NjN2QWV3ZlRQNGd5eGRDY3ZCVzA3dENzdy1WQ0l0Tnc4VDFVYlBVYWM2TFkya2NTY0J6Z2JjTDNDcVp4eXRYMWR0QdIB3wRBVV95cUxPNEZnMG1zT29nWFJVZjlPWXNrV0laMzhhSGZVMkJVbC1XYjhFc2NOejY0T2haRllVdEZ4em1aSDhlUXFJSTh6OG5vaDR5NjVlNTVkblZndlVNU0hPWjBscTdHYXZ4Mm5rc0RoY0JtRWxhekUyel8zMHo0c0doQWltQXhPRDZYWnpVTmRZWVhqMG5zWlBWeURfUDRsdXdXWFFrTFRBMkNFS21sVWFBb18zS1ZmY3BSV1FwYVdDRzFaeEFHVlNZNGhGWmRmRmNpd09keTl1UFJlVHNwaXRYV2ZNLTZlZ1I3Q2wzZTVpbVV4cU44X1NkaDB3LTZ3VzhnaHY3V2luZkR5WHZEWV9MMm9ycG5xdzFQYTNQZmxuWm9iYzFOY05yeUttU2tZODQ3RzExWDdodXZUckhiRHhtTDhCMW5DOGJYOUV6LUxBVkdhS3VPV0xIY1hzY2ZuM0duaU1vWnB1aE9ZMUxKaFJHX1VKVzdCdGhBdFBmXzhETE9JR2oybmwyX1VIaXNpY2VpVjFRaXBKcl9qckh0YWVlM0lqV25IeEM5OFcyaWVIMlkyeHUybGd4MmV5MDg1eWpLOC1yVE9aLXNRRzZaNy1UcHBSRUtITW1JYWFBTjJTVUVFcDduZEpuQlFnM2dhbU9pNlRXUFZwb2hUMURXcVJYTnl1eEhnMjVRZk83bHh4X21Rd2JoUFlGWVJIb1EwS3hLRnl5V3FBa1ZnUEVYT2dPbEVsY1JRWVY1aHBDdHAwYV9xMmZnRHJONDZXaGtQdUpTWkNCdU44SThqVUZDcWk2V21j?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 19:13:28 GMT"
+        },
+        {
+          "title": "إيران وأمريكا تتبادلان استهداف السفن وغارات إسرائيلية توقع قتلى في لبنان - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMikgZBVV95cUxOQVhxY1JHd01LM2RYZWlMUEpwZ29IOHFRanVpcVoySW5rTmQ2dXlqWTlWQkVqS2RYd0M3VTdZZy1OcEJfNE5WaU1fNGtqeTZGb3JNdVhkMGJaMU9nNHNfN1l3UmV5NEJMbEFjLUVlNmdHYURpaFlubFBlVXpNSHNvRThUZ04tem5BVVNQQzd2UlVqMDlWcEdHa2dxQ1VMMjBjb0pTYUFFRzE2VzVlVGotY1VYMzJTbWs1dFZyd3J6N0JrSzBSWHg3LXhIRGdpb0xQTzdZT1hTLV9sbUJUcEp1dWVkN1U5clNMZklmRDhtZzIzQnNrU2xsbkE3bzZJSmJPU1pGckFNRC1fZzJmNDRPQXplZHA4NWVIRTdFV0stWU9URy1Vb1MzTzJ0VnJ3ZFRnWXcxa3lFSV9NbXZKMFRRMWN1T1VZLXVqeFNkMmFhRDJ6ZjhDVjJjYnhHWnphdVJoWDJtQThZc1M5dEZGbXE4T0Q1NXVnM09aT0pBeE1EV19FaTUzYnVneDZPRVBsUHpUdGFjYkxfYjUzSjJzVkhRdi12UnpGZk5aazFfbzVwcHNDVUZKSldoTGN4TFZBSUxmRTRLZ1FsQTdOOUtHRS1qeU5qX0JKZXh5NURjUjZXWWJMQmpJUlNXSE56dzZ0WWFUWWFLOERkUW5XRWpreC1QWFlqV0h2Q3ZiYlY4b0xqbmNCSkNna2xkYUtSUFVkQzR2UjNQZHpaY01fVkhvQ0JESDJ1UC1DX1oxT0dIY1J5WHJQb1NGVXFvMEVZYU96ZWdfQzh3bEZFYlhFWUxQR0F1VHBHUjhvdkY2Y2JQT1VOWFYtUG1Wb25uREs4MnJLbzMwcTlXVmVtNUZKdTQyNnE0dnJMbS1lVENiS2g0cGRpWmVISVlVaTZQTnM2bjJIMU9rdXZTUkNrZTJ0NndtWDJRUXJYYlJESzl4N2tMZ2RrRkFwSDlmWDc3T1NnNDU2aGJUV3dmMXJvM1ZScWlrQXhLMDR3aEVTb2syY3RMN2VNV1Nza3hLSWpQZmx0VUs1YVMxRWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 22:33:00 GMT"
+        },
+        {
+          "title": "الحرس الثوري الإيراني يعلن استهداف 3 ناقلات نفط و3 سفن أمريكية في مضيق هرمز - صدى البلد",
+          "source": "صدى البلد",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85eGlxQ2IxUmxOaEExTG9GZzY0cjQ3Ml9MQmRKLXpKaEVwT3F4NGw5OFQ5NjVPaXlpTV80Q19CSDRlU1ZqUmpJ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:35:00 GMT"
+        },
+        {
+          "title": "تغطية مباشرة - وزير الحرب الأميركي: إذا أطلقت إيران النار على السفن الأميركية فسندمر ناقلاتها النفطية - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOWnZka0MtUkE0ODNvQ2x5LUpYNmJoeVFnVHJIcGtxbjZ3cUlhSW1oWjVGMmI1ZkZCSE9tZktBSlFXcXdQb1kxcjRSUm1kWmdoMVlsR0UtTm1paHRPWGMyX0VMYjhqcllOc0I0MjlB?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:06:42 GMT"
+        },
+        {
+          "title": "واشنطن تقصف 3 ناقلات نفط إيرانية وتقول إنها رسالة للحرس الثوري - الجزيرة نت",
+          "source": "الجزيرة نت",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQMkhJTV9lV3QyMHFmMG1Mc0xKajlBVndRY1ZDRGx1akNzcTJZU1lmNjBLRjdmSnVCQnZEUTYxd0F5UGhobnBIOVQwQklhWUVpV293ZVprR24wSnRxelN2bU8zaVpZdTVTc25CZWxSMXkyMmw3eXBjV0RRZnlZZUs1ZmhaUjIwelV3RjBCNnZmNjlQdHE4RjdsOU5DSzRwX0JVYnJMQnhxOHg5VG1rQzNMd0xZT2wtXzRQaHdvSU81ZVJLMks4bXZzOHVDRnpuTkkyb00xQ3VtaWtuaFdUbXNGMGNpOEh0eUNMVy1CNDJueVUtQndjZWVFNmJCWHc4Q0FDc1hvZ3VLZUtDM1hJV3hkU1NuRmZBV2t4X0owazJ4b21IXzdyODhqRnZ5cWFsaHg20gG2AkFVX3lxTE1ocWNiaWh5WVp1VEJ2d0pidnpPU0syN1NYYXg1cm5aTUdvSW40SXhtRGNGUllJZUFJWHV5ZVFGYXFNc1c5UzE1OFN3SUtmVEIxeHZqSWZNOUd5YjVvTzMyVmJDR0RwbzdhSG1jSmNCOW9kczV5cVpXeEd1cFhRV0RCdnF1WG1BWWpLb25hcnJjaElDbHBtbGp2Nk1LaV8yLUhMVHhIUEd0Z0dJb1hSWW1CS2YxV0hvQS1JOUtJT3A5OUR5eXlFd2FNcWtoNk5pbjQxeXZreUl6MldPRGlubTk0YkRBdVVrc2YzWTBhRmdOMTdWazZUQXpiNlFDWnM5MkFuTEVpa2FWbkpHcmRBbG5xTjZYMmlJMEp0V1hQZWxwa0FuRGJBTVA4bTNjRk14dE9PTFlmdVE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:09:43 GMT"
+        },
+        {
+          "title": "الجيش الأمريكي يعلن استهداف 3 ناقلات نفط إيرانية في الخليج ويكشف السبب - CNN Arabic",
+          "source": "CNN Arabic",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQW5EZ0xDMV9nU09La1VLV2RmeGJ6czZXdXJmRDJiZHVic2RFRkdvbWVjWTY4TGpsN2pKWWdXRWxRZ24wLUkxOXNFQWtPLVdneDhOaVlZbkRBOTVYS09WaTNtaWc3NzNHaWlQUEpla3V5dzN3eXNZS1l2b3RfV2VUY2JoTkJBcDZDVDFXYTJ4NXdSWFNJMHFhaE1OQmd2N3VaWjVaN0F6VG9nRlU?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:31:02 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "美军打击伊朗油轮",
+      "items": [
+        {
+          "title": "美军称打击伊朗三艘油轮 - chinanews.com.cn",
+          "source": "chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJd0c5QVlVR1hlV2o3VjY2TXNTZ09WTENXX2ZOLU9Ld19UeHhKUk1tRVlyZmFzbTNvLTE4QXFTbTNxdTJwNk1mSE5LLTZVRzloUmRkMm4xcWZxdC1CWDlJOXhZay1MZ2lZ?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:33:34 GMT"
+        },
+        {
+          "title": "美军在海军舰艇遭导弹瞄准后打击了三艘伊朗油轮 - 美国之音",
+          "source": "美国之音",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWdvcUl0QVBtVVFlMlQ5LUg1UW9HZ0JaeDFWb3hBQzNVaW45R0tCRjBkUG5YRWF3VTJnT3JOdkxWY3RHVE52UnN5dWxkSUMzYjBUNHloZkE3U2ZIbWJydUNzQ3FWeUF2NXJHMTJHWU5hUUJObDVmdngyakZVN0NMX0FwMnQzd25aMk42SUJCZEZqRFdkc1c4ZkNyVlkyZHp5eV9DWWszNzhjSktCeVlnM3VybDdCalJ0Q3FSTXdGelNvZFUyclZMN0Nn0gHMAUFVX3lxTE1xOGc5S2ZNcW5ISzFNXzgyS3dGWWM0Zkp4YWJUeUNGc1Zoa3JLY0YtcWhsWGhyZzV3ejNpYWVnVDRObjREQ0pkUzRhbkFlUXRadGNESHlwZ0E3MlVVMVgwcm1LLUc2bGFoT25vLWtfREx6S0MzTjIzeDV3TVgwMGJnWnJjVE5iYm9yMUhDbXJYeUF0S3N2b05EU3JxWWE1djhXVldXd3pWUlBMdWVWZC1UZ0FNcnFzVWl3NHRCWVgxdnU5N2JjN1BrbDJ0Wg?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:02:57 GMT"
+        },
+        {
+          "title": "美军称打击3艘伊朗伊斯兰革命卫队油轮 - 新京报",
+          "source": "新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxV0hEbzFRTy1DZXJ6RFBCMVJsRDZfV0dxeWYxcmt6TkVZR2tiUEVySWtvMWVZWnA4UDY5bnhfZnE2eXVsc1o4YWFYcTVCMXRZNUlMTno2TWtLTzFEOUx3VGdXWlA?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:19:00 GMT"
+        },
+        {
+          "title": "美军打击三艘伊朗油轮 伊朗警告将对美国军舰发动更猛烈打击 - RFI",
+          "source": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOVFBLWWVQQ01OaXgtZ2lEdW13UWdkV3pycHpDTjJZZ01IeFJGRF9ldlFiLWplajlCMG1nNUdnVU5ZOXUyVjJkVmRPQTRfZW1telB2aEc0SVhGUjJWbFJhbzJJWU1CSUZWMDMzYVZBV1l1d3NuWk9JaHBrNnF2Ulo2bTdTeU9nR0Zoekp0czJsd2hDOUVzVWV1a1VXa3FxZ2R3bDVGYUI4djFJTEd1WmUwSUZzY0xtTTE5RnRsaGZqQm1FemRnWWZyTHZfZElJUmFkTlV5Z0V6YTdRX25tQWhUT0dLOFpmWHpPWWRud0QwaFFjeEU0Nm1oeVlJYnlsTUowN0k0V1JKOEduNmxDVlIxMFJiaEM1VWZublhhQzE0dmd4SFRZVks1ZjA3eG1BeHJ4anBjSXR1SEdJSDhlcUVzSzI5YkJDSEotZndBSXFramJOc0hVd1puREZndmFLZHdKQmNfT0gzMWR5SS1wUFVZMGx4dl9EZE1YN1hDeUlzbmZVcWcwNDhTZTBIZXNOejJWMVM0em9uckNDSU9nREdHY0RTVzE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 21:17:13 GMT"
+        },
+        {
+          "title": "央视记者探访霍尔木兹海峡：通航量低迷，美打击伊朗油轮 - news.cnnb.com.cn",
+          "source": "news.cnnb.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fQXUwU2lCYU5SSUhqUUwxUHNSSXhOSjJkTFZOUXJCUFhINWZQRVZVZkxtbzBDVUxrR3Y5eFhEd1V2MHRvdll6U3p4OXJzMTFhTndEaFJUUEM0aGU1T1JYTGdjNGoxYXpH?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:48:14 GMT"
+        },
+        {
+          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信 - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42Y3g1bGdvS25UNy05TnlPMXRNQmU1LWU4NkJnN29xakhDbWhZbXVNRDhIeXRHSHhBd2syMEszRjhMdGRqd3FoSTlSRmdMSWlFbGhZ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:43:32 GMT"
+        },
+        {
+          "title": "美军称打击伊朗三艘油轮 确认伊朗动用弹道导弹打航母 - 东方财富",
+          "source": "东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DXzVQMjR3SXlkOXAtUjAtMzVTaldpdFItb1JudUpmU0lXdWQxSUoyOVQwZzNJQ1Y5Z0RMbTFmREVfTWl2N0JLbjBqVDRUeXZFeTNneUcwaDVHZ0p2TmVNQWdYcw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 17:42:30 GMT"
+        },
+        {
+          "title": "美军称打击3艘伊朗油轮 - 京报网",
+          "source": "京报网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMkpUMGlDREROa0ZXVnY5TE9Lb3ZQSXlScHI2cVFHQWFGd2I1ZGRuVjhVSVFrTHhTLVVKUE1ZakpqY28xUjZHUzRoVXJycUFsOVlnczA0eEhsb25PMnc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:13:51 GMT"
+        },
+        {
+          "title": "美军称周六打击了三艘伊朗革命卫队运油轮 - gbcode.rthk.hk",
+          "source": "gbcode.rthk.hk",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEdRTFNrNDR3WWVZSC1ZZU9EcnE3VTAzTmFZVHRPRmgtVE1jZW00cDBpU296b1BLMlJNdjdGRW1hcUdrVlBzZHp6aUkxTzlIcmlBckhPRU1mY2cyU19Vb05vVFVaOTBXOFJ3UFhac1NOSjJ3Rk9xS2R5WHp1aXRHeDItdmFTc18yZjROSXFDR0gwRmZ2RnhHbWF3NC1kYkQ4TlNv?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:36:00 GMT"
+        },
+        {
+          "title": "美军打击三艘伊朗油轮 报复伊朗革命卫队的袭击 - 新浪财经",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUEdSSzNfUGlLVWFGRFV0Y211TjlfaEZXRHljTkRSa3BuWnJPVnRCQ3VMX2k2aF9BZHlQNmRDSTM5Y3FidWR1Ym52NXRSc05MUVpYcTFDenh1eFlWdTZBNEhGalZwenZLQWs0YW5KNXhodHJCdVltWVA5YjJBeVdZY1RTMzc0TWs?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:45:00 GMT"
+        },
+        {
+          "title": "美伊互袭油轮 波斯湾局势持续紧张 - 中华网",
+          "source": "中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xZnRVOHhLY09CQnpEU0tLLUF3ZkJpOU5ha3Vyd2pFd2h5bmpwYklaQkEwWXY1RHdGYnRFc2l4WGNjZ29fcTIwYmlIS2U0TzVMTjZJVHZXVGNnNkdHZk9NVW12V3FxcmhoU1owT2RxMzc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 23:16:57 GMT"
+        },
+        {
+          "title": "国际｜美军称打击3艘伊朗油轮，此前伊朗向美军舰船发射导弹 - 新京报",
+          "source": "新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RTFZRVDRRalVXanVGSW9vMXkwSXVtQzN1RFRiUE02VEgyNGJjT3p6ejk5STFJRUktcnR1blNYMm40NVZrQVFFdU14WlE5N1k3c2ExSUtELWw4dmJZZ1JCcWNVc0o?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 09:00:00 GMT"
+        }
+      ]
+    }
+  }
+}
