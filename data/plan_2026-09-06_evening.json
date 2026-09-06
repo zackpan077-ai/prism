@@ -1,0 +1,17 @@
+{
+  "event": "美国军事打击三艘伊朗油轮以报复伊朗对美舰的导弹袭击，美伊在霍尔木兹海峡冲突升级，同时美特使与普京会晤推动乌克兰停火方案",
+  "event_title": "美伊冲突升级与俄乌和谈",
+  "why": "美伊军事冲突（及并行的美俄乌克兰和谈）被美、英、印、日、法、德、俄、埃及、中国等多国头条共同报道，且美国、伊朗盟友俄罗斯、中东视角的埃及、中国等立场差异极大，是当日视角分歧最强的硬新闻事件。",
+  "queries": {
+    "US": "US strikes Iranian tankers",
+    "UK": "US Iran oil tankers strike",
+    "India": "US military Iran tanker attack",
+    "Japan": "米軍 イラン タンカー攻撃",
+    "France": "riposte iranienne États-Unis",
+    "Germany": "Iran-Krieg US Öltanker",
+    "Brazil": "ataque EUA Irã petroleiro",
+    "Russia": "ВМС США иранский танкер",
+    "Egypt": "أمريكا تستهدف ناقلات إيران",
+    "China": "美国袭击伊朗油轮"
+  }
+}
