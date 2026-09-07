@@ -1,0 +1,17 @@
+{
+  "event": "美国与伊朗在霍尔木兹海峡附近互袭船只，伊朗宣布设立新“禁区”，中东冲突升级并推高油价",
+  "event_title": "美伊霍尔木兹海峡冲突",
+  "why": "该事件被美、印、日、法、德、俄、埃、中等多国头条共同报道，且各方立场对立明显：美国称伊朗袭击不实、埃及聚焦伊朗警告与油价、俄罗斯报道美方威胁击沉伊朗油轮、中国关注油价与“禁区”影响，视角差异极大。",
+  "queries": {
+    "US": "Strait of Hormuz Iran attack",
+    "UK": "Iran US tanker Strait of Hormuz",
+    "India": "Iran US vessels Strait of Hormuz",
+    "Japan": "イラン アメリカ タンカー攻撃 ホルムズ海峡",
+    "France": "Iran États-Unis détroit d'Ormuz",
+    "Germany": "Iran USA Konflikt Ormusstraße",
+    "Brazil": "Irã EUA Estreito de Ormuz",
+    "Russia": "Иран США Ормузский пролив танкеры",
+    "Egypt": "أمريكا إيران مضيق هرمز",
+    "China": "美伊 霍尔木兹海峡 冲突"
+  }
+}
