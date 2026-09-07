@@ -1,0 +1,125 @@
+{
+  "findings": [
+    {"title": "『谁没上头版』：多数国家只把它当财经新闻，仅美、印、埃推上头版", "body": "十个国家中，只有美国（Reuters 头版第9条『Iran to announce new restricted zone in the Gulf in the coming days』）、印度（The Hindu 头版第3条同一 Reuters 标题）和埃及（BBC 头版第2条『إيران تعلن اتفاقاً قريباً مع عُمان بشأن مسارات السفن في هرمز』）将其推入当天头版前十。英国头版全是国内政治（Portsmouth 抗议、Farage 丑闻），日本头版是国内灾害与选举，法国、德国聚焦德国州选举，巴西头版是国内选举与 STF，俄罗斯头版是本土无人机袭击，中国头版以国内议题和上合峰会为主——后七国均未让该事件上头版，说明其显著度高度依赖地缘距离与能源依赖度。"},
+    {"title": "法国是唯一几乎不谈『禁区』、集体聚焦阿曼斡旋『临时走廊』的国家", "body": "法国检索结果里没有一条以限制区为主角，主流标题全部围绕外交解决路径：Le Figaro『Oman et l'Iran négocient pour un «couloir de navigation temporaire» et un déminage』（阿曼与伊朗就临时航行走廊与排雷谈判），Capital.fr、franceinfo、20minutes 均为同一角度。法国还独家放大特朗普的定调：Le Parisien『Donald Trump annonce que le détroit d'Ormuz a été déminé』、BFM『Donald Trump assure que le détroit d'Ormuz est ouvert』。此外法国是唯一把 G20 财长会议拉入框架的国家（France 24『les ministres plaident pour la liberté de navigation』），i24NEWS 独家渲染美军 SEAL 秘密行动。"},
+    {"title": "定性词差异：同一举措被译为 restricted zone / exclusion zone / Sperrzone / 制限区域 / 禁区，严厉程度不同", "body": "伊朗官方表述经各国转译后色彩分化：美国 PBS 与 fortune.com 用更军事化的『exclusion zone』（排斥区），fortune.com 更进一步称其『runs from the U.S. blockade, through Hormuz, and into the Gulf』（从美国封锁线延伸穿过霍尔木兹进入海湾），把伊朗反制与美方行动对等；德国 WELT 用『Sperrzone』（封锁区）并强调制裁后果（『Jedes Schiff auf Sanktionsliste』——每艘船都上制裁名单）；埃及《Euronews العربية》加码渲染为『صاروخ بمثابة جحيم』（地狱般的导弹）。而印度 Moneycontrol 等则突出伊朗开出的条件句『will open if US stops threats』（若美国停止威胁海峡将重开），弱化封锁色彩、强调交换条件。"},
+    {"title": "巴西视角独特：不关心航运，只关心油价与『美国封锁伊朗石油出口』", "body": "巴西的标题几乎全部以石油市场和『bloqueio dos EUA』（美国的封锁）为主语——注意，多国语境里『封锁』通常指伊朗行动，巴西却把封锁的发起方写成美国：Valor Econômico『Bloqueio naval dos EUA paralisa grandes exportações de petróleo do Irã』（美国海上封锁令伊朗石油出口瘫痪），BBC 葡语版标题称伊朗用海峡『para chantagear o mundo』（敲诈世界，Gazeta do Povo），同时另一条 BBC 又报道伊朗在停火期间重开海峡。巴西还独家关注被滞留近100天的船员人道故事。"},
+    {"title": "俄罗斯呈现『降级+幕后交易』框架，并出现可疑的时间戳报道", "body": "俄语区最突出的独家角度是『伊朗与阿曼已就通行路线达成一致』：Интерфакс『Иран и Оман в ближайшие дни подпишут согласованные маршруты прохода через Ормуз』（伊朗与阿曼近日将签署商定的通行路线），RTVI、Neftegaz.RU 同口径，把事件从冲突叙事转向协议即将落地的叙事。另需注意 URA.RU 标题『судоходство недоступно в сентябре 2026 года』中出现具体到月的时间断言，与其他国家报道均不吻合；多家俄语源转载『Иран теряет влияние…– Reuters』（伊朗因美国经济压力正失去影响），侧面强调美方施压成效。"}
+  ],
+  "quote_comparison": {
+    "intro": "对同一事件核心——伊朗宣布设立新限制区——各国标题的定性词与附加信息对比",
+    "rows": [
+      ["US · PBS", "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz", "译作『排斥区/禁入区』，军事色彩最重"],
+      ["UK · Financial Times", "Iran threatens 46 ships in Strait of Hormuz transit crackdown", "不谈区域本身，改写为『威胁46艘船只』的执法行动框架"],
+      ["India · Moneycontrol", "Iran plans restricted zone near Hormuz, says strait will open if US stops threats", "保留条件句『若美国停止威胁即重开』，呈现交换逻辑"],
+      ["Japan · Reuters", "イラン「痛み伴う」報復警告、ホルムズ海峡外側に制限区域設定へ", "强调伊朗『伴随痛苦的』报复警告，突出威胁语气"],
+      ["Germany · WELT", "„Jedes Schiff auf Sanktionsliste“ – Iran plant „Sperrzone“ um Straße von Hormus", "『封锁区』+『每艘船都上制裁名单』，突出伊朗制裁机制"],
+      ["Egypt · Euronews العربية", "صاروخ \"بمثابة جحيم\" لأميركا", "附加『地狱般的导弹』渲染性独家细节"],
+      ["China · 界面新闻", "任何违规船只都将被制裁", "聚焦违规船只将被制裁的执行层面"],
+      ["Brazil · Valor Econômico", "Bloqueio naval dos EUA paralisa grandes exportações de petróleo do Irã", "把『封锁』主语换成美国，指向美国封锁伊朗石油"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "伊朗单方面宣布新限制区、美伊对峙升级，同时国内审视自身行动后果",
+      "unique": "华盛顿邮报头版独家披露『Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target』（致命伊朗婚礼空袭疑因美军炸弹偏靶）；fortune.com 将伊朗禁区定性为对美国封锁的对等延伸；Ynetnews 提及海湾盟友质疑美国保护能力",
+      "headlines": [
+        {"source": "Reuters", "original": "Iran says to announce new restricted zone in the Gulf in the coming days - Reuters", "zh": "路透社：伊朗称未来几天将宣布海湾新限制区"},
+        {"source": "fortune.com", "original": "Iran plans an 'exclusion zone' that runs from the U.S. blockade, through Hormuz, and into the Gulf - fortune.com", "zh": "fortune：伊朗计划设立从美国封锁线经霍尔木兹延伸至海湾的『排斥区』"},
+        {"source": "Ynetnews", "original": "Iran plans new Hormuz corridor as shipping plunges and Gulf allies question US protection - Ynetnews", "zh": "Ynetnews：航运骤降、海湾盟友质疑美国保护之际，伊朗计划新霍尔木兹走廊"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "伊朗威胁升级与美伊油轮互袭的『危险新阶段』，未上头版",
+      "unique": "Financial Times 独家给出具体数字『threatens 46 ships』；Iran International 强调伊朗只需『让船只猜不透』的不确定性战术；Gulf News 定性为『battle for Strait of Hormuz』（海峡争夺战）",
+      "headlines": [
+        {"source": "Financial Times", "original": "Iran threatens 46 ships in Strait of Hormuz transit crackdown - Financial Times", "zh": "金融时报：伊朗在霍尔木兹海峡过境打击行动中威胁46艘船只"},
+        {"source": "The New York Times", "original": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times", "zh": "纽约时报：霍尔木兹海峡又有两艘油轮遇袭"},
+        {"source": "Gulf News", "original": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz - Gulf News", "zh": "海湾新闻：美伊船只互袭开启海峡争夺战的危险新阶段"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "以通讯社通稿为主，额外突出伊朗开出的条件（美国停手则海峡重开）与油价影响，上头版",
+      "unique": "ANI/Moneycontrol 系标题突出条件交换逻辑『strait will open if US stops threats』，把封锁描述为可谈判的筹码",
+      "headlines": [
+        {"source": "Moneycontrol.com", "original": "Iran plans restricted zone near Hormuz, says strait will open if US stops threats - Moneycontrol.com", "zh": "Moneycontrol：伊朗计划在霍尔木兹附近设限制区，称若美国停止威胁海峡将重开"},
+        {"source": "ANI News", "original": "Hormuz will open when US neither threatens nor attacks Tehran: Iran's security chief - ANI News", "zh": "ANI：伊朗安全负责人称当美国既不威胁也不攻击德黑兰时霍尔木兹将重开"},
+        {"source": "Reuters", "original": "Oil extends gains after US and Iran exchange attacks on ships - Reuters", "zh": "路透社：美伊船只互袭后油价延续涨势"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "高度依赖通稿，聚焦伊朗『伴随痛苦的』报复警告与油价、タンカー攻击的经济冲击，未上头版",
+      "unique": "朝日新闻直接预判美国反弹『米国の反発は必至』（美国反弹不可避免）；Bloomberg 日语版判断『戦争終結見通せず』（战争结束无望）",
+      "headlines": [
+        {"source": "朝日新聞", "original": "イランがホルムズ海峡の外側に「制限区域」計画 米国の反発は必至", "zh": "朝日新闻：伊朗计划在霍尔木兹海峡外侧设『制限区域』，美国反弹不可避免"},
+        {"source": "Reuters", "original": "イラン「痛み伴う」報復警告、ホルムズ海峡外側に制限区域設定へ", "zh": "路透（日）：伊朗警告『伴随痛苦的』报复，将在霍尔木兹海峡外侧设制限区域"},
+        {"source": "Bloomberg.com", "original": "イランと米国、ホルムズ海峡でタンカー攻撃の応酬－戦争終結見通せず", "zh": "彭博：美伊在霍尔木兹海峡油轮攻击互袭，战争终结无望"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "绕开限制区本身，聚焦阿曼斡旋的『临时航行走廊』、排雷与 G20 谈判，未上头版",
+      "unique": "多国中唯一整体转向外交解决叙事（couloir temporaire），并独家报道特朗普称海峡『已排雷、已开放』及 G20 财长会议框架、美军 SEAL 秘密行动",
+      "headlines": [
+        {"source": "Le Figaro", "original": "Détroit d’Ormuz : Oman et l’Iran négocient pour un «couloir de navigation temporaire» et un déminage - Le Figaro", "zh": "费加罗报：阿曼与伊朗就『临时航行走廊』与排雷谈判"},
+        {"source": "Le Parisien", "original": "Iran : Donald Trump annonce que le détroit d’Ormuz a été déminé - Le Parisien", "zh": "巴黎人报：特朗普宣布霍尔木兹海峡已完成排雷"},
+        {"source": "France 24", "original": "Au G20 Finance, les ministres plaident pour la liberté de navigation dans le détroit d’Ormuz - France 24", "zh": "France 24：G20财长会上各国部长呼吁霍尔木兹海峡航行自由"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "聚焦伊朗『封锁区』与制裁名单机制，同时披露美军行动细节与船舶滞留规模，未上头版",
+      "unique": "独家报道美国隐蔽输油（『USA schleusen verdeckt Öl an Iran vorbei』）、美军直升机射击油轮、约400艘船滞留海湾（Spiegel『Rund 400 Schiffe stecken fest』）以及特朗普要给海峡改名",
+      "headlines": [
+        {"source": "WELT", "original": "„Jedes Schiff auf Sanktionsliste“ – Iran plant „Sperrzone“ um Straße von Hormus - WELT", "zh": "WELT：『每艘船都上制裁名单』——伊朗计划在霍尔木兹周边设『封锁区』"},
+        {"source": "Spiegel", "original": "Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest - Spiegel", "zh": "明镜：伊朗战争：约400艘船仍滞留波斯湾"},
+        {"source": "Berliner Zeitung", "original": "Straße von Hormus: USA schleusen verdeckt Öl an Iran vorbei – Bericht - Berliner Zeitung", "zh": "柏林日报：据报美国隐蔽绕过伊朗输送石油"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "以石油市场为轴心，把『封锁』的主语写成美国，突出油价与伊朗出口瘫痪，未上头版",
+      "unique": "独家角度：美国封锁对伊朗对华石油供应的影响（『Ofertas de petróleo do Irã à China caem』）、伊朗-卡塔尔谈判、被滞留近100天的船员人道故事",
+      "headlines": [
+        {"source": "Valor Econômico", "original": "Bloqueio naval dos EUA paralisa grandes exportações de petróleo do Irã - Valor Econômico", "zh": "Valor：美国海上封锁令伊朗石油大出口瘫痪"},
+        {"source": "cnnbrasil.com.br", "original": "Ofertas de petróleo do Irã à China caem enquanto bloqueio dos EUA aumenta - cnnbrasil.com.br", "zh": "CNN巴西：美国封锁加剧之际，伊朗对华石油供应下降"},
+        {"source": "O GLOBO", "original": "Novo ataque a navio no Estreito de Ormuz eleva preço do petróleo ao maior nível desde julho - O GLOBO", "zh": "环球报：霍尔木兹海峡船只再遭袭，油价升至七月以来最高"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "事件被降格处理、未上头版；报道强调伊朗-阿曼路线协议即将签署与伊朗影响力受美国压力侵蚀",
+      "unique": "独家强调『协议已谈妥、即将签署』的幕后进展叙事；另有俄语源出现与所有其他国家不符的『2026年9月海峡完全关闭』表述，需警惕时间戳可靠性",
+      "headlines": [
+        {"source": "Интерфакс", "original": "Иран и Оман в ближайшие дни подпишут согласованные маршруты прохода через Ормуз - Интерфакс", "zh": "国际文传电讯社：伊朗与阿曼近日将签署商定的霍尔木兹通行路线"},
+        {"source": "URA.RU", "original": "Иран объявил о полном закрытии Ормузского пролива: судоходство недоступно в сентябре 2026 года - URA.RU", "zh": "URA.RU：伊朗宣布霍尔木兹海峡全面关闭：2026年9月航运不可用"},
+        {"source": "Вестник Кавказа", "original": "Что происходит в Ормузском проливе: США против Ирана, удары по танкерам и нефть - Вестник Кавказа", "zh": "高加索导报：霍尔木兹海峡发生了什么：美对伊、油轮遇袭与石油"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "伊朗与阿曼谈判临近达成+将宣布禁区并行的双线叙事，并突出伊朗对美威慑，上头版",
+      "unique": "《Euronews العربية》独家披露雷扎伊口中的『地狱般』导弹威慑；《اليوم السابع》头版把该新闻与五角大楼调查轰炸伊朗婚礼并列，呈现美伊双向问责框架",
+      "headlines": [
+        {"source": "BBC", "original": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق - BBC", "zh": "BBC阿语：伊朗宣布与阿曼就霍尔木兹船只路线『协议临近』，并计划在海峡附近宣布『禁区』"},
+        {"source": "Euronews.com", "original": "إيران تكشف أوراقاً جديدة في الخليج.. منطقة بحرية محظورة وصاروخ \"بمثابة جحيم\" لأميركا - Euronews.com", "zh": "Euronews阿语：伊朗在海湾亮出新牌——海上禁区与对美国『地狱般』的导弹"},
+        {"source": "Reuters", "original": "وسائل إعلام رسمية عن رضائي: إيران ستعلن منطقة محظورة خارج هرمز في الأيام المقبلة - Reuters", "zh": "路透阿语：官方媒体引述雷扎伊：伊朗将在未来几天宣布霍尔木兹外禁区"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "以通稿报道禁区宣布本身，强调美伊各执一词与通航量下降，未上头版",
+      "unique": "chinanews 独家点出『美伊对霍尔木兹海峡通行情况说法不一』的信息不对称；《华尔街日报》中文网标题直接下判断『留给伊朗的时间不多了』",
+      "headlines": [
+        {"source": "新华网", "original": "伊朗称将在霍尔木兹海峡之外设立禁区 - 新华网", "zh": ""},
+        {"source": "chinanews.com.cn", "original": "伊朗称将设立新禁航区 美伊对霍尔木兹海峡通行情况说法不一 - chinanews.com.cn", "zh": ""},
+        {"source": "VOV World", "original": "德黑兰继续封锁霍尔木兹海峡 美国称拦截92艘与伊朗有关的船只 - VOV World", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "各国数据来自不同的 Google News 搜索词，检索词差异本身会塑造结果（如法国搜『navigation』自然偏向走廊谈判、巴西搜『petróleo』偏向油价），且无伊朗本地版数据，无法覆盖当事国自身的媒体视角。"
+}

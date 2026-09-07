@@ -1,0 +1,17 @@
+{
+  "event": "伊朗宣布将在霍尔木兹海峡附近设立新限制区，美国与伊朗在 Gulf 的油轮冲突升级，引发全球油价与航运担忧",
+  "event_title": "美伊霍尔木兹海峡危机",
+  "why": "该事件被美、印、日、德、巴、俄、埃、中等8个国家共同报道，且各方立场差异极大：西方聚焦航运安全与油价、俄伊淡化冲突、埃及强调油轮战、中国关注能源贸易，视角分歧显著。",
+  "queries": {
+    "US": "Iran Gulf restricted zone",
+    "UK": "Iran Hormuz shipping threat",
+    "India": "Iran Strait of Hormuz restriction",
+    "Japan": "イラン ホルムズ海峡 制限区域",
+    "France": "Iran détroit d'Ormuz navigation",
+    "Germany": "Iran Straße von Hormus Schiffsverkehr",
+    "Brazil": "Irã Ormuz zona bloqueio petróleo",
+    "Russia": "Иран Ормузский пролив маршруты",
+    "Egypt": "إيران هرمز منطقة محظورة",
+    "China": "伊朗 霍尔木兹海峡 封锁"
+  }
+}

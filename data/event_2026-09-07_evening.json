@@ -1,0 +1,776 @@
+{
+  "event": "伊朗宣布将在霍尔木兹海峡附近设立新限制区，美国与伊朗在 Gulf 的油轮冲突升级，引发全球油价与航运担忧",
+  "event_title": "美伊霍尔木兹海峡危机",
+  "countries": {
+    "US": {
+      "query": "Iran Gulf restricted zone",
+      "items": [
+        {
+          "title": "Iran says to announce new restricted zone in the Gulf in the coming days - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:57:00 GMT"
+        },
+        {
+          "title": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS",
+          "source": "PBS",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:48:51 GMT"
+        },
+        {
+          "title": "Iran plans an 'exclusion zone' that runs from the U.S. blockade, through Hormuz, and into the Gulf - fortune.com",
+          "source": "fortune.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUdKM0VneVlGYVdpbTJhMTltU3RTRUZHZ1o5Nmh5N0lVWTc1cDZvbFZpeUhSblQyTDdhelh3aGNiZkpyZDd3UkZELTNpMVJBbGt6LUtYdTNwM0ZQV0N6VS1wU2pvMVQxREV2Znk5VlhPczU3NTVyZm04UGRpcmM2Yi12VHUwNmNIRGtkLWhVUWNsWGk2d2hjYXJjSHFqTVE3Snl2c052Zw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:18:00 GMT"
+        },
+        {
+          "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+          "source": "The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxb0MwemZUTkFhWHJtaGJEdHlQNUpBYkZ4MEMyZ0M0WElqa2drQ3VOSFFvS2hkc3l2dE51LURHOUt3bVB1UHZnTzF3TnlhNE80LVVTcmVZWXhTX1QwVWRfeDRvOHJKN3pBUEZVblN3dnhZbmJJdHUtRjF0UzBVV2M?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:00:05 GMT"
+        },
+        {
+          "title": "Video: Iran to announce new restricted zone in the Gulf: state media - livetube.tv",
+          "source": "livetube.tv",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkhzSENyQlk2OFlmajhNWVF0Z2NXTlJ3OGJIS0k0ZkhKdzZiZWRrM1JKM2dsaG8zT1IxTDRscFJhdGhWd2N4dWJjUWEtejlHQ19VTlgzRVhuVk5mQ0xKZ3ZNOS1YaEN5enA1cHAteEhNaFN2MGVKYUpZTEowY1gwd05DV3c3TkszLTNuQVNsdmNVU2xmc2h0LU0wRQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:37:38 GMT"
+        },
+        {
+          "title": "Iran to announce new restricted zone in the Gulf: state media - marketscreener.com",
+          "source": "marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVJzZkZrSl9DdHg0UFpRTUpDaXlxTWVtRWdFS1VoaVptYVdFUGRvanVDSGJtdGJDY0wzMkd5bndyVjlSdGpHNVpkOUQtTWN5bDlUdjZqYlRGTjhvRGk4M096V1RVaTdsVHdSQ3dWQk0wbjRVSWdoWlpMQ2tPRmw3SjFnQmc2TkdvSkx5SzZEa3dwY2xBUHYydjY2RnRlM21XbGFPWkVQX0lPTUhxRTl4WjFOdw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 04:14:21 GMT"
+        },
+        {
+          "title": "Mohsen Rezaei Says Iran Will Announce Restricted Zone Outside Strait of Hormuz: 24 outlets compared - NewsCord",
+          "source": "NewsCord",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2ZWRDY4WUtleDd5bkdxX09POWt5ZWVYbkl6eE84aEkySUtMVjlZUFlNcEFaQnBCZXlLRThMZlhFSnhDX1BDdkxxcjJWZl9CNjZlVUxuYnBtU1EwdlFYeW0zTFFBM0ZHalR5ZDlPNElhYVhIOHZjQ3RYWHNJaWIwVXgtVjlGVkdmMGhCMTRPOXhyMHBaQUpiUzhiRjY5UVRiNTMtMDV2bFU2aG9qTVJQV2MtdWVOeHAyZzEyaEltNS1jS2M5VkQ4bVprTDdGdkp6bExlRmpMUHVFc3RreTZiWmRCYXFMblk?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:23:35 GMT"
+        },
+        {
+          "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVhYUWlRd2ZCd19mLXFDanA2VnBxcnQ3NUtiZEpOWG1nQTdNZHlmMjA4RzNPSHFqdWxrMnNTaEhlc1dOZTdIcEZWOWdlZ0plLUJUcnNoM0dqZ1lmOFA5QldXZ0xrOVYzVFFWUnZ3TDhmaDRtWS0xUExNZVJKNHUxb0xCZzdRQm5HenJrZnpwTTNPT1Z6d1AtalFSS2RlcC1DWWdmRmh1T2c4RFFreEV3eE9KalJ4OXlsWVJ3RnJWTHFDUHpuUGxmUzgwWQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:38:16 GMT"
+        },
+        {
+          "title": "Iran's Rezaei says restricted zone to be announced around Strait of Hormuz - The Express Tribune",
+          "source": "The Express Tribune",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDlBR18wTDVzOUtuRklYQVJWRzhNVHlITkxGa3VIdTl2enB2OUV0ajM1c3BzLVgtbFI4YlRfZ2dJc1ZWbVRKYXRZSlV5RFlXb2xDaEpSeW0wMWZIS1ZXcWg0ODRRN1pvb25CZVM4SlpvZzQ3RnAyX2tIcW5MLTlzZmd6Yk1CRVFlbnRhUUhKTkllWXo1RlNWc2s3anI3eHRoOGMtdXUtSWJid3h6VW9B?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:37:31 GMT"
+        },
+        {
+          "title": "Iran Plans New Gulf Zone as Hormuz Tensions Push Oil Prices Higher - Modern Diplomacy",
+          "source": "Modern Diplomacy",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTJtZ0hpaktSSTcwM1ZwcV94WFpyblFpOHJiaTVNTzRoNWJmSjR3TkUySUFlUnlrbjM0bUJINzVQWlVDdG1Oalplc0pZZjJPSVZQMURodE1qM3B4NWdtVm83cFhkUlNuNGJPNHEzYnNEeXdYOHFBZEg5ckFUb1VwdnZHX0djVHY0ejV1VW1JSk1GYV94dkkzMVM5Vkp5RDhXVmNLM3k0dnE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:17:26 GMT"
+        },
+        {
+          "title": "Iran plans new Hormuz corridor as shipping plunges and Gulf allies question US protection - Ynetnews",
+          "source": "Ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZM3RrdlBOd3Z1YUdaVU45TVBKOHYwazJZVTlHREpHU244eDVybmhKX2dZdjdNZ3FvbHNxRV83cU9rdHprQVRzLTlEWkVaRjUydXlDQlZ6SQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:37:45 GMT"
+        },
+        {
+          "title": "Iran to announce new restricted zone in the Gulf: state media - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJMZGNGWF9ZRzYwLXNCM2YwWllpZ2ZRbHZ0TU5LWHcwUUE3RnI2YzJLZlFNNUZPNFVnUnZFQlFlSUJ5YWJESUdqRC1BMWpqWTNBUzdYaGNPYmdrV3Bvd0hlUUJ5X3pDVHBMYzhfaTR6QlZWZXpXeU94dUxlb3N1bUEyMndIVkIyUzJiY04yMm5YeW5Penc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 03:43:28 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "Iran Hormuz shipping threat",
+      "items": [
+        {
+          "title": "In Hormuz, Iran only needs to keep ships guessing - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ieUkwVDJIczJQTHhxNnlZVXhVRlRjQW83VDY4eTg5YjR2bEtsUHRab0FWRFFoWVhhRVlZTXIxemJ1R3FYZXM1a1JoTmlpLVpXeWc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 06:19:38 GMT"
+        },
+        {
+          "title": "Iran levels new threat in Strait of Hormuz - Boston Herald",
+          "source": "Boston Herald",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUtuakhzZmtiM2xQUVgtMklXTHVQaGZCT0RiSlJiaFJJd1RSU0JDMVQtR0RFenh0MDJpQ3BaYWcxU0JfUTRqdzVoSk0ycDlRcjFTa212SWdrR2dHaXJZVGFLd0hqTzhNLWJrZFQwSlhOTVpnanBIU19Sdll0WWFzTjliaGtBbzRDbzBJ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:21:02 GMT"
+        },
+        {
+          "title": "Iran to declare Hormuz restricted zone, warns of 'more painful' attack response - investingLive",
+          "source": "investingLive",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkZwMUZveUpWd3JWM1phZ1RNOVFnQTcwRUFhSEo3T3dUVFlnSERudFFqMF91YkhVeXZzWU9lbWd4MEhkQjhpeE1nYndxRUZYdzdCSW1aNHYySkJGZWYxVTlSam84SkdyVDFKQmcwbXFZSnVlYmdteWJoaDFOSXdUWHk5OG5JQ3N0NTdrbEMwRVFTNnVDb1RHSHhwQUtaTlVKRFRBQUl4d3ZLT2k4eFBvN096SkVjdw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:23:47 GMT"
+        },
+        {
+          "title": "The embarrassing map published by Trump and Tehran's new Hormuz threat - Ynetnews",
+          "source": "Ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wcXMwYlJMaHl6c1dSaXcxSzdTZTdhRXFKbVQwdHFDY1dtRGx1Z1VyQy03Q1M2YTlsanBlWW9zRFhkaDhoNjJic21zY2FPT3BLT1h6TzhB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:51:25 GMT"
+        },
+        {
+          "title": "Oil Prices Rise as US-Iran Ship Attacks Threaten Hormuz Supply - Межа. Новини України.",
+          "source": "Межа. Новини України.",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNUlhTWU45R1o1N2JTUC11Q1lFeWc0em1QRWJzbE5ucVk1Q0NwRmd4OHFmZGREbjVHSFF4ZDRtZE1qZDFSOFhVOXFjWkhsZlQ3NUFIR0FlM1VlUi1kOWVHcmhn?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:33:15 GMT"
+        },
+        {
+          "title": "Iran threatens 46 ships in Strait of Hormuz transit crackdown - Financial Times",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakEwa2dpWkhOOUNySkhjblVGd2VqSlliSFVHMG1HN09JaG5PSTJUQXk1UU13U0MyOEgxbk9wckZxNzBYMl9rOTNpN3BtR2JPM3ZzNll5MHpFaVZMTjRoaHVYM3ZfMlRwOUFaUDl2TWl5UVlsYnRKdmJTc1pxc0pBY0w4blM?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran to Declare Restricted Zone Beyond Strait of Hormuz, Threatening Ship Sanctions - Sahi",
+          "source": "Sahi",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMU91aGZEdU1JMFdtY1RzUHpUOGc0NUlvMTlfU2tuTVYyZG1mVEw5TEpBLVVzZkFzMW5MbFlodW1wMUdtUzBmUXNWM2pVSG8yLW1UUVVYOGstSzBCUzExMi1hczcxbVhPRlk0Q3pBbGQxV1UwdzRSbWdfT0R6Wm5RcWxKMnlNVjJMZnJETVMtWUIyMVZONm9wdVBzQ2V1cTdKcDhpSGpSQmZRV1A1Vmp4QmJPWXBMYUd5Q2pHdWpR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:56:23 GMT"
+        },
+        {
+          "title": "Two More Oil Tankers Are Attacked in the Strait of Hormuz - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFZkN6WmpBSk00S0NlbjVzeXlJR3h0aG04a0RoWGpqNDl6bU9TaWtuQmpfeHlXTzcyWVNMdlROLVZhX2Z5TjRGR3pRVmZvS2V1UkdoOFQ5M3UxdHdMREJBNmZUOFMxZ3owdGNvR1NPTklwVzNaRFVFTzRrT0NRQlk?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 17:37:12 GMT"
+        },
+        {
+          "title": "US-Iran ship attacks open dangerous new phase in battle for Strait of Hormuz - Gulf News",
+          "source": "Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFQ3WXJQdFl0UF9XTVU5dUktTUVWNXpUUTJjQm12ZFphWjdsRkhta1N4djViQVJDbGtmXzYwakJteGNqY2hTRkR0ZzUzc1RhTURPM2FiSjgwWmp6akVyNVp6MUtNNlA2T0xzZGlmYXZhWWdldWY2RTBKV2tidkxmRDMwS2hkSnZjRHdlcXVyck1YVFdMY29zcXRLX0ZYdk84cnRPSXFCSkIzYjVMWnNDTzZqTjFOcS02UXB5NDJDcEM2ZWxZX0NNYlB6M0tGbDRIaS1B?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 01:01:00 GMT"
+        },
+        {
+          "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjUwUGpOMFFlalYxaTlwbnhqbVdOZzh3RDAwWjVaX1FuUEZmMS1tN0tsa1h2MGxLQ19PSkJ4SE9EUE5Ga2J3UWFnTWNCbF80SmRyS3h0SHVKRDh2MlYwUjd2cGtTUHhUeXVoYzBsV0F1Y2FqdXJuQTl5dWVkaGlEa2wtLTB3ZUk2dExwZmhScUJ5MTRvWVF5eHBiRzFtbl9KUTBF0gGoAUFVX3lxTFBRTGtWUGhNNDUxdDhxRWlBSEtfVC1YelBjbGw0S2R3dWI1ekJGUHgxUHJIOXhvOTVZSFBld0p2czZWUnZLcVNkZHROQUpoSFNFYWlUN0Q4ekN5SGwxanIzU3lkWXd1YnN0S2NDZHI1Sk1GZkQtWVh6bGhlNUhlWnA1MnZoNTFxVWF0NmZaNThQd1B1MGtVeVV2cHBGdFF0ODVRSG12dGtxMA?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 16:54:16 GMT"
+        },
+        {
+          "title": "Are ships passing Hormuz more willing to defy Iran or US? What data shows - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOancwTUdheHB0dzJWSHhyNm91UkVsYzBlc1AwSzYyR2xvNVktOE9zZU95aHV0SExDOU9leFJhdzFGVm9QZHpYeGd5alV2eE9PS3cxZUdFbDNpLVhLV1pDeGxKNUdaa01sbVpacFJnMXp1aWoxQVQ1S3NoTDZiLTBsTE1HTXdZZjUtaC1veXB3Vk04ZUpfZnQ2b1VacF9IX25rVHNqazhUX2ExVUxZcnfSAbMBQVVfeXFMT0N1Y2lxb3E3OGdWQzJuZFJNWVNoQXRZOU9JNi1rMzJ1TWhRU0ZlM2NSV3pGMHhNcVdySTNxUmI1b1JmbjN1YV9ReW1xanJiMHMzOFA3NUZTZm91bktrYWoxZXgtcWVoQ0FrZlFONEo4aVk2T0pnc1JSUnNEVGdkRHdNV3FnaHZfZ2plbmR3SjBuWm14QnkzT1ZyQzhab2NJVy0wWXB2bmE0U2lkR2lCZkhjZ0E?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jOUFCMjg1c0xRdGhQS1BBdzczQTF5Y2oyaThSN0JLblRpZFRwOW9SQU43bmxaY3FsZE85bGRJbDBBNUVDSzEtdEFVV1RoR1pCMWlGMmc5STN1SHBCbHBMbXk3b3hYdHRNbnFZQ21n0gFzQVVfeXFMTVM2NDQ2amJfcHlFN0tDTGFNODhiMldlYVRzdnFOMklqajVfekp1eVNxOUoxWFN5ZGxXczJZc0tGb1VhRkpzYWFRQXdkUEhLZjZkbERPYkZyZkswd01wQUg0aXBHRzVEcjVTX2FoYzJyaXNOMA?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "Iran Strait of Hormuz restriction",
+      "items": [
+        {
+          "title": "Iran says to announce new restricted zone in the Gulf in the coming days - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:57:00 GMT"
+        },
+        {
+          "title": "Iran to declare restricted zone outside Strait of Hormuz - News On AIR",
+          "source": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1F5ZzZDYmxnSVpGeTNpb3NOQ2xsb1FlMndHNGwzdVc4MFhTQUluWTQwdlk3TWRqTFNZM0hPb1l2OHIxaklhX19CMEY4aG5nMUZCSVIwZVlidDV3N2ZYemxTaFhBLXowLWw2WGhIdS01V1BweGo0T1pLeDA5X2NyeVBNXzgzbl9GMkE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:14:34 GMT"
+        },
+        {
+          "title": "Iran to declare ‘restricted’ maritime zone beyond Strait of Hormuz: Top security official - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVhYUWlRd2ZCd19mLXFDanA2VnBxcnQ3NUtiZEpOWG1nQTdNZHlmMjA4RzNPSHFqdWxrMnNTaEhlc1dOZTdIcEZWOWdlZ0plLUJUcnNoM0dqZ1lmOFA5QldXZ0xrOVYzVFFWUnZ3TDhmaDRtWS0xUExNZVJKNHUxb0xCZzdRQm5HenJrZnpwTTNPT1Z6d1AtalFSS2RlcC1DWWdmRmh1T2c4RFFreEV3eE9KalJ4OXlsWVJ3RnJWTHFDUHpuUGxmUzgwWQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:38:16 GMT"
+        },
+        {
+          "title": "Iran to announce new restricted zone in the Gulf, top security official says - ET EnergyWorld",
+          "source": "ET EnergyWorld",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc1N0Z0VON3JSeklzMWpMOGJzUHhOM0h2MXBOeFNVUW9EM2Y3cGhzMDdSd2pzNVdhWUJwUmhydlUtS3Q2bzJzSHNuc2N3OXVDSjRnWk5nRDY4emk1NzVXeWFTRWFReXB3M2ZLMVBjaVJSd01QZGlVZXRJX0FucXVYZC1wNEtBcWFZbHdlbldrQ01MVmVsWHJ1Q3pOVjlRbGhsLW5QV0pQRkZselpKY3p1VV96QzA2RGFWNGtHX2xFVENOUmRmamJRZk80MXlqUDV2NG1id09kR2ZVeDhmZkhOUm90Mk3SAeQBQVVfeXFMT3NTdGdFTjdyUnpJczFqTDhic1B4TjNIdjFwTnhTVVFvRDNmN3BoczA3UndqczVXYVlCcFJocnZVLUt0Nm8yc0hzbnNjdzl1Q0o0Z1pOZ0Q2OHppNTc1V3lhU0VhUXlwdzNmSzFQY2lSUndNUGRpVWV0SV9BbnF1WGQtcDRLQXFhWWx3ZW5Xa0NNTFZlbFhydUN6TlY5UWxobC1uUFdKUEZGbHpaSmN6dVVfekMwNkRhVjRrR19sRVRDTlJkZmpiUWZPNDF5alA1djRtYndPZEdmVXg4ZmZITlJvdDJN?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:55:09 GMT"
+        },
+        {
+          "title": "Iran to announce restricted zone outside Strait of Hormuz, says Mohsen Rezaei - nationalheraldindia.com",
+          "source": "nationalheraldindia.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1J3Y3l6YXNlVml3RGlPR0dzeVBnOHBONUdCMmZ5djJwbXdfMmI2N0l1T0NaYzZwbDVxb0hNX3JhWXJpTWRaN0ZGSWt3aVBqY1VQb0xlMExNNzdSaE5ZaGhPSTJUTWlVM3RTTEVpQXo1WFhrREoyM0FNSkVlQWlCMEZGV3NyZ3JGUXh1RlhRbUU3WXJENnNNelVwZzBvRDFNRUM5YldDS29IU1VpaVhvR1NMZ2VfZ0J0bFVlMWpFSnc5UVNnSkVvcTRGWXU3WnlUMkHSAdIBQVVfeXFMUFdSd2N5emFzZVZpd0RpT0dHc3lQZzhwTjVHQjJmeXYycG13XzJiNjdJdU9DWmM2cGw1cW9ITV9yYVlyaU1kWjdGRklrd2lQamNVUG9MZTBMTTc3UmhOWWhoT0kyVE1pVTN0U0xFaUF6NVhYa0RKMjNBTUpFZUFpQjBGRldzcmdyRlF4dUZYUW1FN1lyRDZzTXpVcGcwb0QxTUVDOWJXQ0tvSFNVaWlYb0dTTGdlX2dCdGxVZTFqRUp3OVFTZ0pFb3E0Rll1N1p5VDJB?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 03:31:25 GMT"
+        },
+        {
+          "title": "Iran plans restricted zone near Hormuz, says strait will open if US stops threats - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFM2dVYtNVpqT3lDV1JxaF9IYl8zZTliLWd2aWJDc1ZydXlBLXRwdXNIZmozVkxuT05zbjVmV3N6a2VOVExIRzlxbmUxTWlQWC1jazhvdnJOU2ZTM3JDZWJsS3FHODRqWmNtTnpETjZ4S1FmUV9MamF2dzIyMHEtUnVNZ0JhMU5nakxlWC1QVWtWbWRtZndtNTdLUWVSbGEwWmFrQVgtZG1WV3F6SkdNOWZ2NlpwU05pRUtUMnhOeGcyb1NncFExVmdIYk52b2tOcTlF0gHYAUFVX3lxTE5RU3pzMU9XWlVteUVHdmdrTEpMMWp0bEJGUmx6VHZ2TEtCc2tGeU1yVmZiT1NpbV9fdG5CdER5aU1mckNqY0NqbmNzcDJpNXV1NVdqZmprNmZJZzJ3UldEWFdKaWpUSFpjUExjSEV0ZXF0Z3VXbGRDWXItUUhiZG5wdVVkclJkbVZSRDFVNnlkanJmN3dONFpxRTh4am44RUVzV1NvakoyMnJnNFNtYlpUVHdzVTQwamx0Z1VtRnY5MzRySm96WWcwdEowVENmZ1kzY2V0NF9xQg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:49:19 GMT"
+        },
+        {
+          "title": "Iran to announce 'restricted zone' outside Strait of Hormuz - news.cgtn.com",
+          "source": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWEwc2ZrYy1lNEM4bUZwVmRjYWlxaUhuN3VRaTVwWTdJa2l4T1hFVFZnX2tVRGp4TjREZ2pYNU5kdXNHREpnWDZDYzdMc3hBRzQ5a2FsM2c1bTQ5Y3ByZmNNSDFvVFdlQ0ltSWNFR0c0T2d2RzRHV2JjUTJVSTN3WEl5Q2JzMFhJdGw1RExFSXhQWGhmTU5HcmFPemNvQ0I3OGJ3eUxaY0w1MnFUTGpGdTh2RTE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 03:08:19 GMT"
+        },
+        {
+          "title": "Iran to Declare Restricted Zone Beyond Strait of Hormuz, Threatening Ship Sanctions - sahi.com",
+          "source": "sahi.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMU91aGZEdU1JMFdtY1RzUHpUOGc0NUlvMTlfU2tuTVYyZG1mVEw5TEpBLVVzZkFzMW5MbFlodW1wMUdtUzBmUXNWM2pVSG8yLW1UUVVYOGstSzBCUzExMi1hczcxbVhPRlk0Q3pBbGQxV1UwdzRSbWdfT0R6Wm5RcWxKMnlNVjJMZnJETVMtWUIyMVZONm9wdVBzQ2V1cTdKcDhpSGpSQmZRV1A1Vmp4QmJPWXBMYUd5Q2pHdWpR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:56:23 GMT"
+        },
+        {
+          "title": "Iran plans new restricted zone and shipping route near Hormuz - Free Press Kashmir",
+          "source": "Free Press Kashmir",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcElHTUY5ZFJZa0JnWFU5OWpvOUxwOUMtX3dBNTI5VkVvZXk5STRPeXRzRUZST2ZsZVhMakh2SGg4QW9MXzBnSFNFQkxDbjBmVDE4YTF2NVN6T0VNbEhYcm8tekk3RnZ0Y3JUR29tV3BOUEJVMFhHR1hmcm01UkhHbTdESkRYVFpiRjhtTmQwR1IxZl9BLUdfNU1MU3BEd2g1akxlaUFB0gGrAUFVX3lxTFAxYzA2dy04QlRYcS02YTFORmNyUEk0OWJuOVhnZkR2R2hwNUlBUGpuSXZjQ2xDOXFSbWNJWWUyZVY3MThDRU9lcUttd3gtWFI1Y1AwVlp0My1CY0VBc3pmdnVhQjE0X3VOVFEyQ2kxV0NVTnJDcmxKZDNpR29pZzJZMmZSd0JCb2ZQT2RCLWNjRThOUzZ6V3NPV0N5Z2o3dWxhNEdTQW00bDVVNA?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:52:30 GMT"
+        },
+        {
+          "title": "Iran plans new zone beyond Strait of Hormuz, ties future passage to end of US threats and attacks - The Statesman",
+          "source": "The Statesman",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSEY0VzJUQ1I0emp2OUhnTDRXWjFLWDBiemQwcVJUSkV1N0dxNUQtb1o2azAtaVlCYmZsdGNlNHp3SWliSXBSempTcEl6aE1YYVBUTFFJOXdaWXhtY1RFTU5VVkFCcHNWSG9sVVVUb2pROVFiTEVONUw5U0xrQ0k0cjljeFJEc3BnLW96WWhETDllajVrcjBlMVN3WXVCZmJjeWhBbXNXLWhWUHlWNWdOY0VDOGl5aHJzOFYwY2RJeHZaNTNuS1N0WmxnZUI5aEs1aTBaWGhxd2ZtRDNfdmxPOdIB5gFBVV95cUxOaHdDVVR2dlFZM1JZOXBJcTJoT0wtejk3YXR1WUpMZm53bV9MbGxOMjM1NC0zWFpRTDhITTZnWkZGOFV5M0czTWYwam9Cc2lGYW01UUxPMHlObGRtVWdUZTZVeFBSdjZHUi1jbGhJRFdqUk9UdVowZ19tSmxrUE1fRE42cW9wbUNiZTJwaU5xTHNyaHZvdzBhc1d1T3JjR3dENUxwV0F3Y3d2WTN0SkQxLVcxU1RyZW1mSzJSNGNvYjFpTGJrVFVCbUhKV3dEMzBiX252UXZydjJBa0RQVk5ORi1SOF9oZw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 03:19:00 GMT"
+        },
+        {
+          "title": "Hormuz will open when US neither threatens nor attacks Tehran: Iran's security chief - ANI News",
+          "source": "ANI News",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdjJnNk5FTG12ZTVHek16T0Zmem9vdzREN3BaSTk1b0RCem5nVkMybkJsNnVTeTg0XzR0elJhcnI3Q1pnQ05ORlp0a1JnVkFFb3lIOUtsVjhvNkhzWUJESHNBdFZkNlgwU18zMVEzTDl5cXlFVWhFRkNnVHhnRjVQOV9VYVZFX19nVk0zVVFZWHk3T2tmTEJHRW1LazV2R1lPdFZTVFBnLXJ2aElQWE5uN2E1ZFNFZzZoQTR4bVNLTkNYUlJqSjM2dVBrUXlONWFwMkowSFN4M29NQQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 00:26:00 GMT"
+        },
+        {
+          "title": "Oil extends gains after US and Iran exchange attacks on ships - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 00:15:00 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "イラン ホルムズ海峡 制限区域",
+      "items": [
+        {
+          "title": "イランがホルムズ海峡の外側に「制限区域」計画 米国の反発は必至 - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43Z3BMTXd1dWtZQTRwTUNXakJ3b0l2dGlnOEZ5VXQybmNUMFJubmNGUjZDd2xDYkxSMmMyRFRTVkxVNGJ3QVBhdkNteWFSemM5WGxHT2NuZVZLTEJBUGlrTW40NlFvSFU?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:58:43 GMT"
+        },
+        {
+          "title": "イラン「痛み伴う」報復警告、ホルムズ海峡外側に制限区域設定へ - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaUlFOcnNLb2ZiUlNTeWlRelpKOEZuOUJnOVZ6UU9GTFpkSTJRdDYxRjFEZWxkNHhKNlEtbEh1d2tfZDE0UHhvN3MxMElWMVZxZzhWUkhuV3ZSRFJoSnBUWVlEaTZJVVFVcGd1R251MU1BRWZicUNwUU93?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:48:13 GMT"
+        },
+        {
+          "title": "イラン、ホルムズ海峡付近に「制限区域」 近く発表か - 日本経済新聞",
+          "source": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bd2NJYjI3X3kzWXcwdFBuMG9KX01ESkFYOXRHaFRBTkIzN2g2Q25Yb2pSQ1BIeGRlZGdyQTJpNXotLTZzT0JGWUllSmZZbGdTZmNfc1FlMHR4dGxHUUdjWVI2X190a2poek9qNg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:42:25 GMT"
+        },
+        {
+          "title": "イランはホルムズ海峡の外側に制限区域を設定した。 - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUtyX19xRmJvdUg1cHp0YTM1UzNZcUFoTnJWcmNjeEFHcXFQaFdGbmVBNTUzZGNra3FtUTF2VTY4QmVpczFNX3RiYVVHUU5YZ0k5dXBRMGhUajdhSWcwa2ItOVJ5YkRCdlhWakpCbFU1RG5nZEFiS0tXRTFxRjlLbUtTNA?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 04:50:39 GMT"
+        },
+        {
+          "title": "イラン「痛み伴う」報復警告、ホルムズ海峡外側に制限区域設定へ (ロイター) - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSzFNLTUwMVFlUzZyOVFydEhTWFFidzBSWmNjbUs3c1BnMzZoSzduR2NZVWxodXZPeFZpZFlLT1gyTEVKX0NnUXBTMWtPM3J4cFlwb1BVX05WZFFGNUlTV3cwa3hjMFBnN1FmU1dEV21rall6TnVXRWM1cHhMMlk1MEZXWllNeEE1eG9tWm13?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:41:47 GMT"
+        },
+        {
+          "title": "原油上昇、米軍がイランのタンカー攻撃－ホルムズ海峡巡る緊張激化 - TBS NEWS DIG",
+          "source": "TBS NEWS DIG",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02QWRSMHdxTWo2SHM1STVvYWl0Q2JlZ1lfX0tjamZPVmUzM2h3UnhEM0pMVGs5QzRUSXQ4dGJrMmt5QVFEdzFVMnhOdjFoYnpRUU1BQktXRVQ1bFRGUnVCc3dyTVkybms?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:47:00 GMT"
+        },
+        {
+          "title": "イランと米国、ホルムズ海峡でタンカー攻撃の応酬－戦争終結見通せず - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrNFJ2UVFqM04zUUhsSHY4TElRUFFNVHpnOHFGdWg3RE1hYVFuYUp3WWJSeHI2QldyOEplNzJTeWJIU0FlVDJUY0ZldmJvQWRCaGVIOGFmOUh0YU51U19iUHBIUlRlbU5VUFVMcXYybEw5OEZWOTNB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 12:49:14 GMT"
+        },
+        {
+          "title": "イラン「痛み伴う」報復警告、ホルムズ海峡外側に制限区域設定へ - ニューズウィーク日本版",
+          "source": "ニューズウィーク日本版",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWTVEQ2VHcFoxWWJrMzZJNklfVk9WLUNEYW15bTBDVHNpdkpiRy1EdGMxeGdWU282bHhHYm5wSzRsNURYdENpUkRxNXZRX0tvSUIwMF9sTlJ6Zw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:47:00 GMT"
+        },
+        {
+          "title": "ホルムズ付近に「制限区域」＝近く発表とイラン - 時事通信ニュース",
+          "source": "時事通信ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15MGRXdXFPU3g0a3NTeVBpcF9LQnVBa0JBbjJ6MzdiVE5XdWdlbXBnN0I3OTBhMGVRQmZuclU3bFU4X3FBSmc4RzY2WDlJdTJyME9rMA?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:45:00 GMT"
+        },
+        {
+          "title": "米イラン攻撃応酬続く イランは数日中に新たな「制限区域」宣言へ - みんかぶ FX/為替",
+          "source": "みんかぶ FX/為替",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WbWxVdGhfZGRfV1l1aHJOczRGaGRPQ3Y2YnJ4VHdCSjlFZFg0YVVYanJuZ1loekhpMkRIVmJoQW5Ka2pmUUljMQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:55:32 GMT"
+        },
+        {
+          "title": "イラン「痛み伴う」報復警告、ホルムズ海峡外側に制限区域設定へ - ｄメニューニュース",
+          "source": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWdjdlRHdUdMUmJGSzhZcF9tek1OTFhIT3FNVkQ5ZUVCZnRKLV9qbTEyWkNCUHlzUEdHcUNSYXVPWkFUMEhoZDcyLWs2M2pLXzR6Zm9uZ0pnQ3hFc0syLS1qb2dON3o2REhISnRsdXhlV3pMcTdBQUVzY0hYcEN3S2N0dXh2ZzlLMnJrcV85VXhYNGthX2VZSkJtUmxTVFJ2VThMclNsR3g3SzFBUDMxUEQyTE5Tbmo2R1MwY3lqd2hXMk11SjE5bEoyeTRIcGp2a2Vv0gGDAUFVX3lxTE5Eak5mOWg2NE9VWm1CU3hUU1ZLZ0dmUWFlQTJfWkl3eFZOWWFqUDB1VFR2WjhseEZQMkpEZUVBTlFTLTQwNlAzRDlweXhSejl0U2c3WDZQMXAwTkVvQXNjZEcwVXNTcmVaVjJ4Zi11NHVRRXB3dS16LWpab1pkTHI5QXZN?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:57:27 GMT"
+        },
+        {
+          "title": "イラン、米国が再攻撃なら「より痛烈な反撃」と警告 ホルムズ海峡外周に制限区域を設定へ - BigGo ファイナンス",
+          "source": "BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92TkdxODlQcEhTZVVETE9OU0JBOEVTRzlUYTBqeWlHYzg5WHpaZW1JdXdIWERoWUNhWDg5c1RhVmNnLTJpbmo5Mk5iSTAwNElYS0pyQy15OGsyTlkzbF9YWHNRdnFkRE44TUI1MXdJNE42NkZw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 00:35:00 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "Iran détroit d'Ormuz navigation",
+      "items": [
+        {
+          "title": "Détroit D'Ormuz : L’opération Secrète Des Navy SEALs Pour Sécuriser La Navigation - i24NEWS",
+          "source": "i24NEWS",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3pGTkNleUlEN3QtVkVWbjNrWTdqT2tjVi1kLTREYXU2bl9EWWJNcGU3Zk5RQzdMNFBHcXRzNk54d0ZmVG4xQ2N0bF9JZUcwT0lmdWN2dVliQU52MVcxWVlKdFdDX09ic2hFMlpIOWpNLWE2bzdYb0tkQ2t0YWdvWk1FNWtjdDJlV2NtR2Fsa2RGMUMtemY4N2lYdG9fMkZmejN0THY3QkJrNFVCeENfSlpXZWhtRlRxaDJvS0VHM3FEUE1rcmNaZnd5YzRJRE9sMVJXYXJHRGxtZw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:02:41 GMT"
+        },
+        {
+          "title": "Dans la nouvelle guerre des tankers, deux morts et un pétrolier de 300 000 tonnes qui gîte dans le détroit d’Ormuz - Ouest-France",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcmJidDE0djRPbllLVldMbkVQQ3RwWUFmOFRhb3cxZHY4c0lwZzB2OVBwdTB1cmdMcnpsVjNkeUJCQVMwYzFlNHlJTm5DS1ZocFJuZXVfc1N2RmNKbm5UeHlSMzltVF9MNldLbTVQeFhMT1d4MlF3MXdncXVuYnM4MllfMU41b3NIdkR0R3U0Q3BFR2ZSMmZ4NkZvc3c4akVTOUJueEZmYlVhdmxqeWUzYkNXTFBZR1JTalV4VEtaUFBjd2Y5S204a3ZpZTl0MlAtQ2dhejRmZ3VSSzYtdUd3N3NhS3JoU2VnbzVsQ19feHdVd1NYcU5kbzl0SW4zVmR4Sy1YRUtuLVdoY3BieEdLcGRfNnNNMGR0MFFEbXRleV94YTg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:02:40 GMT"
+        },
+        {
+          "title": "G20 Finance: un seul pays refuse l'accord sur la navigation dans le détroit d'Ormuz - La Libre.be",
+          "source": "La Libre.be",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeHZMOGJZWUdMRDRxa1ZOR2IyUXZqaEJFa2RlUTRsX212Uzlhb0F6VEZ5NzI2cXp4cVRFV2lkdV9xRTVZTTBMWDRIT3JuQzFmYlFjWng0d3Uwb3B3c1Y0bEJScGFhS1BVd2ExMDJ4dmUxazMyY0htbHpnNWwzemdVaWNhUmQxbG1NYVJvTzR4NEtGX3pCcEpaYm5CeXpraWFaVzFnQnFvWmFqaVNsUHh3RWx6R2pYRjBmUmJqNUtnczdTUUdzallfd3BsU0twWkN6dFBLRTg4QzdJUkctUVVqZkJ0VkwxSjlINHFrMmZtQWhuc0JYSnc?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 05:15:00 GMT"
+        },
+        {
+          "title": "Au G20 Finance, les ministres plaident pour la liberté de navigation dans le détroit d'Ormuz - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd3NpLV96ajRKcWRUZ0pldWFSY25HQ0JPajk1WVpWNWV6ZlFBaVo2MnBERndNQjJGLWkzNGFPemJxTnQ1RG4yMlR5T2kwUzNLVWs0SllwVS1fUHpZYm9jSzctZTN2UWdfYzhWWnFtSXZZYnVUNzh6LXF1UEE2d0FsOWg2SWJVMlBMMnBXNFpmeUJ3d3djNWgxaE9PNlNUQk5oUndxU3pYUlh4YmZjWl9lSW5yaExfV1ZMcC1xV19heTJhbmk2M2RxaFVmNm5RVXhldzJSSF9Vd2xEbnZNWTZYYkplak43UEZsWTRoWHR4VmRnMHFWa3dCVk5sMjVkQjd6b2ZUd2M3TVVGMjA?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 23:57:00 GMT"
+        },
+        {
+          "title": "Discussions entre Oman et l'Iran sur la gestion du détroit d'Ormuz: ce que l'on sait - Ici Beyrouth",
+          "source": "Ici Beyrouth",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZzcyeFBSaUpsSEJwM0V4OTZ5RGFINXRpNFpVQzVVdGFzU19yTDZXVVFRQTFHa2Jjc1NXeVp2Z1o1elBMTEdabzl4LWV6aDZvbm0wa080eVN2bWRGLXluRjRDSFVLUG5KQVZFS0x5U1ZhNmIxbzR4eWVJaXZMaUhJc3lMeThkOUNVeWc1OXlFRGZ1bDVTcVBTX2t3YV9taDJTTmZLbndjaExWTmM1WlA1SDlxRlQ1bWpJc0JFb2dNTTJVQQ?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 16:24:19 GMT"
+        },
+        {
+          "title": "Opinions de yosreia (@Square-Creator-112f6f502c8d) - Binance",
+          "source": "Binance",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSlFXcnNwVlZmdUtDWE1JVlZEcDFmb2xTa3FPU0x1dVRGUXNPYVFZM2g1V2V3WjlaaUlHV3NCV0x6M0wydi0yUnNRaHpuUzBVbE4xWTJhYUV2TnZjVzVQSDdKOWs?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 02:31:17 GMT"
+        },
+        {
+          "title": "Iran : Donald Trump annonce que le détroit d’Ormuz a été déminé - Le Parisien",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa2xPajBXcVZobDVadVhvcWxnMllXYzA5Ykh5Sm5Ka2hndEVyVE9KMi1kZ09kWWxiS3VBUGxFZmJVamUyNGw1Uko1cEV6cW1fcWxYV1Z6d0N4bVVDbTAwTEptX3ZVVjd2UUJPQ0JUeXpzYkFLNTRFMWVLSVo4Nkc1TXJ0Ti02aG5CaTVUeHc5OXJnV2pHdlY2TG5xbHVsS0s0QkRwdXF3a1pTZXQycVJWRXhobzMtaWxDeXRPczVHOXBOM3B0bDJPUVpzbTI0Q1pjem91VURPazMwak1COS1CYw?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Détroit d’Ormuz : Oman et l’Iran discutent d’un «couloir temporaire» de navigation, sans déblocage à court terme - Capital.fr",
+          "source": "Capital.fr",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcW5sZndDLTl4Y1B1SXpEcDZLaVcyb3VtejlVNEhDVmlLYnBNYi05SWJ1d1A4ZzFER3VmaUtacTlyX25tSzgtMmZ3MHVnMzhReldOUUhETHZrMWFPRGY4ZFlxWGRBZzQ1LUN2ZmVMbGVraGRuU0NKZll2Wi01Rkh4aGZqeG1leXFrQ1l5a3g4bWxlXzJkNE9jLUt1X0ppdTd4UDl5ZlpQZ3ZnWVFkYm84Q3FKZk9JR3l0cUhaZS10WkhtODY5YlBIazdJa1RmMlZweFZCV1dJcGhVTHl3eTMzZW5vQU5fNjNQeURR?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Oman et l'Iran discutent d'un \"couloir de navigation temporaire\" et d'un déminage du détroit d'Ormuz - franceinfo",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0NOR3ZRQ3JIN0RJcTZiVVh4REpNV1BlSlMxWGpjRWs5a3A2VEdpOHNnZXZzSTJZaHZlWDNuOG5JRU1ra2x5RkdFbzAxODIzT2NOMXVZekRPeGtpWHBRUTZjaXJYRDdDN1BTMG9PcGE3STRxay0xaW1neXdRMHdRWGpPOU9pQUVveVFldGpRSldJemtVLUtQMGdSVUZyRW5Pem15SkxZREJaZ0dWN0dUdU03YmFKbGlZaTV3dU9vWktuT0lmbU90dXVNUGFsRVBRWUhGdjNDNGZWbVhITHNUUkpR?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Donald Trump assure que le détroit d'Ormuz est ouvert à la navigation - BFM",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSnVOSnRRQWkxakFNekFYYkNlZEJCcV94N0hmWkR1a1FkUXNvdFdKeFRHZHY0NVczclB6Y3FwMk4zWU14Sks4T1JFelJyWmZjMlBpaWhzNmtoeHdjZjBpcmFQQWRvUVZKRHlOV2o1cHBnY3MxaWtPcDlPR2taa2QwS0tUNktNTms4Y1hjOTllMnZpcXZCT1U4MjVDWUlSOEttWnFSVmJ0LUpVYVktT2pvSVNPQWhBRC1WWjNJMkdlS3hqc3VIZkJDaGFpLVdpREllUGJhZDlEcUtrNmtEckFsLWkyaHNXWjluTG9abndn?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "L’Iran et Oman discutent de la création d’un couloir dans le détroit d’Ormuz - 20minutes.fr",
+          "source": "20minutes.fr",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHhOMGJrMm11cUpWYlAyX1d6LURRQUxYZGtvcDNMalQzMEJEcGVnOHVkVDNzS2RpRmNvZnNqM3ZEc3o4ekJOSUVFREpPWVBMODA5WmN6bGhyV01BX2g4bTdqbHhCaTR4dGtYb1g2TUdrUmJ4Z1lzVjNvaVllSWRKamNSRl9YQ1I1ZnRKOUFrMkw0S0tVdWtfUUZpY1lpaHNTNGl0MUV4NkE2TDlXUmNnWjQ5czdRRm5QLWw1R29mVHdvNU5p?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Détroit d’Ormuz : Oman et l’Iran négocient pour un «couloir de navigation temporaire» et un déminage - Le Figaro",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVFCc0Fla1BVZEhFQU9uRWx6X2xzMWJkMUlWZUo2MDRLcjFTaFJlVVJGNmRSV1lWN2QzeGFTS1VEamRYMnNtdFd3NXhUdFhJRUczMW1Gc0pVbjBKVzhEM2tlWTJfVVc1Vm45eHQ4b1MwX25qaU9mcG1iczlhb2ZLNkhOSTVuWUxteExEcGx0dHNxbkNUcmdzZGQ3VlYxZi1oblVKUkFHZlkzSmZ4ek1UVU1zbjl4WlVZZjk3WWlEQURfSXdfRVlPNFBMSmFubm9DU3JOTVMySzEwWWs?oc=5",
+          "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "Iran Straße von Hormus Schiffsverkehr",
+      "items": [
+        {
+          "title": "Straße von Hormus: Iran will nahe Straße von Hormus »Sperrzone« einrichten - DIE ZEIT",
+          "source": "DIE ZEIT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRWpUdHhPdWt0V1Y1RWtfWE4xWGFmbWlxNWNpVWNndFVJSTR2Y0VMRlNGM2FqTDhRQWtLTVdMZExDYXkxdWQ0MDBLLWd2MUxSdmpWWkpVelhHLVpUUlVyVFFUYzlHbFdjTVpOWk1CMTlGOGpzcEQxLTFXQ2ZDb3RxUDctNHBWcENDM2p6ZG9VbjdEd0NXbDNsVnNyOHhMR3FGZnZsY1VR?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:57:29 GMT"
+        },
+        {
+          "title": "Iran plant neue Sperrzone rund um Straße von Hormus - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2MzY1BacDJNdHZXSkI1aUR1NF8ybThzLVRnc05hd2QwbzRkajZzbzRhXzFKemFuRWRhc0l1R1FnT25xclNzR09tWDlHZ3J3OEJpZmUzMDVSdXZnMTA5UV9DbWd0SWFxWTF0R2RmbUNBLXVMTDUtUEdiY2xQbWFveWVKdG1Pc1FzSHEwVE00UEozQ2xMdUlGSWQzR0ZZaVJpM3Yw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:38:45 GMT"
+        },
+        {
+          "title": "„Jedes Schiff auf Sanktionsliste“ – Iran plant „Sperrzone“ um Straße von Hormus - WELT",
+          "source": "WELT",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZHFkclVIYXVvR1I5ZGp4UUw0QXBVTmxHTHVqWjQwMVM3ajlWM1RvNDJ5RnhUdFhHaEZlNEpSTUJNcURKZjhTS194SmVnX0cteHJ2MjluNVJmcGtrZFpvN0kwNTJhc1Nma3N2T3hTVC1VQVgyY3BtT3VEYmplcnp5amQ2bGdfNWNtalNiamt6M3ZDRTBoMjNTT0JVUGM3LXRrd1VRaHI2UjVBNTlUcFRsTXRpTmI1N19lWWFOR2dPTUdNSUJWNHlDUk40QjlVclZUYXBGU2puQzlwZ09FckotU3VOTnZ6cWFRU2g3UzdoRWR5ZmZxSVQ2cFFwc0w?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 04:26:41 GMT"
+        },
+        {
+          "title": "Aktuelle Lage im Persischen Golf: Tägliches Update zu festgesetzten Öl-Tankern - RND.de",
+          "source": "RND.de",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb19GbGVta2xPbnFOWDc1R19xc2NOSGoxNm9QS01HMGRfVnZLY3QtZDdNWF9tbzdCZUdSRFIzb3kxd2JSVHQ4TkhPQlJDcE80cjBZX2lLejFzcXBlX3JjaDJhN1ZkbHh0VzNtU0tWekV2eU1CWjNidTlSWE9xd0p5R1R6aEZoYV9EaTM1M0R1RXlqTGxLNUxVLXRtd09KbHdQcG11NGdxbVhfeUdacUpqWGFUc293LWN0d3diSzZpeWpkQTg?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 04:39:58 GMT"
+        },
+        {
+          "title": "Iran plant offenbar Sperrzone außerhalb der Straße von Hormus am Persischen Golf - Spiegel",
+          "source": "Spiegel",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjY0ZU5NMlVkdGt1b1hKYXBYMFRNWW1LX0pjNFdEeHFSeGY1eVlCRnBlVnJ1OEhKalhvUkcyMGY5TU51Tnl2TGVBVWQtTGVZeWJIdWlZa0ljZWJQTmJvZlRUaTk0NFR6YUZRYXJGX2EzZDhfeF94R3pjeExjZVEtSU15QXZHLTZZc1AwOHAwNmtPa2JjQWllb3NrQk1SdHBnQzRfemROQnJrYm12cS1oY0dsLXIzbVF1YktzaFBBM29XSW04T3R3Nnp6bXV4cWNVenp3UjVtaXBQVzBKNzVQNnlZN1ZQNnc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:41:00 GMT"
+        },
+        {
+          "title": "Geheimer US-Korridor durch die Straße von Hormus - ESUT - Europäische Sicherheit & Technik",
+          "source": "ESUT - Europäische Sicherheit & Technik",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IanZNNS1RcEpYUG10TU9vTTRhZy1iYTB5bTJJV2dlN2FjbW16ZHJWUWNBUTlMTS1wX3dnZ2taSG9ldS1QcFhiRVVNdTlsM2tYbWkzSGN3RUxKNjhTMENTUWVpS09Pb1J2Zm9CamR1Z2pGb3lmMmU0Ti1sNU5BR1U?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump will Straße von Hormus umbenennen - und droht dem Iran mit neuer Angriffswelle - Frankfurter Rundschau",
+          "source": "Frankfurter Rundschau",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVU2d1RvWEw4NGRfZHFhcUFXNy1IYS1rLXJVQ045dVROYS1DcU92M08wSWE5VHRabW9DVEdJYWhlMDhXWDZOMUUzTzZtV2xOWlQzamd6RERxcGVucllaWUlWWWNNbWRWZ3V6YkIxTVlEd3B4YnhVeWtiU29QNG5iYTh4aF9uWVkwczcyRnB0aXZLd2p0TXBrTk1B?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 06:41:33 GMT"
+        },
+        {
+          "title": "Ein Toter bei Angriff auf Schiff: Straße von Hormus bleibt laut Iran dicht - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQkp5MkwyZlQ4bnB6eWhVY0ZFR0RIZGZ1eVl3QVZZTXlOOVdUNE82TTlRWDI5U1dTR0pRMERhMmVOLXRCRDVwd1FFbktVMVFpZUpBdnVhTlZVRzVEeWJ5X2M1Y3JjWHRNYjgyNHNqVG9yd1gzMEdHUw?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "USA und Iran eskalieren den Krieg auf See: Neue Gefechte um Straße von Hormus - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWFpQUJrdkZEempnUGo2R3J2S3hCN1JkYXM5N0c3LW43ZDJFQlR2VEdyMFRVQ2w0NXlEZFFlZlJPLXdXd0FybmQzaFhfX0ZZdnFlOVR6LVYxYXVUV2NGc1Q0cGVKRkd5QU91MWtzTkVGZUJrNV9QWEtRV0NrR3FFZ1JBUGZqVVBXamxHc2FvU29ITm5ZNXctZ2wxSW03OTd4bEdvUE05WHBoR0ZpNDFpQ3JNSGRyU0FFLVRUVncyRWY5RE9E?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 07:58:17 GMT"
+        },
+        {
+          "title": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
+          "source": "Spiegel",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
+          "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Straße von Hormus: USA schleusen verdeckt Öl an Iran vorbei – Bericht - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmt4QTU1cUtSUGJZZjRXS1lQRXVtY0htR3RRMVpoR1VkMGNEakRISHpFT3dNMGZZWmV1QWUzamFhQ1lnSUJaWmx5RHlBaXREbUxnTUlFSXJDd3BsbW5RYk53b1NSOWlpRnU0Tl93Z24zcWxNTzdaUjV0ZHhMRWFUMXZoWGY5WldxN3I3eE40STNya0lkMmZJSjk4WUNBdlh6OWpVY0g5TjBsaVZsUnBYZG1Bb0JxNzdVR0gwalptcVhIQlZGalNGWHpaRQ?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest - Spiegel",
+          "source": "Spiegel",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGdHN2FKT3dXcWRaRXlVSnhQZ0FQTmhRLVpvZTRobHpIUVNVQ1hVQ1JxRDBGOXIzazhTMzE1NzBFN3o2Q3YyUUxTQ1ZIU0VmSDlJZnBrWlRvY0hqQ2ItQ2pvYklTNVFnbmV2M0xEbVJ2bENBN3VOS1ZxYzQ1bkRoVFpPV0Z3MTNVZVRvdU1ZMXRBTzBITWVQQnF6SDVjd1psWWFCRFZVbWR2NVdVVzRJVlRNQVpaTG5WYUpqRFY1cXN5VHFOMlI1RkRjQ1hhZHBlbjhR?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "Irã Ormuz zona bloqueio petróleo",
+      "items": [
+        {
+          "title": "Bloqueio naval dos EUA paralisa grandes exportações de petróleo do Irã - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVU2YkdKRl9obnpsalZQX3FGRFc5VXBtZlFtWkVHS2VWM3RvenA2U3FfLTFIeDBqekdQbXlxVTY0M1dqUVlBTDc1cTVJMkhJZHJlVEFidktiZDJLdFc2QXJQU2xsdnJHRWNBcTh4QjhnQzU1andjSy1DbDNHUXo3YXFVY3VQbmhiSkpPQ0RWQWI1VTc5NG1jNlNkN1l1Slpra2d3RjhnZkUzalk5T2hZbC1TMGlDS2MwUzAzRXp30gHMAUFVX3lxTE5MQWhDVFB0SVNpa3FRXzB3YW1CemR6anBJY1dDVUdEanBBcXlFVG9uM0JOMGJnVmZ4aXlfS1JpQ1J3VE9qUEQ3R2g3c2tCNFZ4MnJiV1BqcmdwbzJIdDRLSTJ5NnYxcDM2bHdyM2VPUW9EOEU3Z1lYTU1UX2RkYk9iMHd1NV8wWWZWR3NTNHMtc2stWFY0ZllQcG9VMjBmMndSWjIwVjUzWldSdXVyWlQ5ZkJRZE85T0VKLWR4UUlkODItNE5Oek9nMmtGYQ?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 13:08:16 GMT"
+        },
+        {
+          "title": "Ofertas de petróleo do Irã à China caem enquanto bloqueio dos EUA aumenta - cnnbrasil.com.br",
+          "source": "cnnbrasil.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbk4xZFduUFNzTThkdHlsWEhtV1pGRHYteXFQRy1Zbm9GWTItSmEwRGJPX2Q5R21oMHMxM0NBT3BzQUVYUlhPUXNGVlNFNW5vYTctZ2RjVmNYb0tYYjRDejh4TlBaU1ZQTHZ6RHJZWFFxWlc1c1RrZHNPSGloRHBkWlVmZnRpdDEtVjF6WWFEbE53VkxEUHNscVJZYkJJZ3FUZGxlUmVhN2IyN1JKa3R6cXV6c3F2TUFp?oc=5",
+          "pubDate": "Fri, 21 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irã e Catar negociam em Ormuz enquanto bloqueio dos EUA agrava escassez de petróleo no país - Times Brasil | CNBC",
+          "source": "Times Brasil | CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQTB3WHRYRF9faUlmWWNocXpjcE81WmVqRUdCaWJjdExxR2Jwb2Z4RnkwWHM4MUxZUU5QZG9oT09zbzVEQlNUSHFDc1RXcVVadG9TNklOTlBxR2pGYXdYSHF1M2JGN0xsaVhpOGhhR1RpNXBDZmM0aUNBbWZydTdtY1lpbHpqei1XbDFzZ3NEQ3ZfQlQyT0o5OTJnVWloRzZsVkRQaE1aZ3dCTTQ4RmRsNFJ6NkktTWQyX2RaSFJ4RVVqVWhNcGNfcTJtd0lwSmZ1d2F2YlQ5UDFxYTJMUlQybi01Y21mQQ?oc=5",
+          "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Novo ataque a navio no Estreito de Ormuz eleva preço do petróleo ao maior nível desde julho - O GLOBO",
+          "source": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRXVXUV94Q0NMd2JNVjNEUzNaajQ5cExZTzV5SWttbm1NLWRENV9OMDFUZUJNVzBISzZvN3Z5ZV9UQlpzRnNuYjVZajBUcXNhc3dJVVU4RzBHekp6aW1yeFhER1cxYWU0N0FCWVM3a0VUdXc1WTFWTmZOYnlsd0tEMFM0MXJSc2xYRHhhRU9USG5EdUpjdVRqVUZoOGV6VTNWVm0xZDkyM3VuS1BDNEZBbmRINGZQRnlmYWg1Z0hhbzNWTXktaGJkVnJ5aXlseFpXWFlhOF85VEdfRDRYQWJDddIB7wFBVV95cUxPOGxQUm5peDFqS2w0VnRPaTR3R0dlUm8zRFBHdXdwN0xsWVBpamRydGdjTk0tX211c1QtY1NDZURZNkVPYVVrRkRKcnVMZ0h0WU9pbjlYQnd5UFh0SE9ibXMxV09GSEZtaWJaMm5BSGI3NWhVdzdxaUJZM2hyQU15YUkyemR1ZXhIMk1uLTl2R3NLMExyYm85cTVPalItUExDajJYanNjb01PUHNqRF9YbjhNVlhZV2NhZEU4TW8yc0F1d0VpdWo0Y3Fqc1RfWHpNVFQ1eG5BWkVaZ3RaYjh1Y2EyVzhxY2ViTEdOM0YwQQ?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Petróleo oscila com bloqueio no Estreito de Ormuz - SBT News",
+          "source": "SBT News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmtLejVtYkFGaUxubnBoTnlZSlI4ajRSZWNFX0NLZkdyMUl0UTlTS3pkMDliSHY1R1RwRWVpRkN5TEpTbEVXN1dOcG9Hdk9JQl82ZC1zZ24waFBNci12MHAwME5VSXBiNFM4RHNGcUdfSHItUDVJVVJQR1AycFdyTUpPNXMwT3NDOGhKWmc3VFBIaU5w?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Guerra no Irã: os marinheiros presos pelo bloqueio do estreito de Ormuz há quase 100 dias - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TbG1NWUhBTmRYZzNpNTJpemZ3eXdSN2JwaFNPeUxFVGFrNDVRUHM5VXdpeF8yUlpwT1ZTU3BTVGlSYVNzQ1pkc2J1MXliVFpXT2tlVkNSWTJ3aWo4Q2JVLVNn0gFnQVVfeXFMT3NKUUtHMllJeHNOZnkyalhsc3BzYkwzaVl2THp3VXlDSzlLa0pLTHotSF9QZmhoM1g1XzVVMmUzbHlmSXBSU18xcnpoQmJKSnh1UloxakxJNlo5cGE3bElTT2NZb3hnNA?oc=5",
+          "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Petróleo sobe com ameaça de bloqueio em Ormuz - Agência eixos",
+          "source": "Agência eixos",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDQzeEJoS056UG1SU1lsc0ljRmJQU2Y2YTVBZXBFTENBUExsR2VaTWpHMnBDTTZSNjVMM3lVSVV0dE9Za0YtUDBuZ1huZW44NTBOdTFPQUpsajRqU2NQdE4wTENXaWtVMzhrU1dQWVg5VXhjd3Z6QnR2ZGhnc2o4c2JqSEMwTUZmeV9SMXdLQW9WZUN4V0N6Y0FIOWNuU3gyUFhBX2pZYVFueEswUjlaZ0ZSdjBCNEh3VjBvRTNQTEctdnlKWHc?oc=5",
+          "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Petróleo dispara após retomada de ataques entre EUA e Irã e bloqueio do estreito de Ormuz - Terra",
+          "source": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSEpsSVBCMVVYaWN3LV9qNDhuVnlTcEt0clVvX3JZZmxaT3JqSEtzMVlKNVA3YUhCSzdNZE5NQ2U2OFEybzRiNmZuQ2ZBT3dyYl82R1hRUUxEMnFIeHlDcnRTd2FMOVZQWnpzbDktTUE1RGlvdmFtUWlxR09JWS1MYlZkTTZmcV84QUJFTHgwTjhldE1aYUVjc2czdjRoUVlmU3pYSDJqclhUbFc3WUtET0xRZklPaFRjQ01HRTI5RWZLUFJnUFh5T1RRTTVkSDV2VU9hX0dvRzBLR2s1S195cUlseWxldVMxaUkyUThLRzVDdE5iRVU2X3lhNGU1UQ?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Com novo bloqueio, Irã reforça uso de Ormuz para chantagear o mundo - Gazeta do Povo",
+          "source": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmR4akR6ZnY1WVZzczdCbDloZ0VxdUFFZmJmR3U3bExRdlJ4OGdPTml1Yi1TM1l3NV9MbVZFMmwybnVSdS13M1RzSlU5SUJib05ybnF6MVVSMmNncWl1V3YzV2ptNDI1clV6cVBrUmQ0ZTB0YjZsTEVOb3dWOVg0UXY0blhFdm1Pa24wTTJhd2hSRmw4Q2c?oc=5",
+          "pubDate": "Sat, 18 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Intervenção dos EUA interromperá reabertura do Estreito de Ormuz, diz Irã - cnnbrasil.com.br",
+          "source": "cnnbrasil.com.br",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT21raXljY0VFR25Zd3d0Uzl0dHZRWG8za0k3UHNoSUxqd3BnSHpWcm9uN3NqY2lTV0FfZ3VpN0o5a2N3YllsZHZFb2lqNkU1Y3BLSUNNZ0g5QUFHZlRLYkdyWEFYM1E0c2VWVm1MQXk3YVVoQTJmVkF0LUJVNzJIbFp5dE82Ym5KTzVLLWYwSURmVC1CUkw4VTdZSkpXUFNzaVNQcWc2dzJObVg5Y2wzaE5ic3ZyRWs?oc=5",
+          "pubDate": "Thu, 09 Jul 2026 16:22:56 GMT"
+        },
+        {
+          "title": "Irã reabre Estreito de Ormuz durante cessar-fogo, mas Trump diz que bloqueio naval dos EUA seguirá até acordo de paz ser fechado - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GblczM09OQmFhSjA5Z1k3ZEJIQm9pMkNQUFNnd1Bvd3V3SVpHb2o5RWVrdDNDLVNHcGN2YXY1YW84OXV5dktZQldNUjJ3MmR6ODg4UnVnM1R0UkNma0g2aER30gFnQVVfeXFMT2pmQWtESVpqZWlSLWRSdUF3QU94VXhVVTlNWnBrVnZVdTRhaGl5RjRORVRJRUVTbzNYWEJ6OW1fbHdtN09WZHB3Tm9vX1JXNU82dUxwSW52SnFfdTBRdDdOMTVRU3pOOA?oc=5",
+          "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Navios iranianos com milhões de barris de petróleo atravessaram o Estreito de Ormuz apesar do bloqueio dos EUA - O GLOBO",
+          "source": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNFlpbUl1QzE3WjZtMkZhRjd0TW5GZVR3b2hYa2xfTWdWc1ZEd2x1VFVGOE44QVV2cWhnMVBlMWtVWC1wNGJmdHJDZmZpSDN5MXFtVEN6M1RfNHRwVEJLVGRFWDhoZllQMHdhQnJDdGlFdjRfaG9Yd2g2VVNlUk5sZ3VvcXR1WHp3OFZtNnAzRVRkemJoY3dvenY1V3hXUVd3dmFsdHlhbkFFd2V0YTV5di1jRE5Zal9CRlFOd1ZNT1V1Rll0d0hHNzEzVVd1MnZtRkVoLVBUUlFlaVIybTZmWmx5R2s1Sm1YVWlxaUI0MUFkUTM5U1Y4X3lR0gGIAkFVX3lxTE9oZ1VpT2d0d2NpSXZrNjVhM1lEWWMxanhnOTR2MWJtMnNCNEFrM1kwMVFsYTBnaTNyVHJiNEFUSEJuNUJYNXo3Y3A3RUF3X1VhbTVkbmZtM21jR2dZV0ZFTHBhSGNELURscnV6cEUxb1RCNVJIMFVzZmVWNmE5RWxvUFNTRjVRclhYM04xYm4weXI0ck16Si1oTjhfbVVsSl9yODRXdXhyUnNLN2xib1gwRXBmMDdTcUJLZWdhUUpDR2VablE1b2dLeklqcUJycTJUZk5iVDJjOHFWU2R3MFlIUnhEMGt4VjFJZ0tYOEl3MWd3VkI1eWtyZ2JDTC1GRVQ2eWpJeVBObw?oc=5",
+          "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "Иран Ормузский пролив маршруты",
+      "items": [
+        {
+          "title": "Иран и Оман в ближайшие дни подпишут согласованные маршруты прохода через Ормуз - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBISS1VeGJPdGQ1TWpXUUtZVklfSWZUNmdmdm9IUHIxamJPc1Q5dVJIM3ZMd3ZyOUFqTzdsbEJQb3NNS0FuZzRWNFF4VTBBUdIBS0FVX3lxTE5vZDNwZmtjajlja2FqZVZyMk03U0Z3cDI2dXlmRFFUemNhS2FvTlY2V05LT0swZ19GYXRIYW1RRXdkMDA1TE9UU2tXNA?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:19:00 GMT"
+        },
+        {
+          "title": "Иран объявил о полном закрытии Ормузского пролива: судоходство недоступно в сентябре 2026 года - URA.RU",
+          "source": "URA.RU",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MdEx0Qlk2Z0QwVXhSZE8xTkY4NExQMHA1TDE0WWN3alRwdTlwRDNhRW5hSWhSMWpFNWlWWXVWZDFIYkwyaXBV?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:08:00 GMT"
+        },
+        {
+          "title": "Движение судов через Ормузский пролив достигло минимального уровня - نورنیوز",
+          "source": "نورنیوز",
+          "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxOa3RRSW9XSHdqMmExcTd5ZUo0UHltSEc1RlZlNVNTeldqdmxKcHExcVlIRTBzM1JtOGdZODhwbTVwQUpKbTQ4TWJsM0xRM1VMbE5jVjJBbHFTY18tWFRQX2UzWGxXUk5GSXdmTnZKOVRlU3NuUDFobWRIZ1BWNGplUTY4Y0FJbWw1SHhQS2FBeXVJN2dpcDBiMWx6U2tram5pTXNfdXgtZTQ5OEdtLUJQOGk4WWdXeXFEYVE0QUJfcmFFaVlpRXFud2R4S3p5YjRyRl9EVFFacmx1a1ZzY3FMcVRqNzVxNWE5Ty1ma3JnTmlhN2lZQmQwZjRSTF9zeTctZnJLQ2s5b2N2YVVZM3Q4bXJlTnJ0bHhxNWpLbDZUQTNuM0luU0ctR1VlTTZ1NmFOamRual9iS2ktQk5xS3NwZUFZMlFSQ2wzSXExZXQxak9wSkRCeWZULU14S1EtbHpVWENjcGhwZDFwQ3hzeG4wUWRNQzZwZ1c3Qm9LeU9sS0ZjU0hvdWlhMnF6Z2pKTl9oTS1fWnJsT05RQThPdEFibXdNWjZGc2JDWjVacEkxQ2Z0Q0UxcHAtUGg2cUJ1X1NJNG4wMUlQcW1aRTJqaXB5WjRRZmEwMjl0NGp5MV9yZDFzcGpNTTg1dklwc2ZqeG9zd190YklWMC1LM0xrN3htbXcxbHdpWko2b3YyaDVMSlNqa3hScC1BQUx0dDN4ZWJ1bjNZdEk0NUhzbVpo?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:01:25 GMT"
+        },
+        {
+          "title": "Что происходит в Ормузском проливе: США против Ирана, удары по танкерам и нефть - Вестник Кавказа",
+          "source": "Вестник Кавказа",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVRmVxLXY1YXN0QUR1UjZhVlU5anhKbW9HbXhxWTdIeVI4V05lVXNZeU85el9PamVVRkNZeW9meW5UVTE2REJ3Zll30gFKQVVfeXFMUFVGZXEtdjVhc3RBRHVSNmFWVTlqeEptb0dteHFZN0h5UjhXTmVVc1l5Tzl6X09qZVVGQ1l5b2Z5blRVMTZEQndmWXc?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:05:52 GMT"
+        },
+        {
+          "title": "Ормузский пролив пустеет: после ударов США и Ирана движение танкеров рухнуло, нефть приближается к $100 - BB.LV",
+          "source": "BB.LV",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXpVdy1fTFJlcFlLVFhGa3NpYk9zZXgzZHFBR19mMmNFMkE0bUR5NHc5U3J0RDcyTjhsT1liZTdrYmM4TEdsb3NtaV8tWndxcTJIWnY2a2YxZGh2dEg3b2VwNHdjUDVwa2V6LTdDWVVZWDFCNTVqa2hFWFpMSkI0YUYwc0JYbUxIY0dobHhlemptTFNPbjNUck45eFlLXzRXS1JLUGZKZUN6TzdKWEM2dVB1bVFmQjBNLV9NTmlOc28xbmVLSUFXOWpyN0F4Y3FlZ2d2ZW1R0gHbAUFVX3lxTE1ZejZtRC00bm45bHgwZVROYUF4bXA2WUxKR01RWFFZZkNNSm5majNXeXIxZ3BJOWxpWU91R25XbXZHV3hrYlJsNk9PRTZUUVhvamRYeFB4eHJCd2xpR2UzenhTVlpxTFdJdHpQV2t6Uzl4UThEUUdXSXEtU2liRlY4dW1LMzJXQ0FFMVE4SHRaUEx2T29iOVo3T29xYWtFM1d0aXE0b0dmTWttdmJ0LWxyTTZQeS1KS01zeHVXUXB2ZVhES3lDOFlicllZeVhlX1ZKdXpzWHFSaTMxWQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:34:20 GMT"
+        },
+        {
+          "title": "Иран вводит «зону, въезд в которую запрещен» вблизи Ормузского пролива. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YMEtuX2tkc1pUcXFRd0NTNUN3RTZQVVBmVUJvUHFlLS0zY3UybXJ3b2hLdmdRR2lQR201dm85YTNINHBJMkg5QktieXlLVFJhdVM4WEc0ZElXREhObHpiZkFyV3BLZXRvWHFxS25XR0FiUjQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 02:06:55 GMT"
+        },
+        {
+          "title": "Нефть стремительно дорожает: что происходит у Ормузского пролива и чего ждать дальше - ТСН",
+          "source": "ТСН",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVhkNldGT1pac2lRdWJ4OHRia2dnUklkZ2hJaXB5b0k1U2hrNS1pa0xRRmhVcEk2X0cxRXlONGhBaU1wWlVwMUNjOElkWUxROHlZdlFNVkNsODVRUjFacmpyMDN5SnRuVmRJODNCUnBlU1dMeElkVmlIdGpxeWFjYlVtTnRSb0wzRnVId1VqUEJHamZwLW9Uck14UXpkdHlBUEJuWEZnRUtvWDN0TXFuN21KMFNXUzAyaTllTdIBwgFBVV95cUxOeDlBQXRleGtrcGRyZUV0Mko0bTZ3eUdDWEVxWXNJVkdwS1I5eGpoRXVFSF9Dbjc0Z3E1b2FvbmRnQlNOVWlRR29JVThTZUZnaEdwUU1qdG9aVU5QM01ZWXBFZHZza2tlaUR5cjAzYXI4TjZ2Z2N0NU4wSUIxTnBJX1VpMlpVM2JxTWM5ekt6cl9HSlNOajNfb2M5Y29DV0pna1dGNjExa08tOGdoaGREZGhvcTB3NS04a0RWcGd0Q3IwZw?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:04:03 GMT"
+        },
+        {
+          "title": "Иран и Оман согласовали маршрут через Ормузский пролив - RTVI",
+          "source": "RTVI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYkhWZDBQSnUwSkhjT1h1REROemZzTTd4U1p6WGFUNEdPSFN4TlFBZW00dEZjb0tTOFhnZjZKbDFHN1ZCcDBESXZyX0hfZ0pOUU5jQ09UUkRzTGprOEgyeFk4LVhGWFFxcjhSV3RJcktCTXg3WW1WVTctSHhTajdlellBSTYwQQ?oc=5",
+          "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Иран теряет влияние в Ормузском проливе из-за экономического давления США – Reuters - Слово и Дело",
+          "source": "Слово и Дело",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmlXNVVmVHJpU0NLVW5SUVdFdm9ELTdKRnRXZ3JKLUNYMWNjdG80Tm5wbmczZ29vcHJDTXhqQmM2ODl3eVpOTXJtcTNBNldFbXBXV0oyeGF5b3ZJdFZYV3FxcVc1aFZ3c044RS1mUl9lc3FNYzNBVHZXRFZfRlhwT2FDajRFNUNNY05ZQXg0WGdtRDRrSnFLYzlfME5wRDNNSXFZaUlSRkZrekVpTVB3b0swX084dllsdFFFdHBLZnk5bTTSAcgBQVVfeXFMUFlxRTlvT2h2enhpZmExdFJGTHk0Vlk4Y1ZiQi1kcUlQY0liTXVhRXpmYjladHpzSHpfZjN1eXdvay1QQko5LW5nd0FqQ09LMUo0ZVF2OTIyOXJ1dWtMVmIxaGh0aWFBZlNMT293d0RGSklodkJGVGl4am9GdmZSRjRuQ2dWZUVFYlhwMEN6VENIUDZlUldURmZKY0RzUHhoMHdXWWM5SlhhOF9uM1V3Q1lwOGFyejhzMWwwWHhkMHloSDhBZjF4Mzg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:10:24 GMT"
+        },
+        {
+          "title": "Иран и Оман согласовали временный маршрут движения судов через Ормузский пролив. Что дальше? - Neftegaz.RU",
+          "source": "Neftegaz.RU",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONE1WcXozRXp3N25kQnVtLUgxTVRVbHBETXJEaGM2WnRlQS15aUlsQUlidE9URVZReXdibS1aZG40dWxCd3hIblYxVmJuUWNHSVd3UkoydGpwUDRyS2gwSXNRMVFlbW1zdzJyaFFUUXhzckRNVFJvNEdrS0NyQm5DYVREYTVoS0Npa1BhOGwzdVc3TW9SSXVnWkRVMDR0OEZBQnFsV09QbXBfYlYxX21MLVpvWVh6cWVmMXdBT0l1aUtWcmVlMmpzbGRKOF8yRHNYZE9wSTBFT0xuaFprTVl4ZU1qY3o?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:58:12 GMT"
+        },
+        {
+          "title": "Из-за давления со стороны Вашингтона: Иран начинает терять влияние в Ормузском проливе — Reuters - focus.ua",
+          "source": "focus.ua",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXB0OXN4b0FVVmc4ekRCcm96WnAyMFdqOVZZS0J1Z2stejRHY3NKTUtrSmJwWVBTZFVrajVBeEVpZFNjcnV6MHd0bDJMVTAyM0NKYWlubjduMkhNa0NPdmhVVENGandwc0NhdzBUQkJ6QXdzWk5BUkdhOXdfSkFubHRnUjJmXzEyVVdCdVJCUi1SUFJiMXV0OHRsUHVRMmdMZlIwMWlBaXBrNkdiYzF2V0dMQTVKalpra3pQRnZQRnnSAcYBQVVfeXFMT2lBOWFvUHJLM3A2R2ttVE9PMjF5VGJQY1VWS1BwcEtfY3JuNV9KNHFlbDVQV1VMNXpkSUJEeWVfTWNvSEk3ZDFqSVBrOFRzdkNWRkNFbEt6NzhNendwVjNJV095S1lsUlNPVmtOX05Nd3R0RTlXVV9mbXZKbEtXTzBlZzExZy1oa0NRVnFSX1pDUG83TlVFRDhHOUtwUW9iS3UwNGg5S0ExTjVTOF9KMlF0dVBHb3dCWTR5MW1uX2xkZEV0Skl3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:50:00 GMT"
+        },
+        {
+          "title": "«Нефтяные ворота мира» захлопнулись: Иран сделал громкое заявление об Ормузском проливе - Lada.kz",
+          "source": "Lada.kz",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1hPekcwNnU4MnB3ZGNjQ29TMVowQlNLQWdNVTc5V3ctLWl5dTVPZU5XVFdQdFZjazZsZE1KMlZJcDItbDVpdHlBWE13eDhHWmFZRlB5Qm5tSGNhMU4zeEl3cUJoRkNRVXNBRmt0Wl9qN3ZoeEIyclJ5SklBc2J2Qld1SXdRTGl4d0psU1RKUEUxbHV2c29hcFEwc1lmblNXa2ktTXItTTRUcXFxaHlQTFFfQUlqM3JTcUV0ejl4V2xKTlVubEJsOQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 02:57:00 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "إيران هرمز منطقة محظورة",
+      "items": [
+        {
+          "title": "إيران تعلن \"اتفاقاً قريباً\" مع عُمان بشأن مسارات السفن في هرمز، وتعتزم إعلان \"منطقة محظورة\" قرب المضيق - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HSTM1LVJDbnlLaERoNURkaVY0R3NsX1I4Zl9Ed25lN3BEcGxOd2RBNjY3UXBKMlR1OTlGdUlFS1FzWDBhTlZONm41M2wyMUh2R3M2UmtLX1FQaFBq0gFiQVVfeXFMUEhZQ0hpUkc5eWJPOVNyS3Q4dVhUc0QtT2JxSFFjaE42dk4wcjVTMHpFWk1qb2FpMG9lTGpmV09JMDBSaXl1OE8yNXdUdHJuY0FOSjI3c3IyVXExM2x4LWp1UWc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:23:55 GMT"
+        },
+        {
+          "title": "إيران: المفاوضات مع عمان لتحديد مسار آمن في هرمز \"وصلت مراحلها النهائية\" - الشرق للأخبار",
+          "source": "الشرق للأخبار",
+          "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxObEVaWjVkdWZYdWFGbVdpREhGMVNVUTRnclVWMXRIMUtTOUJuMmtZVEoxUmpqY2YzQ3BDZjZzbzN6NU1HZ0FxSl9ad3FBN3ZFVzh5T2dmTEk3NUVHakFmRzBJZUFvZXlGSHBpTkJKTnJmbXNQVHNvRE1CMERMNlV2VlRZeVJ6eEtsUm41cklxVzUyTnhRS2c4dk9xdUdjLXI0RkpXR2lUWnpWLVh5MmtUR2x4ZW1SM1ZHNnJLb3F5SmNWMmUzMkF5S3V0TDA2b3F1OENaUFhQUVhNb1RZVHlZaXdoczJoQ1pmT1ZkbmRpYTIzTi03ZFBFVUt0dlRES242bkdxZkZYaTZ4VGhpRVU3Z2tBOW1LTjdhaDRmWmk2OW5oV1lSRHlaSUl0QnpVWWpoT0JqVDhGNXh0MXhmVFBnZ1NGQ3F5Zm5EMVg2SmVpTlZCZDViZGUzU0Q5VXlBN0lZWW5HUElNbGJRbjJuUnpFYktHSmhOaG92UkRHNXNiYzVtcE1TVWJsSE81YVBpc2tBSlJlRXpid0JrNFBKa2pvVWh0eTNxQzI2b3ZsWWZtNnQ3ZkNNU2dKYVBIZlFiNS1rS0hfTWVZVG5LUzc5X2w1ZTRCR3dvdVJUVTIxOWE1U0Y?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:26:04 GMT"
+        },
+        {
+          "title": "إيران تعتزم إعلان منطقة محظورة خارج مضيق هرمز خلال أيام - جريدة حابي",
+          "source": "جريدة حابي",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcFBwMW83ZVhQRUFJem5lVnJFZjlDaXJBaUVNbVU4eEhIV1AtYU5BZkJYQkowdTlmWjlPQlRpRjRITWpTbUZHWUh2Ujg3RVh4eVZvaU9oU241d2Z1d2xES09yQkxVMUVLVzYyUWM3WlcxQm9mQ2pjanFkYkV5ekllek83NkxIaTBTR2hoS28tMEVILW1ZUFlPV2JZZGE2U2t6N0hoaG1mMnA1TVNVUDZ6R1dVMVcyNGY0aFJlV0RIWUZyTy1FeHh2MWU2ZHhpczlNTkRScFNUUklDcGIyam00YVlVVnU1bmtuZEtwY0RxU2Qxd0RtTzRvV0dlN3VuYll3MF93MzcwT3NrRHBTblh4djQzaGVjSi1aN241N3FqLXhmRWUtc0FBRzU2RXd6QUJkaXN4VU1TMHZPUXduemFWblYyZkdLYlg0N3JTVXoyRWxmaVN3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:35:56 GMT"
+        },
+        {
+          "title": "حركة الملاحة في مضيق هرمز تتراجع.. إيران ستعلن عن \"منطقة محظورة\" | التلفزيون العربي - التلفزيون العربي",
+          "source": "التلفزيون العربي",
+          "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPUDNSMzZzaGxFcmwxMkNSZmwyckNONEJWY2xGT3d1RkFMRlRLSk1VYkNHMVd4cGxnTGRRbW10M01oQlhUY1NuaURPWXF5NGtNNkNZanhiRWx0LXdFdll3cGRTN09WUVpZMHJ3RjhYZTZsRGJWbEhlWGFYMUJuSnFNcnNHeUlkZlZSOElRNnVuQ0xUX1RTRXVEMXE2QzJmQVdYUTNhelpnb3h0RWlTaW9MbVRlUmdCMnlaQXFENi1nQkl0ZVU1aWxCUXlFMFhEMlo2UTRRcXkwbkhTOElDdmRQNWdPLXRrU3dHc0tQcHRhdnVSQVVhMjQtREQ5SGI2MlhHbEtoX0MteWV5N2U1X0diVzNGN3gzcGU1cE1ELVFaYmJXT2hzeG9JSXV3TmR0T19RVS1hQTh6YmJBVzY2N3FZb25fRGRjbGo4eVdlem5PRUN3UjNJUFdvR096M0lLWGxkTlY2M0pYQ3BMWVlWQ2FCOEY4ZGNtOTNPQy1qclFxVzZ5NDVHRlBhYl9paVBSZXR0YjhYWkVsZl9PbWdia1hfT0x0SGpRdHhUWVBxRkh2dGlLSmJYaGw0cGtTZGVwRXluZ21yNGZSVS15MGxEazJrOE5PeWY5Qk4wS3F5dWZ1Zk7SAeYDQVVfeXFMUHNRR2hYZldncXVRWC1WTFZZZmhQbFEwYmNfb19DMHZKYVlSclk5dFoxTWI5WC04V0pUcVRNVGtYXzJySXh6MEFEUjBmbUtLRHNKM0pRZm9vajBIWTRvcTV1RUNPWUR4dTBvRTZUczFtUFdlYmlIalJKc3JHWThORk5BdWpHUW5hMlJvSUJ1QkV1Wk9aSThmUDc5LVVWMy1wMk01TGh6TnVnNkdxY2ZZTEdWOWJEVEN4Wm1HUGg0aFFOY2RfYnZwOHM2UW9QQ2huTm0ybUU5TU9FUzhmcFgxZ0JZSVpIODhKeWJpN0pMSjhUemZTcGQzWmpXek1SOTRhelNjdnA3aXpaNXdUOXhTWHViX1Q0bG9FMTRlTkZrSzc1Njd4SlVWQlVRZjNpbUVSNWVacjhUcG1vSlVUaGtTQlAxVTBrdkZaU2xQU2NlaFVjejQ0OGVoZ0ZFY2FUNWFDczVhSlJwX2hzaE84U1VoZ3FYMFJqQ2VfdkRvZGJuTEpfazZiWHVCcWRZY1NEZy04bWhqZnk4OW9UenZfbmhqdnhfbDhhcnJIYjE0R1dieFY5aDhkd1pfMXlxY084RDVlcWNMYlFIcm5lWmYxVVlQbWo2R0d5eU5sQTE3U2pEQ1MtQmVndW5B?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:03:49 GMT"
+        },
+        {
+          "title": "إيران تكشف أوراقاً جديدة في الخليج.. منطقة بحرية محظورة وصاروخ \"بمثابة جحيم\" لأميركا - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHNFajFXQ3J5Rm5CUV9MSmtGRXlsS3JvUWZiNEdpSDQ1bDFCT2ZzWEhzUW1WSU1iN2NpYjJacnBwS1ZLV01zSVJTV3YtNk5PM2FXRFI0NVJXaUJZYW5jSXRJdXJfTDBJaGFGWWU1M3k3ZWkxVG9XY1RyX2hObDJwa1NzZU9QQ1NaMHRCZ0tMck5qSmJ0b0lYaHBLVmZmVGRoa015c0Y2dG9qSVJQNDVTd2hpVXFxWmFDOXc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:08:06 GMT"
+        },
+        {
+          "title": "رضائي: إيران ستعلن منطقة محظورة خارج هرمز في الأيام المقبلة - alghad.tv",
+          "source": "alghad.tv",
+          "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxQRktqNFlRYjJOMThiSVhyVDA5a2JiV2l6aG1UTktWOVFTTUEyYlktM3BLSHE1NVJPUnVpamlmUEpBVEs1NFRhSy1NZXY4TVlLeVozektpMVVDbWxHRk4tYTZLem9rLUNvY255TUtyMGFLb1VEc282MmpSUlhsbk5RWmpTTmlSVTZ6TXNUZXBlWGpaRlNlV2hPdV9HZGh1Q25pWWY4M2NIN2Ryd0ZVVF90RFFodk45YTc4Z3ZOQzl3dEhqZEc5cEF0Rl9XVmtmZl9xSElvaXVfOVh4dXkzYlBHV3o3QzlzWjZxakpDMVkyNVVMZXh1b2kzc1piUkhoQ09RX1M0Q2t6REFfMkVTaUprMkkxWFNNUkotdzZmSGczR3BwR3E0SWlMQWdHNzRvcGhpeDBWeHNYLTRXTThja0RzelYtSnE3OE9GTGlJMnVTRHZDZDVuYVBWendOd0MwMm5sTmFaME9UUHNVZVB6WTZydXg2LVZRbUxGQ0VaUHhSMzc3N2Y3dl9yR0g4OWNsSnY4YkNvQ1hHTGVtWTdPRjVaV1R5QVpoQ3Uta3Y1NWNNaWZmaEFSS2xvYm5PRFdvMnVSVnlKa01UOWRYTy13YUs0ZWI5WGItcVE5cVl6QkRNektEcTlFT0N0d0lsbDZwTlhBY2pWYkN0VjRTdlFfNzJ4SzNhcko2R00wbWpvMGlEZGZXbVF3MTBMbEJDdy1rMHpmaDAyWjlhWEVNODAt?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 02:10:53 GMT"
+        },
+        {
+          "title": "إيران تعلن إقامة \"منطقة محظورة\" قرب مضيق هرمز ولبنان يطالب واشنطن بوقف الغارات الإسرائيلية - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNVjBkcXdWUGN4azlKMUpJbGJ0bkZHYi1kYkVRNHdlNWI4Tlg1WjhaOGpReVpibndrc1QyTW56MXRROEJhdzF4YWhBRHl6NU1YTWx0Q3pBSFI5ZVNxTW9STzJjTFg0U2p0RF96VGhjcExuVkxXM0RXdDd0elRiN1dReTFJVjhRbHZkYmplSGVyNDY0Q3VrYlFoaUlHUHZ0cXBZY2F4X05PNS1xTFVNRW5vWFNrRkZKaVVmYmRHN0JyS3JsVmpTQ2pvZ0VIdEItZ25UN3A5X0dpTHo5dTBLUDdLZzU1dHNsZDh2VGt5WHRNTktfQUR1bkhPQUQyZHVMV0Iwa0N1bkYyclpVamR2WXBObGRIMTJXV1J5bWcxV3hFMVNjQkZDaGlyNWlfOHZDRWZtV0RZakxpcENnb0FJX0xxd2I0aGh6Tm8ybDI2UjBldzZSOFR2QndfcnV2WkxMMEtiTlplc21CUnJISElSQVkzU0M4WFE4dUFDSkJad2s1VHpabU16VENLMTctQjM4UGZ3UEk1T2lYTDJmeW5wQVRLS25zeWRHdVJ6NFptU0EwVURBcWhabzZfMWVLOTh3NFE3ZVpzTW9ucElDMk9Da2wxWUN3UENYZ2dVc3htNTRHZF8wT3ZVQWlZRXNqdnl0dnNuSWdodEJ5a2RFNXliOUF1dkVTMlMybEViQXQydklBY3VMWFdwV0Rmd2M2U0JsNXZzVVI3bWQxbWVnOEpsUU9VS1B5RUhKZVlGTm1DLVFNTmVCWU9MbE5CdWpjRlpuUWxSTnNZQjBhQVdsS3I4bldycmJUVTlZTUlqNERpaTBuRm5ldFhq?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:33:32 GMT"
+        },
+        {
+          "title": "إيران: سنعلن منطقة محظورة خارج مضيق هرمز - بوابة روز اليوسف",
+          "source": "بوابة روز اليوسف",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKc1dyY2lydlNrRWx3aVFRVmFEVDhhaXNuX3JWS29BU29rNGx2SHByVVdTc3NXTnI4X0szblJXdV82QXZBRHdkMl9uZko1dw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:48:28 GMT"
+        },
+        {
+          "title": "وسائل إعلام رسمية عن رضائي: إيران ستعلن منطقة محظورة خارج هرمز في الأيام المقبلة - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZlU1X3IzUUdycWZnbThQdmNySDNUYXhsYWhvZ2FqWE5MTTlYeFZ3OTB3RnduRUR5TUw1RmxwQjJIWW5jd3RLYkNtQWdmLVJPSlh2bXNZazB1SDA5bFJDUjczSVVURTBRY2dBUGxUbFRiY2pVSW1HZDBsTVU0S1k?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:05:23 GMT"
+        },
+        {
+          "title": "رضائي: إيران ستعلن منطقة محظورة خارج هرمز في الأيام المقبلة - صوت بيروت إنترناشونال",
+          "source": "صوت بيروت إنترناشونال",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNNUo4elNHbWxLZWZtT0VjSjZZcFF3MHFBMTAzTlI4WkZtWEtMWmFNRGNwUkhrS25tSm5tSmxWc3FnREFLenluaURET1NZd0VBcl9wdXdWY1B5eUFWbTFJQzBPbTFQZ0NNNDBGaF9FcVhLaEVxVUhxd25VT3ZpWFFRbzcybG4wSjB0ZXp0bTJVbjdxMG80RDR1SWI1UFd0ZzRaNURNVmtzXzVVZkZiTUZkRDBFbXIyRkZGdWxHSkdkSnRGaS0yM3NnT2tMaGdoTGFXRE9tOXdTbkd1RVVQRVJwM0FSNGlfYlEzNnV4eDM4V1RfUTZtMmxzUGVHaDJsa0cxV2N0eE9VZk9ZUlBuY2hhY296NWlvaTFlVl9wQ0hHYWlVZ1NNbUhoVXRZV0QwLXpyZ1BGTTBOcDhtTzE0VFM3SGZGZ0lweWRycXFQa3d4WGFRSkRidHY4bA?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 20:05:42 GMT"
+        },
+        {
+          "title": "أهم أخبار العالم والعرب حتى منتصف الليل..رضائى: سنعلن عن منطقة محظورة خارج مضيق هرمز..البنتاجون يفتح تحقيقا حول غارة استهدفت حفل زفاف جنوب إيران..انتخاب جبريل الرجوب أمين سر للجنة المركزية لحركة فتح - اليوم السابع",
+          "source": "اليوم السابع",
+          "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxPb19MSVFNZHNCMkxOX2VNd2lLRlNpWG1LSWVrcFNZS281RDJXMXVMX2M2ZkFpWktxMXVPSWhLeU54Mlo1OHlWWk41ZUFaN2lreUNMTWtVcFN5YzhBSjhyVkwwb253WjM0amhpemt2dG1WOVhhM05RYmwxRmxxUUUxN1hBQ1luQVN4OVV1dXhLV19GdS1fVi1KSE1sS1B6RFQ2T0Z2S1FSa09rNlhhdHhVZTRZOUNua3l0V0tNN3lxNWJ4UW9wb0VJUFBRaFpMYUJkY1dmZ0JGQ1RpREhZR2pfbnJ4dmxvZjQtUnF2LWtDS2Y2NXFRRUwwcmk1eTl1aUl3ZGxnOW9XTW5fREhiamdZT0VwNEZ5WFM3dmEzM1pDZzU5dEJyNUROTXc3ajdNNHc4VE5fNjY5QTVFOUctS0NSZDFmN2phM0FCNmRrM2JKYmpBbG04dzJlWDdzaEZ0dVB4enpGRW81LXJSVmJDc1VwWlhPei1YbEUtdlJ5cUtmbzY0cGVubEJaaTRTak9KMDVhaVNWNEY2Zm9MMWJ4V1Uzcm93Slp4M1RoRDZ6NjhoVl9IUnJib0ozVk1sZDV4TDFHUHRnQXlndWt4bVFk0gHHA0FVX3lxTE5neFNMUkRsbU1wVEk0WjZMUDJ2T1ZHcUEyME8yRGpVV2IzWExzVEhNelZtbWxKMXlVdG9iZ2NBWWMtWjlMVy1WNS1ORTQxdDM2Ui1jWlVESXREQm0zNWNzZE04b3NpbzRRZWJiU2xSYXlfcExXbnNzYkZZSWpfU0ZCcVBXbGdEQkFvS2ZRQnJsMkhYZEQzbkhSOW02X3NsRVIwUjVDQkY2aVhYanc3QjJxMUtTTWlNa3VPTjZ0QzNSN1k2WEJPb083aG5NV0d6eDNjWmFmV0FtYXFwcy1YS2ZGSk1HZG5WVjZKSTItekt5MzZmT0lsRFNYWU5HQ3owRjRmdVRCdUp6M04tWndJbHl1VUxSOVpqMzRTd2pUNEpMbThpYUlvaklFYUVabXRjR3NENUhOSFBVeDNDYy1mN1BoOTgwN0VSRWhXY2FRU3d0LUp5YUJSbnR5aDRTZ1JkMTNNYy05YnJJV0ZMSkNoaU8wcjZ1cEl3aFdkNnhhUGcxdkFZOC1sT3IyR2lhT1lGZnVZYWM3bUlwalU4MzRfcWg0RThqOEY0MEJQenpsanljRlk2NWNVT0Zmc3Q4VG1JS1Z0dExvMXJZ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:00:00 GMT"
+        },
+        {
+          "title": "محسن رضائي: مضيق هرمز مغلق بالكامل وسنعلن منطقة بحرية محظورة خارجه - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPR0dlR3o4OFc4bHhzMDF3bkt6Yy1qMGtuNlBvaGEzb0sxM0pCb0NiQVBqVkp0Q0w0QXpYeHV2VzVMUGVuU0xlMlc2T0d1WC1fU18xQ3RfRTdtMURVQ2VXZzVpdWNxUnZYMXpKUzNNSUlBTWVrU0U4VkFEeXk4VU1qazAxSmNkaDdxNkliLXJTLVYzbjVybi1qWGg0bk8xZDJjVnlnRUtNQjYxOWpnaTdsQmFwcm4wWDhKU1ltSG5pZUJlWjhNQW11NHpqX2F4d1g5SUhjQ0tYT1lmWi1OVXR2NzdOMUlfVG1Nb0NKZzRja0xjNVlUUHBQeXdMZDQtQlpSWXhVcVdPa1pseXJtRTZpX1hlLUlIWXNvTkhLSjg1bUp5Z1FQaExNVkRfS2dSb2NoTnlzUVVTbEZMOGRQWlljbzdEUTNOelNkS2dVTVB6bEl0c3AxWkpScnlHczV3MkNkdDJfQlpqRVJMQnRJUmpsNG1HVE9NSzFBOFZoc1dFcFdvc3NmRlh2cU1iMFlqdC1LSWJXcXJNQXR2TEhFUWtya3h4RHFneEpGVWt1OWxlQ21PTE45ejE4WWg1MzduRVNRYUhjQ2k5eXFiOGRUS3F4U3RNYUkyVkFWTjJVY0otYUtFX1NfTnJnd0hkekVJSVlBTzc3ZzNCY2t5NEpxRGE3ZGJ6ZGpDVHlrMDlZUWZiXzVaWXJNc1ZFd2R2dFA2Z2N0ZUpRcUM0VHNoX0xCTGo2S2tVc2IwU1lNQ3VSbXVRbGx3bHfSAcgEQVVfeXFMTUVoenNWRWpXdHpma2pSU29JdDNoS2lhd0YtT0k3dDNXM0tHeEhPakJFTGcyYmh0VUZrZ0xvLVNFM3RVWlQ3cDdYZEd1MFNPdjNQeEwzUHFYRjVMZ1hHUWtQZlpRS1htOU9ES2ZWQmlRTDlFUFVhR0dubnpaZGZucUp4Vno0SzVySmNZTjVTUl83d1htejBmTTV6SWF3eHQ2bXptOWlTcGlJNHZwQXRCNEZON01fQzBLRmZnSUluVDFMc1R4cERtZl93bkFnb25MTVo2WC1UQ0RHU2QwQU5SVGZ6T1JQR3J1djRocVFNMFBSSm5aRFBTUlAwcV9LVTkySE8waTh4SGtBT2d2NU5OV2lMTy1QY2FpRndvdEFaVnNYNG9ReG1BLXlHNDNpc01abkRUN1BGXzZqR2l6dkNtWFBqS2t2VWs5Q2d1RDFmMTdkem1PcERqenBSS3YwVnJKMzVUYU5FWXdfcmhjdnhOY1d4S29zamRNNHV6ajFMaG16Q1ZpclJVVjA0QW42NkZ1XzBzanNfRExVbG9fZEhvN1R3dUhnWWhRNUlJanJmb2NIS2VzQ2VwLV92MXFSV2tTMkJha1pBRElOU2M5WjloOGNRQ2g5OXhSMVkxS09rLVlhd3B5VHR3Szl0U2J4ZTE2cjdsOERRTnVFLVhVTU9QTkwzdHBTMmdrMW1vRXNqaFNWcXpaNUJUb2hiYk51c3FzTE5Jc1ZqVEJOdm1TU296bEV1QWpTN044QjYxVHdTellvNHkwYWxTQWI?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:06:26 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "伊朗 霍尔木兹海峡 封锁",
+      "items": [
+        {
+          "title": "伊朗称将在霍尔木兹海峡之外设立禁区 - 新华网",
+          "source": "新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PRUxNWjlwb1BnRzkxaUktYTdrUHZXaDFDWGt2TE5DdERBZzM3M0QzZnJZZXhxU1lrNm9CeTYyOUZuZVZwSFkwam5JczA4cjBSTy0tZk5UUjI0RVJqb2FsZDFHS2JwM0dISnNjcWVZYUdlRXA4SEkwUFZJUnJYNEk?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:31:09 GMT"
+        },
+        {
+          "title": "伊朗称将设立新禁航区 美伊对霍尔木兹海峡通行情况说法不一 - chinanews.com.cn",
+          "source": "chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fQzVWRlJ1STRpTkIzYkJFNmVVODlCc1BCdVBZdXFJTzVFLXRjRDFKUGVnY2NGYm9QZFlDelNLM21iNTdNNGIzNExjejBDRFRURkllNWJlbFZNOG5XaWtpZEh2VDM4ejY1?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:20:23 GMT"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：将划设霍尔木兹海峡外限制区 - 新浪财经",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Z2VWMmFtc1ZwVWhINWZyRFVjZm5ibTRwQXFoSThNRDJUbUVCWlV0MTFwT3BLb2I4UjZVcTg3RGdXd3RUQWp2cExYVF8xeklWTWdsb2dlcEdSYkpuei16eUc0TVFab25wV3dLZjhUQVdqYjh2V09pOURR?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 07:25:00 GMT"
+        },
+        {
+          "title": "海峡封锁拉锯战中，留给伊朗的时间不多了 - 华尔街日报中文网",
+          "source": "华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNTVR0VGxUWkFZQ0tFNVJuTEU0TlhfV1VSbThjczFFcGdiRVU4blBReFVKTVdMMldCckw4alFCU2hPNjBueGp4dGJEZ1cydHZIdmFNQS1LajJIbHdaczItck8yTGdXUzBQTXliM0JDRkt1M3JDSFctejRYRWZ3SV9RUnJxWDZaVXNhOTI1cE9qOWx3ZEFwTjJJRUxXenFvUGxsOGY2clFIMWdzb0V2UlFONGRKak5TaFU0QkUtVXJDUjVvRTBIYzBPTGFPeHlMeExkaldQS3dxVXJoR21DeGl1N3NKWEpGWWRNOTR1dURJRHphOENkaXdjZnZXUWI0cUhnOHR4MldHNUZEX3JtdHR0R09ldHpjLUNuUlpiRWNhamZXMEhQdWE4?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:11:00 GMT"
+        },
+        {
+          "title": "伊朗拟宣布霍尔木兹“禁区”，任何违规船只都将被制裁 - 界面新闻",
+          "source": "界面新闻",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50bmRPbG5VbFNqOEMwbE1KUEltR0ZOa016a1pSaVAxbHVtTm9xWWFUQ3dQNk1ZVVZ2ZU1WdlV0Z3BPOVB6QjZfRTJqcFNyNkt3eTNVX25KWl8?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 00:52:23 GMT"
+        },
+        {
+          "title": "霍尔木兹海峡通航量降至5月来最低 - 新华网",
+          "source": "新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zRHhMUVRNYkh0QWY3NXpBc1pyVS1WOHRZUWs5QUU0cHFQRmNIWWoxUExCa1NTU0p6RkVocmExdnFmM3ByYXNGSHY0WVRnbzFCSGk5MTZiSTFydDBDV2hVS19naUlrMVh4M1hxZHhWdmp3UmV6QVlYclJzX1V1TnM?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:09:48 GMT"
+        },
+        {
+          "title": "伊朗军方：或对美进行更大规模打击 - 凤凰网",
+          "source": "凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zWGV6SFJkVFZvVFd2TVJkNHhaeXlHR0xqUkZ0VURrYTdOX1ZRdlNra0ZjRFh5ZE9zZXptbHQyaXZRcHhocXp0aUhTYw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:33:42 GMT"
+        },
+        {
+          "title": "伊朗拟在霍尔木兹海峡附近划设“禁区” 警告将加大对美反击 - RFI",
+          "source": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPcmFTUjE4STg1X1JXakpjaHB5RjRVbXZhSGF3bWdiR09FX3dVS1FZYS1FU0dNczh0WWYxSDJ2My15WGpWeEJqRkV1OXpNSkQ4THozQWpsMlMtUkNzVE5aeHRCbnZJZ2xaUUsxTVdVQkJ2YTZpVmpzcXcwZDNlYWlGX3NQWXpycU15N0Nray13aEhwQk5fNnJicjFqb2R6RktYU1N6Q2paMG1SdllXdURqOTZYRURKbWJYN3lSZ0xZNy1mcWZsV3p2eERmd2FJbFdibXV3Z1hHMEw2dTVac2lFMGpHbE85bzM1TE9LbVFveXB6UUhQWEFPTi0xNkN3SEhPaFpIa1c2LVFxa3JWYnpCTkRvMnE1V191UXhZU0wwdWd6NmRKZmd0b2NtalJWYVFTY0g4ZktXLWtwREdRUmNIQmdpZWM5Yi1DNHZHMUFnZndhLWtSdGJuaGZVNVJQVDh3V1A4WkRpdG5FZzgwUFpOS3UzNXBwZVRsQXVFQlJZRmoyVndfYW9xTjJpNnJ1Zw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:23:22 GMT"
+        },
+        {
+          "title": "国际早参｜伊朗称未来几天将宣布霍尔木兹海峡“禁区”，即将与阿曼签署海峡相关协议；乌美首轮会谈结束，泽连斯基称讨论对乌援助等议题 - thepaper.cn",
+          "source": "thepaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XeU5ZbVNBRm1IeEdUaGlTdTNwcGN3cnBGZ0FkbjVreUVhRWNIZDFYaTFuRlR2OWtrZF9FeXc1bHJJa20tQTJFZnRCb2xzVnhaenJzendTcnRwN19xX0E?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:21:00 GMT"
+        },
+        {
+          "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区” - 京报网",
+          "source": "京报网",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zRmNPc3QySGNmOFR1cDFVbVQ0S21qZFVFQnJKeS0wRE1RWG0zSkdSLURhalVxRkFka1FlcWRjLWZSS3VONG1JeURyX3hGUWtCMWpwUk4yX0xad0o5WEYtRDh0SklvWWVFUlA0RlFvMG1yQQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:51:00 GMT"
+        },
+        {
+          "title": "德黑兰继续封锁霍尔木兹海峡 美国称拦截92艘与伊朗有关的船只 - VOV World",
+          "source": "VOV World",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWZkcU04SnRoZUx6YkRiemlydHBTb3pOanBYdVhLdVlEcm9EUGgxSVlRb2NlTVphTDBRY2lfSVViQkpHYzV5Tlg3RjlfaFI1dEwyRzV4bE9pVFNGSFV5ZmtBcldOOEp2UW9xeEJQN0FLVnAwb3UteE5LcmxvSEJjcDZXTFJCY0JZQjI1ZWtkQVQwTXVOZHNpenpOTWhLNUNnWDlUUTB0M3FGQy01SW5HVVN0dE1kREltOWh3bU1QNUxvM041eXpn?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 03:50:07 GMT"
+        },
+        {
+          "title": "美伊冲突持续升级！伊朗：未来几天将宣布霍尔木兹海峡“禁区” - 新浪网",
+          "source": "新浪网",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZTmxlNDJUamx1R3I2dHhqSWdhQmVMcGtENm1rd2YzaE90SV9tb042Y3Z3UmdqODFfMTBBRkRsVUd0TWh0SHZDSndqM25wV01HX0hRbi1LbC10QUt2ajJrY3BweXUzZTYxNXhNS1BHQWZTNGowSzM0Tg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 00:33:45 GMT"
+        }
+      ]
+    }
+  }
+}
