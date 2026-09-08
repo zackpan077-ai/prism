@@ -1,0 +1,17 @@
+{
+  "event": "美国与伊朗在霍尔木兹海峡及周边的「油轮战争」升级：美军打击伊朗油轮、伊朗威胁封锁海峡并推进与阿曼协议，油价大涨",
+  "event_title": "美伊霍尔木兹海峡危机",
+  "why": "被美、日、印、俄、埃、德、法等多国头条共同报道，且各方叙事差异极大（美方称制裁胜利、伊方威胁封锁、海湾与亚洲国家关注油价与航运安全），是典型硬新闻地缘冲突事件。",
+  "queries": {
+    "US": "Iran Strait of Hormuz oil",
+    "UK": "US Iran tanker war",
+    "India": "US Iran tension oil price",
+    "Japan": "イラン 石油タンカー 攻撃",
+    "France": "détroit d'Ormuz pétrole Iran",
+    "Germany": "Ölpreis Iran Hormuz",
+    "Brazil": "Irã Estreito de Ormuz petróleo",
+    "Russia": "Иран Ормузский пролив блокада",
+    "Egypt": "أزمة هرمز إيران أمريكا",
+    "China": "霍尔木兹海峡 伊朗 美国"
+  }
+}

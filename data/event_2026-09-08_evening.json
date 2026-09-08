@@ -1,0 +1,776 @@
+{
+  "event": "美国与伊朗在霍尔木兹海峡及周边的「油轮战争」升级：美军打击伊朗油轮、伊朗威胁封锁海峡并推进与阿曼协议，油价大涨",
+  "event_title": "美伊霍尔木兹海峡危机",
+  "countries": {
+    "US": {
+      "query": "Iran Strait of Hormuz oil",
+      "items": [
+        {
+          "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:31:00 GMT"
+        },
+        {
+          "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:33:45 GMT"
+        },
+        {
+          "title": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUkI5S3doOWVtUHhfdEU2d2RqTVZvakc1bTN2QUdmUEhQSmx1WThYQWoteGpjSGJLU1FMbmc4LWU5R20xLVBER182eG1FZm11ZHFWY1pvdEIzMlo2ZkFpeTlBQi1xd01UMUswenhqTXhCa2Ftd29nZ1RpUFo4REU0MFVoX3Y4RzJKd1E?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 09:02:15 GMT"
+        },
+        {
+          "title": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjFZYld3STFWaVdhR2hGb25NdVJQeml2TU5PRDlsa2lFbVc4a1huRXU0MlFYd0lvem4tR3dablZsMDBkUVpQMjNDb0dlTjdicVVLMWwtUDh1cnlBSkUwUDFYUlNfLUs3QTB0SmU4d3VXQmxady1jRkhQMnRYdjZ1bDVKTEhRaVpWT1dZaXVCYmNhMEZGOVAyeHI1Z3o?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 19:51:10 GMT"
+        },
+        {
+          "title": "Iran says it plans to announce a new 'exclusion zone' near the Strait of Hormuz - PBS",
+          "source": "PBS",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnRWSTAzR3R1bWNOYUlFbC12M3pENWFESjZQaGtFbThpdVZGV0dHRzVrRGthN3BDandiaVFKWGR1RndvbzBCb3puLVFlc2IyX1hpVWRFQmlRQURQejVNTFMyX2lOMElxQ1RmN2h4XzA1UUFCbHl1WF9SNWJkSTdJZVMxVjV4MDVaRGUxam9MSC1Ga2ZVUmx4ZE1YZWF2Nk5TREJjd3hyRGd4amNpamFRNE1vYzlTQdIBuwFBVV95cUxOZW5HQzlaUDRkN2syOGlqa3JGYXZjUlgxYW9OS2VTdHVJYkVxNktCME1fUFRRMEhUVV9qSWg2b3pWaXA1N0V1UnZ0NWhiUzdyRFpsanZqNVpfSlFESU55cDA5a0Q0RFlpejFnV2N0QWFERFB4dnQ1U3lqbHRZdVpFeV91Z284Vkc3QkxVbDRIaHdEVWxveE0xT3dGSVU3WG1XRmdzdGRtbFpGbEwwWGc3SDNfUTh5QjNxeks4?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:48:51 GMT"
+        },
+        {
+          "title": "Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait - Fox News",
+          "source": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVRCUTJDbU1rM3VXMlV0U0lONk81WDlCendLTXVDTnBJc1JWamJfdDJtVzhOeFJxVnVHeWo5SnJ5WVkyQThNS2FDVmhSaDUzQnMzbGFRUVpEdDdmQ0V1X3pGMlFNMnVQdElab0dqNGNobzRSMGQxeGdPWEVYNVR3WE1FVXcwdTVzbzNyaWN1RTJiTmg2a1NMSFBBWTZPb05oYWRwV2NR?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 11:28:17 GMT"
+        },
+        {
+          "title": "Iran is losing its grip on Hormuz as US pressure restores Gulf flows - jpost.com",
+          "source": "jpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TTWFacHlaZ1NiRTdWTGR5SkJMZU83a0JXLUpOamFLVFRSUFZ0UHg0ZHlpazl2eEdYUHFfMVdWMi1RRFd4WW4waGFza3RhTVFSSkdKem1FRQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Iran says it attacked tankers, US-linked vessels in Hormuz escalation - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmZvMmFhak9ROGpLQ2RDdzh6Q01QTS1vWkdDZThmdVBYUkQ4OUhVcHl6aG1TamFVTlA5QUVjQ3Vsa3ZZVEVYZjNwYTlFVDktYUhvTkNmWVFmUy1Oa3Y4bFlUS1N5d3VYMjNJZUJUeU1TNk41QThSZlpwYkhyQ0xjR1o0WXpUM1VJSE9KUUItdV9fX3BTQnRRamFCRUJaanRMQVZqSk1BM0hfZw?oc=5",
+          "pubDate": "Sat, 09 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Oil ticks higher after fresh U.S.-Iran attacks in Strait of Hormuz - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlZsOEFYNjlWZlVBSXN0c2NCVkRPMGN3V0NvYW1mWEhDT1JiNmVwaTdBdUJwTnhNWlRGZ19ndjUybU1zWVZjazRTS2ZOSzhBQVZwaWVsNnFBcEZKdFpIVjdHeFoySnEtNmhLM1FCMzB4MWVpQWhyZWcwcHZobUpNdFBCUVJlSmV0b1lnc0FPc3NoeldpX2lzbkJicUZfZFhOVWtQTExfZ1Q5ZlpxVW5vWjlTUjdCbko5UzhEYXpRSm45UQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:33:23 GMT"
+        },
+        {
+          "title": "Iran seeks more control of Strait of Hormuz as oil and gas prices climb - Yahoo",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNU1UU0JmSF9PXy1IMU41bFZ3eS1iTFlpU1d2bzV4TUoyNmRHaXNhSTBGaTNxeFN0Mnl3aGhGcjIzV0VuV2VzeWdHYjdnLTRDd2xvaS1MVjJnMkdIVmpFUHNyZlVBOWV5T1ZYcG1jY3pHdEUyVFFNLWQyVzB0OVBxazNqdzk4SFFULTU0aWxwQVI?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:06:32 GMT"
+        },
+        {
+          "title": "Brent crude nears $99 after strikes on Saudi energy sites amid renewed Mideast hostilities - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUhmamNMMjBBQ2d1THpZSmp2X3NORDdDUXVlWWx1c3N3dDJlS3ZsaWZrcWdXR0pTTzZqZHBDeFhsd2RicG9OTEdSV3FqTTNiTEl3Yjc1d1ZYaWV6b3F5cmlPQXpXU29ja0F5ZkY0Q3FnSUxEcGlleTNNMGh3SEpqNlZQRHQxUdIBiwFBVV95cUxNZ3llZW1uVXQ2bmhtM1VETXJjVmFkdFdDb09hT0NfNll0anVXakVGVjJHSDZRV2R5cGF2T0FIbHhkTE5maFZjUEc5VEhTdXVENjlsd2RMZGpENjNWR0xsZS1iTnpseUNrdkJQVEVaa0xnb1Y4aEtuMnl6UHdURC00WTFuY04tanhMNXVR?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 01:32:00 GMT"
+        },
+        {
+          "title": "Iran-backed Houthis attack Saudi energy facilities, wounding dozens and sending oil prices higher - reuters.com",
+          "source": "reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 01:49:00 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "US Iran tanker war",
+      "items": [
+        {
+          "title": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03akJtOU1UbG9VQkI0Zjdnc2pMWWZCMi1HbTJ5YkY2eG1qREVUcE1FZHc3MTgya0RtWl9zbWRUVVF0ODZ3SjRvMG9ENG5HM0VMcFQtbUdVRXN0VnRj?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 14:35:54 GMT"
+        },
+        {
+          "title": "US military says it struck three Iranian tankers after American warships came under missile attack - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RaGwtc1V6SnRzUnp3N3dBYXk3cmw4TkNOd05PQk4ycFZkYU9iWkRzQUNoVnA4NDloc08tRTZPeWhFcGtQSllIZllRd2JWbFlBaTd5MGZRb1dEYzJlNDR1a3JqeHlaZmRLaGlSZWZtUjJKbDNHNmZpM2JR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 01:56:00 GMT"
+        },
+        {
+          "title": "Iran proposes Hormuz shipping corridor as tanker war with US escalates - Lloyd's List",
+          "source": "Lloyd's List",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnI3VUYzZmUyN0dyVDRWZ3lUWV80U2tmT2FJZmlZbDJxQTZhTWRINnRqRTdkeFNqemlOMkxmQlRqcjctM3FIbm5MNW14RXJsOWluaGpmTjc1cDcxb2xWNWdQWXRrTXRjMlgzUmUzTGNtX2tvQndWME1tRHFYM2FkRkVZYkwwZGpjSW1fek0xa2lQYTIyMjktNEVmZldKUzhCTkNHdWYtY3VLUUE?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 10:10:50 GMT"
+        },
+        {
+          "title": "US says it struck three Iranian oil tankers after attacks on warships - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ISlAxTnJlbDFHUmRXT0JrZmx4a3F4XzlFWEFwZjVUaTUzdnpvdEpkend2N0tfMHg2OTNzOTBNY25uSTB3NnNoYklMa1c3dkJ2MkE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:53:43 GMT"
+        },
+        {
+          "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYl9iXzAxY2Jyd3FvVE1aa1V3TmVHd19wcDNad1RSUG13VTFFZ1BINnpIWjBQa1lwRVdsZXBFa1NFeGZnbzZpQWN3Ul8zeEx2aGs0cFQwUVZIamljSEVBMDZUNmJQdWhlSDREZU5Xcmh5emh5dFNMZm1RTTloNkxoeG9VWjhual9jYXZyMkQ5NTBXZnZuemFJeGRYd1ZWQmFSN3JtTDJLV0lXTWw1MUtZ0gG0AUFVX3lxTE5scDhDRzVfdkhnVkpIMF9pbkYxNFphWVdKd19fZ0phU0Q4QkFsZFctaDk4SmxiVWVvMDhFM1R3R1l6T2dfWlJtaUJ6TVR1WUtXaUhjY05jc1NKaTVrVUlORlZBXzhVUDhZZ1Rabmpnb0ZiZ0UtZlFOeFdnUkVzTWpPdW84YUF6NkVneF9tMU0tUDVaaTQ1bmNweGI4UkZSVFZVX2hFbHZlVmltYTFDd0pteUc4YQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 10:50:58 GMT"
+        },
+        {
+          "title": "Iran, US Trade Tanker Attacks as Six-Month Conflict Escalates - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEZuSTVpYzJLWlZYeVRCOTBBU0U2NmU4SHFPOFFleDJHOUc4UTc5MXFSNkVFN05jUDZOMVoxYzltN3NqLU9WWjAta2FrQUYyR25pLXNaSmE2UGFTMDZ0NFMwUkRzTzZjOTd2OWk1Uk5qMXhfeXZaM3pIaWVBdUpoVUFRM0hOZGlIN191RUlfVkFsbG5WSG5Tdm90U1BKMkdhblgyNnlDWWhvdElDVU1J?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:46:00 GMT"
+        },
+        {
+          "title": "Iran touts military response as US maintains blockade, hits tankers - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 16:28:45 GMT"
+        },
+        {
+          "title": "Can Iran enforce a restricted zone in the Strait of Hormuz? - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEt3eFVmQzY5SGV4MS1nV194dS1QZmtocWEwQVpkTkpKYldmcV8wWjRnT3llQVV1ZFJDXzRHWEpfM2R2Y2VSWHJPOEpqVXBrWm92MzZQaTh4aUhZUkNkZ0tfR3kzTm1lNzlKQUVxQU5udGFuMjB1REktN0loMmZQNDF5NENDVW8tQlJ0cDg1NTh3S0xpMUtjOVp1d3RqUTjSAaQBQVVfeXFMTWZyOFFNR0NJNy1aYTVwZi1lX0NYdW1fOThtR1ZHLVFVMWtQd3g1aUotQWR1WDU4TC0ydjRrX3dxS0w4eGlfcnYxdTd2Z1BiTGVEZlYzdFFKdGxqeGVHSVRxMUREY001Uy12MUprT2w2aXRmdFZ0UW93M3JNYWdCU3J2X20wNHZjWWhNQ2RmZlJwYmpsYlRwUjJQUFRqbzFVMlk0SGo?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 11:41:10 GMT"
+        },
+        {
+          "title": "A New Tanker War - الحرة",
+          "source": "الحرة",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyUUNzcWJ3R21OWkNRY0ZGOXFSb04wQVRoVkdfb2R3MXZEeEZGNHF0aVREY2xMMFpSV2VzZUQyeF9PQQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 18:30:44 GMT"
+        },
+        {
+          "title": "The gamble behind US attacks on Iran’s oil tankers - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUFZYenF5V3UzOUx5VTNJOW1rWkwtWEpucm10UGRRRG1hSE4wMkdWNEJMS2hLdGdidmgtSWg0cUlaZ2NuQmkzMXF4akNnVE1yNHc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 02:56:21 GMT"
+        },
+        {
+          "title": "U.S. and Iran trade attacks on ships as fighting flares up again - NPR",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOTZYWC1FMTRxUzBPV2lSZlBIQS1mNHZTN2l1VlFRZW80SGMzWUtKT01Ca0xncjNiZHk4dXNRTGRFRnRuQnYtU3NSV2FkUUhyME13RllPYXZQNzJXWDVfYnVqN0p3cW5JeXljVWotcjFiSmI3dXZlTkhn?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:05:08 GMT"
+        },
+        {
+          "title": "Iran: US hits 3 IRGC-linked oil tankers - dw.com",
+          "source": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yME9xVFNFNUVSS0lMNUdneW1wYS10WjdGU0hXSkZ1TEVNa0d2cjNDTkZqb2RyWUVVcWttY2QtNEswQmlIQ3JLTzA1bGdQV1duNzMxVk95a1VoNkRNSF8tVmtWQ09UaG83bnAxOU9XTVZmeGJROFRjc2lDWDhQS2c?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 10:32:57 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "US Iran tension oil price",
+      "items": [
+        {
+          "title": "Trump says oil prices will drop ‘precipitously’, gas could fall below $2 after US wins Iran war - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOS02ckp5QnBncFZRdGFrV016dkotTHJaUkFYM2JNSXlpc0FGbEhWRGVrdm1PTWFnc1ZwTjlTbDJyd21LSHVDZ3YxYjdROTVZVEdELTUwWEJweFhYSXUyc01mNFNfQldkWGcyRWlWUDl6TEZpNndsdmx1Slc1MzZaa3NlRzczR2pheWd3amU1Q1FyT0pVZl9NOGFzRFB1LVRYeHZaeVIxT2lQMGV4MzhMUlZ6SjU0bmJ0eGxDSmdMU1dQYlRCemVPRzdjZDlCU3pvZExfQ050SnlBVnV6YWZBaXRR0gHnAUFVX3lxTE9vQjFsZjdjNzYtN1hKUW15YXp4MzBta0FFQWRGYXVxX25YdHhDTE1YUlRpS3FMZk1tcEFNSGVfMC1ZaWYwVTJOOWJScTlabXFTcUkzZXBETFZIeEwwZl9TV2pXakYwYW1SWVJPSmxmcG1jTXVrdWZKVlIxSlhxM2lfcTBLa0t4NGNESHIzczltYmE5N1Z1MTBOU2RrX1NRN3NXeEF1dmpQb2xFajdiUnp6dDJfdEpGZkVxaENwNFJVbVVHM1pVWjFha3VJRlNVMF81U3NObnc1cDZ4aEJiT3RjTWctRHhKWQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:30:21 GMT"
+        },
+        {
+          "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:33:45 GMT"
+        },
+        {
+          "title": "Oil Prices Near $100, Hit Multi-Week Highs On Fresh U.S.-Iran Tensions - Forbes",
+          "source": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORndtYzJYYVJ4UTAzWS1BUHNDOE9yWjdtcGQ0UHVCZHBqaGZVbnFDQjRJeWxjdnhXajlXWkJaTGVjaHUzWXV5MXRQMDJBaW1md3d6LS0tTGMyWHNGVWpHZ3pDbEN2Qmo4SDl4bTZqbEJEdGVRT3ZhS2FNVnhNZHJ4YU4wcWdvemdmSXEzZ3B4OUxkX1Z6VnhQcm5XVmlKU0x6R29ERVRyRzRXOXZSRmNzY0RFM1VGUGFjcjJfSQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 19:02:39 GMT"
+        },
+        {
+          "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUQyOFhDMW1jRGlNSFNReHh0SlFkRmV1NFVFLWE1LWVXRjFOS25EUVNqWk9rRy12U3dTSWxUelZYTS1VLUdXZklTT0tzYnA1VjBQX0xLNVdWdWZQTG5oamNKdF9jWjhJVUZleDB0MGtveE1GNURRazNWcTQzYXZOQjRwYXhkYXM0SkJ4ZG9yQ0RjRkpZMk9lWkdQVzR2c3FkR25mb0RPQVVxUk1wU1NOY1lDNW11VEhHZ01CTG9wQXB2a3lqeVUtRkFpYWJiSkJ2UXfSAdcBQVVfeXFMTzZTTGdNUmozTkJaaHdVNkZYdUpoQWYxcXZxU2FSRV9PWkN1X2J2Q1VaRm9IaEpuenItLS1MNFc5RkJfWXlCamxvX25GbjYzYnlqQTdoWElvOE5kSllfM2RWaFA5UnZvMXd1T3hDOEJGZEdIR2JsM2cxV2tHYzNodG5OVlBuOHBZRlZLaVdyX3ZsUi1UMVBKR3lxNFNMRFBvalpiWEJCVFlkQ0h0WXpqV01zR3BrUThhNnNXY3J4SXBWOTR1eWhNQ3VTUjcxRm50clQyZXA3SnM?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 14:52:48 GMT"
+        },
+        {
+          "title": "Why isn't oil above $100 despite supply disruptions? - ET EnergyWorld",
+          "source": "ET EnergyWorld",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajZFV0dadFhCTjdTVzBSSzhKMkhPZE5RUHhUQ2ViYktMOEZ2WXdXNTc3eGpzeDBQNktxQkI0T1V4d3JTNjlVSms3a1MxaGMtS3V4WERWVUNBaGFqaFVpX0p1OHRvVFpmaUVraFpTQ3AxYzJkdDlEUlBkZXFLbjhsTk53czA0dHo2cW9qWVNBd1M5RzY0QkFrTUNmMEVEbEN4YlVpeXZIdFpnbEstQ09ITmw2M0NpN040OFR3ONIBwgFBVV95cUxQcmNFTkJ1bVhSLXY4NklPUEZlMG9TcXVTNUZQOFNfRjl3bmR1d29YaDNXTGx6SkNReXJ1UW1WSDF4dUkwNTZWeFh2VzViUEprSU5LSTllY3dzWlRVbW9XWWI2SG1CeDdfSU1pUTNxQ0NlaUJKYzlQQi1vNEFSaGhvS2Q4ZDhVZ3ZvQVRtQnpDM3JUcU1GTTVvRldwZG5UbS1ON0ZKdE42dUh1QThjU1RnaEg1Wl9WRnUxT2NvZGNhT0tQdw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:38:25 GMT"
+        },
+        {
+          "title": "Oil prices near six-week high as US-Iran conflict disrupts Strait of Hormuz - National Herald",
+          "source": "National Herald",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ29XUHJRMkV4MlE2ektwbksza05Ba3RwQUM3VGNuRUVCZk1sa0ZMQkFSUVRLb01WNlNnLURnUVdTa1p0MkZaS1FaYnRia05ZX3VPTTN6ZW05LWZ6blgwM1VuZmVDdjBjM0JISEV0NHUzcHMydWRwR0pXblRFTGtsSE5XSmpkVmpjcHZ2TS12VlZ4T1k3aFpYRmFzZEdteV9QTGo3djVwem4wU0lUNWFwak1MQjM4OS14azJGT3BuTklJcHPSAdABQVVfeXFMTXN1VFVrWFQ4TDRfS0lUTmdJVF9UR1E5VmMzc1pTUUs0LUJUUWMtT3p5c0x6N0dhZ29FclpDTUE2RnRHWmVocGo4YlpOMTJqT2ZpcGlaQVAzcUtRaGRpbVQta0c1a3Q2cHFMTTg3QWlBQk9tQjJMZUE0X1VqSWxmbmVGeGRpam1NdF9XakxqWHdSbXE5UTBZQnUwMFduVm1reGpjWWszUFluelRtLUJpTVY2c0R0WDNMa0U5NE9WYWVNNkNQX2tNLTBnN081S0FLbA?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:40:08 GMT"
+        },
+        {
+          "title": "Trump Claims Oil Prices will Drop Below $2 After US Wins War with Iran - Deccan Chronicle",
+          "source": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjJEdkdIMEZIaE4zNUQ0OUhGMWJ0aVJ3Nk1XNzEtWE4tWGRGWDdVSjA0TUJWMmhkRkd2aVRiWTJCQTRnRzdPLUExTVgzczJRWWVHa0NRd1BJZnRnOVJIb1FSVlFkMUZwejhJdWxTb0JaTkYyaFQySmdmb2tXVFZOVTRZWi1Ba0Y5bWlmUTNjdFIyV0h0RGZ5M00wQWEyUmFsdVp4S0xycmg4ZmhKb3N1Wkc2blVlck1lME14RHZIRzRsUdIBxwFBVV95cUxOQXFHd29QNEd1ZnhuY09uTFdxRXlYUUk0V3FySUFPdHRfSkpVeVBlc2g1MHp5M1NGX1JVTFNLQWFNMXJlcmFjdl8xWnFKemRFT1dvelRtX1NlNDU0WWw4Ql9nb2lPUTVyN1pGSHdxTkFnLWlIS3VYUk9GZWJuelNrMTdEV2FXN0xndUN6Rk51S2ZpcGpTMEhSWVdHNHNVdi05OEJwYVhSY0dEcW5qUm53c01GcFR5dXlWdWxOaW1JZkh3ZGwyTGZJ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:26:12 GMT"
+        },
+        {
+          "title": "Oil prices continue to rise amid ongoing US-Iran tensions - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZS1sX3k0M2ZYZEIyOXhLYWszekNaVFA4R0MwcE1xaW0yLWwtT19DTVpRN2lhQ3JUXzNVYjlUNUpuTHdfVVp6R0s3bUtiRTJ2cFB3ekdWU2hwU0dNdnlHem9qeE13SkFudklZa3o3N2NaOVdNMFBiTkk1UExQZjFqV2J2aG8xQUN0WVBMSURtdWhYLXppSzFtNzJuWkVnT1E?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 07:07:51 GMT"
+        },
+        {
+          "title": "Oil hits multi-week highs after Houthi attacks on Saudi energy facilities - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 00:50:00 GMT"
+        },
+        {
+          "title": "Oil rises as risks of prolonged Mideast conflict heighten supply worries - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObF9QeUlUMjIzU2hOcFRIUlpENnNIbi1QN21HVHp1bG5yM0dfOVlqMEFaMExUS01XX2Y5RC1jdTNxeV9kelliUWo1cDJIQ1p1NkZNWE1NWVVuMW82NHlFWHJCR0dieEJTbTF4dWxuaDY4cVRVVmcwbEpSTmZBZ1F3OVVPYTNhaTFGem5LSTg0QlF4UndfaW1SWnl2di1rLVBnSC1UT2dvOXZxSkd4Z3V2OGtVMU5iSG85OTJCWFhQc085VzRsbWdTblYwdnFnM21laHZldnRHc0w3SFJ0LVlxRFpfV2g2UdIB6wFBVV95cUxQOXhwV0RYRXZiX0YwZE9EQUpUY3IxcXZaVFJHei1UWGJqOFZVM0NMa0lDLTNxbmZkTXpTQ3EwRmg4Y0s3X0hwU1I4bVNJa2JCcjdlRDR5eFhIR3hONGNORTgzblNVMlY0OGF6WXpCRGhDVFdvSHdweWhIOTl5N1MtZkp5eHBoczFHbzBuRGlmekhxSzFvVVFXT0RscUlOX256ZVZFTUJ1LURTakhzWHRiT0hScGFTYWpQX2Nwd0JJQW5USnhSTnVWXzZlMXY3cmpSN04xR2pnQlFDVjRDTWZGLXY3YjlHdVJfREJ3?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:00:43 GMT"
+        },
+        {
+          "title": "Oil near $100, Fed rate fears and Iran tensions - what’s moving markets - Investing.com India",
+          "source": "Investing.com India",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFdCeXJ4QmE4OWtpV1F4UnNPcklmSlF3c0xGbVJHYWlDaFJDTXRoWXFxdVNWNXU4UFplQk5VM25xNUZuNWhxNFIyc09FN1N1M0JpTU1CMEMzbWwxeWo3cEhSejhkNUpVeDR3MGRKZmhXSENZRHloQkNVbVg2dmlhMS0tbWxreUc1NUk2N2Jnd0lPWDBXREVKM0tJMGU4ODZkTGQxZnhwMkZIQnR2elE?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 08:15:00 GMT"
+        },
+        {
+          "title": "Oil Price Forecast: Brent Nears $100 as US-Iran Conflict Escalates - FXEmpire",
+          "source": "FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSnkwcFdSa1lLLTdQdmNUbmg4emwxZWt2YS16RFlwZnFOX0h5dXYwd3VkSm1TTkgyaHNxU2lMVnpzY1FhcU5wUFBfSnVVTVd2M0owTGstZGlOcEFCMXQ5MUpKZFlueDU0Z1U4LWhacTQwMDhacmVlTWgxVm9jV1pvaTNhZVE3bVRHT2tOZDE1LS1GMlhnMW5TSlVfeFNNaVdtOHBFVlE2QWlnX081azQwTFl1RVpBZw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 04:45:00 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "イラン 石油タンカー 攻撃",
+      "items": [
+        {
+          "title": "米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化 - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dl9DUjhiSjRNeTRnd2otMkpSMjVmWE5mZTk3OUQ5VVhRVGFBc3l2MWlzcUoxam1MSk9KczNoal9RX2pGQm5xT1E5akhhVm1yQmNPbWd5alFkczdQUmprRjd4Rl9WcFgxTEJRY1luTnhMNzdzSFpsaF93?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 20:28:00 GMT"
+        },
+        {
+          "title": "イランと米国、ホルムズ海峡でタンカー攻撃の応酬－戦争終結見通せず - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrNFJ2UVFqM04zUUhsSHY4TElRUFFNVHpnOHFGdWg3RE1hYVFuYUp3WWJSeHI2QldyOEplNzJTeWJIU0FlVDJUY0ZldmJvQWRCaGVIOGFmOUh0YU51U19iUHBIUlRlbU5VUFVMcXYybEw5OEZWOTNB?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 13:03:21 GMT"
+        },
+        {
+          "title": "米軍、イラン石油タンカー3隻を攻撃 新方針「タンカー対タンカー」を初適用 - forbesjapan.com",
+          "source": "forbesjapan.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rREN3Xy1LVnEzYmlkRHNzd2Y1blBDZGhEekJoY0FaeGhpU0VXREktM3dyeFpTYkt1MUx0NTNqUmNjbGtzakpybTVGM0F4R3pVUWpCX1dBZTJPdw?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 01:00:00 GMT"
+        },
+        {
+          "title": "米国とイランが船舶を攻撃したことを受け、原油価格の上昇が続く - arabnews.jp",
+          "source": "arabnews.jp",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iY3VZQ1BwWlBsMlpDWTM3dE5qdk9kMnpvVmF2MW82enFRVEtTTDBDWldyeDVWNFliWUR4aWdrLW8tU1N4Y0ZuM2l5emxBZFhRZWZJbGdubzRUWFdsdXdMeTZhZ3ROZTg?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:49:54 GMT"
+        },
+        {
+          "title": "米軍、イランのタンカー3隻を攻撃 革命防衛隊によるミサイル攻撃への報復 - cnn.co.jp",
+          "source": "cnn.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2MXVzVXJNYXp0YXRvSUkwN3YyYmk3aVhld2tacW0ycFJwLVlTQlVDYWgyaVpkd21ldXg5bThPVk9HcmdsTmlITi1OZ0FJNnN5cnRR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:10:00 GMT"
+        },
+        {
+          "title": "米国とイランがタンカーへの攻撃で応酬 ホルムズ海峡の緊張続く - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNTN4a3JhUVhmd1JQM0pZYVFlRlBhaEtPQ0wzcWtXZWFGbGhic0g2Yl9MbnpodFdrVmZNMnRKTWZtWEFTMVBIdWJKTmxQR2pQbjFYNFpJTjRvQTBUTmVWMHpXY05kRms?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "title": "米軍のタンカー破壊に報復、イラン側はタンカー３隻と「米国関連」船舶３隻攻撃と発表…応酬で供給不安再燃 - 読売新聞",
+          "source": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2am9QRVdyeTRMd2ZTMlBTN3B4Nl9jY3pITmJIZmV2MGRSY0VTYmhxZVpRZ1c5ZjhnRXBSZ1NRSUN4eXA3ZVc3RXVEZVI0YXFPRHljMnFUeUlUanNtZGk2QlJR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 12:13:00 GMT"
+        },
+        {
+          "title": "タンカー攻撃の応酬 米イラン、海峡主導権譲らず - 毎日新聞",
+          "source": "毎日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54M2lzTHAzVG1nZDRWeTEzZHFlVlNzNXNkSTljM0pKLWw4M0tGZHVSLU9JS0V0TUg3ajNXdXdnbDR5WTFNQmRGb01Yd1RodU9vcFNYREtfcHdXZExOdklxbVlVc0RoNDJJ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 17:00:55 GMT"
+        },
+        {
+          "title": "米、イランの石油タンカー3隻攻撃 空母へのミサイル発射受け - WSJ",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXFWZkNfRUlCcUxaOTlIUk1PUVg4OU1DQWZFenFXRnJCbVFjTFlFM25MRlVDNV9sYzhzLUlnS3I4NnhWOFlaZzF3bi1LYmxaMldNdXlKRC1CRVg5dWRvdlFMZXVULWlvb3lKLTZWd0ZENlF3NGJlRmoyNkJwRGpPeU9iemJYQklfRVdJdWw2cXFLSHFDX0RhQk5XejFRUEhtRmtidm1QUmtHaDdGU0FISE40N2hiSzY2c0E?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 00:19:00 GMT"
+        },
+        {
+          "title": "イランのタンカーへ飛翔体、輸出拠点近海で 米中央軍が攻撃を発表 - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HQ1BZWnp4NUYwQkdwZlhST2ZBR0MxN2k4aGdkQmFWUHN1ZzlmOEJmSnUwNDNHMzV3QmQ0RGkxN2tjS2gxVmRKY1JBU3VOMVh1dHZOZm8xR2t3UVpHeUhXSVNYdERvZFk?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 13:24:00 GMT"
+        },
+        {
+          "title": "米軍は、海軍の軍艦がミサイル攻撃を受けたと発表した、イランの石油タンカー3隻を攻撃 - arabnews.jp",
+          "source": "arabnews.jp",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15UTRMelR2MDFJNDRyQVhGaVVpNklkRjVaSVNxT2xBTmNGcXppUlhhOElaUlg1RUlCT3NKNGptaHU2Vi1CV0hqYnM5Q1YxZzl2dmhMRE9HdXlWUmtpY1lMREFGSzg1UVpKYkh3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 02:09:01 GMT"
+        },
+        {
+          "title": "アメリカ中央軍、イランの石油タンカー３隻を破壊…「革命防衛隊」の攻撃に報復 - 読売新聞",
+          "source": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94U2hlSnBaU054WGxra1YtZTVGSGlRZkxENWh3dFY3blNGLXVZcUZXN0dQZ0hlRm5PZy1nZXE1WnFHWGFYQlRobVJOUDV3NUFDeVFSUmJ3Y1FYekdfeEdBZW13?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:42:00 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "détroit d'Ormuz pétrole Iran",
+      "items": [
+        {
+          "title": "Blocage du détroit d'Ormuz : comment la Syrie veut devenir le nouveau corridor pétrolier du Moyen-Orient - L'Express",
+          "source": "L'Express",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbUc4VXRRRUd3aFg5Z2QyNEh0WS13d0c1T1RFaDRJQ0gxRUNraUVpUkpsWVRjelJrSU9Falc0dE56b2xpRzcwXzlxYlRsa0dvV3lZU2F2c3dDQmJHVFpGZWdNQWFzdHZfQzh3TjJHSzkwNzBuWXZVNVY2RnJqZ3VBVVk0QnRQNFdEQTFLNDB2RkVlejJGSGg1TnJncVd2QTA3S3NZUE5NVktwcHZmbTJLRjY5Szc2aUNtMHlmWFc0YlNKUE44WE0zUGR1SUx1dEplRGN2ckJDYW1nbGFkWVhmS0E0Yjk3clFNM3pyRkhWeXc1dkh2RGhMZGdPdi1FTGVzN0E?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 14:58:10 GMT"
+        },
+        {
+          "title": "\"Trois minutes pour évacuer\" : les images d'un avion militaire américain qui menace un pétrolier iranien dans le détroit d'Ormuz - TF1 Info",
+          "source": "TF1 Info",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObF8zTnlMbVRpeGRUSkk5QjVLdnAxdVl0enJ3NDBFaU5aWkFmQ0E2ZDV0aWwxemdLa2FzOGpoYURDU1JWcDdmajVVQ3V0b2RlcEdJR0dWd2VhMDVhN2x3ZGt4blFwN2Mxb0lHVXpsOFVIQU44dVBOSnhyekJuVEc1cGNUSk9xRWJmS0U4SXVRMldiTy1zNGdRdlJOMjBVSnoxUHZqTlNBM0ZjaGpfdGZEV1hxZ05UWGVJTGRKZkxTT09rNVotTDZuZVhoOWhBa2ZKU0RxbDh4clJXWWhLS3k3NjRpOHQ2b19Ec3JaQjlQWlpjM0VTeFdKXzZoWXJfVTA5UjB6NGVhdmJmbEI0UUhnTHNDTjNCc3owSkJJbnBqaldxb1hBcHl6Zw?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:20:17 GMT"
+        },
+        {
+          "title": "Dans la nouvelle guerre des tankers, deux morts et un pétrolier de 300 000 tonnes qui gîte dans le détroit d’Ormuz - ouest-france.fr",
+          "source": "ouest-france.fr",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcmJidDE0djRPbllLVldMbkVQQ3RwWUFmOFRhb3cxZHY4c0lwZzB2OVBwdTB1cmdMcnpsVjNkeUJCQVMwYzFlNHlJTm5DS1ZocFJuZXVfc1N2RmNKbm5UeHlSMzltVF9MNldLbTVQeFhMT1d4MlF3MXdncXVuYnM4MllfMU41b3NIdkR0R3U0Q3BFR2ZSMmZ4NkZvc3c4akVTOUJueEZmYlVhdmxqeWUzYkNXTFBZR1JTalV4VEtaUFBjd2Y5S204a3ZpZTl0MlAtQ2dhejRmZ3VSSzYtdUd3N3NhS3JoU2VnbzVsQ19feHdVd1NYcU5kbzl0SW4zVmR4Sy1YRUtuLVdoY3BieEdLcGRfNnNNMGR0MFFEbXRleV94YTg?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 17:02:40 GMT"
+        },
+        {
+          "title": "L'Iran bloque le détroit d'Ormuz, les États-Unis recherchent des itinéraires alternatifs via la Syrie. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGJ0NzdRUk9Od2JKbjNyY1I4T2Joam5wU0JidE55akZ2WmZFLVZiWnV1aVBvTzJILTFQclFHNjk1ZC10TFVQRXRnUkJFbVUwM2lIRmw0Qjliam0ydUZfLVM1T1JBbFZFNFNsam1UZnM5bmU1R3ZfeG11VTcxZk00MmFtMVI4UQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 01:29:28 GMT"
+        },
+        {
+          "title": "Combien de pétrole sort réellement du Golfe Persique et du détroit d’Ormuz? - Transitions & Energies",
+          "source": "Transitions & Energies",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVlmQVBDR3dQLTU2MV9hS19WWE1PaFhwUzdHY2RRNXU4b3Vrdm9XdmRFSjhKMUlwcG1naTg3S0kxS0JRNHJJckFXZ2lkZi1naVJYSG1fVFJpNnpLV0xiemVnVzhuQlRjSnlaOVJvbTA0ZGZPQVd1YldCOEdva1hMX19FeDlPN0d0VVJKMko0dENnbjRkVmI2NkRaZEFtUQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:24:04 GMT"
+        },
+        {
+          "title": "Guerre en Iran : le secteur pétrolier bénéficie-t-il de la crise qui se prolonge dans le détroit d'Ormuz - franceinfo",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQY05pYWhfUFd0V1dwWGNPaW5XWmowaDdaRy1jNU5hSnBnRzF6dkVLZlNSVXdrUnc1M0JWa3R6Y2JkNGVDdUFlMFc4ZFl0dG9NanpIdjNLem81N04wbDJjUGp1VXd6LXp5bEc1NUEyck9SZl9oZXhYb0xvbDg2Vi10VUxoQmpzVi1qNm5SRkt6RDU0SHlJRHpvQnRlSldzbkJPQ215NzFvQ1Q2QThkU0FwQXlJb0JGUWhTeVF6Z3A5amdORkZjTVo3NmhkdlpsaFZIRmtkWlBWR1FkaGZXRFB3Vm9DN2tZNXJINDNRb2JxZ0ZPdDMzeUxOZ1ZQei1nU1NUc19aRnRJZGpJamJOYzN3?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Moyen-Orient : l'Iran annonce des représailles après des frappes américaines sur des pétroliers - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaEhVS0hNek9LajZvTUczaFo1YTdic2NqYUJFNXljUFNkM19sMlA5Q09ZejVUOU1pSzlpZ2lvNW03cy1hUlYtTm1IZ3dFWk5FQWUydXUzWVg5S0VvS3lFQjhOamtucW0yVzFtTTNka2JVRHQ5anQ0NGhpekdqY21PTnVvSElLbFRtd3lNQ0lzSDA0SEFhWF9adzNDQllHbVBKUms1VjVGUWUtYXZXUG1UVlZhczlRRDdEbUlQVkV5NmVubDBnSUstX1VoWDNZdUxqNkZaRzF5cGk4LW9ndkdIS1I0ckp3U25FenFpc25NWFZMd1gyRlE?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:19:12 GMT"
+        },
+        {
+          "title": "Détroit d’Ormuz : Vance assure que le passage de pétrole a « presque » retrouvé ses niveaux d’avant le conflit - Sud Ouest",
+          "source": "Sud Ouest",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdVRhbXBQQmhPVmo0ZGdkSDI5UmpRRU83bWJFd1VjMVRESFZaaV9samlrX1pwZUxYcVRsVFpTaXY3MDNQWlIzUVBPYmRLMHo3OE5LMFFRMzFld0M0cXZjT1dVa3pIamM5U1hnZXpQb3FHU2JVREZFOEVnMS1BdmVjdlFtdVZGNUEzVkRRaHJBcUpnSlZPcVhSYjZzN2t0MGc0SU1qVkZFUWZmanFpZG5fTW5wTkMweWZlVmhORzRfa3pYcmxrazFuT0NITkRrN2ltcmd1aS1tSTh5OGhrc29QQmJEYzNyWURob05kTTRFOWdnTnZVTDFGNm04blg?oc=5",
+          "pubDate": "Thu, 03 Sep 2026 18:31:47 GMT"
+        },
+        {
+          "title": "L’armée américaine a frappé trois pétroliers iraniens - Le Devoir",
+          "source": "Le Devoir",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW1aOERlQVdod1RHdUJOWldpcmxiVGVqRUJSWDRpcV9mbFdIOG1UTUNucnZLM0swcldHT2FsTGFFUDk2TmFPeER6N2g5UG5RV3ZDbkplMl9Ba2gzX0tta19lU2pGWXdSWjhKdFhzV19nMy1ZbXFkOXhnM1o4WG1pdm5uR1hSSkU4Xzh3T2VmQWRsTjZ0RlNZZ2hyNDBrWHBrRF9PRFJhclVpUWJYbWVjeGlB?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 15:50:00 GMT"
+        },
+        {
+          "title": "Le prix du pétrole progresse sur fond de regain des tensions entre les États-Unis et l’Iran - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1ZOdmtHY3dNWE93WUxNZEc3SUlzaVZKT2I5a1ZfVUlRUldSdng4UjdibVdvSzZHc2p5TlRwUkNTdDM1ZHJqcE9wLVQtN0lvN0JJVzE0UU5BR2U0VnFOYV9zcUgtSGdxaDNUcVJzdGpaWXZJeDA4SGFNNDJxS0ZHSHAxalJBUEFMd2NhdlUtS0RQTkhaeGc0YkdDRHloRVpVZGtLUS0xVWRUOHF4OU5uMnE5cmR6Q05fVnpTbVhYUmQ5dlpSc2FFcnM5WUg4MkRTVXVNajQySQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 08:39:48 GMT"
+        },
+        {
+          "title": "L’Iran réplique après les frappes américaines sur trois de ses pétroliers - liberation.fr",
+          "source": "liberation.fr",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQzBVUUpJdmVtX1JRQ0ttOURwMkJBZzRzc2RTYW05ZzM5Z2xjcElNOUM3QUY5NmN4cTF5NFhzYVl6RDZyUU5tSm9pVW9pZkR4akFLTlJFQlF2eFlpcnFlVERwc2VXX1VmTXBtY3VKdWkwWklMeGxwQ1VDaXJCZkp1THJYMGtPZjZnT2pMSlhlNWs4dWlRNVVkcWh2OGxpRThIV2pPWG9ETHFZTkViZFQxamoyNi1DcmhWUVUwQkhuVU5hNDJ1UHd2MzNDNldWeFNwb1drazM0VTNNTENQSmtyQXpmVUFoV3UyZm9nUWVqN19JaDlJTDhCRk9aUXF5LWtCeUtxNWZ3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 06:20:00 GMT"
+        },
+        {
+          "title": "L'armée américaine dit avoir \"détruit\" trois pétroliers iraniens - Prix du baril",
+          "source": "Prix du baril",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF4NS1HNzlXanFMTWRMM0t0TGU3ZkdRNy1GVHB3eFZyUjFHWTBzY2UxNHp6MVdtRi1JN2VEeXk4cHNMSF9YVEJFb2xiNmw1a041WkxCbHMzUXF5WlAyX3JDY0RPRlluMS1YVFlMeWRSSXVRMGRwRFlLdjc4OFpqZjlXM3ZId2tQN3lIakwwQzJUMlZHQU1ncXU3WjQ2YS1YN3ZkdVlCMHF0Y2IyNzlN?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 16:52:36 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "Ölpreis Iran Hormuz",
+      "items": [
+        {
+          "title": "Aktuelle Lage im Persischen Golf: Tägliches Update zu festgesetzten Öl-Tankern - RND.de",
+          "source": "RND.de",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORE5WY1hYc0s3bkI4TEdQTnJwMVkxTWVEYjlUTXpMdzI4azV1c1h2MUF0YlEweHRSRXc1UnE1WW9Wa3ZSZF9ZQ3JlajI4cVdYVDA1UFdiWWFrTEpGeDM3QVdDT1Y3QXhoVEJaeXNFZVNKUWRBTXBydGQ1MXM1ellDc0NSNEpJa01VTlBidURsX2h3S3NhRHNYdkxTTzdvTHZuSjJWdXFGYXBETXhrS1RkYmRnY2x0WDNWR3Y5VGFpVkV3NG8?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 04:32:23 GMT"
+        },
+        {
+          "title": "Pipelines zum Mittelmeer? Wie die Golfstaaten der Hormus-Falle entkommen wollen - Berliner Morgenpost",
+          "source": "Berliner Morgenpost",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTzNQMG1aMkJ2Ylc1bjV5UWR5TnhmT2FORzdGQVBUVlJVSDFGUDBobjIwUURkVmJpc0VOVWZwMkxLcGlERW8zclBYa3VzNnhWTUwwNFE3eDZURzRUcE1UcjRzeUYzT0NraExYeUl4a0ZwNnJ2bjhBT0FLNmJFX3AwR3Vwc3V3b0ZUWEFNclJ3M2I3ME9HT19zME8tX3lrMVNpSFBiRlJyUGhyQzdTeGlXeE1Za3ZwYVhxWHRYR1ZrbGE4WkR1YmxuOFY0YTN0Vzg?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreis aktuell: Ölpreise legen wieder leicht zu - WiWo",
+          "source": "WiWo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVotYTBVU0dUa3BTZUxkWF9hdGlHVFZOQUZiTGxBODRFeE01cG4xWXFkRFBCdndydGdXRWo5NlhRbnc4el9mR2w1empSTVNtT0hMSnV5VmxERXUzV0ZBa2l1V0NqUXZ1S3hHamY2Sm4tY3ltbFR3Y0QyUTFMRXRDSG9JV2tHUmc5eGlHVnBFN1BhaFNuMFRQRG92RFBQZDBlMkVKS2ZnT1R5UkYzMURsVzJ4V2NvZw?oc=5",
+          "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreis reagiert wenig auf Hormus-Abkommen von Iran und Oman - FAZ",
+          "source": "FAZ",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1JqQ2EyOVpwUzY2dHR0V3hNSkZOTnoxaldlT1lxS0JlTkN0TXJwQk5CNkFQN3Y2M05IaWxuSFltcklwTncyZFNubG5mUklkUGU1TS1uOXhOcG9WS0JKVXktXzFLbDREbmd5M1dqelF4WlNSVFRoVzYtVVpYdDc2MVBJbVNReGRLeFhRN05KYTN1Si11ME1UREthYnp3cDY1dmdCeHRYWWJiYTVOSXIxUVQ4ZmhQck9WTExKRThWbE43eVk?oc=5",
+          "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran-Eskalation: Neue Angriffe treiben den Ölpreis - weekend.at",
+          "source": "weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxSkhIS09NVkpDUU56SWRLU0VlcFBrSWMtdHl2NDBvZ1o2MnVUdEJseXIzOXZPcXFDa2tyU0otUHlZZk8zTkdFWWRoVVIxNUx0UmYyeUJWVDU3eEtVMzdRSC16Nm5aS2hVa2x0a3lGdVVaeTFQTVh0MUE5WVR2MFE?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:14:31 GMT"
+        },
+        {
+          "title": "Ölpreis sinkt um fast 3 %, Iran und Oman nehmen Gespräche zum Hormus-Korridor wieder auf - BeInCrypto",
+          "source": "BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWS1nZGNoUEtySlM1VDE4TFVpWFFlTHlwRzhDRDhvbjNSdzNZaUx1RDhXaVNXYXpkblZhYzRjSnhiNmJVMnhnNUR0WlU5MG4tanI0RTdPdl9pa0FlcU1MM0xMQkJRYkJ5RXVvOG41RU1QdjRvdzJHMElR?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreis: Hormuz-Prämie kehrt zurück – Brent über 84 US-Dollar | News | Aktuell - investrends.ch",
+          "source": "investrends.ch",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVldOSWtRblpWeWhIdTU0ODZVZkY4WHBoWDVLN1htMzlsQWNqdS0xVU92d0xvam9kWHJ5Y0pISF9iUkFzeExyNmQzYjV3VVVhSjNGcEVFUWl1bC10T1JKRXc2TzlsRllfRExQNDQ5NS0zdEdQYmF3Mk8tenUwdmp2MmZ4MFJzM0Z3Yk9QTjVHblpBVnA4N2xRX3pIaw?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreise ziehen deutlich an: Weitere US-Angriffswelle am Golf - Trump dementiert Schließung der Straße von Hormus - Finanzen.net",
+          "source": "Finanzen.net",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUUZMZzEtUkFueGdzWWdIVGdBU0FPMkZXVVhwUmMzVUdDSXBhejRNZzlwLVJpcGFMRVU3TXlfYi1Yenc1X0owR0Q1clFVZ0ZkN3dDR0hfVU9vMkZZcFZNMnNWY0NiUDZPSWlBempObXJYNVlvY2R6RkNPcXMxWmVEMk5xR282cF93UTJqMEwyeXVlVmhrODQtM3NwVEhYV3pNN2lpZGQyaEpQMThrWGQ0WUMyNEI3UWhlUDJORHZnUUxQNFF1elJyenowUWdaQ0hpRkJwU0h3b2dkUkk2eTIwdmo5bExROENUX3FrTFlCeTREOEFMSzVqODhENVNfTE5Ec3JEcHdRUDlrMXo5ZmpCQw?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Erneute Eskalation in Straße von Hormuz: Tanker-Angriffe und Militärschläge lassen Ölpreis rasant steigen - salzburg24",
+          "source": "salzburg24",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaFdIRm1QTzhDX2wyTUJZQTF2TllleTNhQlk4NVhLN3FTZEJWZkJnR1FCTEh1VjhiX0J0ZHhtZzVhbGFmWkIwQk0xcjFJZG9RTnhCNVVmM1lWWGFNUC1RUk90aGExR0ZxbnJRYzBac2hZVlBJMVF0VHBlajVvWjdOWm1URDJHeWFuaU1lRkppUTJQSlB3clRHR244YWNZc0tDRmVNbVc1Y1FFVW54OXNpSmFvRHRUcXN4eXlCc1dCanE5Z0ZqY2YxcU1OUmlENXlsV0dYQjloc0xQZUdLZ1J1R0hjTkFJd0loeGZv?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 04:43:00 GMT"
+        },
+        {
+          "title": "Ölpreis trotz Hormus-Krise: Warum er nicht auf 200 Dollar stieg - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS25Sa1NueEJXZDh2dlJ2VEpCWGUyWTJtSl9OTXBWRHROUkJLOEV5Mks3N0l3YTZzX2M1Qm5FUHV3dl9GVDNRRk1uZjJfX003OXgwbGtaYXNrejRTeW14Q1FEOEFlWWk1amtyU3haMjNkUlZyY3IxaGw1SmVLV1dOZnptdGpPMVE3a0J4ZHhtdXFJd29ENENqVw?oc=5",
+          "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreis bei 100 Dollar: Golfstaaten bauen Alternativen zur Straße von Hormus - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXFYbUR1MEZ6dU9xYllRamk2LUZlNUhRRkx1RnpiY0xOeFNIV2pST29mWHhQcEx5UXY4X1M2TUVIZzliSlJqSk90ZFdYLVEwaVRrUmdpbGE1RmpaTW1qWU9TeVZaNUZKR2NtQ01aYXVEVkdFR1hLdllhcXpIdS1ZWFkzanJRZEdpalRwUkNjd05JQkRGc0E3d1hIaGN4SnZPY3d1NkpSNUJCYUk3NHRVSQ?oc=5",
+          "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Machtdemonstration vor dem Oman: Iranischer Angriff stoppt gigantische Evakuierungsaktion - Frankfurter Rundschau",
+          "source": "Frankfurter Rundschau",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTm9XeVhRMGlVb3hHYzQxajNSWEpQRDVFeklNQjAwODZFNnpOZkFGWlY4Y3d2SjIwN29uN1BtaUJOd2g2UzdZbnhzUzg2Qkxna0dqMjRCSUFIeXQ0N1pJdUlJYWJoYmxxWTRjUTl0VUs0U1hxekpJNG52ZEE4bDQ1cmtKZ3NjNGJjT0dXWEI5TXllMHNVY1p3aENoV2dsaDRtQjZEVkVSQ0o3VkdFSVU0c1NmMk5UZTdQQlU4cjE0TFJrZk81aFJDbGhXOVNPTHprbFVZ?oc=5",
+          "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "Irã Estreito de Ormuz petróleo",
+      "items": [
+        {
+          "title": "“Ataques EUA-Irã” intensificam risco no Estreito de Ormuz; petróleo sobe - ISTOÉ DINHEIRO",
+          "source": "ISTOÉ DINHEIRO",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmtWVWx4cllqa1RGNXgzZjAzRmZXWmY0OUVLMlhtU0pfejI2Yy13Zms3RTc0LVBWTUZGcXl6NHRtZXNoTWI5X3hvbFgzal9yUUZHaVN1LXBIYzdiLXJxdlBVQ1FDWll1b0N6SFQ4aEFnQXBOWGg3V09WeFdGQ0xXdFNSa00?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 14:34:14 GMT"
+        },
+        {
+          "title": "Como a guerra no Irã mudou a economia global? - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmdhOUlzSzF3ZDNhejNsYzMyZkJOS3NTWUNxNmgxbm12UW4wUHBETTFaVnBtMWhxR0N4MlRzWDQ2cjktRXNsN2dmYjFzWnZvUUhNVUZhdnpnbHQtYmNYNlhNT2lGLXZGZTNwLUw4RE9vMW5wY0ltUzdxVFR5b1VkaGlNbG1BcllyUUtwZHg3OUFwVGVDdGxuUVEyaG1XTVhMQkVHNHhB?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 07:25:06 GMT"
+        },
+        {
+          "title": "Irã diz que anunciará nova zona restrita no Golfo Pérsico - Terra",
+          "source": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMDRlMEtreHF5LWlKVzBtWEI1Mk5FWG95ejFacVFoUEp4N3NtcEZGNVNCQU1BMWZpN0U5dEk3a1RLV2M4aVp0bzZtX3pfOExZQ3lHLXEtNE9KV2hZWU1JQXYzOUNhME1DRGx4VHRkcDVsY2FJbkF1WUE2cGpBbFc0ZVY2ampvTGQxTDI4WGE5OGJyLXdtZ2dlYTJuS3JwWUdJZVI1ME4tQ01yRUdjQUo3eWI1UnN4WUZlWWVKU3pJUF9GcDVJSUFXZnE0SkYzN2p0V2JIQzBTQWdfOTQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 23:22:00 GMT"
+        },
+        {
+          "title": "Brent se aproxima de US$ 100 com escalada militar no Estreito de Ormuz - InfoMoney",
+          "source": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGk1ck9EZXVabW1OTFJ5c0RLQTVZS0JhU1Vod2hxcGtTcEE3MEZOZmdZdlRvaDA0bFVjSzdIQTRwSUFjVHpzandZVFZxZEhFcnREWndoTzd1em50Z0ZFUk5xRkRoTjJ2d0RqTHU5VV9OSHlSQ2ZUYmdBOU40N0xsM1JvOE8xSnpwVDB4MWZTcUVtbmtQbVVmLXo5WVhsSFZWY2ZZVDhuMWUzbW810gGyAUFVX3lxTE9DeVNld0czdVBzelhMRVRsSE1hOTluNFBSenZkOXIzcjlyTHlIZVR0emswa24yYzJKM09Cb1JPRnJiZHBKMFdUZnFqS0ZSX0RpNFBTTzlCbTljMnY5azM0NEMxN2E3dHNnb1ZiUHVHVmd5N0FxRm9GTU9QRGk5cDdETllpdVdqWUZnbkJMQlZnbXBzMXdmR1BRRWZFcVZpWmVFRk1JS25UMmU5LWdCaHpFM3c?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:18:57 GMT"
+        },
+        {
+          "title": "Petróleo Brent supera US$ 97 com riscos de abastecimento em Ormuz após novos ataques entre EUA e Irã - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjJHcjR6NWtyczVIay1SeTRzYmdCNFpLVUtXWm9iRFJwNS1HdjNpMFM2Y3hFYzVvMkRCTUZNOXNuX2stYk1lYk5aNDdkTXMzc1ZWR29JU3hkNDVkTzUzZGMzWjZLN1Q0c1hQLThfTUlJRVFKQ3YwdTkxMnNpSHVrQUxOdjVGeG9oZ1BsaWJHV1hPamNfcTdaYmJMSnBjREdRT21Cc1JZRnlWaVQxQVlkcUpYU1J6UUUwaU1rR0R2Y1ZhQUtHY19ET3dxXzhSTFEyMTZwQmJIbjjSAecBQVVfeXFMTy1ZYWc5OEF4U3dkdFFtSGNqRGZ1VjdJbHY1Tl9VMzZfSjZPbnlhUTNtSUZXbVN4WnpnZk5fOEM3MnlQWk5DVEFvSDBDNEJpeVRTWGhGd0J6SmVWQ0pwZmg4TDVWOW9VcGh0OTZ3VnZvTXFxU1Z6WDlpTktmVUNtdEpnSXR5MU5zU01FcHUzYkFqRXN5LWNCTi1mT2dkX3lmTlN5czF0aC1iX2NZelN0X2FDXzJ3Y3JwYXhwenJFa3hfSGVIeXpaODFFWXpXTDdDWlBIVzlzS2F5UlRBRFB4cmdhZnViUFhv?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 11:22:27 GMT"
+        },
+        {
+          "title": "Petróleo sobe após novos ataques dos EUA e Irã no Estreito de Ormuz - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDJrWkpUMlRBMlMyd3U2RW1rUjRaWjhZNVhpclBhX1UwNWtyU2pUaFRjWnEzMzlIa1ctem5fbE9weWFtYkZIUDFlc3BrNTZqOHdXdjhkUkEwS1hZdkloVl90cTF1SGxPRFMwZFBka1dxVng2MFVncjhSeUV6WXp3VE5iY1ZTTHYteTFmZ2syd2xCdUlNcW8ySFg1bkxyZDZ0ek5BTWduQS10TXRCM2NNR3ctR0xCVktad1pYM2VneE9aYXg0VUdV?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:30:00 GMT"
+        },
+        {
+          "title": "Risco no Estreito de Ormuz mantém mercado de petróleo em alerta, mas impacto no Brasil ainda é limitado - Times Brasil | CNBC",
+          "source": "Times Brasil | CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnpUaXpraGZPOUxjQVotWFl4MXpFMDNRSTNiSWNnM0g0Sm9Oc1hocnJtd2Z0SDlkd09hTjRYQXhOaTRCcEp1dDJQdDcteUJ3ZlpYZUx4OXJlTDFZR2taODlsS1NSdWtyRVhKZnA1WFI5LU1HdUNhdkMtMTd1cHhzVGtHckVVX2dQbmswSVA0dTFkQmFjaERaSVFFdWVnN05Va1NFMmJlRG91TE83M0VrQmx3?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 13:02:24 GMT"
+        },
+        {
+          "title": "Irã ameaça criar zona proibida de navegação no Estreito de Ormuz - Metrópoles",
+          "source": "Metrópoles",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDF3ZS1rbzJQUEtWeWMxTHNJQ0hUcHJmeEJfaTM5a1doSVVzV1hqaTR1MTZ4Y29ZRExtdTFLcHpLa09pMEJhWi1QVl82dFhGeFE0Y3IzSGpHZ0hYZ3MzOHI3ODBsUGl6ZG5YNS1Db2J3UWw1cnZJOTA4T1Q0VHA3SzVqSi0ydDV3V3dyaG5pUEJ5bXRLQ0J6Y21MUGc5QQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 21:50:00 GMT"
+        },
+        {
+          "title": "EUA e Irã intensificam ataques por Ormuz; petróleo Brent supera US$ 97 o barril - Bloomberg Línea Brasil",
+          "source": "Bloomberg Línea Brasil",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkRHTWpDY1VEcXptQ0FvNXVyYWF1TzNsWHJmRlBpWmdLRkt2N3p6bTN3ekpaMTdkX0ZnSXRGcS1PVUFPc0ZrSXZsYTVVM2xjRU9HZzBVZnM5MGFxZWJTTnRJRUxOa2FKQVpibVVCYmo3ZndQQkN3eUctTmMxSGtCdy1EWTV3ZFRVbkwtXzE5d192MHdBT0xlQjZKbm5wY0l5NXkwNWcwMVEzaWFWWlBZTW5SZkVBOS1icE1IT9IB0AFBVV95cUxNeHBra2Z6TG9ybDNXRG5TSDZpYkxmWVN4cHZTZ3ZqZ0FVVWNUUnRSN053c0lyTTdhblNTb1VDcDdYdGpnUW9OYWNDNXFvSExPVXlZR0o4WkJRVEF6M1R4TkpRbkdXUGV3N2hFSlo1NzY2NXFjdjczU2ZOV1BaNkxSVkpKLW5Jd3BZWUJWM3p4N0N3THZaUGU2ZThHdHdNZHNYYUl2VnRqRkJRd2RxdkN3ZEhqLWV4cm5aTmZBN240ZGwwVjRTNmc2ZXlqR0JjMFlh?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 10:55:33 GMT"
+        },
+        {
+          "title": "Navios com petróleo saudita são atacados no Estreito de Ormuz - agenciabrasil.ebc.com.br",
+          "source": "agenciabrasil.ebc.com.br",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXYwMVBiZjVYaDFJZjRXazZpUHNIa1NJampSZ2hhNGk1YXZ4dEh6OXQwYkh0R21RU3VxZmc0TWt2ckVjOU1PVjdKMGx4QnhEN3FXdUFDdHR4ZjRxUzlfcFo3TzBORWNvQzRWYXYzYXA5d1NtdWIyOTVmV1pPcXIzZHdxckxFMmM4MHNFdlFJOG51RjNHbW80RVNqTExMM19BSW1FQVN1OVZnWjZ5cDBYOWFfRVR0aFNySkdWMTZKYlBBUQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 15:02:00 GMT"
+        },
+        {
+          "title": "Donald Trump propõe chamar Estreito de Ormuz de “Estreito de Trump” durante tensão contra o Irã - gp1.com.br",
+          "source": "gp1.com.br",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMW9la0E0LS1WMTNCTHhrVlhmYWJqRDFtS0tzalRlRjJKdkFkb1BOenpxRk1hX0pKeXktdVpnSVEyclo5ZFNDVGdRb1ItamtqM3pGdkE3MEhTSWMtMUFyZDk3c2dJb1NtNUgzS0JEVnBWVmVnTUE3MGdDcGNtX0hCbEhpMlpfVDZGSDIwTy01alE5QnV1RWs4UzdnVWVkdFAwUVdTYXFkUnNsYXBuM2dxZ05nUkxSd01STHg5c3NGNTd5R283Qlo2SXViNGxpOGt0N3BJdmNPWllyb2NMNW5iZURhdEotX2w0TTBzLUVqZzXSAfYBQVVfeXFMTUlwNGMtQm83aDZaT0xMZUhvUnlKUTliQlZTeEdvdXZrOVRqc3g0MnlCNDNVaHhWdGJJc3B2SVRUZnJ2TGpZOW9YdzI2bGpPZ1dIaVhsZF9YZS1IRVlfcm14Y3FETkNkWGpxTW1mRmt6bVczQTZwcnhoaDNMeGpyTWRSREtiTUQ4bHlQdUJQTDJ4aXphVGp4Yjl5a2psSkU2ZXdHVGFYYkRxS3NSQUhJRkluR3NRcFRJZG5FTE5GYzNiLVlKaTAtZVFFazhuTWdfNEd2aU1kcmI3NkYzN3FuMU9OY21GS0NLd0NsSFVaTlBjRS14U1pB?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:20:00 GMT"
+        },
+        {
+          "title": "O Irã bloqueia o Canal de Ormuz, e os EUA buscam rotas alternativas através da Síria. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd00yNy1vT0RlMlljd0FLdGRwX05jRmNwYjRVNFJBWWl0T0JPSG8ydDVQdVVMNGRsSXI4Mm94T1Mwak02VE5BMEd2cGlCVVB1ekd3MWZrMERZdHppQ2hDNzFNUU4zaThiM0R1VTBQSzl2T1VvSWltUzJHOFlObEE1a3BBbGpQdw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 01:29:28 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "Иран Ормузский пролив блокада",
+      "items": [
+        {
+          "title": "Иран пригрозил США полной блокадой Ормузского пролива в ответ на экономические санкции - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Db1JNYjJYRlZfRkd1akl5Ym5mQkdHOUdLRXI1RnhxTTdEd1RXRHNVYm5heGpIS25oNDNNM3l0UW5ORlZVNkZ2ZUhSLTJtQdIBS0FVX3lxTE4zLWk3Y1dCeHpHUnFLenYwbXU1NGVSTDNhR1RjRWFtcG1NNWs5X0p2YThjWHNyYzVyZVdycjZPcTc4MTB6MVJsZUZsTQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 23:40:00 GMT"
+        },
+        {
+          "title": "В Иране пригрозили полной блокадой Ормузского пролива в ответ на экономическое давление США - newsarmenia.am",
+          "source": "newsarmenia.am",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGtaV0R4NGJTbFRMTmdRY2dnbFRBaVVENWlRQjhVV2N0VkR4RHQtbkNXclFaUmlBVXkyQUFkcWxoV3E5VjhFS1ZnUjdranMyblhFeFg0NlBTV0NMaVc1QWFrNjh5SWZuajhSRDAwYmRHZHd6Z21iNk1hM1JpSXlSOWZlcDB1WHBvSzNRb3AwdHRFMjF5STd4dkhYQzg3VVdhT3hTazhHb0o1cl8yZXBxbTJuYi00a0RiT19rdzhrZjl5WU9MLXFIRXByeWNKMVdT?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 07:12:00 GMT"
+        },
+        {
+          "title": "Иран допустил полную блокаду своими военными всего района Ормузского пролива - ГлагоL",
+          "source": "ГлагоL",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa24yMkhrTHlEbFBMRFF1aDlFdTVxcGNxWHdkVGRFWUk5REwzZUF2b0FHeW4xSXpPcnB5N0xKNWxZa3k0enIzSjJFWVRhcnBWYXhXMkoxQ0tQOEJ2SkVpV1hsVDVXOE5OR2VsSzljb2pwVndkOEM3bF9UTUM2NXU2M0E2NEtYWjljRnlEaS1qYzBRRkxKdzZsaTI0NkQxTHM?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 07:44:16 GMT"
+        },
+        {
+          "title": "Иран пригрозил США полной блокадой Ормузского пролива в ответ на экономическое давление - RuNews24",
+          "source": "RuNews24",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW1UODdqMFMyR3pYYUlTeHlsaEVZYTlKeUhjSDB3ZDVmdnlkTHU0TkQ1TzdIWkVTR3F0THhPYzhGS1RLSmZNSU1lRDI1Sk5OXzYtdTctVFhqb3lfbU5tOGQwSjVKWm10NUIyMUZUUWlCU2k2UC1wMjZ5ZkpDSmpHWVpHNWdJTmRjWnZ4Qkd6RExaMEcyQk82VEw3SUcyYkRFUkN3MTJRNkZEWnUzdmZLQU10RklybWYxY21JS2hiUHVxdW1xZzZTMQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 00:51:00 GMT"
+        },
+        {
+          "title": "Иран пригрозил США полной блокадой Ормузского пролива в ответ на экономические санкции - armenpress.am",
+          "source": "armenpress.am",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92dE1sck5BVTVhVEVqeEhZd3RpckdtZ3BrTUlLQlZ3TXBsUG5UVWNTb2hxWGZnLTVlUlVaSTNPUk5lQ3NPTnRpS3Y4b1pjYXA0VGfSAVdBVV95cUxQbUFrQ3p1V24zTmdIbUVuS0dxNEp2SnAxT1VSaXU1WU5hWjNoWnpIdW4zbURKN2pQbTBzMUFYaEJmdGFvLUREaHpOMnJfb2ZBUGU2VXNVN0E?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:38:00 GMT"
+        },
+        {
+          "title": "США в рамках блокады Ирана перенаправили 94 судна - Вестник Кавказа",
+          "source": "Вестник Кавказа",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWJEOW90eV9rTkdaeHJDQTRPazVqNlBqVHJDSXU4VmFULTg2WHVyNm5fQ19WYkdScVB2UkdMMGFkeWhfcmZrUWkyejBtaUZ4NWtoamJ3MTZ4VFE3UEo5MG16c0xOV0ZYc2U1OUVLdnN4T0VUblBUTnRuRUpOYUdRMGZfbzZUY3hUeGxF0gFKQVVfeXFMTU41NnFldncxVllHTVFwUjIwbTExVnhmTkxfY0JDUGQtSUtTMW12Tmc5MGZpZmxpVXp6ckExWl9lTy1SdEFnd3hBNmc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 03:39:14 GMT"
+        },
+        {
+          "title": "Госдеп США: Иран шантажирует мировую экономику блокадой Ормузского пролива - eadaily.com",
+          "source": "eadaily.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWFSd1Q1T2ljWkY4djB1NU1Rc1pIbkdmSFM0UGhpSnYzV29oMFBPZ21DaG9zRnNyNlhUSzJHemNKWmpDVFBBTHVKZHdLVjVDX0tqTG1NZ05yblpnclA2cDdtM1ZnT3dYN01BdUVDdTVGbUp4R0tmY045YV9SdFM1YlRMZmpUaTJfVmtFUlRPSU1uRnRSSnloelktX3lURlJlX0ZCTzVGZnVfeTdnVUpIeXFIYTQ2TVVzTmRGZNIBwAFBVV95cUxQdmV1V0VHN296XzlrcHN2NklwWU1nZF9DVFR1VVVXblltbkRkWkpQZ0FHLThQanZfMnhRakRSZW1MSkp3UWtyYXNpSGE5aS1abUZ5Ml9pb0ppYm1hNWVmYy02WG90WndhV3RPcXA4R2FaMEJ4M0w4OXZxUjZoZVJHX0dVNkJMWTlabWtRYlFlSGZoSEE0d1YxWnhfcVhIYm5aT2pURy1YMjJzdEVzVVB0MWFoSy0ySTNTZTdfWER5Q2c?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 03:00:00 GMT"
+        },
+        {
+          "title": "Тегеран продолжает блокаду Ормузского пролива; США объявили о перехвате 92 судов, связанных с Ираном - VOV World",
+          "source": "VOV World",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON2tvZ29FMmtXb2MxOWRRN2hQczZKcHhaaEJsRVJsU3otY0JlMnNybmZ2b3I3YkE1TnZTRFMySlU2MnNVQk85WkdocWR2R1o5b2dHNklFZlk3RzY3QlExSkFtRENET1I2Z3YyM3RRVkpwX2trLUgzUHpjNzRELWNRUHpkR3hMSkxKQllXY1hnZjk3SGxvekNPWUhGVDRmaFFPNjl0eVJneXhhSzZISTJXUWNyZjRQUHpseVFpSXF6M0hsZG94b0ZuZDFSZ2hoeE56NXRGZFVCdzZXQ0k?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 11:17:00 GMT"
+        },
+        {
+          "title": "Генерал Резаи: Иран может установить полную блокаду Омузского пролива - Рамблер",
+          "source": "Рамблер",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1NCWVVNbVk0cFFoWnhZckdsVWNVbm0tZV96UTcyN1N6cldRMnVjVmhBajAyVlJCQlcxaTF2MWRQSDJESUJaRTRTb0NIeW9KQ1J5WmM1SnEyQjduQmJGb2hWc19uakUxYVdEZGFsc0ZVWjZvdm1icUNyc0NuLXlGOTQ2Q0ZqcUZRVmM4aHhINVR2dS1ZRUhZLTA3NlFHb2w4bkktak5zUjczZWE00gGyAUFVX3lxTE9KTHBPZ251VE9VcmlYSFBxVlF0MXo1QUZrRGVPUTRzeWIwQ2Z5UVUwQ2R4NnFTWDBCcGU1QmhDWFJydldkLVBkTjVDNDhPTE9xeUg4YWt6M3cwclFqcU9HVzN2RW1wSTR3UjZjTzB0b2VDeWxlQ0tFblV1Ymh0X1NhV3JuQkZBbk82SW5reWZaNkpaeUdqNTJBdnNfc0xsRURpZHdDdjNCaGZvV3ltS25pY0E?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 00:52:39 GMT"
+        },
+        {
+          "title": "Иран блокирует Ормузский пролив, США ищут альтернативные маршруты через Сирию. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnZWVU1tTm4wTFJUUG5ValFpc0NCaUNDalc1LS1xMGlnODN3WHlZb3ZKajBUaTlYek5iaU1LVDN0bWJmeTFmMW5SMlRYb0ZjalVTZV9MMGpvQURRcTZsRG0zWGV5VFBWZHY1NTM4UTlseG5mX1I4RkhRN2Jna2Q4cWlnSHBoUQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 01:15:24 GMT"
+        },
+        {
+          "title": "Иран пригрозил полной блокадой Ормузского пролива в ответ на давление США - media.az",
+          "source": "media.az",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3dVQ3JveFM2ZUw4YnpuQmlfVkJfS0NyZHNiSFd0U2UxVC1ZNE81QzRoUV9VTGI0ZFFuSWpDUU50MDZxcy1pYjdhdjNRZFZlZmNBTGxWUmdMel8zN1NqOTljTnpmUEFVMXJScExydmlFNUVQZmdLUTBpc3dTNHhGZkY4NGtleTJyY3gtWVNZTEJVMTZuR19FRURVNDlFaC1ISlE?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:36:00 GMT"
+        },
+        {
+          "title": "США перехватили более 90 судов после возобновления блокады Ирана - korrespondent.net",
+          "source": "korrespondent.net",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZU5RWEE3dTRFT3RJa3RYd1dWanBmVHctZ25Qc3M1cEFTOEVha3luX2NYQjE2SzRKcW10TW9taXFzRll2ZTM0UVdJdXhGSHB0cW9UQzlVTjA5SXVzYjNVTFE5NllnS0UxUTQ1SnY3c0o2Qk45TmgtVUEwbERncDg2S2JXa2paNDZYMENWM3JaSFdJVlEycXNleHhfOTZveWVlSlFMcDJlYXRuSk3SAagBQVVfeXFMT0FqZWowLVE2d0RZbURPcFktNmRueHNac3JmS1VwMGQ3Si1DS0VKZm42WXhUb1hCRmJjS1l0M0F0TzJHSXo5S3FJcnpfWGlPZkJPcDYwaW5mSmtMa1JFRlZ0MG5lNUY1SlhaVEFtTG91UmQ1RzV2RGZzS3pDdG9VQ2tPRjVmeUx1eXRsdHZqN1kzbmtiMjVPWjJmelpxamg0LU93M1ZKaUg3?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:54:00 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "أزمة هرمز إيران أمريكا",
+      "items": [
+        {
+          "title": "أزمة مضيق هرمز مستمرة.. وإيران تهدد أميركا بـ\"حرب اقتصادية\" - العربية",
+          "source": "العربية",
+          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNc2tnUmMyRFhnWklEdS1HcHFoU3pBbnU2TC1yYnBkSl9UOFEteEkyQ3dUclQzTjVBWnBaTFFLbU1BTm5mMTVkQlJNcGdsQlFFejJyY29zMWN1QXRBQ2h2bWRLU2dlX1pjTkFZWk0wcEpURVlUZzE0LVN5R3J5eHFMS3pPang4OEJrQ0R5WTVCSFExeHc3dTRQODZjWVE4SVBzUl9STXpuOGJQWXpoSWRnTHAwS0xWblJTR09OTkMzaF9fSlEwSFc5ZDFCN055MXpTczJuR005ajY0VzEzZW5ia2hZTGd3N0hyVHROcGdOaWxYeXRkQnZ1REVKRVdGN3dJTktYQ2szN2lGSnNGZk1LbDlJZFdNMTZvTVI3RFVYV2o2YUdIZi1uVEswYUpYTjduMEVFdERJR3pmZ3pHZVlUWUZEYXpQREs4NlNkM0l0dEU0YnV5T2dFd1RsWDJLZ2pxdlhmU19jQXcwWnFleGIxWkdGeU1jbjFzazBraW03RzFLU2d1em8tRVQzYXJ4OVlRYm5MaVMyenVuQjl5cmtBV3JfSFh3Z1Y5Z1U2QUpoWE1ScE50akNyNDJ5eXZlUjAtMDdxelhrLVNLUE92dGJwT2p2NU5HM0h50gHeA0FVX3lxTE5VSzBoWXFLTndFTlpsUGxlQjhFeUdtLXRRQmdjUmpfN3hGM3pvLVlFSGhkRUNDQ3hYM1pxVV8xNGlzYndfSEZIWWZ4amVEU1lSVGdsZXVBV0k0bWl6Rzllc3FaUFRqNWpOT29RbWhCaXRac2lWcXdnSXlLZ0I1ZFdsMlZYZlZrbkpwZFF6SDE4OVNqWGVWOGtqaFFPVEtXYV80S3dqX1p5YTd5VVpIVUU1c3hLak9qYXliZ2E0WnJ3cllqN09vZlFaOVphRzBXRGExd1BJdDF4bEhKaWRyRjhTQmZudmxZc3JDWHJHWkwwY01pR3ZUOUVBc08xMXBzMUs4cnNmb09ZdG82cmttS0RVNFUxUmIyckVYWTNyRTV5U0JkdzRNUk9XdGp6YThCYXM1Q2JOR2tHYVZibm9YNkZmUGVZZVotdHRtLTRadVZtclNzNXJ3TDY1Yi1fMDFBWUdULUtlOWwyMXUwYWNRMmpOODBrczNHVzhZSkkyaGh2YjhHZjNyUkxPRzh2Rl9PRE8xM2NoMUNCVm85MlJIRXpydDJLb0hTRk14NEVGTktBNWFpYURueVJtT1VsbzhOeTRCUU0tX3JNY2d0TzJCMlJnUkhOQ0JYYXV1OUJ5cnc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 06:22:00 GMT"
+        },
+        {
+          "title": "بريطانيا تضغط على ترامب لإعادة فتح مضيق هرمز ومنع إيران من امتلاك سلاح نووي - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNSXBycmpORXR1TVNYeTdFaU90MUQ5WmV3SWthOW01YTZrcVAyaDRfZVo5ZWlVVm9sTHVzbGFwRzBlVEQwczZYTGVPNVN0Y3p1RHJWblF2VDNSTkIzRUN5VXZ1SEctUC1ERjNvVm9TZzd6UjdfVEo3bU9zZkktLVFDMkRKRG85UUJvVEF1YXJvY3IwcUI1VjRmWDlCOXBtQkxVSXYzc3BEN1h5aHYwRkp2enpzMVBFbkduc0lrLWFjLUw2ZEQwSFJuLVlkcjVTMEN0UkFxa21WYjFibklTV2FXekxqd0FVNVlodGFHd3BnaDUwZndRNDNocnRhT1ctZVN6ejhPRlU5SklqLVpBWWR4clNRMTR6UGxIOUR0NjJDenlhZlZqa1l0NnF0amgtLW5yYjZtS2p3Z1FhVHdvR1lPMnhCTzhLb0Itak9zMVFpcHA3LWZUTjhnWk9EWnZpR1N0SUo2ME5jOV9tVGRiX0hFVnNBT2d4LVNSRXI4bVF2aXlMZ19mQnVac0hSS2hNQVJOTnMxY1dNcFVmWm04RXFBZ1paQm9xVWxRTE81Nm9DbUpubFBrRUlWX0p6NmFSb19pOGVvTzNIRXdEN3kydF9mOEdSRjA3anZSSUtZWkdhY0Y4TDZ5M3JQZHduRG1EdDd5eUQ3ODhrejBDeFFjWEZvcHQwZjdUdzdQcldVVUkwV20tZHllMnozYTBBMDRQUDJTVnpDVTR5UUxRV0tTY2JxQ3NWdGtDRkNqYlU1T2ZhYUxCdXFnQWlrUmlHcWFuaVNzMDlHbmNVcmhGb3h2MVBSVnBONTRIeGRWdFBPY05IUmQ0emxSaWlGYlVWYUxqTEHSAYQFQVVfeXFMT2xKNkVYZEJna0J2TFZnSXlxcVBwMEhlVUwxODNhTUVkLVBHV3FmVFRYRVFzb0FvV1VYRWpvMVMydkRmeVNIbWJDS2FHTlE2Y2FTbGlqNTJNc0x4bGdpYWZBcDNLaTRnZnE5MUFtbHhMbnhoZHFxZWpvLTRacXRBbWswTnpmWjZtWDIxZFRiZHFMY2NVSW9iVmVJRzgxWWV0YWprNXQzcnBJcmIzNDVndFdDNHUxRE5OcGFkOGRkTnNBSnhaR2VRTzFSV2JjbnJDTmJRZUl3NUVqb2dHUWRtU2VQb21QQnZVOVVsejNJMzQxekFmY1k2Y2NMakdBZWJtalU4RVZmVHhuYWlrQS1UNkpSSDBhTVNZLWxtVnRJTjBnWDcxeUMzWERGalJUNkliNU1ldW9GWWdGRGN3QWhHUC1zOHZlWVYyR0pNeU5TZU1EZmtBcWVsWlp3Ti1wbDZUOGJnQ09JSk1reDRERXdpckhiVHJuTEVUM0RVTk04Qk13a2lZeklwWEROQkZEZmpKOEJHREZXMHEyc09ibXRUdk5NWFFNV25hOFhaclZ5RkVKbTI4eVpFLW1hRXdid0NoZmE2eHY4OGdNWDlZS3Y5N1g1eWFjMnp1MTJkWU9aekU1bFVXSEVJXzJoenFRU3hJV3hCTkVudi1hOU82eWdqZ2NseHlZYUNyajU2WER2Z25OU3dFUjBEbmRSd2JnWDkwZVdVMnFoWl9QeDA0bHhUZGpKZXM4M0ViekRnd0trVDA4UElYclk5X0dBcGVSTWFoRWRlSk9aMDJnRTduWnBOZHRNTndtcU1xclRPUUFpX1IxYXNWUFZsaUFIME5hc3QzSUxoOHc?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 20:03:23 GMT"
+        },
+        {
+          "title": "أشرف سنجر: مضيق هرمز ورقة ضغط رئيسية في الصراع بين أمريكا وإيران - اليوم السابع",
+          "source": "اليوم السابع",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNM0hKbFUwdl9IZEpzQ3A5Y3NJVXd4LXBqanpZTE50SF9OMVU2dHEwVV9rTVV4WVNxUTVTMTBqZEtzOGpoXzJqQjBDN3FPSWJXVjRucXdET3NfUUFXUGN1VlZVWV91dzZndjdEbHdYckl3ZkZVNE9ZWFFqY2k0dnpaZTRJa3VQdnh5TWFmX0NQWENreUlOWHBScVhHeml2TGxuNHR5dDZGSklld0ZoQnNaWFhzTFN5X0RVb2Fnb0U2NHdGNEw1d0ZSdnpseGpoWXlEWkRNQjJiOWpxaThrLVViWWZQSUFjcEctcDU2MmNteVNiUjFEMWtBcEdaLVVETWdjRFdmSDZWaEM3Nk1OS0JwakswdzBnR3RtZHpaWkhBQXFIbGNlY1pNeWJfd3BFbklndXpJaDhaYUpVVjVhYmI2aDVFMGlLR0w1UzlZbDI3MDNqcWxfZ1NLekswaXJIUGJ6SVhrR1oyU0lNVmQ2bmJaMzBrSUctT2V3V0VXRlpmWmpudE02RkpzVnBmaTJUTm9DdXJMOG5VUEZwT1BqeERjU0psZWpxd9IBoANBVV95cUxPTDlLYlNfSUdKRjFFem1hazdWOFRqbnBGVm84NGtLUEQwV2xNUTFVcWhvS01jQjV5azhGRTdSbEV6OTBIOE5rdkY2WFdHQy1nTExrTkhoX3hrb0lfdE9oV2dyZXhUdndKV2h2T2MwOGpDNHVVWDcyN05fd2hEb18yeEtUSHpqU1lnMFhsektfSDEwSEpMZFpkN1FuUkh3ZWIxaDI3N1AtRmJzeGtoVWxVLWhRQmV1a0lwV1ZoaGpUWGxPRmxMTVN4QVNWRGVjMGpidk9XZW8xaGdYT2F5QmVna1dVbHoxVHV1aUN1YWxTZUhYVWVlTkUyUFZTbU5DX2xhLTVXcFhSVHZaMFpBX1l0YzVjVWdlM1liNzBlcUZnNjk3OENCTHh5RHVaNTZ0X2tCQ0dsWnkySzdTTmhEVXJZR1QyOEs5ejRaaEY1SThQNjhwWGl0bDNXVmpjemVJamR6b0p2anpNZGt3dy1uLWdzSjE0RHA2bmZTTDltYjRNOU1UaVlDNFVGNl9RVF9GWEpWVWwwdzV2XzR4S2RPaFZ2aQ?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "أمريكا وإيران تراهنان على الوقت لحل أزمة مضيق هرمز - بوابة الأهرام",
+          "source": "بوابة الأهرام",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xbWJST2c3ZzBuclk0MjhmNGczcGxtbmJ3eFNadkN1a2ZHSUdKVUUzb1dUZXVhLXlVdFVpX0Uzbmd6dEVPMFI1bEwxazZySjB3R0pTWFpMeEd1M29UM2xR?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "هآرتس: الصين تملك أوراق ضغط على إيران وواشنطن.. فهل تفتح الطريق أمام حل أزمة هرمز؟ - فلسطين الآن",
+          "source": "فلسطين الآن",
+          "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNMV9MSUI5YnltYmlzZUstVXFFelJiRkVqZHVvdnBEMjctMUp2dHEySDB1czVPSDRvZzl2b1hNV1YwaGh5NEpVUEFjNWJSSW5vQVJ1QzhGZEZMaU50SUF2bW8yX0tfalpsZUZXVGhzX2F6N25McGQwUC1DZkpDZ1ZVbmw2cU9QNGpCLW5sdXBqbFdtSlhQVHp0NjVkZzBSdmZtel9FT3hKWHVDZ2d4VERnSFBmVXd2dWdQZ3g1a3JwdnFzVlRabUJSVXFtSzNVSDlzVWxHQmgzYzU5SnI1NDVXVWkxcERmT0c4a1diU290OFpDbDJmaWxRVVVGTkFOLTAwMDZIcGRDaHhlNzdtYVEyMDFHblZ6d2xTQXY5MHppaXpHY0dmRS1BZjNzNzlKMFREUkRDU0l4dGhYV3BlMEpwYXVQN2JLMlZrWFNtdW9BZzVMaGdpdnpnNUJZVHQxWGJmazI0Q1YtZU94MGlid3o4UklZV3pxZUJaU0E4LU1rWVFRRjRCNUxDbHcwcG94SWliZks5M0JFWGRsaVpITU1zSXItVHh6anR3R05RMlVxdzlhS2plUTZBRVlhWjloYTJWTTJLRG9IQnBTS3FnS3Mtcm1LVU1mU3lYcTNSWXMtTFZkSUlaM3QwcGlISXdxUzVJVmZaanhDaXZKQ2RsZzV3dzB5N0R3M0oxRUtuMVJqa3AwNHZYRGlrLWJTTzJZbmtxY1d2a3F2WDlIZGR3ZDVnbHNHMS05T05xaHRsSTc2Yk53bzczSndrZ3liSjZUOWFFWEp0LVdTX0hQSUU?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 07:26:34 GMT"
+        },
+        {
+          "title": "إيران: الإدارة الأمريكية هي من أشعلت أزمة مضيق هرمز ونشر الفوضى في المنطقة وتطالب العالم كله بدفع الثمن - رأي اليوم",
+          "source": "رأي اليوم",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNcENDa3pvVldVZjl4WFFXMmRuZWVTV1ptWEI1cmhyYUNLdG9ZZUlWak5wampMUmtuRFNQSnFwZWxPVUlUR1BwTEwwWGt3SWtuY0gteEtxUWl6VnFoUWhIemFDTU5CSEZzQ2hsQzN0WjdnRUpyMGVQRnVzUUtMeFpvLWZJZ3NxV1BsQTVLUDMxZHVTdlFCeWNFXzFmSWZKVnJMZURTRkN1ODNFZF83akRGU3pBZjhnYXBmTU0yVm5qd1JJdExvVTJxOE9RTU5NbExiUk9kYWVxTUI0NXB3TUFKT1BJaEV4MEF4NnA2ZUhwRkJQZG1Sc1NMRUxMVEJrRC1hVlB2bkc3RzBsWUxPcnZQUXNGZ3hRcWFhVXEzakNSdVdWWEpuTTJfMjl4dG9lWFc1RGh3LWx5Vk9ka3J6S3cwQ2prMjBick1x?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 10:02:42 GMT"
+        },
+        {
+          "title": "أزمة هرمز.. إيران تسعى لكسب الوقت وأميركا تضغط اقتصادياً - الشرق للأخبار",
+          "source": "الشرق للأخبار",
+          "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPRjQxZ0lwSHNrcHZPcC0yM3o4bmw0WGVmM2dKbzZrMVZCREdNdlJBd1RVbk8yQVIxRXU4QUpfRVRjQ3lyMG1qZm5ITDZQTzlBRFVxYWJEbHViNFRkcXE0blhDRHZuSDNkbXpqOWRqLWJnQlo2MEtsUWpTYzZ6aGpBb2FPUE00Wmt3MThMYlI3MkY5VGpnTWdWazZ1OHlLVHZjSm55alU1d1VuOG9IVFlINW9VTzNtZ2swMzNHZWo4ck5QQnJvOUdWQl9naVdhUFp4MW9kMk9VeXUtNzQ2LVM1R1VNWkNTaUtRa1N0MnF5UE9XSk02dGdXUXI5WUgzMndCbTM3ZDl5QTZuODd1WjM2WkMtbW0wVHZCY3daR3BVa2xwLU9TUFZDb090bjh4RWhVN1FtRlVKVkptSkd2azMwb2ItbFN6OWdRWkZsSXZac0JoVGhNMUxxdGdyYzNlNThiS08tSUNZWndlbl9mQTRueHBlN3VZNk00STA2U3hoMlhGMUlhWmdBR0ZCYWkwdm9waVpjNms1bGl3azAyQlRyQ2xCaEFNLUtGdVJZeGZENlZFdXI1MkV5azJ6V1U?oc=5",
+          "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ترامب يتوعد: سنعلن هرمز أرضا أمريكية.. وأزمة غير مسبوقة تواجه الأسطول الأمريكي - مونت كارلو الدولية",
+          "source": "مونت كارلو الدولية",
+          "link": "https://news.google.com/rss/articles/CBMijgVBVV95cUxQZmJFNUFoeUdISERudVBmQW9MQ3lmTndiUXBabUdoX3RpU0lMeXloc1JLQU9sVmtxNVNLclQ0T3ZkeU5aM1YzdjFpOGtPUFpXSVBHcjRCajNsYjN2NklLQ0VldmhsaEgxcG5nSVY1bUoyVXBsSEVvVEFVMzcyc3hTYllNRHZUMExleGttZHlaMWl1MnFoaFBJX2xGMGRnUk1XRjBrWVNyUVo3bVcxc2ZGTHcyRWxnVmFrZUM4S1hwUFJCb2xQTWlpZkhtUFNUT2IwVUtmOWtKWWlDQ29EcE12MVFHdzdraHlPSEYwUzJFM0JVN1BwdGRMN2JXbl9KS1lQR0pNTkVkZkhkMU5DbkZCTTJUdE9scHVJNS0zenZhdjBNYXRGQzRmOUZ2MlNtSXZpSHUxY0JlTmllUVhhVmNKb0FhdFZMSjZFa3djckFyV0gtUE1jNHRyRzJ5UVMxV2ZEMEpFeEQ0WV8yYURPVjgyZHpOSEtMNmM3ZUxfdG12UXhqUU1VaFpPY052UGUxMENyNmN4bER4SXZfSjRIRTdvejlObWlSY1RwdVdJZnZaaEdDYlhnMHNEMEJYZ29ucDNocTFDTEhnbDI4cDBUUjMwS1UtNURWdmtiTFpFUWFKbVBlMFFlNU52UlI2eHpKdUZrdXhuWDFsU3d0YWViU0wyTEVMWVFDd3N0dWprNWJGd0UzSXB3QmNreEc0WTBmeTZkYUhTcHYwWkxBZlVGSXNNUnRyTmZKTmxqajI0SGVoSW5Ec0puYzVDclBnU3JwOTBidExZX29DVVRTQkxsYXVHa1RMNzJqYkxFdGVzOXpBYXFDMGJsbjE2b05xX1VFWFBTY01sUUE5Y0NrZWZNTVE?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "6 آلاف بحار عالقون وملاحة شبه متوقفة.. ماذا يحدث في مضيق هرمز بين إيران وأمريكا؟ - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMihAVBVV95cUxQd3l0NlBGd1dVV1FRclJtRGUtMHRXTUwySk42ODFkc0xVUDRCWUE3VjFVa0lScWc1eDY4LXkzNzBuVDB6MXlxNk5DeTQyRUFtc2FiMFVhNWJNZGlqSlZ5LVltcXpJbUU1ZUJxUkhQcFNGYnZsNVdKWWVzekhVR2ltZ1RJNm04bnIzSmVkclhqX2VRTURIdE9WX0VTdUViTmM4dEtMb3Y4THd6WS1kbHBPWVhmVzNBSG8wN0tfYjI5Wm4zVWcxZGtzVGZnYk9yNlpabHJoTm9QZWFsQk9YeV9ObkdLTjlqVE5QakVpMnJUQlVlM0lkRV96RlhwZDREQngtSnFHWGVIUUM5TUVSOXVGY3o5VmhyNG5BeGxGZ0lJOUhZRjI2aTlOandIZWJ1UDg0bHdocW41V28wYW9lbWNIX0E3bDNsMzNLaDhLWi1DdUYyY0tYZ3Y4TlZxb25KYXYzaGhJTmM1SmQyNVhtN3U3c2JFcm9xbFVFamRiZzlxckM2NmJTX045c2hkTVVQVTQ2OUEzUmJNcEF2SUxLVlF3bFYtWkVFaEZfTF9uSkJxOVBqM3pKME1QYnNDTk9sWEU0bEJSVWtEdDdHWkxySDZ2cmRxN2x3dWwxV3hRaFpMcnIzTVBzSzlHem02S1hwYlNKZTlaeXhucUM2X3lTRUxZeGZlVnBwMGhhWDd4bnREX19VY2YyU1F3S04xdlRlN1hlYlF2N2FUb0lVTzB6dWxXaGsxMjNKd2ZXOWMzZGdfV0pkaDItUzd1UGcyQW44M1BaNlJuWE5aVkc2LWw0UUlFbmlCZmFteU5PYXozMzdZUEtBUVVwLVlvTXQ2b1N2Y2JPNkNwYtIBigVBVV95cUxQY2RHVWI3Q2RZTWdnVDJYbUZGUnl0WF9hUGJoR3F1d2N1T25aU293VGlEN0ZiWDdvcWwtRVRZT3hJanFsdlF4dURxTXVfSmJvRFowaXlVVmdMQjhEaVJyS1hMTExRekNac0JkQ2trQXFIZjVocnZ1N2RkVmk0TUxTZ3JQOGxtX0VoS2xrT043MndxSkdVczFlUi1DSmx0dEo5UnhOcU16NC1CZnR4SXR1b0wxbWFwZGFGaE02RUdRZnRxdW5BVHpTcjFQWW1SMTA2ZFVSOW0zazhXWE5sckVvc3Uxdm5YTFd6eXZhVGxrbGE2VHI3QmU5d1JkbERmYkpiMW5XdDJnX2hRQmN2WlNkM2hJZ0xWMkNwa0Jrc1lQdk15SE1mTXZycGRmSUlrZDlnX2M2QkNsTUthb1ZXRFZlYWJGMHE0Qk1fMjhmYUNpa2Rka3czRnlobGVYUG9FMThTSUZtdXBJSmV2U094MzFySThLM1BJLTBNWkdFT3JUWUlMZE1JZnBzRkctTWwtZEM3Rk5IMnNHUmRCdkdBa0xKblphclYzMzduQ2pqM2w1dGlnTkRURUxuZldJM2xTcmFvQlNNdHBQcVdFUW1pc3AzX0swSFZ0eldzXzRwb29oUDVmQ0RUcG5GYXMwZUxnb0Y2SkNZZ0dOcDgwRVUzZERXd1NNN0Q4c21IUEFpdjFydXdtM085U0UySElHejhuTHFrb19KbzM5ZmtPYnRQelhxSEVfd1J4R1pTb3pjcGZGOHJfd2xXUHV4VTY2ZG1ZRmI3eTZoWW5yd1htd0I1ZThmVGRQMWlpdDVzazVPTFozT3padnQ3b05MY1lNdWlpVDJLN2JubUlwMER5Zw?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "أستاذ علاقات دولية: أمريكا عالقة في هرمز وفرص تحقيق أهدافها من الحرب ضعيفة - اليوم السابع",
+          "source": "اليوم السابع",
+          "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOMTdFd3NsVXI1cGkwalg2aW13UUhIdnNkYWNCTjhXTmZhM0M5VS1DNDhfV3BKOWd6U3N5MmxsdFpVMXdGSXc0MXhEMU9PNWVoUVd2QUxnMGI5ZmxsYVJPOFBfV1hIeEtxVGtVSG0zQTBtNVdnb0pyeXBfM1FWMXV1ZVlicEJIUzE2VHpsTUY0OG4zNXFaenJJbU9NSEc3bXZBVWNSU2RER2Roclp0bTFETVctc2N1LWoyTEtrZGJGSjJEYkR6OVVYZ1lHb2hUS29VMDdxb3BPdU5kdDlMV004VjNBTWhIQ1AtUFpYejNXTHB5ZjdCX2tJeVZGeUcyRWctSEpEdVBHUFBPSmtFdk9zT0JUelM1eUhFeXYxUkcxd24yNTZiaEhoU0lfa2p3VVlMckREdDhsZTJPTUJxbklCTkNZZXlhWWdVVFJvU2VzcE9NYnNmdVpKVzl0YmNKRHBHVlJxYXBJMXRIc3E0ZEVfbS1qMDlvNV9FdU1qemtKalUwX1dGWE96RnBKaFJ5M29fRzZ3ZVViVzRsNHF0MGZJUUZaQWhwV3k4S1pqWnp2T2J0QnBtRU03R1JobUREOFJXcTdpSV8xSWE1WlhCVzZ3MFo1ZUVycjVIVHRLSl9iRjBJZnVHVGtWaGFlVEx6QdIB6ANBVV95cUxOUFROaFItNktuNUt3YlVTYTVDQktDeHJOSjFPUmxXMkV5eWdoUDRsa0hUZ1F5Y3lLWDRzQVBRNDE5OTN0X0V3dkdfV1hTUFVaLThGVEZpWk9ST25paGdtQnNCYXlTeko3Yk1zNTNuT0tRa0VqVU9VUXNaelRaMlpIeHdFT1hZR1RJNzdpNDc1eHNXY3cxakprSGprSF9pN3BydzNNSG9FSXpma3dsdEZwN2pEdEJFVHVuVTUwZjdIZTZva3kydklKY2otRFJtNWlqZUR6YXdJdVU4WVVVdlZ4RGdZeWdVOExGd0d0R0ltXzU4Wmo4NWRWTEd1Zm9TcW9fcVRwWklFTGZoUFNNWHBMcjlBdnNqd0VFTVJrdWxvSTItakdEZ0RubGR5TEgwdTBDaGI5QzFVdVJld0tudE5zMk9uVFRuVjBLeUQ4QjBsWEJNYmt6TFJhYTFDWlIxYUpneUowUG9GYkdEZUhhWTJQZFB1NXJxeUJsNXNYZ3JWSE5nSlZscnFlS2EydGZ6cnpMLThGVlJlWFZ2ZzY5ZWtFNTc1M0M1dGIwS2JlTW9tdVcxWVRWMVp1c1I5LW9lRjR0RWpjcF9UWmJuakNYZ25GTmV2U0Z3aWpaWUdrZVU5bVJyVUlVNVNpaQ?oc=5",
+          "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "طارق فهمى: مفاوضات أمريكا وإيران تتجه إلى سيناريوهات مفتوحة - اليوم السابع",
+          "source": "اليوم السابع",
+          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQWE5SYkNmeTJuN0xla3lLc0FMOGtqUmNXaWdNelE5QU5ZdnQ2a0ZMWDdFNUY5UzhEWllNaFVwcnduZ1BNRnlYY3oyWk5PUUFYamVvdW9CeTExaTBmMk9VTEUyYlpabFJYWEZXTHByNjh0ampCU3ZRMUphaWJFWmllRDcwZGljUTNXeWNNT3VBY2J5aC0tVGxOR3h5UlYxdVR5OHoydWk2b0Fqc0ZuVEZoeUt2V2NwckJvaWRCRXRmaXNWaFZROFVhc0Q0QURFM1JkcWZCdkU5dGItRi1lVkdGUTJUbUoxbnVlaDdSdU5oYTRHanRFeGpSc21NVVZFLVV6UDhRVU9WX0MzMzdCcU9nRi1TZXBib3UwaHczcEhFS3VZUnYtenN2dG9GX3YwLURiRnE1bHZycWJvTk1QWVlDMkdTcVo4VnVZdk13Z3A1cm9oSC1wOHJ1dWZlMnVmNldpY3JJMkQ0Sy1vay1wYThEVEIzLVkxWVRzQWMtd3dOMnZOLTZNbUdYUl9TUlNMcTd5X0VPNWVCbGlfekN1dWY2ZHEyRmVMa2JpOHdab3lKbW9NY3JEdU5YSHJ5OFlGWHBpc1RKUERhMWNKTlhPMTNwQzBMLWVGMW5RY1BIYW1VMVVwVnI4czVhVVVQWXZyM0ZXMThKVtIB7wNBVV95cUxOVmk2WEE4cHJZUUd0Mlp3cTFCZzBjQkNtLTlWUWRscF8zbHRzV1pVRXRSNkJNZVV0M0p2QkxuU0pCMm1rSEw4TEk2T3BnSF83UXRYamtwRGJ0SGVGNkU0em9EbFk4eFd3VHBPZXVkNTJ4MWVKYlo3cmR1eWJ0ZlBONWVVLWFLWHUwYmdSUXZQeF9vREhuWjB3aVZiS1pFQlhaM1lGZ3pyLU5WRzQ2S21Ecmw1azZRNkZkRTNKa3RWZkd5dTdGay0tczFLTkZISE5OMk1FZi01d0dMTEtqcXRuTm9oc29rRVVQZENZb1MzZXloWmxfNEFhWUt1NW5nSEVSY21GYTFsZTduenhjMUI2VkpfckItNUN5Ty1fbFlFc1hqSU1neHJ0N2VRRHVQRGxYWjA1WDYzdUdpRDBldnQyc3dPR2RKZHgwcjE4bFJyT1hON1F4WVdYSmNobk80b1JhTmk5ajdGVWFKbnVOSDFDRlNtV0dfTUpQb1VtZU1GVEM1RHhmSTdJdE5JQnVjVWNVNnNIZnZBMHc5czFTcnh6VExLeDZaTmEtTllNMUtqa0pQRUxLc3BNLUtlaENoN0p1SmNoTVpIbmUya0l6Uk9WcjlZUzFWdldHdnNpMDcyUzR1R2kzUlJQQ05GMEFib2s?oc=5",
+          "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "وسطاء جدد لإنهاء أزمة هرمز.. النمسا واليونان تدخلان على خط التفاوض بين أمريكا وإيران - الجزيرة نت",
+          "source": "الجزيرة نت",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlJ2SXMxQkNfdDg5b3R3N0Znc19yZkowQTVycHMtUUdaZDJjLUNBZDE0QkstM0VXNU5RRTMzRnZsQzFraW1tRXJoZWpmMV9QWGZYOGJweGhnb2lQb0JkcjdfQzgyZ0Jrd0ZxbFo5THBMVjlXVk96UFdtQzdNeVVTWXN3Mkt0R3E1TS1UM0oydUZNWWhHbXRaVUhBNmxSSGJjR3JBU0l0b0Y2YUktaHNuS3pRN2VjOUNxSE90Wm83ekJPOVVp0gHKAUFVX3lxTE1pczZZSlVkMllDcTBaalJTNnFIc0F2RXpwbHRCd2c1aEFTNS1YV1hTb0pxSVpOTzZCY0d2aERmME9vMWZjTUt4ZVpHaVppZVR1QnBEc2ZVSWNiOEVGYW01LWdCQkc3ajlNY1dIamp6TW5Bdm96OXlsRTNwZ0ozWThqRVd5UlQyM3hTWWx0clBlQ2VCM1F2U0k0NGE4SlFISEo1X1JxdnRqUGN5a1M2M0diME1CbnM1NHRwSUNKMlU5MUVCbUZEMjFfR2c?oc=5",
+          "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "霍尔木兹海峡 伊朗 美国",
+      "items": [
+        {
+          "title": "美伊海上交锋加剧 霍尔木兹海峡博弈白热化 - cn.chinadaily.com.cn",
+          "source": "cn.chinadaily.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TbXdBQnEzci1sdFZ2NHYzUmRUQXMtb016Slc4THp6c3lZRno4aXZpaGZRUVVwOHh6U1VTRWNqX2p6S3BaTGg2cElLdlNUOVpPUlp6MHZmeHg4N1RVV3FRdHBXWHJtQW85Z0loYW5YVl9zcERRb3h1Rm9nWQ?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 02:21:53 GMT"
+        },
+        {
+          "title": "美伊冲突持续升级！伊朗：未来几天将宣布霍尔木兹海峡“禁区” - 东方财富",
+          "source": "东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VdWtrOHA5Z3kyQV9WNFpVVEt1VERhY3QzUWdRZWxTaU1JRHVQRHFfc0JlRTFCbDRRcTRpZk11Qmt2TEZsMDVKZVR4b1YwOWFzLXBsRW1aR1RjYTk3YVVpVQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 19:59:32 GMT"
+        },
+        {
+          "title": "伊朗称将在霍尔木兹海峡之外设立禁区 - 新华网客户端",
+          "source": "新华网客户端",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTVHbUVXVzdhd0owaGNQUTcwMjdEYVJTRHkyVHdSUzFjdXhPTHd4Yzh1dXh5RlEyNWVCb0d1NFFNd0o1UlU0UWo5cHlCdldYUlBOR3dsbHRBcEx6Y0dudXRoRGZydXh0c3hiUWVyYnFuWjBoQ2FRT3BZZ28yOEFlQnN4UXllR0pPNE95UEI1LVVjRkRtUTZqY3RR?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 23:40:19 GMT"
+        },
+        {
+          "title": "伊朗拟在霍尔木兹海峡外设禁区，与阿曼协议即将达成 - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSdEY2OW83a2c1Z3pQVnZ0SVNMSzV5QlhXU251bzQ1OEJSTHBOam9meUlaVlh2cWlGcllTY0dSM0djRDFia2ZMYURFdHFHa2dJME5n?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 01:06:52 GMT"
+        },
+        {
+          "title": "霍尔木兹海峡的“新禁区”：一条狭窄水道如何牵动全球能源神经？｜科技观察 - 川观新闻",
+          "source": "川观新闻",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2Rlg1dHc4SVU0ZEVjZy1rNnRzXzRTaXF5UDhQcGd6Mmd5QVlEWllhTEFuREdpbzJQTXQ4elRtX01FNUV1STRPTWZKN1ZCdw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 05:00:00 GMT"
+        },
+        {
+          "title": "伊朗公布一款新型导弹 特朗普威胁在美禁售加拿大庞巴迪产品 | 环球市场 - 财联社",
+          "source": "财联社",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHLXNUT3N0UXBKUUtxWGNkd3ZfbjZCZVBDRmdFOWhVWWxSUTlJVzdCdVEyX0ZWY3FHcGd1VHlmdVNCdVZOMkI1Qg?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 23:33:34 GMT"
+        },
+        {
+          "title": "伊朗声称袭击了一艘美国船只，但美方称其为“彻头彻尾的谎言” - voachinese.com",
+          "source": "voachinese.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDAwMU1xZ3A5OEhCRERjTU0wcTFNNUZlb0VzX2NLaWpDSFRnT1dWUGRSUE01aXZYUVJTOEVXdVJwUF93WThCMDBZUFZ4eEt6U1hIMVZnMzh0eFFYNzY4aDBoMlFyaFJmMy1GczNPa0hEQm1YY19BUFBxbmk1SjFaVm5Od0JEQnVIOUYtS2xCMFdyVnJ1Ny1vTjl1WUZCRlBiY0RJS1VNNWZCNnFlNWpITWR2VXozVWJxNkVjYi14LW1GR2hXMzNxWXFsWdIBywFBVV95cUxPeDAwMU1xZ3A5OEhCRERjTU0wcTFNNUZlb0VzX2NLaWpDSFRnT1dWUGRSUE01aXZYUVJTOEVXdVJwUF93WThCMDBZUFZ4eEt6U1hIMVZnMzh0eFFYNzY4aDBoMlFyaFJmMy1GczNPa0hEQm1YY19BUFBxbmk1SjFaVm5Od0JEQnVIOUYtS2xCMFdyVnJ1Ny1vTjl1WUZCRlBiY0RJS1VNNWZCNnFlNWpITWR2VXozVWJxNkVjYi14LW1GR2hXMzNxWXFsWQ?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 16:23:20 GMT"
+        },
+        {
+          "title": "期货午评：美伊战云密布霍尔木兹！甲醇、20号胶涨近4% - 10jqka.com.cn",
+          "source": "10jqka.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XbVI4V25JMlJVdm9POGpiZG5zYUc5UW5JTDdSVTMzU0JsT3hPYTdkbTd0T2JQb21OR21GalJNMXBzWTlDMGVSc0Y3VFMxTmZJWlVxZFJkN1lzaDFTbXc?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 03:37:49 GMT"
+        },
+        {
+          "title": "伊朗称将设立新禁航区 美伊对霍尔木兹海峡通行情况说法不一 - chinanews.com.cn",
+          "source": "chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fQzVWRlJ1STRpTkIzYkJFNmVVODlCc1BCdVBZdXFJTzVFLXRjRDFKUGVnY2NGYm9QZFlDelNLM21iNTdNNGIzNExjejBDRFRURkllNWJlbFZNOG5XaWtpZEh2VDM4ejY1?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 05:20:23 GMT"
+        },
+        {
+          "title": "霍尔木兹海峡通航量降至5月来最低 - 央广网",
+          "source": "央广网",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mcFp6NVpERjduWGlHUlZTMTlCXzdBbFVDeFVra1B2RGpIOFU5VElIUXB0Tlo1VGRaZ2J1M0dlWVB2ZWd5VGIyTUZ6U3VWa2lTSC1pMUhrTmJuaWVHUEhWbEdlWGE2VlVHYWxTTTZlQnJFcTVRc0E?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 06:08:41 GMT"
+        },
+        {
+          "title": "伊朗警告韩国勿介入霍尔木兹海峡 首尔宣布放缓派兵筹备 - RFI",
+          "source": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQcWNfVE5ka0x2dkduR05GY3dzZ2hOaTM5aG15RWk1OTJWd2RRX3BMczFYZTlPQThMY1BQdEpsNk44MHV3WjJqcXJPdTMwQ183TG5XOFJjRy1qbV9qWWRCYmdJUHpmUTN3V0ZCVnFCYm8wSkFibmkxOG5ER3I2OFRYT2FhdzNzdW5MelJwaWhxT1hqNmtIVkZUbnVBX3hpRXctQXpVa2FCemlZeFplSVo1Nk1wSjRfMEgtZ01qdlA4MWt2NlgzSkhUNkFkamZBVVZyNFctemwtWE5ZaV9yWG5YSENUUHRWQ2l6MU52VlcwdHE2bXhNVnlMMG9sNEFFYjNWYk84NXdTSlVJMVYyN1c0anBVamJhSlVqM2JBYkRVbThkQ3AxSENaZmhUTnN3R1BYWEpROWdnTk10d25XeUp4MEpfWjdvTTl0VGJyTmtQU3cxYlpUZkJBOFR6SXcwNWhvc0EwUzE5bjMzQlhERy0yWTVVMkthLXQyWHdEVWw1c2FRUVlmZTd3MTBJRU4?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 13:42:35 GMT"
+        },
+        {
+          "title": "伊朗军方：霍峡南部美国通道已无法安全通行 - 8world",
+          "source": "8world",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjBtNzk2SlozR1RNSDV2X193THhLVVo1Y1BEZEVjVS11VFd4dk5CdXpDYmE2Y1phaWJjc1pzMHhhYThnYm1mT0ZmT0JLZzluaExMeEFseDZiVHNHWTlrNWd2b1o3TjZ6QkhuT0ZzZ1NncmdIX1EycWVKQU91OEUyeHhLd1F2U1NsWk5zTFB1NVo3X2xfSVVILVg2NEVYWFFrOXE3UmJ0Y1M?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 22:55:56 GMT"
+        }
+      ]
+    }
+  }
+}

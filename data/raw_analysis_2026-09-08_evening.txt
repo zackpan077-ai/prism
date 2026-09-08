@@ -1,0 +1,123 @@
+{
+  "findings": [
+    {"title": "显著度分化：仅美俄头版提及，日印中欧头版几乎不见", "body": "在当天头版前10条中，只有美国（CBS的『Live Updates: Iran says it will expand control in Strait of Hormuz…』）和俄罗斯（Интерфакс的『Иран пригрозил США полной блокадой Ормузского пролива…』）将本事件推上头版。日本头版全部是天气、刑事与国内政治（如『愛知県・岐阜県で線状降水帯による大雨』），印度头版聚焦国内社会新闻（如『Delhi building collapse death toll up to 7』），中国、法国、德国、巴西、埃及头版均无霍尔木兹相关条目——说明该事件在这八国属于财经/国际版块新闻而非头条大事。"},
+    {"title": "俄罗斯的独家框架：封锁是对美国制裁的『回应』", "body": "俄语标题几乎清一色使用『в ответ на экономические санкции』（作为对经济制裁的回应）这一因果框架，如Интерфакс的『Иран пригрозил США полной блокадой Ормузского пролива в ответ на экономические санкции』。这种将封锁定性为『被动反制』的措辞在其他语言中几乎不出现（英语报道多写成『Iran says it will expand control』或『Iran vows…』，即主动扩张控制）。同时eadaily.com引用美国国务院『Иран шантажирует мировую экономику』（伊朗讹诈世界经济），保留了美方口径。"},
+    {"title": "油价视角是印度与巴西的绝对主导框架", "body": "印度12条标题中11条以油价开篇（『Oil Prices Near $100』、『Brent Nears $100 as US-Iran Conflict Escalates』），且出现别国没有的角度：特朗普的油价承诺（『Trump says oil prices will drop 'precipitously', gas could fall below $2 after US wins Iran war』），以及反问式标题『Why isn't oil above $100 despite supply disruptions?』。巴西同样以油价为主轴（『Petróleo Brent supera US$ 97』），并有本土影响评估（『impacto no Brasil ainda é limitado』）和特朗普改名提议的独家角度（『Donald Trump propõe chamar Estreito de Ormuz de 'Estreito de Trump'』）。"},
+    {"title": "日本强调『报复链』与战术细节，德国聚焦替代路线", "body": "日本标题反复标注因果关系与战术名称：『革命防衛隊によるミサイル攻撃への報復』（对革命卫队导弹攻击的报复）、forbesjapan独家点出新方针『タンカー対タンカー』（以船制船）首次适用。德国则独有地突出伊朗—阿曼走廊谈判与替代管道：『Ölpreis reagiert wenig auf Hormus-Abkommen von Iran und Oman』、『Pipelines zum Mittelmeer? Wie die Golfstaaten der Hormus-Falle entkommen wollen』，并解释为何油价没到200美元（『Warum er nicht auf 200 Dollar stieg』）。"},
+    {"title": "埃及呈现罕见的美方批评视角与区域调解叙事", "body": "埃及阿拉伯语标题出现大量别国缺席的角度：英国施压特朗普（『بريطانيا تضغط على ترامب لإعادة فتح مضيق هرمز ومنع إيران من امتلاك سلاح نووي』）、奥地利与希腊充当新调解方（『وسطاء جدد لإنهاء أزمة هرمز.. النمسا واليونان تدخلان على خط التفاوض』）、学者判断美国陷入困境（『أمريكا عالقة في هرمز وفرص تحقيق أهدافها من الح_war ضعيفة』），以及人道细节『6 آلاف بحار عالقون』（6000名船员被困）。这些 mediation/困局框架在美英日标题中均不出现。"}
+  ],
+  "quote_comparison": {
+    "intro": "对比伊朗在霍尔木兹海峡行动的定性措辞（封锁/扩张控制/禁区/走廊）",
+    "rows": [
+      ["俄罗斯 · Интерфакс", "Иран пригрозил США полной блокадой… в ответ на экономические санкции", "定性为『全面封锁』且强调是『对美国制裁的回应』，唯一系统性使用因果反制框架的语种"],
+      ["美国 · CBS News", "Iran says it will expand control in Strait of Hormuz", "使用『expand control』（扩张控制），主动进攻性措辞，无因果背景"],
+      ["英国 · Lloyd's List", "Iran proposes Hormuz shipping corridor as tanker war with US escalates", "航运专业媒体用中性词『corridor』（走廊/航道），弱化『封锁』色彩"],
+      ["中国 · 东方财富", "伊朗：未来几天将宣布霍尔木兹海峡『禁区』", "直接引述伊朗口径『禁区』，新华网进一步限定为『在霍尔木兹海峡之外设立禁区』，收窄伊朗主张范围"],
+      ["巴西 · Metrópoles", "Irã ameaça criar zona proibida de navegação", "用『ameaça』（威胁）+『禁航区』，威胁性定性词"],
+      ["法国 · Vietnam.vn", "L'Iran bloque le détroit d'Ormuz", "直接断言『伊朗封锁海峡』为既成事实，比其他国家标题更强"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "伊朗扩张海峡控制、油价上涨，兼有美方否认与白宫强硬表态",
+      "unique": "Fox News的『more painful response' for US, Trump sinking 3 oil tankers』将特朗普打击油轮与伊朗威胁并列；jpost.com给出唯一乐观框架『Iran is losing its grip』；PBS报道『exclusion zone』细节",
+      "headlines": [
+        {"source": "CBS News", "original": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News", "zh": "实时更新：伊朗称将扩大对霍尔木兹海峡的控制，油气价格持续攀升"},
+        {"source": "NBC News", "original": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News", "zh": "伊朗声称在霍尔木兹海峡袭击一艘美国船只，美方否认"},
+        {"source": "Fox News", "original": "Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait - Fox News", "zh": "伊朗誓言对美『更痛苦的回应』，特朗普击沉霍尔木兹海峡3艘油轮"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "互为报复的『tanker war』拉锯战，关注冲突走向",
+      "unique": "Lloyd's List独家报道伊朗提出『shipping corridor』航运走廊方案；Iran International的『The gamble behind US attacks』分析美方打击的战略赌博",
+      "headlines": [
+        {"source": "The Guardian", "original": "US military says it struck three Iranian tankers after American warships came under missile attack - The Guardian", "zh": "美军称在美国军舰遭导弹袭击后打击了三艘伊朗油轮"},
+        {"source": "Lloyd's List", "original": "Iran proposes Hormuz shipping corridor as tanker war with US escalates - Lloyd's List", "zh": "伊朗在与美国的油轮战争升级之际提出霍尔木兹航运走廊"},
+        {"source": "Bloomberg.com", "original": "Iran, US Trade Tanker Attacks as Six-Month Conflict Escalates - Bloomberg.com", "zh": "伊朗与美国互袭油轮，六个月冲突升级"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "几乎全部以油价涨跌为核心，事件本身只是油价驱动因素",
+      "unique": "Moneycontrol与Deccan Chronicle报道特朗普『油价将暴跌、汽油跌破2美元』的独家说法；ET EnergyWorld反问『为何油价没破100美元』",
+      "headlines": [
+        {"source": "Moneycontrol.com", "original": "Trump says oil prices will drop ‘precipitously’, gas could fall below $2 after US wins Iran war - Moneycontrol.com", "zh": "特朗普称美国打赢对伊战争后油价将『急剧』下跌，汽油可能跌破2美元"},
+        {"source": "CNBC", "original": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit - CNBC", "zh": "伊朗与美国互袭、沙特阿美设施据报遇袭后，油价升至六周高位"},
+        {"source": "ET EnergyWorld", "original": "Why isn't oil above $100 despite supply disruptions? - ET EnergyWorld", "zh": "供应受扰，油价为何还没突破100美元？"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "美军报复性打击三艘伊朗油轮，双方互袭持续、供应不安再燃",
+      "unique": "forbesjapan独家指出新方针『タンカー対タンカー』（以船制船）首次适用；读卖与朝日详述攻击地点『輸出拠点近海』（出口据点近海）等战术细节",
+      "headlines": [
+        {"source": "forbesjapan.com", "original": "米軍、イラン石油タンカー3隻を攻撃 新方針「タンカー対タンカー」を初適用 - forbesjapan.com", "zh": "美军攻击3艘伊朗石油油轮，新方针『以船制船』首次适用"},
+        {"source": "読売新聞", "original": "米軍のタンカー破壊に報復、イラン側はタンカー３隻と「米国関連」船舶３隻攻撃と発表…応酬で供給不安再燃 - 読売新聞", "zh": "报复美军破坏油轮，伊朗宣布攻击3艘油轮和3艘『美国相关』船舶……互袭使供应不安再燃"},
+        {"source": "毎日新聞", "original": "タンカー攻撃の応酬 米イラン、海峡主導権譲らず - 毎日新聞", "zh": "油轮互袭，美伊在海峡主导权上互不相让"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "海峡封锁的现场细节、人道后果与绕行替代方案",
+      "unique": "TF1的『Trois minutes pour évacuer』现场画面视角、ouest-france的伤亡与30万吨油轮倾斜细节、L'Express的叙利亚替代石油走廊设想、Vance『通行量几乎恢复』的安抚表态",
+      "headlines": [
+        {"source": "TF1 Info", "original": "\"Trois minutes pour évacuer\" : les images d'un avion militaire américain qui menace un pétrolier iranien dans le détroit d'Ormuz - TF1 Info", "zh": "『三分钟内撤离』：美军军机在霍尔木兹海峡威胁一艘伊朗油轮的画面"},
+        {"source": "ouest-france.fr", "original": "Dans la nouvelle guerre des tankers, deux morts et un pétrolier de 300 000 tonnes qui gîte dans le détroit d’Ormuz - ouest-france.fr", "zh": "新油轮战争中，两人死亡，一艘30万吨油轮在霍尔木兹海峡倾斜"},
+        {"source": "Sud Ouest", "original": "Détroit d’Ormuz : Vance assure que le passage de pétrole a « presque » retrouvé ses niveaux d’avant le conflit - Sud Ouest", "zh": "霍尔木兹海峡：万斯保证石油通行量『几乎』恢复到冲突前水平"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "油价波动与绕开霍尔木兹的替代路线（阿曼协议、地中海管道）",
+      "unique": "独家关注伊朗—阿曼霍尔木兹走廊谈判及油价反应（FAZ、BeInCrypto）；解释性标题『为何油价没涨到200美元』；Frankfurter Rundschau报道阿曼附近大规模撤离行动遭伊朗攻击阻止",
+      "headlines": [
+        {"source": "FAZ", "original": "Ölpreis reagiert wenig auf Hormus-Abkommen von Iran und Oman - FAZ", "zh": "油价对伊朗与阿曼的霍尔木兹协议反应平淡"},
+        {"source": "Berliner Morgenpost", "original": "Pipelines zum Mittelmeer? Wie die Golfstaaten der Hormus-Falle entkommen wollen - Berliner Morgenpost", "zh": "通往地中海的管道？海湾国家如何摆脱霍尔木兹陷阱"},
+        {"source": "Berliner Zeitung", "original": "Ölpreis trotz Hormus-Krise: Warum er nicht auf 200 Dollar stieg - Berliner Zeitung", "zh": "尽管霍尔木兹危机，油价为何没涨到200美元"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "油价逼近100美元的供应风险，附本土影响与花边角度",
+      "unique": "Times Brasil评估『对巴西影响仍然有限』；gp1.com.br独家报道特朗普提议将海峡改名为『特朗普海峡』；agenciabrasil报道沙特油轮遇袭",
+      "headlines": [
+        {"source": "Valor Econômico", "original": "Petróleo Brent supera US$ 97 com riscos de abastecimento em Ormuz após novos ataques entre EUA e Irã - Valor Econômico", "zh": "美伊新一轮互袭后，布伦特原油因霍尔木兹供应风险突破97美元"},
+        {"source": "Times Brasil | CNBC", "original": "Risco no Estreito de Ormuz mantém mercado de petróleo em alerta, mas impacto no Brasil ainda é limitado - Times Brasil | CNBC", "zh": "霍尔木兹海峡风险令油市保持警惕，但对巴西影响仍然有限"},
+        {"source": "gp1.com.br", "original": "Donald Trump propõe chamar Estreito de Ormuz de “Estreito de Trump” durante tensão contra o Irã - gp1.com.br", "zh": "特朗普在对伊紧张期间提议将霍尔木兹海峡改称『特朗普海峡』"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "伊朗威胁全面封锁海峡，作为对美国经济制裁的回应",
+      "unique": "系统性使用『в ответ на экономические санкции/давление』因果框架；独家报道美军拦截90余艘与伊朗有关船只（『США перехватили более 90 судов』）；eadaily引述美国务院『讹诈世界经济』指控",
+      "headlines": [
+        {"source": "Интерфакс", "original": "Иран пригрозил США полной блокадой Ормузского пролива в ответ на экономические санкции - Интерфакс", "zh": "伊朗威胁以全面封锁霍尔木兹海峡回应美国的经济制裁"},
+        {"source": "eadaily.com", "original": "Госдеп США: Иран шантажирует мировую экономику блокадой Ормузского пролива - eadaily.com", "zh": "美国国务院：伊朗以封锁霍尔木兹海峡讹诈世界经济"},
+        {"source": "korrespondent.net", "original": "США перехватили более 90 судов после возобновления блокады Ирана - korrespondent.net", "zh": "伊朗恢复封锁后，美国拦截了90余艘船只"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "美伊在海峡问题上互相消耗时间，国际调解与地区后果受关注",
+      "unique": "独家角度最多：英国施压特朗普重开海峡并阻止伊朗拥核、奥地利与希腊新调解方入场、学者判断美国『陷入困境』、6000名船员被困的人道细节、以及引述哈马斯/伊朗系媒体『美国点燃危机』的指控",
+      "headlines": [
+        {"source": "Masrawy", "original": "بريطانيا تضغط على ترامب لإعادة فتح مضيق هرمز ومنع إيران من امتلاك سلاح نووي - Masrawy", "zh": "英国施压特朗普重开霍尔木兹海峡并阻止伊朗获得核武器"},
+        {"source": "الجزيرة نت", "original": "وسطاء جدد لإنهاء أزمة هرمز.. النمسا واليونان تدخلان على خط التفاوض بين أمريكا وإيران - الجزيرة نت", "zh": "终结霍尔木兹危机的新调解方……奥地利与希腊介入美伊谈判"},
+        {"source": "Masrawy", "original": "6 آلاف بحار عالقون وملاحة شبه متوقفة.. ماذا يحدث في مضيق هرمز بين إيران وأمريكا؟ - Masrawy", "zh": "6000名船员被困、航行几乎停摆……霍尔木兹海峡美伊之间发生了什么？"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "美伊海上博弈白热化，聚焦伊朗『禁区』宣布与阿曼协议、通航量数据",
+      "unique": "新华网将禁区范围收窄为『在霍尔木兹海峡之外设立禁区』；财联社独家并置伊朗新型导弹与特朗普禁售庞巴迪；RFI报道伊朗警告韩国勿介入、首尔放缓派兵；央广网给出通航量降至5月以来最低的数据",
+      "headlines": [
+        {"source": "新华网客户端", "original": "伊朗称将在霍尔木兹海峡之外设立禁区 - 新华网客户端", "zh": ""},
+        {"source": "华尔街见闻", "original": "伊朗拟在霍尔木兹海峡外设禁区，与阿曼协议即将达成 - 华尔街见闻", "zh": ""},
+        {"source": "RFI", "original": "伊朗警告韩国勿介入霍尔木兹海峡 首尔宣布放缓派兵筹备 - RFI", "zh": ""}
+      ]
+    }
+  ],
+  "limitation": "本数据仅含各国Google News聚合标题与当日头版前10条，媒体构成受搜索词与算法影响（如美国的Al Jazeera、英国的dw.com等外媒混入），且缺少全文，无法据此判断各国媒体的完整报道深度与编辑立场。"
+}
