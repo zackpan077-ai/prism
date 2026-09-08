@@ -1,0 +1,17 @@
+{
+  "event": "伊朗在霍尔木兹海峡扩大海上控制并威胁封锁，引发美伊「油轮战争」升级，全球油气价格攀升",
+  "event_title": "霍尔木兹海峡危机",
+  "why": "被美、印、日、德、俄、埃及、中国等多国头条共同报道，涉及石油、航运、制裁与军事对峙，各国因能源依赖和地缘立场不同而叙事差异极大。",
+  "queries": {
+    "US": "Iran Strait of Hormuz",
+    "UK": "Iran oil tanker threat",
+    "India": "Iran Hormuz oil prices",
+    "Japan": "イラン ホルムズ海峡",
+    "France": "Iran détroit d'Ormuz",
+    "Germany": "Iran Straße von Hormuz",
+    "Brazil": "Irã estreito de Ormuz petróleo",
+    "Russia": "Иран Ормузский пролив блокада",
+    "Egypt": "إيران مضيق هرمز",
+    "China": "伊朗 霍尔木兹海峡 油价"
+  }
+}

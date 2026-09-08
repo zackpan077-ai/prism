@@ -1,0 +1,316 @@
+{
+  "findings": [
+    {
+      "title": "显著度差异：美国仅一条进入头版，俄印埃相对突出",
+      "body": "在美国当天头版前10条中，只有 cbsnews.com 的直播更新『Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb』一条与该事件相关，其余头版被德国地方选举（『Germany's Merz shocked by far-right state election triumph』）、加拿大关税等占据。俄罗斯头版中，Интерфакс 的『Иран пригрозил США полной блокадой Ормузского пролива』进入了前10；埃及头版第5条是 BBC 的『إيران: سنعلن قريباً عن منطقة محظورة في الخليج』；印度头版第6条为 Reuters 的伊朗威胁报道。而英国、日本、法国、德国、巴西、中国的头版前10条完全没有霍尔木兹相关内容，说明该事件在美英德法等国的国内议程中被选举、抗议等议题挤出头版。"
+    },
+    {
+      "title": "定性分歧：伊朗是『威胁封锁』还是『已在封锁』",
+      "body": "俄语报道普遍使用完成时或进行时的『блокада』（封锁）表述，如『Тегеран продолжает блокаду Ормузского пролива; США объявили о перехвате 92 судов』（德黑兰继续封锁霍尔木兹海峡；美国宣布拦截了92艘船只）、『Иран блокирует Ормузский пролив』（伊朗正在封锁霍尔木兹海峡）；而西方与中文报道多写为威胁或计划，如英语的『Iranian threats to energy sites』（伊朗对能源设施的威胁）、中文的『伊朗拟在霍尔木兹海峡外设禁区』。这一时态与定性差异使俄语读者面对的是一个『既成事实的封锁』，其他读者面对的是『潜在的封锁』。"
+    },
+    {
+      "title": "独家角度：日本与法语圈聚焦伊朗对韩国的警告",
+      "body": "『韩国参与霍尔木兹行动引发伊朗警告』是日本和法国报道中密集出现、而在美国、英国、中国、巴西对齐样本中几乎缺席的角度。日本如『韓国軍派遣なら「深刻な結果」 イラン、米支援巡りけん制』（若韩国派兵将面临『严重后果』，伊朗就支援美国予以牵制）、『イラン、韓国のホルムズ海峡での「貢献」検討に猛反発』；法国如『L'Iran met en garde la Corée du Sud contre toute implication dans le détroit d'Ormuz』（伊朗警告韩国勿介入霍尔木兹海峡）。德国与埃及（『إيران تحذّر كوريا الجنوبية』）也有零星报道，显示这一角度主要在伊朗地区辐射圈和关注美日韩同盟的媒体中流通。"
+    },
+    {
+      "title": "经济框架主导：印度、巴西、中国几乎全部从油价切入",
+      "body": "印度12条标题中有10条以『Oil prices』开头（如『Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97』）；巴西12条中9条围绕油价（『Petróleo Brent supera US$ 97 com riscos de abastecimento em Ormuz』）；中国财经媒体同样以油价为主线（『伊朗外长宣布\"开放\"霍尔木兹海峡！国际油价短线暴跌』、『最高120美元/桶！高盛：中东航运或推高油价』）。相比之下，法国、日本、德国的标题更多聚焦军事与地缘动作本身（如法国『les forces iraniennes prennent pour cible un drone naval américain』）。"
+    },
+    {
+      "title": "讽刺性花絮的跨国流通：特朗普改名『特朗普海峡/Strait of Trump』",
+      "body": "特朗普提议将霍尔木兹海峡改名的消息在法国（『Donald Trump dit être prêt à frapper le pays « à tout moment » et veut rebaptiser le détroit d'Ormuz』，特朗普称随时准备打击该国并想给霍尔木兹海峡改名）、德国（『„Trump-Straße\" statt Straße von Hormus?』，用『特朗普街』取代霍尔木兹海峡？）和巴西（『Donald Trump propõe chamar Estreito de Ormuz de \"Estreito de Trump\"』）都以带讽刺语气的标题出现，而在美国和英国的对齐样本中完全缺席，属于典型的『出口转内销』型新闻。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "对比同一核心事实——伊朗宣布在霍尔木兹海峡外设立新『禁区/限制区』——在各国标题中的定性措辞",
+    "rows": [
+      [
+        "US · ABC News",
+        "Iran live updates: Tehran plans new 'restricted zone' outside Strait of Hormuz",
+        "用中性的『restricted zone』（限制区），并以『plans』（计划）弱化既成事实"
+      ],
+      [
+        "Japan · 読売新聞",
+        "イラン側、ホルムズ海峡の外側に「進入禁止海域」を設定へ…米軍との緫張が一層高まる恐れ",
+        "译为『進入禁止海域』（禁入海域）并附加对美伊紧张升级的预测，措辞更强硬"
+      ],
+      [
+        "France · Le Figaro",
+        "Téhéran va déclarer une «zone interdite» près du détroit d'Ormuz dans les prochains jours",
+        "用『zone interdite』（禁区），『va déclarer』（即将宣布）强调迫近感"
+      ],
+      [
+        "Russia · EADaily",
+        "Иран объявил о создании новой «запретной зоны» за пределами Ормузского пролива.",
+        "用完成体『объявил』（已宣布），把计划呈现为已发生的事实"
+      ],
+      [
+        "Egypt · DW.com",
+        "إيران تعلن إقامة \"منطقة محظورة\" قرب هرمز وتهدد السفن بعقوبات",
+        "用『منطقة محظورة』（禁区）并附加『تهدد السفن』（威胁船只），突出威胁面向"
+      ],
+      [
+        "China · 华尔街见闻",
+        "伊朗拟在霍尔木兹海峡外设禁区，与阿曼协议即将达成",
+        "用『拟』字保留不确定性，且同时强调与阿曼谈判的缓和信号"
+      ]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "美伊军事对抗与航道安全：海豹突击队扫雷、美方否认船只被击中、坚持海峡『fully open』",
+      "unique": "独家强调美方秘密行动与否认叙事：『US carried out covert four-month Hormuz mine-clearing mission』（美方执行了为期四个月的秘密扫雷任务）、『Iran claims strike on a U.S. ship... but the U.S. denies it』（伊朗声称击中一艘美国船，但美方否认）",
+      "headlines": [
+        {
+          "source": "cbsnews.com",
+          "original": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - cbsnews.com",
+          "zh": "直播更新：伊朗称将扩大对霍尔木兹海峡的控制，油气价格持续攀升",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5"
+        },
+        {
+          "source": "Iran International",
+          "original": "US carried out covert four-month Hormuz mine-clearing mission - FT - Iran International",
+          "zh": "据英国《金融时报》：美国执行了为期四个月的霍尔木兹秘密扫雷任务",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZOEVaSFlaQVNZMFI2b3l1ZnBINml6dG1QRlFQVkh0RnNfdzdjSHo1MEticENTODlDN29iQ1ZiSmZMYlpIWFEwZHNNV3hhSkxoT2c?oc=5"
+        },
+        {
+          "source": "Al Jazeera",
+          "original": "Iran war updates: Hormuz traffic falls as US insists waterway ‘fully open’ - Al Jazeera",
+          "zh": "伊朗战争更新：霍尔木兹交通量下降，美国坚称该水道『完全开放』",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWEx0eDJjS1ZhZmlrQm81R0JkSXFYTG1HeDVRTHY2VFNVa3RKaXl4YThfbjAxWnhoNGlsZTM2UFUzbmk2WTB4dWtMcFZnWDRFb204bXJJRXYzbXVnbjBPdEVzTHpwc3UtVEk4cDBtQW9meTdNTTFGZGx5cVRqVWFZYS13anZZZGszd3J0UGlQdkRxdTN5LU5YOUJwQkxUdFNJNkZxSV81RTF3Y3htTTZZY1hIVTdwMnREd2JBTWhnd9IBxAFBVV95cUxNU0twWmhxcUJXelhrV0xFeWVxWlBWZkFMRmozVXc0Tmx5WGlkRFlad3BMRXptUTZ3OE5VUTFuZkhiQzBGNklFMUlidkg2TmxOTG5PRm9jRXExZ29rNkd4cEFoWjhVblg5VnFJYjJyVUtfbWZ4b0JRNjl2ZUdBSVRtRVhqRUtnYkdHanRPcmJqdXRYRWViYUVhNVk2YXdEdzJ0NTU2MmhLcHJnQ1JDNTlteHhzSWY1S3ZzbjdfTVpvMU4zS2Uz?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "油价与油轮战争：聚焦能源市场冲击与美伊互袭船只",
+      "unique": "以消费者代价为切入点：『Iran War Costing US Consumers $100 Billion In Extra Fuel Costs』（伊朗战争使美国消费者多付出1000亿美元燃料成本），并出现『U.S. Sinks Iranian Oil Tanker』（美国击沉伊朗油轮）这类直接归责美国的动词",
+      "headlines": [
+        {
+          "source": "Baird Maritime",
+          "original": "Oil reaches six-week high amid Iranian threats to energy sites - Baird Maritime",
+          "zh": "伊朗威胁能源设施之际，油价创六周新高",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHItaGRGa05nRHVla3B2Xzh3SldsTmNJd3FuUTNRTTk4WGlEaUJKb1gzQ285dDJBWlk2VWNlcmhXM2RHSExRQUFXb09mcmRuRFJFWm9BRmRyc1pyREJkSmpkZkFpc3dIdVBubmt2WXpyRDBLTlZlbHdPU1l0ZF9iZ0NPSnotdURWOU1nTkJiRGltTVQ2NVE3U3lJN0FBUzFXcE9JTk5TZEVVV2oyVEHSAbsBQVVfeXFMUG9MZUctV2xIa1IwTmEtbU5WTVFuNHdBSmxXanB6NS0xWjdzZ0dYNFdIQ3ItZHFuZmZlNC1mLWhhVUs3aVFUclh6bGlrVEUyUUVSVjdQazFyX0ZsSVNuU0Zwand6X1VwQjVXbWNQZmtNQmxLNDBnX2U0LU9vV2hkWnpVejFPZy12RHA1aHhpQm4tMlppRS13M2JWWkt6Q1M4RThFQUwzeU9rdVBZSWRJSHhseEdSV2d6bUhSYw?oc=5"
+        },
+        {
+          "source": "CryptoRank",
+          "original": "U.S. Sinks Iranian Oil Tanker as Hormuz Tensions Threaten Oil Prices - CryptoRank",
+          "zh": "美国击沉伊朗油轮，霍尔木兹紧张局势威胁油价",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXFyWFdkQlotZmdYVTJKREVYdTBieVoyX182WE8zU2FvSjJTbGwtS1lURXRHN0RJSERNazRyWUpiM3djUllKdlBLdWRub0lUWGtBN291Nnl2Ty0xMk01a2pDWHZnUTZraDlUdXdSWXI0T2hYamViRnk2Sk9SREsxNi1PSk1xWG5oQ2dwWGxSWGlWY1RkWDhZV2x3TXFfREZUX0xvcFVrOA?oc=5"
+        },
+        {
+          "source": "CBS News",
+          "original": "Iran threatens \"more painful\" retaliation to U.S. strikes on Iranian oil tankers - CBS News",
+          "zh": "伊朗威胁对美国打击伊朗油轮进行『更痛苦』的报复",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTB4cXFwcGVMMDdGdWZaNExNcDRBUGVSZURNUHdKcWxIWjNLREUyQlpjaGdQQWZzMGh3cVZxcThKT1JtS0V1SlV5cWxUYU1Ra0I4OUJEYnoxa1RJOFlFWkxsNHpOR2d4R01Mc3prOERtdUx6MzF6RV9jRWEzM0l5Qi1mYkt1SUxULWJF?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "几乎纯油价视角：每条标题都围绕油价涨跌与供应风险",
+      "unique": "同时出现缓和信号标题：『Oil Prices Dip on News of Progress in Hormuz Talks』（霍尔木兹谈判取得进展的消息使油价下跌）、『Strait of Hormuz at center of Iran, Oman negotiations』（霍尔木兹海峡处于伊朗与阿曼谈判中心），并延伸报道伊朗袭击科威特、胡塞袭击沙特炼厂等外溢事件",
+      "headlines": [
+        {
+          "source": "The Times of India",
+          "original": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption - The Times of India",
+          "zh": "今日油价：美伊打击加剧霍尔木兹长期中断担忧，原油上涨",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdGlwMl91Nmw5V0JicW1iQ3JISkxHa1RQLUZWMWRERVNTbHl5UndrUjZ2QXBVa0JTX0ZsYnB0SnlYMjlFT0xNcWI1emxpTTFQWkFXSEE5OUJTZ2dUZy1UWXMzVmtZRmJraDdUOEZURkYwR2VwY2RwUFZtZlc5MFlNNF9VSEVCb3lyVG80TDliY0wxUE1Od3R5UkR6NWdabWE5bFhMRjdiSjZQQi1pZ0NsWjJzdUlxRzR0UkszZ2RqYmswaUpDbjRiZ1J6RTdrb1B4VV9vd3NyWnBxQmc4RHU1VGkxbV9PMHlRd3RoTS1zQUhlWTZsMjRtaVRXWlVnQ0FScDdpVGFwZ2FSZFRqallQcNIBlgJBVV95cUxPSFVXZ2ZoSHBFbFlFNS1raWFqNW1wSFJOM0FUOFVGcmxYRW52MTdWNDBaZGhfLVM3Nk1lNXgtVlJ5cTdOem5uUzFPZW9jZ2NBM3QteXRlOVIzQ2lIQmdjT1JqN0VJblFQSGZqdDc4NXMtdXRKYV9YeklFeFV0OUNJOXRDU3NKRklPcjJac0NwbzdPY3ZWdHJVZmJCUlg2dUdiTlZzc0tWb2JpZDFMVXZfUW15Y0hUV0tXYlFNVHJyQ0VZSkxzWDdTMHZJOUdfanZFMFJZcDNVdFluaGk3Sml5YjcyVmFfWTRfXzRqcWI5OVZNNmM0YWU2ZkNETDJNLWdJOGd3LXVmQkVBemoxNjZITEhMTFpjZw?oc=5"
+        },
+        {
+          "source": "The New York Times",
+          "original": "Oil Prices Dip on News of Progress in Hormuz Talks - The New York Times",
+          "zh": "霍尔木兹谈判取得进展的消息使油价回落",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2VabzAyb2RLUkxnRF9UZDJKZS1fM0ZQVGpnZUFkdzVsT0RYWnFKMWxKcUFiRUEtY0k5TExRREszd2o2cTh6WWNRWFJoc3BBUVAwZTJEalFFem5hVFdQd0UxLXZCaDFPdnM0ekxSX0JwQ2Q2X21hUDhQbmsxc1NiYVZCT05OSzQ?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "original": "Oil prices little changed after Iran fires missiles at Kuwait - CNBC",
+          "zh": "伊朗向科威特发射导弹后，油价变化不大",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1dVOUlGV2F6SHFhU0lGa0xCMFl0R3hmb25KTEpBVGFnUFlYcjRmSnR1RF9FelQ3THNaMjVRMERZYTRLYTItYTVyc3QtUVFoSFZoQ1dCU3pvQUpjdVRPZ3hPbldqODNyNTktdkhhbU9Oc1VqU25reEdZblhSMlg5QtIBhgFBVV95cUxNWVlmRTVYNWxjWElZQ19ramVxV0l2Z2wzbll4OXRGc2o3bHBjeEduTkd5VDF3Z2hoVS1lbjE5emNLb1MzSENyMnh6NTE5NmpqaWQtdUF2ZmNJeEo1VUxJbGU1Y2UyQWNHQl9LamhiSWY2aU5CdU11dDIweVoxTVIwWnlNQVBuUQ?oc=5"
+        }
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "航运安全与外交谈判：伊朗-阿曼新航道协议、禁航区设立，以及伊朗对韩国的牵制",
+      "unique": "对伊朗-阿曼谈判细节和韩国派兵问题的高度关注：『イラン、ホルムズ暫定航路「数日内に合意」 オマーンと交渉最終段階』（伊朗与阿曼谈判进入最后阶段，临时航道『数日内达成协议』），这在其他国家样本中极少见",
+      "headlines": [
+        {
+          "source": "日本経済新聞",
+          "original": "イラン、ホルムズ暫定航路「数日内に合意」 オマーンと交渉最終段階 - 日本経済新聞",
+          "zh": "伊朗与阿曼谈判进入最终阶段，霍尔木兹临时航道『数日内达成协议』",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MMUlNOTF4RmVxX0o4cm45R2owVE94elZZbXBkU2pyakVtV1FWZ05ySnhBbVU1UVQzQnI0NGFYSEpudVYwN19HTDMxb0RXSl9BN3FlbmdCeVp6RmhOVWhLSVRzXzlsNnpNRnhzcw?oc=5"
+        },
+        {
+          "source": "読売新聞",
+          "original": "イラン側、ホルムズ海峡の外側に「進入禁止海域」を設定へ…米軍との緊張が一層高まる恐れ - 読売新聞",
+          "zh": "伊朗将在霍尔木兹海峡外侧设『禁入海域』，与美军紧张或进一步升级",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VaUdtSkx2SlQ0Nk52QXV5WXZHcWNmdTZJeTdyZnl2QWVRZ2VXQmNGS3lONHFvVkNnNmhMV3FDUjcwTU5QVGVyYUdUaDRyTGhYeG9uMkNaclF1dzFETGd1SWF3?oc=5"
+        },
+        {
+          "source": "時事ドットコム",
+          "original": "韓国軍派遣なら「深刻な結果」 イラン、米支援巡りけん制―ホルムズ海峡に制限区域も - 時事ドットコム",
+          "zh": "伊朗警告若韩国派兵将有『严重后果』，并牵制美国——霍尔木兹海峡或设限制区",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lZHpwcjlzQk5ZZ1ZXbUJncVdubjdpRl9TU0gtVnpSWlp4NlF2dmVKNUJ1XzlTYlZQQkdPWWp0WnJfcENjbFgyOG5aSzlNVkpwTGtjZzVkdzg3aWFFQW9jYWU4Yw?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "伊朗的报复与『禁区』宣布为主轴，附带特朗普威胁改名海峡、黎巴嫩遭袭等中东全局",
+      "unique": "关注叙利亚作为替代石油走廊：『comment la Syrie veut devenir le nouveau corridor pétrolier du Moyen-Orient』（叙利亚如何想成为中东新石油走廊）；并质疑水雷真实性：『y a-t-il vraiment des mines dans le détroit d'Ormuz ?』（霍尔木兹海峡真的有水雷吗？）",
+      "headlines": [
+        {
+          "source": "Le Figaro",
+          "original": "Guerre en Iran : Téhéran va déclarer une «zone interdite» près du détroit d'Ormuz dans les prochains jours - Le Figaro",
+          "zh": "伊朗战争：德黑兰将在未来几天宣布霍尔木兹海峡附近『禁区』",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNTJXQldvam5wLUVlZU1jWVhib1NsQTNYNTVPNE1VY1g4c1Rqa2tlTFFaaktMQ3d1SC1LR2E2ZHJVQTNzZDJRYnd3eXBnYVhBQTU2bFFvc1VmZkh6NXZ6c3BldERKUWVGempKbEI4VlpEOF8tczJYTmRZbm9NU1ZnOXpLYmoxRVFLUENVMVFxcUZySEJSc1NseUdycGVJclctN1VIT0VtMGZxb2xKU3VBTzJGT1RlZjBFbURJZEZ5ZGhxSEpJUGlDRTBNcXdtaXEtaGdfX2FEWG9od1pLdnltS21DTQ?oc=5"
+        },
+        {
+          "source": "franceinfo",
+          "original": "L'Iran réplique après les frappes américaines sur trois de ses pétroliers dans le détroit d'Ormuz - franceinfo",
+          "zh": "美国打击伊朗三艘油轮后，伊朗进行回击",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSTk3RkMzenJmd0tFT3hYZVhXMmpwano3Y1kwUlRaWTRvd0NyanBoSXdJdGFJNzFQU1ZPWHQ3XzExenZSc2ZMU0FLRmVvMGx1cXJ4ai1BejBkSnN0dGZoMVUzcktQd2NyMUFBTW9jektRX3V3TUxRUllrYnR0QzFGQXVjazRZc3ZzanBxRTZoNHB4SFZIUE1yd3dvZUhpbTRneUh6NWt4WkJmMEZ0R2x0RFAxQ0hRc05oajM0QmdidXdCZ2ZoMUlQdDZtMDgyYURLMVNtX210c3ptTVFDQnJtS0otM2YzNWlENGhHTXkzaEZfdGN4VlowRTMyd2g4NENrR2RUQk16MWZLLUVjMW5BSUY0b3hWRlBSOGt2Qw?oc=5"
+        },
+        {
+          "source": "L'Express",
+          "original": "Blocage du détroit d'Ormuz : comment la Syrie veut devenir le nouveau corridor pétrolier du Moyen-Orient - L'Express",
+          "zh": "霍尔木兹海峡受阻：叙利亚如何想成为中东新石油走廊",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbUc4VXRRRUd3aFg5Z2QyNEh0WS13d0c1T1RFaDRJQ0gxRUNraUVpUkpsWVRjelJrSU9Falc0dE56b2xpRzcwXzlxYlRsa0dvV3lZU2F2c3dDQmJHVFpGZWdNQWFzdHZfQzh3TjJHSzkwNzBuWXZVNVY2RnJqZ3VBVVk0QnRQNFdEQTFLNDB2RkVlejJGSGg1TnJncVd2QTA3S3NZUE5NVktwcHZmbTJLRjY5Szc2aUNtMHlmWFc0YlNKUE44WE0zUGR1SUx1dEplRGN2ckJDYW1nbGFkWVhmS0E0Yjk3clFNM3pyRkhWeXc1dkh2RGhMZGdPdi1FTGVzN0E?oc=5"
+        }
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "军事行动事实性报道为主：水雷、油轮遇袭、美军打击伊朗油轮与伊朗报复",
+      "unique": "出现『美国秘密走廊』的技术-军事角度：『Geheimer US-Korridor durch die Straße von Hormuz』（穿越霍尔木兹海峡的美国秘密走廊）；并有标题明确写美军『erstmals US-Schiffe direkt angreift』（首次直接攻击美国船只）——直接将攻击发起方指向伊朗",
+      "headlines": [
+        {
+          "source": "Spiegel",
+          "original": "Iran: US-Militär zerstört iranische Öltanker in der Straße von Hormuz - Spiegel",
+          "zh": "伊朗：美国军方在霍尔木兹海峡摧毁伊朗油轮",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTEwdWtnY2RJY0NOWkxkTUhfYmRQYXVKMThUNDM2eDZyV3I1a2NPYnRpQnFSbnpZbXFLY0U1aVVUbVpwck5xWXE3bnlWUUNvVXJqMk12QW93LXQ1LTNWSnhzd1pPMlRWdDRFOHVDZ3NTNXk3RjFHbjdIeTZ4ZFozdHNDOGZjVGVLbE1xOXZzWS1wSUxPN1JiUUVkX2pTM2NIRHZEbHRoSkxKZjY0ZkhHVnh2Y2xqczJ0Q29rWFcxdVh6R3hncUhUcXpB?oc=5"
+        },
+        {
+          "source": "n-tv.de",
+          "original": "Zwei Tanker laufen in Straße von Hormus auf Minen auf - n-tv.de",
+          "zh": "两艘油轮在霍尔木兹海峡触雷",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUlGMHNYc0wxMVNPOHh6RG00c21FRGhLdWp2QlpybHYxOTg0T2hVeWZ0TEZOOHdQUV9vNHdzei1WZmsyVnVrdzJRMUE3al9lYm9TSDhjOFNFYVlJb1NiYmI5dXdGeW9SaUdKLTFVWVhvT0IxQjFqbUJTM0VPNnZfZ0RwV1BEaWpObUlTZFQ1THJWc2RIMm9PbzJ5TEdxaXRSbnp1RjVSZjBSQ0N3dHdZcHhRbDVRQ09GOVozUUdPQQ?oc=5"
+        },
+        {
+          "source": "ESUT",
+          "original": "Geheimer US-Korridor durch die Straße von Hormuz - ESUT - Europäische Sicherheit & Technik",
+          "zh": "穿越霍尔木兹海峡的美国秘密走廊",
+          "link": ""
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "油价与能源供应风险，兼有阿联酋开辟替代航线的应对视角",
+      "unique": "唯一报道阿联酋绕开霍尔木兹的替代输油路线：『Emirados Árabes criam rotas além de Ormuz para escoar petróleo』（阿联酋开辟霍尔木兹以外路线输出石油），并有对油价冲至120美元的预测性标题",
+      "headlines": [
+        {
+          "source": "CNN Brasil",
+          "original": "Emirados Árabes criam rotas além de Ormuz para escoar petróleo - CNN Brasil",
+          "zh": "阿联酋开辟霍尔木兹以外的石油外运路线",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG5aWnNJUkwwZXdIRmtTTE1ETGh5dGZtNEQ5X0sxSVVicVhsZm53bm1taHhBTmEtTWNfUkFlcW9zV2dVc1lpNFhHS2hjSnRVMi0tTGNTclpqVVpZNlFkcjY5ZmZ4MmxDZDhfeC1ZZmFLcEc5b01BS3VBdE5zNl9waXJaUzN0VDQ1bE1OOXhUM3lFMElYZm0tS1kyRFVMRWFnd0htNV9oTk85Zw?oc=5"
+        },
+        {
+          "source": "valor.globo.com",
+          "original": "Petróleo Brent supera US$ 97 com riscos de abastecimento em Ormuz após novos ataques entre EUA e Irã - valor.globo.com",
+          "zh": "美伊再度互袭后，霍尔木兹供应风险推动布伦特油价突破97美元",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjJHcjR6NWtyczVIay1SeTRzYmdCNFpLVUtXWm9iRFJwNS1HdjNpMFM2Y3hFYzVvMkRCTUZNOXNuX2stYk1lYk5aNDdkTXMzc1ZWR29JU3hkNDVkTzUzZGMzWjZLN1Q0c1hQLThfTUlJRVFKQ3YwdTkxMnNpSHVrQUxOdjVGeG9oZ1BsaWJHV1hPamNfcTdaYmJMSnBjREdRT21Cc1JZRnlWaVQxQVlkcUpYU1J6UUUwaU1rR0R2Y1ZhQUtHY19ET3dxXzhSTFEyMTZwQmJIbjjSAecBQVVfeXFMTy1ZYWc5OEF4U3dkdFFtSGNqRGZ1VjdJbHY1Tl9VMzZfSjZPbnlhUTNtSUZXbVN4WnpnZk5fOEM3MnlQWk5DVEFvSDBDNEJpeVRTWGhGd0J6SmVWQ0pwZmg4TDVWOW9VcGh0OTZ3VnZvTXFxU1Z6WDlpTktmVUNtdEpnSXR5MU5zU01FcHUzYkFqRXN5LWNCTi1mT2dkX3lmTlN5czF0aC1iX2NZelN0X2FDXzJ3Y3JwYXhwenJFa3hfSGVIeXpaODFFWXpXTDdDWlBIVzlzS2F5UlRBRFB4cmdhZnViUFhv?oc=5"
+        },
+        {
+          "source": "Agência Brasil",
+          "original": "Navios com petróleo saudita são atacados no Estreito de Ormuz - Agência Brasil",
+          "zh": "载有沙特石油的船只在霍尔木兹海峡遇袭",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXYwMVBiZjVYaDFJZjRXazZpUHNIa1NJampSZ2hhNGk1YXZ4dEh6OXQwYkh0R21RU3VxZmc0TWt2ckVjOU1PVjdKMGx4QnhEN3FXdUFDdHR4ZjRxUzlfcFo3TzBORWNvQzRWYXYzYXA5d1NtdWIyOTVmV1pPcXIzZHdxckxFMmM4MHNFdlFJOG51RjNHbW80RVNqTExMM19BSW1FQVN1OVZnWjZ5cDBYOWFfRVR0aFNySkdWMTZKYlBBUQ?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "伊朗『封锁』作为既成事实，强调美国受挫与被迫寻找替代路线",
+      "unique": "多条标题宣称伊朗已在封锁且美国承压：『CENTCOM перенаправило свыше 90 судов с возобновления блокады Ирана』（伊朗恢复封锁后，美国中央司令部改道90多艘船只）、『Как блокада Ормузского пролива парализовала авианосцы США』（霍尔木兹封锁如何瘫痪美国航母），并强调封锁是对美国『经济制裁』的回应——将因果链指向美方施压",
+      "headlines": [
+        {
+          "source": "Интерфакс",
+          "original": "Иран пригрозил США полной блокадой Ормузского пролива в ответ на экономические санкции - Интерфакс",
+          "zh": "伊朗以全面封锁霍尔木兹海峡威胁美国，以回应经济制裁",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Db1JNYjJYRlZfRkd1akl5Ym5mQkdHOUdLRXI1RnhxTTdEd1RXRHNVYm5heGpIS25oNDNNM3l0UW5ORlZVNkZ2ZUhSLTJtQdIBS0FVX3lxTE4zLWk3Y1dCeHpHUnFLenYwbXU1NGVSTDNhR1RjRWFtcG1NNWs5X0p2YThjWHNyYzVyZVdycjZPcTc4MTB6MVJsZUZsTQ?oc=5"
+        },
+        {
+          "source": "vovworld.vn",
+          "original": "Тегеран продолжает блокаду Ормузского пролива; США объявили о перехвате 92 судов, связанных с Ираном - vovworld.vn",
+          "zh": "德黑兰继续封锁霍尔木兹海峡；美国宣布拦截92艘与伊朗有关的船只",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON2tvZ29FMmtXb2MxOWRRN2hQczZKcHhaaEJsRVJsU3otY0JlMnNybmZ2b3I3YkE1TnZTRFMySlU2MnNVQk85WkdocWR2R1o5b2dHNklFZlk3RzY3QlExSkFtRENET1I2Z3YyM3RRVkpwX2trLUgzUHpjNzRELWNRUHpkR3hMSkxKQllXY1hnZjk3SGxvekNPWUhGVDRmaFFPNjl0eVJneXhhSzZISTJXUWNyZjRQUHpseVFpSXF6M0hsZG94b0ZuZDFSZ2hoeE56NXRGZFVCdzZXQ0k?oc=5"
+        },
+        {
+          "source": "Главный Региональный",
+          "original": "Как блокада Ормузского пролива парализовала авианосцы США - Главный Региональный",
+          "zh": "霍尔木兹海峡封锁如何瘫痪美国航母",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVowRi13WXRldllRZmNsYXdpMnpGdFlKczJZa1pneHgtaFdoNk5vdG1hQmkzRTZGZ1daWnE1SVR2UDlFVnItcDhlQVlZYkVHdldBbGtWTVV0WEV4S2QzbkhCTmJfZF94Q2N5SXhTTXJKSXZrVG95UTY2TGZVaGtHNjV4dkRfcFNQS2o1ajdONkRncnd0WDhIQXhEbV9PVDdqRUhDcFVDYXVOZkNBVXZUdDdSRndUa2J6?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "伊朗警告船只勿走『美国航道』+ 韩国勿介入，同时并置以色列对黎巴嫩升级等抵抗轴心视角",
+      "unique": "出现『الممر الأمريكي』（美国航道）这一伊朗话语框架：『طهران تحذر السفن من استخدام \"الممر الأمريكي\" في هرمز』（德黑兰警告船只勿使用霍尔木兹的『美国航道』），并把黎巴嫩伤亡（『27 قتيلا بلبنان في 3 أيام』）与霍尔木兹放在同一直播条目，形成地区联动叙事",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "إيران: سنعلن قريباً عن منطقة محظورة في الخليج وخرائط لممر ملاحي جديد عبر هرمز - BBC",
+          "zh": "伊朗：我们将很快宣布海湾禁区和霍尔木兹新航道地图",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HSTM1LVJDbnlLaERoNURkaVY0R3NsX1I4Zl9Ed25lN3BEcGxOd2RBNjY3UXBKMlR1OTlGdUlFS1FzWDBhTlZONm41M2wyMUh2R3M2UmtLX1FQaFBq0gFiQVVfeXFMUEhZQ0hpUkc5eWJPOVNyS3Q4dVhUc0QtT2JxSFFjaE42dk4wcjVTMHpFWk1qb2FpMG9lTGpmV09JMDBSaXl1OE8yNXdUdHJuY0FOSjI3c3IyVXExM2x4LWp1UWc?oc=5"
+        },
+        {
+          "source": "الجزيرة نت",
+          "original": "إيران مباشر.. طهران تحذر السفن من استخدام \"الممر الأمريكي\" في هرمز و27 قتيلا بلبنان في 3 أيام - الجزيرة نت",
+          "zh": "伊朗直播：德黑兰警告船只勿使用霍尔木兹的『美国航道』，黎巴嫩3天内27人死亡",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQYkc1dTFrWndFR2o3WnBOREZLa0RxbTRkbUhPM2g1bWtqUkNvaWV3U3NoVkhSQVRhbWNPYXluaFg4UFlyR0JrRkw0NG80Q3dBYXBtYkdvOXY5X01aUkVmcGFweEs1cVZNWG5RQmxKZWgyU3dmb1RWdHZCZkJnRTlvUF9NZUxwVlZoLUNRVlo5R1pnTUJiUGd4T1ZnN1c4TWhvTnpHaHN2RXItOE8yS0ZwNFdRR1dPeWN4WTl5ZUpBc2NxYjk4TUo1VWpLT1RyVS1EN3lhLWUtRGMxdW9KWW5tZm02WXJpSWVSX2xVNEg1R19MaFY0TXUtREpJbkR6UGRZbDdLaU90Sm9UZTEtMWJIRUhPSk9NNzVLcXFMcEl0ZFdwQnZJV3VqWnF1TzFJbWc5aVlnTEsweUdaaWo1WkV1aXh6V2pYdUVnVEhKYXB6TnJZUXRkX1JDV2JqSmbSAeICQVVfeXFMTjZRckZoZm9Wc1gyemlXUGNZUXI4TWU2dUhkdUllRER0THhOajRuZmNyaVIxUnRITFpWOUFjSllCQ2kzQThEQ0ZsTmIxNndMT0NieWRDNjJuZ2thMGRxdnBsb3JlOG9ldFVCQ2NzbmM5WFZZTkFxMXRScTNuYTFSMWk0a2Y1SF9JZl9oU0pjdzQ2TnZnaG91aVZNNmVQMzlBNGplbWZKdjJmV1dJRlcwUkgxS0dNZU91ZnBab01rak9ueGFXandKc2VYRkVFbUkxRXB0YTZJQ2RVdTVnTnFUVFFfOXBSdWJUcTVxVUhoNzlUTG05R1ZldUVUcC1NcmIxRnJaV3lEWHJqOTNNYWVsYl9YWEl0c3dfYnktdnJsYTdxVmRtU190MXB4Qm44UUVtcWVnVzNzVlg2VnVkQ3FBNmo2V0RiSU1jdVd6ak1adXpWRFVMakE0UlRxcGozcG5ja3RB?oc=5"
+        },
+        {
+          "source": "العربية",
+          "original": "ترامب يعلن تعافي تدفقات النفط عبر هرمز وخنق صادرات إيران - العربية",
+          "zh": "特朗普宣布霍尔木兹石油流恢复并扼杀伊朗出口",
+          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOeExCcTJ4SFNkVEhPbU9wbjE2UXZCaXpwTElVYlB0azhJY3c4bVlQeTRXNEJlakVBUlJtRVpwR01ONWVOQl9KUXdUUFRsUnBDT29XbC1GZ1RMenN3eGNoWmxsOUpnVk5JeDZYLTNlSFI3NzRNMHJ5SkZfM3FtbEdhcHQweDdPWVU1TjdUd0lJVDZabUhnYzAtdm1wU2dCdENBQjFObEFGMDV6RDZiOFlMVmhuSkR1RlB2TmdIN2M4RFluajdCdUs0SHNPVExZbkZKc1lhUTVQeFdZekVEbGhrUzI1NVY2V3ItLTltX1g5TkpUWkdCRGZhekR4ZTJMWjB2STNkNFhCaEhYZlVyMTBVUUt2b3BCUHJaR2pFQjhZMThDSi1hWi1QcmZrTmhFYTROUnFBOGhXcVFtT1U3YXYwWTJ6R3JQeGRDbFpyT0xYVUpjaDU1NWhoeExhQVZ1bWpBTE11djREejBHUWNJRFNwb1czeXNzZUJrV3hfSVN6cnNTSE41OXFpLUYyOERjQ1lVM1k2NUlfbWlrZWV1a0pEX3hiSXRPVE5UcWtCUE9TMmNJQlVvQ3pxXzBJYXRxRXUzWjdqWFlVMGVWZTJrbHUxaF92WVhIM1J20gHeA0FVX3lxTE1SUW54ZDl0bllOWWVfd282NjJYWFF4V1ZKbktseWhTamFCWm1UbS1oYWEzbG5jRGNraVllYXZqcVI4SUpUcnlGd1FCNF9xNEEyNEZiSVRiQ3lsV1Jta0NzRXBrMndWcEpXeFZNUExvWm9lODJ3UWhCdEdkVmZmQ2N0YmRTa2EtbjcxNUJSblQwd0xBN3RkR09MMjN0Qk51LWpXWldXQUI3NWR6cVpKb190bEtfMDN6WVVkZERnS1h1V21aN2V3WkZaRzlaY3M3bjVGS3ZIZmhUYzFKaE1FWThoQldmTUdCRFFrdkx1bUl3UW1NVHZGRXdwUEM2bGl2VVpDeUw3aXRzVkVCUjM2SElzbjdTLTZ2T29XZ3FRWE9oMV9uZG54VklULS1oYWdaN3MybGVSb0NRNzBKTVF6QVN3Z3NjZF9ScTJlYTc0NDkzS3RvcVQ0U3gyUDJFemsyWlY0UGJOcnhzMlFneVZxS25DSzV3bnh5WHNlS1FjQVVsOXBiMjB1VDZnNXFQUGptTFdhVThHTF84UU82WF82dkZvZ2tyMXJENF9lRTVNREQwdGJ6eTJibGRoSmQ3b1JNdjJGZXlFNGtUam8zNURVR2JRQVVPVk5Rbnc4MjV5dVE?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "油价涨跌与投资策略为主，同时突出伊朗-阿曼谈判等缓和信号",
+      "unique": "独家强调伊朗外长宣布『开放』海峡导致油价短线暴跌：『伊朗外长宣布\"开放\"霍尔木兹海峡！国际油价短线暴跌』，这一缓和性新闻在其他国家对齐样本中未见；另报道沙特本土遇袭与战火蔓延红海：『沙特本土遇袭！霍尔木兹战火蔓延至红海』",
+      "headlines": [
+        {
+          "source": "金十数据",
+          "original": "伊朗外长宣布“开放”霍尔木兹海峡！国际油价短线暴跌-市场参考 - 金十数据",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzcmZqUk9LMzI1ZGREblhtZ0dlbFNCWXFSaVNYSm84TUk5aTVTaFNrTmZUdng1UkFia3hvdk11Tks0emhlWmJLUTJJN2d3dmc?oc=5"
+        },
+        {
+          "source": "华尔街见闻",
+          "original": "伊朗拟在霍尔木兹海峡外设禁区，与阿曼协议即将达成 - 华尔街见闻",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSdEY2OW83a2c1Z3pQVnZ0SVNMSzV5QlhXU251bzQ1OEJSTHBOam9meUlaVlh2cWlGcllTY0dSM0djRDFia2ZMYURFdHFHa2dJME5n?oc=5"
+        },
+        {
+          "source": "汇通网 Fx678",
+          "original": "沙特本土遇袭！霍尔木兹战火蔓延至红海，油价地缘溢价再起？_外汇动态报道 - 汇通网 Fx678",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RNEtoajZCdnh1b0w1OTlIRVlCdHNoUGVkMEI1TFU3d2k5NWlwSHFnVmlwWjJyYmZjNmk2MnNZSGRsRmhwVmppQ1BqSzktSDNCYzZydXdBYVdYUQ?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "各国搜索词不同（如俄语版侧重『блокада 封锁』、印度版侧重『oil prices』），可能系统性放大了各自框架内的标题，样本不代表该国媒体整体报道分布。",
+  "event": "伊朗在霍尔木兹海峡扩大海上控制并威胁封锁，引发美伊「油轮战争」升级，全球油气价格攀升",
+  "event_title": "霍尔木兹海峡危机",
+  "date": "2026-09-08",
+  "slot": "morning"
+}
