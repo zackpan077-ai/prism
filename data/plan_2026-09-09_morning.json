@@ -1,0 +1,17 @@
+{
+  "event": "美军在波斯湾摧毁5艘伊朗油轮并遭伊朗报复性导弹攻击，美伊军事冲突急剧升级，油价逼近每桶100美元",
+  "event_title": "美伊海湾冲突升级",
+  "why": "该事件被美国、英国、印度、日本、法国、德国、巴西、俄罗斯、埃及、中国全部10个国家头条共同报道，且美国（军事行动方）、伊朗相关方、俄罗斯（反美视角）、中国（能源经济视角）、海湾国家（地区安全视角）立场差异极大。",
+  "queries": {
+    "US": "US Navy Iran tankers",
+    "UK": "US Iran oil tankers Gulf",
+    "India": "US Iran oil tanker attack",
+    "Japan": "米軍 イラン タンカー攻撃",
+    "France": "frappes américaines pétroliers iraniens",
+    "Germany": "USA Angriffe Iran Schiffe",
+    "Brazil": "EUA atacam petroleiros Irã",
+    "Russia": "США атака иранские танкеры",
+    "Egypt": "الجيش الأميركي تدمير ناقلات إيران",
+    "China": "美军摧毁伊朗油轮"
+  }
+}

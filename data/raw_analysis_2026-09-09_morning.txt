@@ -1,0 +1,124 @@
+{
+  "findings": [
+    {"title": "行动定性差异：『摧毁』与『攻击』", "body": "美国官方及多数美媒使用强动词『Destroys』（如 NBC News 的『U.S. strikes five Iranian tankers』与 The Hill 的『US military destroys 5 Iranian oil tankers』），突出战果。中国新华网则给动词加引号：『美军称“摧毁”3艘伊朗油轮』，将美方宣称置于引号内，表明是美方单方说法而非事实认定——这是中文报道中常见的转述降级手法。日本媒体多用弱化表述『攻撃か』（推量），如日本経済新聞『米軍、イランのタンカー攻撃か』，体现日媒在事实未经独立核实时惯用『か』表存疑。"},
+    {"title": "因果顺序之争：谁先动手", "body": "美英印的标题几乎一致采用『after』结构，将美军打击框定为对伊朗导弹袭击的『回应』，如 AP News『US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles』。而法国《解放报》用了『L’Iran réplique après les frappes américaines』（伊朗在美军打击后进行反击）——即伊朗的行动才是『回应』，因果链完全倒置。德国 tagesschau 用对等结构『USA und Iran beschießen gegenseitig Schiffe』（美伊相互炮击船只），抹去先后顺序、呈现对称冲突。这三种结构展示了同一事件可被叙述为『美方自卫』『伊朗自卫』或『双方互殴』。"},
+    {"title": "显著度断层：巴西与俄罗斯头版未见此事", "body": "巴西当天头版前 10 全部为国内政治（STF 危机、大选民调），美伊冲突未上头版，仅停留于国际版；这与巴西对中东石油供应依赖度及卢拉政府外交立场有关，但数据本身只能确认『未上头版』这一事实。俄罗斯头版同样被乌克兰战事（『Больше ста дронов ВСУ атаковали днем территорию России』）和普京与特朗普通话（『Путин провел часовой телефонный разговор с Трампом』）占据，波斯湾冲突未进前 10。相比之下，美国、英国、法国、印度、埃及、日本均将此事推上头版或前 10，显著度差异明显。"},
+    {"title": "独家角度：各国只报自己的", "body": "英国《纽约时报》标题聚焦『Shadow Network』（影子网络）定性油轮，是英文报道中独有的情报化标签；德国媒体独家追逐伊朗宣称击落美军海上无人机、美方称『totale Lüge』（彻头彻尾的谎言）的罗生门（Euronews）；日本共同关注的独家是油价与经济面——日本头版同时出现『原油先物は続伸、中東紛争の長期化リスクで供給に懸念』（中东冲突长期化引发供应担忧、原油期货续涨），这是十国头版中唯一以油价为主线的头条。巴西《环球报》独家引用特朗普此前言论：『após Trump afirmar que guerra na região é “fichinha”』（在特朗普称该地区战争『小事一桩』之后），用旧言论反讽局势失控。埃及媒体独家突出军事技术细节与区域安全：阿拉伯电视台头版『الأردن: اعتراض وتدمير 18 من 20 صاروخا باليستيا أطلقت من إيران』（约旦：拦截并摧毁伊朗发射的 20 枚弹道导弹中的 18 枚）。"},
+    {"title": "地点与油轮数量：数字随时间漂移", "body": "同一天内标题中油轮数量在 3 与 5 之间波动：早期标题多称 3 艘（AP、CNN.co.jp『米軍、イランのタンカー3隻を攻撃』），CENTCOM 官方后续更新为 5 艘（centcom.mil『U.S. Destroys 5 IRGC Tankers』）。法新社系法国标题则两说并存（Le Figaro 称 5 艘、lexpress 称 3 艘）。几乎所有国家的报道都聚焦地点为哈尔克岛（Kharg Island / カーグ島 / l’île de Kharg），这是伊朗原油出口核心设施，日本经济新闻明确点出『石油積み出し拠点カーグ島近くで』（原油装运基地附近），凸显打击石油出口基础设施的战略含义。"}
+  ],
+  "quote_comparison": {
+    "intro": "对比各国标题对美军打击油轮这一核心行动的措辞定性：动词强度、是否加引号、是否归因于美方说法",
+    "rows": [
+      ["US · The Hill", "US military destroys 5 Iranian oil tankers", "直接使用强动词『destroys』（摧毁），不加引号，作为既成事实陈述"],
+      ["中国 · 新华网", "美军称“摧毁”3艘伊朗油轮", "动词加双引号并冠以『美军称』，将摧毁定性为美方单方宣称，动词降级"],
+      ["日本 · 日本経済新聞", "米軍、イランのタンカー攻撃か 石油積み出し拠点カーグ島近くで", "使用『攻撃か』（疑似攻击）的推量表达，回避战果确认"],
+      ["法国 · liberation.fr", "L’Iran réplique après les frappes américaines sur trois de ses pétroliers", "将伊朗的报复行动定义为『réplique』（回击），因果框架与美媒相反"],
+      ["德国 · tagesschau.de", "USA und Iran beschießen gegenseitig Schiffe", "对称结构『gegenseitig』（相互），不区分谁先动手、谁在报复"],
+      ["埃及 · CNBC عربية", "القيادة المركزية الأميركية: دمرنا خمس ناقلات نفط إيرانية بعد هجوم صاروخي", "直接引用 CENTCOM 第一人称『我们摧毁了』，保留美方『after』（之后）的回应性框架"],
+      ["英国 · The New York Times", "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says", "使用独家定性词『Shadow Network』（影子网络），将油轮情报化、非法化标签前置"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "美军打击是对伊朗袭击美军军舰的合法回击，聚焦战果数字",
+      "unique": "大量直接引用 CENTCOM 官方来源（centcom.mil、NBC 引述 CENTOM），将官方通报作为标题主体；且关注伊朗报复约旦美军基地",
+      "headlines": [
+        {"source": "The Hill", "original": "US military destroys 5 Iranian oil tankers - The Hill", "zh": "美军摧毁5艘伊朗油轮"},
+        {"source": "AP News", "original": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles - AP News", "zh": "美国称军舰遭弹道导弹袭击后打击3艘伊朗油轮"},
+        {"source": "Al Jazeera", "original": "US destroys five Iranian tankers, Iran retaliates with attacks on Jordan - Al Jazeera", "zh": "美国摧毁五艘伊朗油轮，伊朗以攻击约旦进行报复"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "美伊互袭、冲突升级，同时紧盯油价逼近100美元的经济后果",
+      "unique": "《纽约时报》标题使用『Shadow Network』（影子网络）定性油轮；CBS 独家将油价写进标题『oil nears $100 a barrel』",
+      "headlines": [
+        {"source": "BBC", "original": "US and Iran trade retaliatory attacks on ships as conflict flares - BBC", "zh": "冲突升级之际，美伊互相报复性攻击船只"},
+        {"source": "CBS News", "original": "U.S.-Iran War Updates: U.S. forces hit IRGC-linked oil tankers as oil nears $100 a barrel - CBS News", "zh": "美伊战争最新：油价逼近每桶100美元之际，美军打击与伊斯兰革命卫队有关的油轮"},
+        {"source": "The New York Times", "original": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says - The New York Times", "zh": "美军称打击了三艘伊朗『影子网络』油轮"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "事件升级 + 地理位置细节（哈尔克岛）+ 伊朗对海湾国家的威胁",
+      "unique": "印度媒体突出地理位置（The Times of India 点名 Kharg Island），并关注伊朗威胁科威特、巴林的油轮（Anadolu 转引），与印度能源进口安全直接相关；印度头版以 LIVE 直播形式置于第一条",
+      "headlines": [
+        {"source": "The Times of India", "original": "Watch: US strikes 5 Iranian oil tankers near Kharg Island after IRGC targeted American navy ship - The Times of India", "zh": "视频：革命卫队袭击美军舰后，美军在哈尔克岛附近打击5艘伊朗油轮"},
+        {"source": "NDTV", "original": "US Says It Destroyed 5 Iranian Tankers After Attacks On American Warship - NDTV", "zh": "美国称在美军军舰遭袭后摧毁5艘伊朗油轮"},
+        {"source": "Anadolu Ajansı", "original": "Iran's navy threatens attacks on oil tankers in Kuwait, Bahrain after reported US strikes - Anadolu Ajansı", "zh": "据报道美军打击后，伊朗海军威胁攻击科威特、巴林的油轮"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "冲突激化与对原油供应、油价的冲击，事实存疑时用推量表达",
+      "unique": "日本头版唯一以油价为主线：『原油先物は続伸、中東紛争の長期化リスクで供給に懸念』；报道普遍使用『攻撃か』推量句式；还独家关注伊朗攻击约旦美军基地并自称造成重大损失",
+      "headlines": [
+        {"source": "日本経済新聞", "original": "米軍、イランのタンカー攻撃か 石油積み出し拠点カーグ島近くで - 日本経済新聞", "zh": "美军疑似攻击伊朗油轮，地点在石油装运基地哈尔克岛附近"},
+        {"source": "産経ニュース", "original": "米、イランタンカー攻撃か 石油拠点付近、報復必至で緊張激化の恐れ - 産経ニュース", "zh": "美国疑似攻击伊朗油轮，石油设施附近，报复在所难免、紧张恐急剧升级"},
+        {"source": "CNN.co.jp", "original": "米軍、イランのタンカー5隻を攻撃 イランは湾岸諸国周辺の船舶への報復言明 - CNN.co.jp", "zh": "美军攻击伊朗5艘油轮，伊朗宣称将对海湾各国周边船只进行报复"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "伊朗的回应与报复承诺是主线，美军打击常被作为背景前置",
+      "unique": "法国标题更多以伊朗为主语（『L’Iran réplique』『Téhéran promet des représailles』），并直接使用『Guerre en Iran』（伊朗战争）的战争定性（Le Figaro）；多家媒体持续追踪伊朗威胁科威特、巴林油轮",
+      "headlines": [
+        {"source": "Le Monde.fr", "original": "Téhéran cible la Jordanie après des frappes américaines contre des pétroliers iraniens dans la région du Golfe - Le Monde.fr", "zh": "美军在海湾地区打击伊朗油轮后，德黑兰将目标对准约旦"},
+        {"source": "liberation.fr", "original": "L’Iran réplique après les frappes américaines sur trois de ses pétroliers - liberation.fr", "zh": "三艘油轮遭美军打击后，伊朗发起回击"},
+        {"source": "Le Figaro", "original": "Guerre en Iran : Washington dit avoir détruit cinq pétroliers iraniens, Téhéran attaque une base militaire américaine en Jordanie - Le Figaro", "zh": "伊朗战争：华盛顿称摧毁五艘伊朗油轮，德黑兰攻击位于约旦的美军基地"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "美伊海上互袭、战争升级，对称呈现双方；关注真假难辨的罗生门信息",
+      "unique": "德国媒体独家追逐『伊朗宣称攻击美军海上无人机、美方斥为彻头彻尾谎言』的信息战（Euronews 两篇）；tagesschau、WELT 采用『gegenseitig』（相互攻击）的对称框架，不设因果先后",
+      "headlines": [
+        {"source": "tagesschau.de", "original": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de", "zh": "美国与伊朗相互炮击船只"},
+        {"source": "Euronews.com", "original": "Iran meldet Angriff auf US-Seedrohne, USA nennen das „totale Lüge“ - Euronews.com", "zh": "伊朗宣称攻击美军海上无人机，美方称之为『彻头彻尾的谎言』"},
+        {"source": "Frankfurter Rundschau", "original": "US-Armee versenkt iranischen Öltanker „M/T Kylo“ – Revolutionsgarden feuern Raketen auf Flugzeugträger - Frankfurter Rundschau", "zh": "美军击沉伊朗油轮『M/T Kylo』——革命卫队向航母发射火箭弹"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "聚焦战略要地哈尔克岛与伊朗的反击威胁，国内头版完全让位于国内政治",
+      "unique": "《环球报》独家引用特朗普此前称该地区战争『fichinha』（小事一桩）的旧言论作反讽；巴西媒体普遍强调哈尔克岛的『estratégica』（战略性）；此事未进入巴西当天头版前 10",
+      "headlines": [
+        {"source": "G1", "original": "EUA atacam navios petroleiros do Irã; explosões são ouvidas na estratégica ilha de Kharg - G1", "zh": "美国攻击伊朗油轮；战略性哈尔克岛传出爆炸声"},
+        {"source": "Gazeta do Povo", "original": "EUA atacam petroleiros do Irã após Trump afirmar que guerra na região é “fichinha” - Gazeta do Povo", "zh": "在特朗普称该地区战争是『小事一桩』之后，美国攻击伊朗油轮"},
+        {"source": "Poder360", "original": "Irã promete reação \"rápida e dolorosa\" a novos ataques dos EUA - Poder360", "zh": "伊朗承诺对美国新的攻击做出『快速而痛苦』的回应"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "以纯事实通报为主，部分媒体突出『目标是石油』的资源战视角；头版被乌克兰战事占据",
+      "unique": "FederalPress 独家定性『Цель – нефть』（目标是石油），将打击解读为针对石油资源的战略行动；俄媒标题普遍不带『回应伊朗袭击』的因果框架，仅 Radio Svoboda（自由电台）例外；此事未进俄罗斯头版前 10",
+      "headlines": [
+        {"source": "Интерфакс", "original": "Штаты атаковали иранские танкеры после попытки атаки на американские корабли - Интерфакс", "zh": "在美国军舰遇袭未遂后，美方攻击了伊朗油轮"},
+        {"source": "ФедералПресс", "original": "Цель – нефть: военные США атаковали иранские танкеры в стратегической акватории Персидского залива - ФедералПресс", "zh": "目标是石油：美军在波斯湾战略水域攻击伊朗油轮"},
+        {"source": "Радио Свобода", "original": "Иран атаковал американские военные корабли, США потопили танкер - Радио Свобода", "zh": "伊朗攻击美国军舰，美国击沉油轮"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "以美军中央司令部声明与伊朗革命卫队的反击声明双线并报，头版第一条即此事",
+      "unique": "阿拉伯语媒体大量保留双方第一人称声明（『القيادة المركزية: دمرنا』中央司令部：我们摧毁了；『الحرس الثوري: استهدفنا』革命卫队：我们打击了）；独家细节包括约旦拦截 20 枚导弹中的 18 枚、鲁比奥威胁每次袭击都以摧毁油轮回应",
+      "headlines": [
+        {"source": "BBC", "original": "الجيش الأمريكي يعلن تدمير 5 ناقلات نفط إيرانية، والحرس الثوري يعلن شن غارات على \"قاعدة أمريكية في الأردن\" - BBC", "zh": "美军宣布摧毁5艘伊朗油轮，革命卫队宣布对『位于约旦的美军基地』发动空袭"},
+        {"source": "الجزيرة نت", "original": "الحرس الثوري: استهدفنا حاملة طائرات ومدمرة أمريكيتين بصواريخ باليستية - الجزيرة نت", "zh": "革命卫队：我们用弹道导弹打击了一艘美国航母和一艘驱逐舰"},
+        {"source": "العربية", "original": "الأردن: اعتراض وتدمير 18 من 20 صاروخا باليستيا أطلقت من إيران - العربية", "zh": "约旦：拦截并摧毁伊朗发射的20枚弹道导弹中的18枚"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "对美军『摧毁』说法保留引号存疑，强调冲突升级与油价逼近100美元",
+      "unique": "新华网对『摧毁』加引号，显示不直接采信美方战报；华尔街见闻独家提出分析框架：冲突从『炸设施』升级到『断运输』；头版当日被董建华逝世等国内议题占据，此事未进前 10",
+      "headlines": [
+        {"source": "新华网", "original": "美军称“摧毁”3艘伊朗油轮 - 新华网", "zh": ""},
+        {"source": "华尔街见闻", "original": "美军首度打击三艘伊朗油轮，霍尔木兹海峡冲突从“炸设施”升级到“断运输” - 华尔街见闻", "zh": ""},
+        {"source": "联合早报", "original": "美军称摧毁五艘伊朗油轮 回应两次未遂弹道导弹袭击 - 联合早报", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "各国数据来自单一搜索词的 Google News 聚合结果，媒体组合并不对等（美国样本偏多官方转引、埃及样本偏多泛阿拉伯媒体），且头版快照仅取前 10 条，『未上头版』只能说明显著度较低而非未被报道。"
+}
