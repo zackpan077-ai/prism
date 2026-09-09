@@ -1,0 +1,17 @@
+{
+  "event": "美国击沉五艘伊朗油轮后，伊朗对海湾船只和驻约旦美军基地实施报复性打击，布伦特油价自七月以来首次突破每桶100美元",
+  "event_title": "美伊海湾冲突升级",
+  "why": "该事件出现在全部10个国家的头条中，且各国立场差异极大：美英以安全与威慑视角、俄中倾向质疑美方、海湾地区媒体关注航运与油价冲击、印度巴西关注油价对经济的连带影响。",
+  "queries": {
+    "US": "Iran retaliation US strikes",
+    "UK": "Iran US Gulf oil attacks",
+    "India": "US Iran tanker strikes oil price",
+    "Japan": "イラン 米軍 タンカー攻撃 湾岸",
+    "France": "guerre Iran frappes navires",
+    "Germany": "USA Iran Öltanker Angriffe",
+    "Brazil": "Irã EUA petroleiros Golfo",
+    "Russia": "США Иран танкеры атака Персидский залив",
+    "Egypt": "إيران أمريكا استهداف ناقلات الخليج",
+    "China": "美国 伊朗 油轮 袭击 海湾"
+  }
+}
