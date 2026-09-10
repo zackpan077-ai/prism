@@ -1,17 +1,17 @@
 {
-  "event": "美国与伊朗冲突急剧升级，伊朗袭击霍尔木兹海峡附近船只并扩大禁航区，美军摧毁5艘伊朗油轮，油价突破100美元",
-  "event_title": "美伊冲突升级",
-  "why": "该事件在全部10国头条中均有出现，且各国视角差异巨大：美国关注选举与战争结束时间，俄罗斯视之为财政救命稻草，埃及聚焦霍尔木兹与油价，中国强调伊朗驳斥IAEA决议，欧洲担忧能源通胀。",
+  "event": "美国与伊朗军事冲突升级，伊朗袭击约旦美军基地并扩大霍尔木兹海峡'禁航区'，布伦特油价突破100美元",
+  "event_title": "美伊冲突升级 油价破百",
+  "why": "该事件被全部10个国家的头条广泛报道，且各国视角差异巨大：美国聚焦特朗普国内政治操作，俄罗斯渲染西方失败，埃及等中东国家关注霍尔木兹与油价冲击，欧洲关注能源与安全，中国印度则从金砖峰会与贸易角度切入。",
   "queries": {
-    "US": "Iran war oil prices",
-    "UK": "US Iran tanker war",
-    "India": "US Iran conflict crude oil price",
-    "Japan": "イラン情勢 原油価格",
-    "France": "conflit Iran États-Unis pétrole",
-    "Germany": "Iran-Krieg Ölpreis Eskalation",
-    "Brazil": "conflito Irã Estados Unidos petróleo",
-    "Russia": "Иран США нефть конфликт",
-    "Egypt": "الحرب الأمريكية الإيرانية هرمز",
-    "China": "美伊冲突 油价 霍尔木兹"
+    "US": "Iran war Trump",
+    "UK": "Iran strikes oil",
+    "India": "Iran war oil price",
+    "Japan": "イラン攻撃 米軍",
+    "France": "guerre Iran pétrole",
+    "Germany": "Iran Krieg Ölpreis",
+    "Brazil": "Irã Ormuz petróleo",
+    "Russia": "Иран США удар",
+    "Egypt": "الحرب مع إيران هرمز",
+    "China": "伊朗 美军 油价"
   }
 }
