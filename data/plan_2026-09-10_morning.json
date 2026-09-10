@@ -1,0 +1,17 @@
+{
+  "event": "美伊冲突升级：美国打击伊朗油轮、伊朗袭击海湾船只和约旦基地，油价突破100美元，特朗普称战争将在中期选举后结束",
+  "event_title": "美伊冲突升级",
+  "why": "唯一被全部10个国家头条共同报道的硬新闻，且各方视角差异极大（美国谈选举与油价、伊朗阵营谈抵抗、中国关注油价与核问题、欧洲关注能源与经济冲击）。",
+  "queries": {
+    "US": "Iran war oil tankers",
+    "UK": "Iran US attacks Brent crude",
+    "India": "Brent crude $100 Iran",
+    "Japan": "イラン アメリカ 攻撃 原油",
+    "France": "guerre Iran pétrole 100 dollars",
+    "Germany": "Iran-Krieg Tanker Ölpreis",
+    "Brazil": "Irã Estados Unidos petróleo",
+    "Russia": "Иран США танкеры удар",
+    "Egypt": "الحرب الأمريكية الإيرانية النفط",
+    "China": "伊朗 美国 油价 霍尔木兹"
+  }
+}
