@@ -1,0 +1,124 @@
+{
+  "findings": [
+    {"title": "显著度分化的头版信号：埃及高、多数国家低", "body": "该事件只在埃及冲上头版：BBC阿拉伯语版头条『إيران تعلن استهداف سفن قرب هرمز وتُوسّع "منطقة الحظر"』以及Al-Arabiya头版『حرب السفن تحتدم』都直接报道此事。而在美国、英国、日本、法国、德国、巴西、俄罗斯、中国的头版前10条中，伊朗冲突均未出现——美国头版相关条目是政治化的『Trump says the war in Iran will end after Election Day - NBC News』，印度头版也有安全角度的『Several US Warplanes Damaged In Iranian Strike On Jordan: Report - NDTV』。对于这些国家，油价飙升主要被降格为财经/市场新闻。"},
+    {"title": "美国框架：油价与中期选举的国内化叙事", "body": "美国报道几乎完全把冲突转化为国内民生与选举问题：『Record gas prices squeeze Americans as summer travel season ends, midterms loom and Iran war wages on - Fox News』、『Trump says oil prices... likely won't come down until after midterms - AP News』、『Americans are footing a $100 billion energy bill from the Iran war - CNN』。美军摧毁5艘伊朗油轮的军事行动本身只出现在一条标题里（『U.S. forces hit IRGC-linked oil tankers - CBS News』），且以『IRGC-linked』的定性词弱化国家行为属性。还有一条独家角度：『'Saved the day': How China helped keep the lid on oil price surge - CNBC』，将中国塑造为油价稳定者，这一角度其他国家均未出现。"},
+    {"title": "俄罗斯框架：冲突是『救了俄罗斯预算』的利好", "body": "俄罗斯有多条独家角度，把战争直接与本国财政收益挂钩：『Эксперт рассказал, как конфликт США и Ирана помогает бюджету России - Вечерний Санкт-Петербург』、『Сверхдоходы вопреки санкциям: как конфликт США и Ирана спасает российский бюджет - ФедералПресс』、『И снова $100 за баррель: возобновление ударов Ирана и США спасут бюджет России? - business-gazeta.ru』。用词是『помогает/спасает』（帮助/拯救），完全没有西方国家标题中的『escalation shock』式负面定性。这一『冲突利好』框架为俄罗斯独有。"},
+    {"title": "措辞差异：谁是行动主体", "body": "关于美国打击伊朗油轮这一同一行为，各国的定性词不同。埃及aljazeera.net用『تتبادلان استهداف السفن』（相互攻击船只）和『الحرس الثوري يقصف الأردن』（革命卫队轰炸约旦），把约旦遭袭单列为标题要素——这在西方标题中几乎缺失（仅Al Jazeera英文版和印度头版NDTV提到约旦基地）。法国fr.qz.com直接称『la guerre des pétroliers entre les États-Unis et l'Iran』（美伊油轮战争），德国媒体统一使用『Iran-Krieg』（伊朗战争）这一把战争归因于伊朗的固定词组，而英国多用中性的『tanker war』『US-Iran ship attacks』。"},
+    {"title": "日本独家角度：本地物价、利率与航路替代成本", "body": "日本标题极少聚焦军事对抗本身，而是追踪对日本经济的传导：『米イラン情勢緊張で原油高 物価に影響 金利上昇続く - テレ東BIZ』、『イラン情勢を受けた原油調達の多角化とそのコスト負担 - Yahoo!ニュース』。朝日新闻独家给出人道细节与沙特受害信息：『ホルムズ周辺、タンカー攻撃の応酬 サウジも被害 3カ月ぶり原油高』和『米・イランが攻撃の応酬 結婚式直撃、子どもら死亡』——婚礼遭袭致儿童死亡的角度其他国家标题均未见。"},
+    {"title": "中国：强调霍尔木兹航运与国内油价调整", "body": "中国标题把重心放在海峡通航与对国内成品油价的影响：『美伊冲突升级致霍尔木兹航运骤降，油价地缘溢价保持坚挺 - 中金在线』、『注意，明晚油价调整 预计上调330元/吨 - 汽车之家』。另有独家反问角度：『备忘录今日到期！霍尔木兹几近停航，油价为何没有暴涨？ - 新浪网』，质疑油价涨幅与实际停航程度不符。官方头版（央视、新华社）完全没有报道此事，显著度极低。"}
+  ],
+  "quote_comparison": {
+    "intro": "对比同一行为——美军摧毁/打击5艘伊朗油轮——各国标题中的定性与归因",
+    "rows": [
+      ["US · CBS News", "U.S. forces hit IRGC-linked oil tankers as oil nears $100 a barrel", "用『IRGC-linked』（与革命卫队有关联）修饰油轮，淡化打击对象的国家属性，且与油价并置"],
+      ["UK · Al Jazeera", "US strikes five Iranian oil tankers, as Iran attacks 10 ships, Jordan base", "直接称『Iranian oil tankers』，并同句列出伊朗反击与约旦基地遭袭，双方行为对等呈现"],
+      ["Egypt · aljazeera.net", "إيران وأمريكا تتبادلان استهداف السفن والحرس الثوري يقصف الأردن", "『تتبادلان』（相互/交替）框架，把双方并列为交战方，并突出伊朗打击约旦"],
+      ["France · fr.qz.com", "la guerre des pétroliers entre les États-Unis et l'Iran s'intensifie", "定性为『la guerre des pétroliers』（油轮战争），双方并列为战争主体"],
+      ["Japan · 朝日新聞", "ホルムズ周辺、タンカー攻撃の応酬 サウジも被害", "用『応酬』（你来我往）中性描述互袭，并独家提及沙特也受损"],
+      ["Germany · 多家媒体", "Neue Eskalation im Iran-Krieg: Ölpreis steigt auf 100 Dollar", "固定用『Iran-Krieg』（伊朗战争）命名整场冲突，冲突归因指向伊朗"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "战争被国内化为油价、加油站与中期选举问题",
+      "unique": "将中国塑造为平抑油价的『Saved the day』角色；把油价与选举日期直接挂钩",
+      "headlines": [
+        {"source": "AP News", "original": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News", "zh": "特朗普称因伊朗战争飙升的油价可能要到中期选举后才会回落"},
+        {"source": "Fox News", "original": "Record gas prices squeeze Americans as summer travel season ends, midterms loom and Iran war wages on - Fox News", "zh": "夏季出行季结束、中期选举临近、伊朗战争持续，创纪录油价挤压美国人"},
+        {"source": "CBS News", "original": "U.S. forces hit IRGC-linked oil tankers as oil nears $100 a barrel - CBS News", "zh": "美军打击与革命卫队有关的油轮，油价逼近每桶100美元"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "『Tanker war』油轮战争升级，聚焦航运与油价",
+      "unique": "较多使用『tanker war』术语，多家媒体（含Al Jazeera英文、France 24英国版）并列呈现双方攻击规模",
+      "headlines": [
+        {"source": "The Guardian", "original": "Iran claims to have attacked 10 ships near strait of Hormuz after US strikes", "zh": "伊朗称在美国打击后袭击了霍尔木兹海峡附近10艘船只"},
+        {"source": "Al Jazeera", "original": "US strikes five Iranian oil tankers, as Iran attacks 10 ships, Jordan base", "zh": "美军打击5艘伊朗油轮，伊朗袭击10艘船只及约旦基地"},
+        {"source": "BBC", "original": "Oil hits $100 a barrel for first time since July after US and Houthi strikes", "zh": "美国与胡塞武装打击后油价自7月以来首次突破每桶100美元"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "布伦特原油破100美元，冲突作为价格驱动因素",
+      "unique": "直接落到印度国内汽柴油零售价（city-wise petrol, diesel rates），头版还关注约旦美军飞机受损",
+      "headlines": [
+        {"source": "Moneycontrol.com", "original": "Brent crude touches $101 as US-Iran conflict deepens; Check city-wise petrol, diesel rates today", "zh": "美伊冲突加深布伦特原油触及101美元；查看今日各城市汽油柴油价格"},
+        {"source": "Reuters", "original": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net", "zh": "美伊连环袭击暴露安全垫日益枯竭，油价突破100美元"},
+        {"source": "Firstpost", "original": "Trump gives a new timeline for Iran war to end, says oil prices will remain high till US mid-terms", "zh": "特朗普给出伊朗战争结束新时间表，称油价将维持高位直至美国中期选举"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "局势对日本物价、利率、股市与原油采购成本的影响",
+      "unique": "婚礼遭袭儿童死亡的人道细节；沙特也受损；NRI谈原油采购多元化成本；北海道政府发布局势相关通告",
+      "headlines": [
+        {"source": "朝日新聞", "original": "米・イランが攻撃の応酬 結婚式直撃、子どもら死亡 原油価格は高騰 - 朝日新聞", "zh": "美伊互袭，婚礼遭直接命中儿童死亡，原油价格飙升"},
+        {"source": "朝日新聞", "original": "ホルムズ周辺、タンカー攻撃の応酬 サウジも被害 3カ月ぶり原油高 [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞", "zh": "霍尔木兹周边油轮互袭，沙特也受损，油价3个月来新高"},
+        {"source": "テレ東BIZ", "original": "米イラン情勢緊張で原油高 物価に影響 金利上昇続く - テレ東BIZ", "zh": "美伊局势紧张致油价走高，影响物价，利率持续上升"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "海湾冲突升级推高油价，聚焦战略评估",
+      "unique": "IFRI智库六个月战争影响评估；法国消费者（燃油涨价致四分之一法国人放弃食物或医疗）进入关联头版",
+      "headlines": [
+        {"source": "Ouest-France", "original": "Guerre au Moyen-Orient : l’Iran riposte dans le détroit d’Ormuz, le pétrole à plus de 100 dollars… Le point sur la nuit", "zh": "中东战争：伊朗在霍尔木兹海峡反击，油价超100美元……夜间综述"},
+        {"source": "fr.qz.com", "original": "Le pétrole dépasse les 101 $ le baril alors que la guerre des pétroliers entre les États-Unis et l'Iran s'intensifie.", "zh": "美伊油轮战争加剧，油价突破每桶101美元"},
+        {"source": "Europe 1", "original": "Donald Trump prédit que la guerre avec l'Iran s'arrêtera «immédiatement» après les législatives aux États-Unis", "zh": "特朗普预测与伊朗的战争将在美国中期选举后『立即』结束"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "『Iran-Krieg』升级冲击油价与投资者",
+      "unique": "固定使用『Iran-Krieg』命名整场战争；把冲突影响延伸到度假者（Urlauber）、美股、比特币等生活与金融市场细节",
+      "headlines": [
+        {"source": "DIE ZEIT", "original": "Ölpreis: Eskalation im Nahen Osten treibt Rohölpreis über hundert Dollar", "zh": "油价：中东升级推动原油价格突破一百美元"},
+        {"source": "n-tv.de", "original": "Neue Eskalation im Iran-Krieg: Ölpreis steigt auf 100 Dollar pro Barrel", "zh": "伊朗战争新升级：油价升至每桶100美元"},
+        {"source": "FAZ", "original": "Eskalation im Iran-Krieg: Ölpreissprung schockt Urlauber", "zh": "伊朗战争升级：油价骤涨震惊度假者"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "战争升级推高油价并冲击巴西本土金融市场",
+      "unique": "将事件与Ibovespa、道琼斯、巴西利率等本土金融指标绑定；强调伊朗扬言延长战争的威胁",
+      "headlines": [
+        {"source": "Agência Brasil", "original": "EUA e Irã realizam maior onda de ataques desde o início da guerra", "zh": "美国与伊朗发动开战以来最大一波袭击"},
+        {"source": "Valor Econômico", "original": "Petróleo supera US$ 101 com conflito entre EUA e Irã; bolsas de NY caem e juros sobem", "zh": "美伊冲突下油价突破101美元；纽约股市下跌、利率上升"},
+        {"source": "InfoMoney", "original": "Irã ameaça ampliar guerra com os EUA e diz estar pronto para conflito prolongado", "zh": "伊朗威胁扩大与美国的战争，称已准备好长期冲突"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "冲突推高油价、『拯救』俄罗斯财政预算",
+      "unique": "多个标题把战争明确定义为俄罗斯财政利好（『спасает российский бюджет』），此框架为俄罗斯独有",
+      "headlines": [
+        {"source": "ФедералПресс", "original": "Сверхдоходы вопреки санкциям: как конфликт США и Ирана спасает российский бюджет", "zh": "制裁之下的超额收入：美伊冲突如何拯救俄罗斯预算"},
+        {"source": "Вечерний Санкт-Петербург", "original": "Эксперт рассказал, как конфликт США и Ирана помогает бюджету России", "zh": "专家讲述美伊冲突如何帮助俄罗斯预算"},
+        {"source": "Интерфакс", "original": "Трамп считает, что после завершения конфликта с Ираном цены на нефть в США резко упадут", "zh": "特朗普认为与伊朗冲突结束后美国油价将大幅下跌"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "霍尔木兹海峡的舰船战争与地区军事对抗，该事件登上头版",
+      "unique": "强调伊朗扩大禁航区（『توسيع منطقة الحظر』）、革命卫队打击约旦、特朗普称『完全控制海峡』的宣言性内容；头版显著度全球最高",
+      "headlines": [
+        {"source": "aljazeera.net", "original": "إيران وأمريكا تتبادلان استهداف السفن والحرس الثوري يقصف الأردن ويتوعد بالتصعيد", "zh": "伊朗与美国相互攻击船只，革命卫队轰炸约旦并威胁升级"},
+        {"source": "اليوم السابع", "original": "وزير خارجية إيران يسخر من أمريكا وبلاده تهدد بتوسيع نطاق الحظر حول مضيق هرمز", "zh": "伊朗外长嘲讽美国，伊朗威胁扩大霍尔木兹海峡禁航范围"},
+        {"source": "الوطن", "original": "ترامب: نسيطر بشكل كامل على مضيق هرمز وانتصرنا في الحرب ضد إيران", "zh": "特朗普：我们完全控制霍尔木兹海峡，我们赢了对伊朗的战争"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "美伊冲突推高油价，关注海峡航运与国内油价调整",
+      "unique": "质疑油价是否被地缘溢价高估（『霍尔木兹几近停航，油价为何没有暴涨？』）；报道伊朗警告将袭击科威特、巴林港口油轮；官方头版完全未报道此事",
+      "headlines": [
+        {"source": "华尔街见闻", "original": "美伊冲突加剧，伊朗称美军导弹袭击哈尔克岛附近油轮、警告袭科威特巴林港油轮", "zh": ""},
+        {"source": "新浪网", "original": "备忘录今日到期！霍尔木兹几近停航，油价为何没有暴涨？", "zh": ""},
+        {"source": "中金在线", "original": "美伊冲突升级致霍尔木兹航运骤降，油价地缘溢价保持坚挺_期市动态", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "样本仅为Google News聚合标题且部分来源是国际媒体的地方版（如BBC、Al Jazeera、France 24在多国出现），无法完全代表各国本土媒体的独立立场，且缺少当天完整头版之外的报道深度信息。"
+}
