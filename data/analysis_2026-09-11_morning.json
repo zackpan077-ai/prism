@@ -1,0 +1,315 @@
+{
+  "findings": [
+    {
+      "title": "同一场冲突，两套地理叙事：多数国家聚焦霍尔木兹，巴西与中国聚焦曼德海峡/红海",
+      "body": "美英法德日俄印的标题几乎全部围绕『Strait of Hormuz / détroit d'Ormuz / ホルムズ海峡 / هرمز / Персидский залив』展开（如法国 l'Opinion『Détroit d'Ormuz : le retour de la « guerre des pétroliers » ?』）。而巴西的搜索与报道重心完全在『Bab el-Mandeb / Mar Vermelho』（如 VEJA『Estreito de Ormuz? O problema para o preço do petróleo agora é outro』直接否定霍尔木兹叙事、Agência Brasil『Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita』）；中国也大量报道红海与曼德海峡（财联社『伊朗据悉正施压胡塞武装！红海恐成新战场 又一\"原油生命线\"告急？』）。巴西视角把冲突主体从美伊双边转向胡塞-沙特方向，这是其他8国基本缺席的角度。"
+    },
+    {
+      "title": "油价数字被各国『各自定锚』：102到109美元不等，反映不同基准原油与时点",
+      "body": "美国主流报的是『$100 / $108 / $109』（CNBC『tops $100 again』、NBC『soar to $108』、半岛『Oil soars to $109』），英国报『$101 / $108』（NBC『Oil surges past $101』、CNN『Global oil hits $108 per barrel』），日本报『104ドル台』（TBS），埃及报『107/102美元』（الطاقة『خام برنت لشهر نوفمبر فوق 107 دولارات』）。同一事件下不同数字并存，说明各市场锚定的是 WTI 或 Brent 的不同合约与时点，读者若只看单一国家报道会得到不同的『油价水平』印象。"
+    },
+    {
+      "title": "只有日本把『本国道指暴跌2000点』放进标题——唯一以本国股市为第一落点的国家",
+      "body": "日本多条标题以日经平均开头：TBS『日経平均、一時2000円超値下がり 米イラン攻撃応酬でインフレへの警戒感強まる』，朝日『米イラン、タンカー攻撃応酬 原油価格に上昇圧力強まる』也侧重攻击应酬本身。美国标题几乎全是油价与利率（NBC『bond yields jump』、半岛『pushing up chances of US interest rate increase』），但美股下跌在美国自家标题中反而少见，出现在英国的金融转载里（finance.biggo.com『Dow Falls for Fourth Straight Day, Down 316 Points』）。"
+    },
+    {
+      "title": "埃及报道独家聚焦特朗普『改名霍尔木兹为特朗普海峡』及美方制裁银行，政治博弈先于油价",
+      "body": "埃及是唯一出现『 proposes to rename the strait』角度的国家：اليوم السابع 报道『ويقترح اسم مضيق ترامب بدلا من هرمز』（特朗普提议用『特朗普海峡』取代霍尔木兹之名），arabic.cnn.com 也跟进『ما قاله ترامب عن اسم \"مضيق هرمز\"』。此外埃及头条还有 BBC 阿语『الولايات المتحدة ستفرض يوم الاثنين عقوبات على بنك \"كبير\"』（美国将对一家『大银行』实施制裁）——这条经济施压新闻在其余9国标题中完全缺席。埃及还密集报道特朗普『战争将在中期选举后结束、油价将随胜利暴跌』的说辞（العربية『ترامب يتوقع هبوطاً حاداً لأسعار النفط بعد \"هزيمة إيران\"』）。"
+    },
+    {
+      "title": "『谁没报』信号：油价冲击在美日法德巴俄头版上几乎全部缺席，唯一例外是德国小报",
+      "body": "对照各国当天头版：美国头版是中期选举与5,000美元分红（CBS『Trump's $5,000 dividend would reignite inflation』），日本头版是分红与国内政治，法国头版是9·11周年与国内治安，巴西头版是大选民调与最高法院危机，俄罗斯头版是本土遭无人机袭击与乌克兰战事，中国头版是金砖峰会与国内事务——油价破百与红海危机均未进入这些国家的头版头条。唯一沾边的是德国 Frankfurter Rundschau『Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger』（因伊朗战争，特朗普正失去最忠实支持者）以及英国头版对5,000美元分红的报道（间接关联战争财政）。印度头版反而是金砖峰会本身（Reuters『India hosts BRICS summit as Iran war tests bloc unity』），把冲突嵌入峰会框架。"
+    },
+    {
+      "title": "独家角度盘点：法国『秘密走廊运油』、英国『中国救了油价』、中国『中国游说胡塞』构成互文",
+      "body": "法国出现两条别国没有的独家：Le Figaro『les États-Unis mènent une «opération secrète» pour transporter du pétrole』与 i24NEWS『Les États-Unis Auraient Ouvert Un Corridor Secret』（美国开辟秘密走廊运油），leparisien 还报道油轮『très discrètement』悄悄过海峡。英国 CNBC 独家角度是『'Saved the day': How China helped keep the lid on oil price surge』（中国如何帮油价压住涨势），而中文侧恰好出现镜像报道——idnfinancials『中国游说胡塞武装以确保红海石油航线安全』。这条『中国角色』线索只在英中两个语种出现。德国的独家则是反方向的『为什么没涨到200美元』（Berliner Zeitung『Warum er nicht auf 200 Dollar stieg』）与 Exxon 利润翻倍（manager-magazin）。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "对比对象：特朗普关于『战争与油价何时结束/回落』的表态，各国如何转述其定性。",
+    "rows": [
+      [
+        "美国 · Yahoo",
+        "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
+        "中性转述，把油价回落与中期选举挂钩，未加褒贬；美国本土将其处理为财经预测新闻。"
+      ],
+      [
+        "日本 · 時事ドットコム",
+        "対イラン作戦終結、「中間選挙直後に」 原油価格も急落すると主張―トランプ米大統領",
+        "用『主張』（声称）一词标注这是特朗普单方面说法，并点出其将油价急落与终战绑定，含距离感的措辞。"
+      ],
+      [
+        "英国 · UPI",
+        "Oil prices surge after Trump says he's not looking for deal with Iran",
+        "反向切入：不报道『何时降价』，而把特朗普『不寻求与伊朗交易』直接定性为油价继续上涨的原因。"
+      ],
+      [
+        "埃及 · العربية",
+        "ترامب يتوقع هبوطاً حاداً لأسعار النفط بعد \"هزيمة إيران\"",
+        "把表态重构为『在伊朗被击败后油价将骤降』——『هزيمة إيران』（击败伊朗）这一胜负定性词在其他国家标题中均未出现。"
+      ],
+      [
+        "埃及 · اليوم السابع",
+        "ويقترح اسم مضيق ترامب بدلا من هرمز",
+        "埃及独家补充细节：特朗普提议把霍尔木兹海峡改名『特朗普海峡』，该说法未见于其他9国标题。"
+      ]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "战争作为宏观通胀与利率问题：油价破百、美国人承受千亿燃油冲击、加息概率上升。",
+      "unique": "量化对美国家庭的直接冲击（CBS『$100 billion fuel hit』）以及 EIA 上调油价预测的官方数据角度。",
+      "headlines": [
+        {
+          "source": "CBS News",
+          "original": "Oil prices could hit $120, analysis finds, as Americans absorb $100 billion fuel hit",
+          "zh": "分析显示油价可能达到120美元，美国人正承受1000亿美元的燃油损失",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TcU45WjYxMXNVMFJ5bkdzbHBPby01MnlsMVZYWHlOTkROVmdKVVVvYjlKcFRyYkZPQ3Z5Wk9SUU5SbXM0cnc4Z3pWM2dQYXRTUzl5VEtqZFpVcm9pWEUxeDJYM1ZCTkRONVhVM3QyZ0NQR09zcndob0Y3MFM?oc=5"
+        },
+        {
+          "source": "NBC News",
+          "original": "Oil prices soar to $108 for the first time since May as bond yields jump",
+          "zh": "债券收益率跳升之际，油价自5月以来首次飙升至108美元",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUc0eUlnRzFSZkJ5NWp4TFc3c3RqY2t5YVV2N1p4c3lFZmJZdHE5NG1KRDF3S0NIc19YdTZsMXB1T0VYTUFCRWx5eDd4aVF4WnpUcVJyUzJpbzB1aUZ3cWtwRExJeGk4c0VGNjVDVzdmZEpYQmMtcWxhWUxXT3BHZDMxSTBxRHV1?oc=5"
+        },
+        {
+          "source": "Yahoo",
+          "original": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
+          "zh": "特朗普称因伊朗战争飙升的油价可能要到中期选举后才会回落",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlAteTcxMXlUQnFNNG5aWTJmNlNJNkZxa1daaGM1QXNTNmpmMmJERl9LNl9jNm9rX21Kd0xUSVlPYzg4SE05THJPRmtBMlNDOXlKT2dnUFJaWEd6UFNrWGdWbWtHZEIyYVJpT3JKOFBpOVdCR3gzbUh2dVBiZFl4OE5qNGt4Z0w5ckFHTnB6WnA0UQ?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "全球债券抛售与借贷成本：油价冲击被框定为通胀-利率-债市的连锁反应，并有『中国压住油价』独家。",
+      "unique": "『中国救了场』的地缘经济角度（CNBC），以及 NewsCord 的12家媒体对比式报道。",
+      "headlines": [
+        {
+          "source": "The Guardian",
+          "original": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
+          "zh": "油价飙升加剧通胀担忧，全球债券抛售重启",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnZTNldEQUVCaWRsTTNsRGZfSlZqVXVfUXMwZkFpUWVNZEdoamVnUTZvZXRocnZKd1d2cVk2M0tlVEFwLVV0N3A3dGJkbU1yVnZBM0w2MG9kaU4zOUdpTXhSS3U0QjJmU1hPUm5fc09VTDZGaHNUdFAyVjVqVFo1eTQxM1NLWHh2LUN4U1pHbW81TURycVVHTV9iOExmQmlPcndLZXlYdEZ6WVJ2N3FMOFZEVHpvTzZQWnNzS0xkSldnMDNVbnVGeHRWMA?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "original": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+          "zh": "『救了场』：伊朗战争扰乱供应之际，中国如何帮助压制油价涨势",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTdXWmJBYnc1VnBEUWVuazlUQkQ1SmV5aDlfY1cxUXgzeERlWXoxWEl4WElXdFFlUWZzZzN0NlRHRUVQMWU1bGpubUlBaDM3SUZvTFJ6NHRFbi0wMUhMNkNBakFjdVduS2R2NFRGaEVDYjlyVzJNWmh6TjNMemUtajRTSWhZbnFoN25pQ3FEeXBtdw?oc=5"
+        },
+        {
+          "source": "finance.biggo.com",
+          "original": "Dow Falls for Fourth Straight Day, Down 316 Points as Oil Surge and Rising Rates Weigh",
+          "zh": "油价飙升与利率上升施压，道指连跌四日下挫316点",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CSVM5bEdMQ3VMYm02bnBRbnRaNlEyYXFQSjNZVzJmeC1pWE5XWmpiZ25nMTltMmU5bTd3ZDVsZXpwRnFsTGRvc1cyX3hwTWt3aXhTa0JicnhJeFNERjdzd3ZhTjZkdG45QTdVMTUzM2tKUUFUUkE?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "冲突是金砖峰会的前景与考验：印度作为东道主，把油价与美伊战争嵌入金砖团结叙事。",
+      "unique": "金砖峰会东道主视角，及俄罗斯支持印度在美伊冲突中发挥『长期外交角色』（Times of India）。",
+      "headlines": [
+        {
+          "source": "CNBC TV18",
+          "original": "BRICS foreign ministers meet in India as Iran conflict and oil supply concerns test unity",
+          "zh": "伊朗冲突与石油供应担忧考验团结之际，金砖外长在印度会晤",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHpSTGEzWFpwYVVUUnR1cUoxaC1MdlJOeDNUb1RybnNpVUlvZy1LVjUzMjQzYVpoQVNISTZoUTMwLVZHSFV0SFdoU0dfT1JNTkpENjk5aHJXSnFKRVdpUVZmY3FoTExYNGM0SDBRdFVPU3dUc2FvcVdvR0F6ZGZMcHhsb20zWmtEaVl3RTMwMzNPUjlWazhZQklIdFVEYlVqS3N1eVA0T04yNWFKaE5qVVlaak9fS0RrQVRlSFpfeWV1WVpaMFVEaVBpSHctX2RqNUhXTGFEYk4wdFZPYlHSAeMBQVVfeXFMTktSU1lTeWlpSU1IVU9oQm1ib3JsaHRQMkFrR2VHek9IelNyd2hhUVRxSlE5czZXYjgzOTM1OVdydTg4eHVEaDFkUm5FSE5TMEZ4WGV6Y1hhYkpnUU4xc0NhMF8tYnpjRHdVNXVTMFJsNXVPMXJzTGUtSExmbFNQTUg5Tmsyd2xwWXBMWm9OLTRLc1czclJuWm5TRUo1ZFJtUGFyWHdZQ0hMY3JIQjZBc25fbTVJYW05eXNaN1lFbXVSZnRtTTE1VWpZSHA2M3FOekFfNkJvOVBLWWVvdVY4NV85bHM?oc=5"
+        },
+        {
+          "source": "Goodreturns",
+          "original": "BRICS Summit 2026: India to Host 11-Nation Bloc in Delhi; Trade, Payments, Oil and US-Iran Conflict in Focus",
+          "zh": "2026金砖峰会：印度将在德里接待11国集团；聚焦贸易、支付、石油与美伊冲突",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU1k4TnFPelRtSzVuWm51WVNXSUo2Y19UX01vc0ZoeThIc0ZlSGJLVnJwa09fRWlzUF8zRy1lWnlzS1RKaDFhZWo3OHhiTXBuUHFHYVh0VGUyWWRVcjRvOTkwM09fckJqRVV3QlZBMC1hOEZ3d2JveXl1QjRlalJSa0xrUFFJeGNxWFRCbEdOSjJTQ1FMWE9GVVRZV1g2eDBvY1dwTHhaMkZRQ2VQZ28xSWNVYkpjeUpOUS1PWFBXaVpSUFF0VWp4cS1XN09ISXBzSXJkb0lyQQ?oc=5"
+        },
+        {
+          "source": "timesofindia.indiatimes.com",
+          "original": "West Asia crisis: Russia backs India over Pakistan for 'long-term diplomatic role' in US-Iran conflict",
+          "zh": "西亚危机：俄罗斯支持印度而非巴基斯坦在美伊冲突中发挥『长期外交角色』",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY253Q212UF9US2xiY2xVSmVOcno0RWV1U0prcTdXbENocks0ajQ3b01YSnQ1QXY2NUsyc2tCdy1JelZOV2JDTHJfQVpXYUlrVko2cGdGc3QxTUUxY2xkc2I3WHlZMGxPZHNjUEwtSzBoYmxtSGJIN1VsQjJFU20xTVQxZkVtb3hnS2F2UW1ZMU5MS0swZWFMRHJEd1BwdWdPTUlHWThTOWR2Um9QaU1iT0I4Z1B2TTQzUUdwUFRIUWNFZ09zNTRUNEhkM1duZk5XVjdKcFUwVE95RUJIR0owXzRhZmtmdlp4ZXN1Vk5NQmMwaWpkX0tHaV9LUdIBgAJBVV95cUxOMS1pbUdVNWw4QTZlSXVDZUNuMU5ORFhqUUk0anVRc3AwRXNveXh2cnN6Yk9ac1BhYmlOdXZGeTdBWVVNOV9fSEkwN1FXM19WZjEyRjhkUXBYNmRCbGZ6NG5CaGdmVkVTcGVTbTFXQ2xFU3FTWm4tN28wSjZXTFFkZ0Ziemxia2NhNndqcl8weWxFZER3U015Uy1CaWdOQ2p4dDF5OGVfOHlYVG8yLW1CNkF3cEF5YmlpSUJWN0EzT2ZCTGg4T19EYkF2WkxnOHNLVThPczJaS2IwdkVJc29VVXVhWVJ0OGVqNXh1Q1BCQ1gyYjl5ektWc3dRZmdUdnkw?oc=5"
+        }
+      ]
+    },
+    "JP": {
+      "name": "日本",
+      "frame": "本国市场直接冲击：日经暴跌2000日元、油价破百引发通胀警惕，密切关注特朗普终战时间表。",
+      "unique": "唯一以本国股指（日经平均2000円下落）为标题主体的国家；并完整记录油轮攻击伤亡（路透『1人死亡・1人不明』）。",
+      "headlines": [
+        {
+          "source": "TBS NEWS DIG",
+          "original": "日経平均、一時2000円超値下がり 米イラン攻撃応酬でインフレへの警戒感強まる 原油先物価格は一時1バレル＝104ドル台",
+          "zh": "日经平均一度下跌超2000点，美伊互袭加剧通胀警惕，原油期货一度达每桶104美元",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14MWFaY0g1Qm1CSWN5UEVuQzZYNEJWR2tVZFdfQ0FmUTg3QnVrLWc0M1Q1Y3M2aS1wN2lnUFdzdTRwODV1Q0VnRERkNjNYcmxZYjE3U01wWQ?oc=5"
+        },
+        {
+          "source": "朝日新聞",
+          "original": "ホルムズ周辺、タンカー攻撃の応酬 サウジも被害 3カ月ぶり原油高 [米・イスラエルのイラン攻撃 イラン情勢]",
+          "zh": "霍尔木兹周边油轮互袭，沙特亦遭波及，油价创3个月新高 [美以攻击伊朗 伊朗局势]",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MVExoX1A0VzZfR0EwQURKWEQwQVE2SlpLTXNxNDNLRDZFT05HMEY4V3B1TDhoamItLVZlQkN2Y2pHVVpmMUNpalJDUFlxZS10bEFhUkNaeFlRZmMwUUd5YUtZa3BCc00?oc=5"
+        },
+        {
+          "source": "時事ドットコム",
+          "original": "対イラン作戦終結、「中間選挙直後に」 原油価格も急落すると主張―トランプ米大統領",
+          "zh": "特朗普总统主张：对伊作战『中期选举刚结束后』终结，油价也将暴跌",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HTjZjQm5qNTdvQXR2OTZxNGVKYUV4OFVuRmNzV0pZd3pZdlprMTlPWENsMHlaWGtodEdnN1lmRVJ3cUxvTm1GeHdEc0gzUmN6dk1IQXdra3VrblBSdVdTSkxsTQ?oc=5"
+        }
+      ]
+    },
+    "FR": {
+      "name": "法国",
+      "frame": "霍尔木兹的军事地理与『航运战争史』：以海峡为中心，讲述油轮偷渡、秘密走廊与封锁博弈。",
+      "unique": "美国『秘密运油走廊』独家（Le Figaro、i24NEWS），以及『油轮战争』（guerre des pétroliers）这一历史类比框架。",
+      "headlines": [
+        {
+          "source": "l'Opinion",
+          "original": "Détroit d'Ormuz : le retour de la « guerre des pétroliers » ?",
+          "zh": "霍尔木兹海峡：『油轮战争』的回归？",
+          "link": ""
+        },
+        {
+          "source": "Le Figaro",
+          "original": "Pour contourner le blocage du détroit d'Ormuz, les États-Unis mènent une «opération secrète» pour transporter du pétrole",
+          "zh": "为绕过霍尔木兹海峡封锁，美国开展『秘密行动』运输石油",
+          "link": ""
+        },
+        {
+          "source": "Le Point",
+          "original": "« L'Iran est en train de perdre le contrôle du détroit d'Ormuz »",
+          "zh": "『伊朗正在失去对霍尔木兹海峡的控制』",
+          "link": ""
+        }
+      ]
+    },
+    "DE": {
+      "name": "德国",
+      "frame": "油价与华尔街/股市的联动，兼有『为何没涨到200美元』的冷静派与战争赢家（Exxon）视角。",
+      "unique": "两条独家：Exxon 利润因油价翻倍（manager-magazin）和『油价之谜：大冲击为何缺席』（Capital、Berliner Zeitung）的反主流声音。",
+      "headlines": [
+        {
+          "source": "manager-magazin.de",
+          "original": "Irankrieg: Exxon-Gewinn mehr als verdoppelt durch hohen Ölpreis",
+          "zh": "伊朗战争：高油价使埃克森美孚利润翻倍以上",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVDhJSzNlVWE5blhoSERqMUd2QktPUHpvS0lSOGFqQmlqRTYyTmVySi15djhhQkhLYUR2WXEzVExBN2x1eHctWHJSQk9CcUFOcldYR3FUeXFkSFJLSmVXRWhsTUlDZXZZdS1CZnFTZFNpZXVOMmgzdlRXWFcydnlFRENpOGtVaW9GT0c4NTNvQkM4NGc0OTcyLXJIOXUzMDR2NEdhaG56ejYwM0szbURRbm15c0NOUXRmX1lVSDBELUgzYldPZ21NZ1FCbmVwRFpQeU5OVFV4X0NnbEJ6RGtnc1lBSFk3eE9xeFU0?oc=5"
+        },
+        {
+          "source": "Berliner Zeitung",
+          "original": "Ölpreis trotz Hormus-Krise: Warum er nicht auf 200 Dollar stieg",
+          "zh": "霍尔木兹危机下的油价：为什么没有涨到200美元",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS25Sa1NueEJXZDh2dlJ2VEpCWGUyWTJtSl9OTXBWRHROUkJLOEV5Mks3N0l3YTZzX2M1Qm5FUHV3dl9GVDNRRk1uZjJfX003OXgwbGtaYXNrejRTeW14Q1FEOEFlWWk1amtyU3haMjNkUlZyY3IxaGw1SmVLV1dOZnptdGpPMVE3a0J4ZHhtdXFJd29ENENqVw?oc=5"
+        },
+        {
+          "source": "Börsen-Zeitung",
+          "original": "Trump sorgt für starken Ölpreisanstieg und Verluste an den Aktienmärkten",
+          "zh": "特朗普引发油价大涨与股市亏损",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPendOXzdXb1FoUmtaVXhmRmgyOWRMb0xsMzZXaVZOX2ZDMEVQRndUUEZwX2VnU0VUQVZzcGdmNWFwdTdubmVubG9EYmY2QmVEemYtdVNLalNvSzV0Nm1JV2NzTzFEcms2MzVtdk9MbzNfUV8yLTBDcGstV19KRDV5WDN5cDYxaUhPZW9uRldCWEt6b0h5Y1Zndm5wVi1Nc1A2djZwRTlhWTRQVVJSVWM0ZHRpMXE3V1kxNDdjT1JB?oc=5"
+        }
+      ]
+    },
+    "BR": {
+      "name": "巴西",
+      "frame": "冲突重心不在霍尔木兹而在曼德海峡/红海：胡塞攻占红海咽喉、封锁沙特航线是核心叙事。",
+      "unique": "唯一系统性将 Bab el-Mandeb 作为主舞台的国家，且有胡塞『航运安全正常』的官方口径（Valor）与封锁叙事并存。",
+      "headlines": [
+        {
+          "source": "Agência Brasil",
+          "original": "Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita",
+          "zh": "胡塞武装封锁曼德海峡，对沙特实施封锁",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVlRRy10b2lUOFZJT3BwUWs4NUw4dE1NOHAwUFozZEZreVhDRzhpWHNDT3VfUDlOUWEwcUpnelZfWTZZUUY4WW5fVU9fMHVsS0tmLTFMODg5aDdRMF9Lak5jajlhaXpwMTM4RVRPV2NrRE9oMnRFa3pYOTB3Zm9td25IdVFQM3FmMlFJSDloUTlPeVZtSEM1LVFmSVJzZGk5YmhGYXQ2d01fUWtqS3NIMktuVDhrMy1NWEU5UzQ2eTRJRzVMWXhMSnln?oc=5"
+        },
+        {
+          "source": "valor.globo.com",
+          "original": "Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal",
+          "zh": "胡塞武装称红海和曼德海峡航运安全正常",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2V4UVd6LU92bkMyMTdwdVVFVWU2eDZGNjR4Um5lT3lsSUNfa3N1ZWpVNnVyQTI5RmtYOE1ISUVjUTFKejdNR1pBUzVVd2NhYkVISUpkZFpUeEs4Y0Robkt4eG9FQTlzVnhLSlRpSHZnMEpyVkxLM255S2p4RlBrem15MGVodnRsQ1VzLWRWY0w2ancxYW9vWDFBTlR5TzgwTTI4N09iZFFNZFNTOS1nVEZLRzhCQlZvR2NIUDUxenZ2MzVhdWs5cnFDNUhmU2I3blIta1EybzFpakhqZlNkdFBFREtjd9IB5gFBVV95cUxNN2V4UVd6LU92bkMyMTdwdVVFVWU2eDZGNjR4Um5lT3lsSUNfa3N1ZWpVNnVyQTI5RmtYOE1ISUVjUTFKejdNR1pBUzVVd2NhYkVISUpkZFpUeEs4Y0Robkt4eG9FQTlzVnhLSlRpSHZnMEpyVkxLM255S2p4RlBrem15MGVodnRsQ1VzLWRWY0w2ancxYW9vWDFBTlR5TzgwTTI4N09iZFFNZFNTOS1nVEZLRzhCQlZvR2NIUDUxenZ2MzVhdWs5cnFDNUhmU2I3blIta1EybzFpakhqZlNkdFBFREtjdw?oc=5"
+        },
+        {
+          "source": "VEJA",
+          "original": "Estreito de Ormuz? O problema para o preço do petróleo agora é outro",
+          "zh": "霍尔木兹海峡？如今油价的问题在别处",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXlGT2c4c19hUGJXaXdLLWxtSkttVzBpUnBRQ3JPUlJMN1YtZE9lbF81QXZYcUlxSVJfYVd3NmhnWTJoQmpnQUR0MzJaVHhiZTFUMDJ5YjRkbjZaWEpmT3k5U3VlbkVraVdkVm5LRUI1LXloMmVqNGEzQXRSaWk2R1RoVzNIcWdnWkVXcWtBWkhmeXBnSFZHMGl4UUpveTU1QXhCM1lfalotb3pna1Uzb0lWT2I?oc=5"
+        }
+      ]
+    },
+    "RU": {
+      "name": "俄罗斯",
+      "frame": "纯市场行情播报：布伦特破百美元的技术位与心理关口，几乎不评论交战双方或地缘责任。",
+      "unique": "样本多为财经/地方小站与乌克兰语区媒体，缺主流大报；冲突本身被淡化成价格行情，且头版完全被本土遇袭占据。",
+      "headlines": [
+        {
+          "source": "dw.com",
+          "original": "Цена нефти впервые с июля превысила 100 долларов за баррель",
+          "zh": "油价自7月以来首次突破每桶100美元",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlNWVmNhanEtaVdaS3g0SndQOENXZ0MzcEYxT2MxeTZCR0ZPclVhOXctU1dTbjdhMktGWHdyMFowdFZDV0xEbnk0M3REWV9SRi0wTmg5UjNIU2hfTk9uYWp4UzZpeW1GRk9JUXNUcHVnQWZmT0RDSk9EVFNyTXJHSXhlZExtbUVuUWJqMG1ITlhnTkc4b043WdIBmAFBVV95cUxPd2FYYmNqNmc5eXZFcm9fTHVMNDZ5dDFuaU9acGp2V0E5RXM2MzljV3lqUzQ5bnNVYXZEbzJMcVNVQ1lHcF93bXRWQm5jNFlDMlR6am5XNzZRdlZCaW5CT3U3UkF0aHR0cDZESjVHazJNZW1EMG9yenNjeDA5cU9pT084dWFEdDBVUEd1cWNjeVdCcjlqSEx0aQ?oc=5"
+        },
+        {
+          "source": "ProFinance",
+          "original": "Исламская республика наносит ответный удар, загнав нефть обратно выше 100 долларов за баррель",
+          "zh": "伊斯兰共和国发起反击，将油价重新推回每桶100美元以上",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0VfR2JNTnI4NHg3UWRYeHNFVUs3N21mM1Q2RVlMdzZfUXFPOWRDb0dhWlhBTEU5YXQwQWhVTkdiMDdOdFRvMVpfclRnVXl3Y3ZTM0ZsTF9iQmpBb1hXZ0djR2hPamZKbjlLYm5ia05BZk1XaXA1Q3psZThzU0h1blJnMWxKQ1hUcjVabmVUbHh5UExEMUtsanhzcExLejgxeEdHYmdwemxCMTBkbFJuZ0dnOHRhVVNYdURqNkJwMllEZFVoZjAzYzc4emp1Zw?oc=5"
+        },
+        {
+          "source": "Економічна правда",
+          "original": "Нефть снова приближается к отметке в 100 долларов за баррель",
+          "zh": "油价再次接近每桶100美元大关",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXg0ckNseVZfSUhpcU1ZNTZ6UzN3ZENMektEMlpueHhXcGgyQ3Zqd1FGeUVib2lQeTdWZGFoTkF2Y3pGX2hUVDA4RFE4cWU3aXBqZGVyei1jdVNkTDZKdk5KeVJramtUNHBTeHp0cnRSWi10ZDVMaFZRV196M1R6eU5JU3VraS1pbl9wUGdNT1VEcUJEUHhDONIBpAFBVV95cUxOMWI5RzRWSXgyZ2syNl9XaDd5ZTZoZTlYajh3OWN1ckk4MUVRek4wUWxEUEZaQWdHSTYzWDBZRUNuNkM5T19xM3dlbVVENUN6dmxkcEcwdU5BMUMzNDAzckM3bnVLdUhnVzd4MG9TRW5Sd04yeVlEM1B0V2J5aUFwbDFWc19rQnFmNm5uRXM3eEtGazlFQXlmNldNaGNKZFNQc0JqZg?oc=5"
+        }
+      ]
+    },
+    "EG": {
+      "name": "埃及",
+      "frame": "特朗普言论主导：油价何时落、战争何时了、海峡改名，外加大银行制裁等经济施压细节。",
+      "unique": "特朗普提议海峡改名『特朗普海峡』、美国制裁大银行、以及『败选前油价会到150美元吗』等独家角度。",
+      "headlines": [
+        {
+          "source": "اليوم السابع",
+          "original": "انفجارات في سواحل إيران الجنوبية.. الحرس الثورى: مستعدون للانتشار السريع وترامب يهدد مجددًا بضرب جبل الفأس.. ويؤكد: الحرب ستنتهي بعد \"الانتخابات النصفية\".. ويقترح اسم مضيق ترامب بدلا من هرمز",
+          "zh": "伊朗南部海岸爆炸..革命卫队：准备快速部署，特朗普再度威胁打击『斧山』..并确认：战争将在『中期选举』后结束..提议以特朗普海峡取代霍尔木兹之名",
+          "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQTGlpclBGNGYyRGUyN25sbjFQMjcyRkZHVFBKM1RvRHl5OHBZUlllbXJGcnp0VjBfdWhLdXk1eElCV0RsdGQzcXRDOGUtLTNKc1FIVHFSbWs0OFljbnpZcllCb0hYMGs3dUN3RWRDbWFTbXB5VkV3aFlaa3RueXJSLXhQRWl1dHBHM2l6cm5tOEE2M21rUnpWeW1Bajcyem8wT2dUVnBZNzd1X0doTUt6a2VCRmFzUjB1eldiU1NWOThXZE9CczZqRDV4VXVfaTM0VlZnR0ZjYWM2SGJvQ0RnUTJNSU1Iak5zdXV6S2JkUTV6cl9RRkNfT3NaZUhJaTFnckpTVkx5RkY2RU10d19rVElmOXdOdHZoWmJMWFg0T3V3UVBYN09UWm9FbGJfS3ljWTZROTh6eE9qNWwwVHlFUTZ2Wkx0bElXSXhoQnhMNWljczUtRGljazVBdkFVS29QWDFaWDh2S2V3SW5UaklsaWpmMDQ1bUNMclEyRTdHTWk3QUNFcDRXc0tFaW5ZM0xLcEQ1cVI2RG54eVgzYjAxMFlQdmY2TnNnV3MyU0JaS0ZVbkV1dlNRcDdGTUtfa1FLR3ZHTTZIa0dLN0RESkZCVWpETi1OYzRYT19LbE5kTG5sRWdUaF91ZkxqVUhnRHVBR3lQQTZUM1ZJX1Z5Yk9MZXRrNkVwcnFTZGhVdm1ReG5CRV9qWUZIOGNXZEo2Und5QjBJSUhlUzNnajM5dDgxSkxyTWFhYWRjZFJTejlpU0ItMUE3T0HSAcAEQVVfeXFMUEdfNjhUcFBDS2ZmcGZrS1FncGx4OU95dGtSOTRRa2xIU1RnNC1jajc0eFBTZU1pbEliSlFocEVVbDFRbmdYaDExYzhwZVBpYjlnYXB0b01aSFR2UjlOMDFVU2RleHhUcFEyVVp1SDI5UVlXWE1lWEp4TVZvT1JSd2gxckRjRGtyNFhfdWVlMWJuekZuemNGT0QyU3hVdmZVbFZWYmFhZGI5VGsyOVA3OXhkVmZzM0dtSzlBV0RlSVVuNEtmSzJTa0VGZ054OVh1Q2VPSkZ0U2ZGTmp3cXIzYmY5RGszSURGRk5VZVBDYkpkT3VreTFDTGdTMGRQZGJnN19jNzh0ZXNrMVhhTWFJOFpiajlZZmVGalJFMTAzY0M4bnlzVUdCdGI3ZktSM1hBbE1zZ2RWU2YtWHBDSHAtMTFuWWJudzBrdHdjeGZSUTRXWXdjYk5vaHp1VWl0Q3Nza1NsUXladlgtOFpZR3lNd0dCbDR4a01kRjZqb1Y4Zl9sSEd4UVJrSno4Rm8teEVFTnVIb3gyY2hOQWlGdWhUdEZRQjQ5Q1RieUM1T0Z1RDdzWWtnSEp2WmtXeS1QZWVBMW9NdF9RVTNxOWtoNGxoc1Z5V0ljdlU5UlpIbWg5TTBSQm1MMFZBQVhySlRkcG5fTzN3aDNRRWNaVW11S0ZOUXBnUDlUdGg3bDBFLWlhQmRRVzZzSUhTbTNBbVk2WVdOM1cxYzZfQXdHcHBWb3ZyY2NjM1AxMkdCb3FzXzdkYWVK?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "الولايات المتحدة ستفرض يوم الاثنين عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية على طهران",
+          "zh": "美国将于周一对一家『大型』银行实施制裁，作为对德黑兰的经济施压",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwU1lOa1pRQTk4bFlRLXlFU2I4ejJMQ3lqMlh1X1lCOEhYNXNmcmh5T01BbERwZWREdnJDU20xbnV4ZlNvdHcwU1RaRGRfeXdkWUJCZFl4Q1pWSXBx0gFiQVVfeXFMUFZxcVRrZnZZSTJxY0kxZ3c2SU16eUg0NVR2MERxaXFOdElGUmNpT3RzM3E3V01fYVFacEVVbDhWN3htcTdVeGdhOExBdWkwa0ZiazJYOTNKa29oYnZGY0RiM3c?oc=5"
+        },
+        {
+          "source": "المصري اليوم",
+          "original": "هل يصل سعر النفط إلى 150 دولارًا للبرميل قبل انتخابات الكونجرس الأمريكي؟",
+          "zh": "美国国会选举前油价会达到每桶150美元吗？",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uMGNHbEZ3QUJtTERvU3I1M3ZDYS01aURmVnlQXzE4VDh0TnlhMjJfSUJzbG9PVUVxMGxJdEgwZEtVZGRIaDc2anp3Z2RTOGIxcTNIQUZZZHFVMmR3a3RV?oc=5"
+        }
+      ]
+    },
+    "CN": {
+      "name": "中国",
+      "frame": "红海-曼德海峡为第二战线：胡塞攻港、封锁沙特海域、伊朗施压胡塞，中国自身航线安全是暗线。",
+      "unique": "『中国游说胡塞武装确保红海石油航线安全』这一本国角色报道，以及对伊朗恢复弹道导弹生产的独家披露（华尔街见闻）。",
+      "headlines": [
+        {
+          "source": "华尔街见闻",
+          "original": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DbGhaWnBGM09vRHNIbTdkMmNpRlpUQ1JmQ1NQLWpPR2JXNktPU1NHRmljVFdTUXlDOGVBRG9iS25Sa3VlOWdPMkRuN1otQUhTaXQ4?oc=5"
+        },
+        {
+          "source": "财联社",
+          "original": "伊朗据悉正施压胡塞武装！红海恐成新战场 又一“原油生命线”告急？",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ySXlsZFlZU2o5WmExdG9kZ25lRE1fU0F4UmRRMDh2cUR3U2dPT190QU5IXzBqSHFkWmZsUUIzQ0tNYnNhcWp0Ng?oc=5"
+        },
+        {
+          "source": "idnfinancials.com",
+          "original": "中国游说胡塞武装以确保红海石油航线安全",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPX0VGOFNnampHb1BMUU93bHN1TXRTRVFrSlJqSVZ5M0M4ZU9MWlR0UVpRb3d3X2lDWWRLSDczS2I0ZWc5X0VYRUdjWXh3QUJIeWFHVDk4c0FMNnlOQjgyMDF2MjRnempxQWZBbWd0LUk2cHZ5MnhULUdqMEVoSmZvWUNNN1FBaVhkeEt0ZzN4SUdWdTdqUW1kVW5CUFRLdUR3d0hMWVdMaGZfeUlDUEN1b2tPMjREOV9paVRfZzVOb1NDdnhONmZ5REtwTlZPQVpFYzU4VHY5WjhqNTlrRnhENjhzRkpldTNnaHVLVzJxOExqZWJGaWJfZ3J0cjh1anpGS1pEYnNJZ29sTDZ0QV8wd1RGT3hsN1prOW9FdXFSZUxCeTdWdEIybnYwSnE2eDNnaHktbm95WU9uSEE?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "本数据为事件对齐搜索结果而非各媒体全部报道，俄罗斯样本以财经小站和乌克兰语区媒体为主、缺失主流大报，且所有标题均为单日快照，无法据此判断各媒体的持续性框架或编辑立场。",
+  "event": "美国与伊朗冲突升级、胡塞武装攻占红海要地导致油价突破100美元并冲击全球市场",
+  "event_title": "美伊冲突与油价破百",
+  "date": "2026-09-11",
+  "slot": "morning"
+}

@@ -1,0 +1,17 @@
+{
+  "event": "美国与伊朗冲突升级、胡塞武装攻占红海要地导致油价突破100美元并冲击全球市场",
+  "event_title": "美伊冲突与油价破百",
+  "why": "美伊战争、霍尔木兹/曼德海峡危机与油价飙升同时出现在全部10国头条，且美国（通胀与选战）、俄罗斯（预算受益）、中国（金砖外交）、埃及（地区安全）等视角截然不同。",
+  "queries": {
+    "US": "US Iran war oil prices",
+    "UK": "Iran conflict oil surge",
+    "India": "US Iran tension oil price BRICS",
+    "Japan": "イラン攻撃 原油価格",
+    "France": "guerre Iran détroit Ormuz pétrole",
+    "Germany": "Iran-Krieg Ölpreis Anstieg",
+    "Brazil": "petróleo Irã estreito Bab el-Mandeb",
+    "Russia": "Иран нефть 100 долларов баррель",
+    "Egypt": "الحرب مع إيران أسعار النفط هرمز",
+    "China": "伊朗 原油价格 红海"
+  }
+}

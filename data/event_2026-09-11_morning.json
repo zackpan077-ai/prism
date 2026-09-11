@@ -1,0 +1,776 @@
+{
+  "event": "美国与伊朗冲突升级、胡塞武装攻占红海要地导致油价突破100美元并冲击全球市场",
+  "event_title": "美伊冲突与油价破百",
+  "countries": {
+    "US": {
+      "query": "US Iran war oil prices",
+      "items": [
+        {
+          "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcV94M21oS090d3U1X3c1UlBpV2VfSmpDSjFlLTl2WTRUQXNYSVR1THdQREVYTDJNSXlEcERrckMzSG5DbnJ4aFpHQnhvaUduVzBRNjFJVklzNkVQbEZxYlV3Z3ZTVUNmS3ZMdVBHVTdYTl9VZUlUcnVMQThKTHYwaUcwWUhoajFMMmRxRkphWU_SAZYBQVVfeXFMUHcyc1h1YmRjS2lxOEc5WDltZmtlRjRpMUdQczdWbmRleG5CUERDam1sV3pzNTQzdHdMMi0wV3k5OWxnOHpxQjNEQW8ySXZjaldiMWRRZDQ4bXdFM29WNFNYb3g1S2NIXzJaVlZ3V1MwNTFETjZ2Q1Q4YnA0S1Mtc29LemVMempLTTkxb2NVc0NWRW45cmdB?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 00:20:00 GMT"
+        },
+        {
+          "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes - bbc.com",
+          "source": "bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT"
+        },
+        {
+          "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXZ5YktKTkY1bjN4dUc2eExWcFA2YXFIaU5TWldqT2VhUHNvazFpcmQxU0NxdFNaT1MzQ1FlX1R6Qnl1SUdwMjg5bEVtZG5VRkJlczZDTUNoZW1mWmE2TXhhT19GZFo0RHJUZHgzMWYwVFpyV3NSenJPUXJXWGhZOVJBaVBNMXdwWFVFZmUyYmozOEVnZ2dFdTBVWnhPWTh2eFluYmtpeHJINC0wVmxoc2FCNng1dXpM?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:28:00 GMT"
+        },
+        {
+          "title": "Oil prices could hit $120, analysis finds, as Americans absorb $100 billion fuel hit - CBS News",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TcU45WjYxMXNVMFJ5bkdzbHBPby01MnlsMVZYWHlOTkROVmdKVVVvYjlKcFRyYkZPQ3Z5Wk9SUU5SbXM0cnc4Z3pWM2dQYXRTUzl5VEtqZFpVcm9pWEUxeDJYM1ZCTkRONVhVM3QyZ0NQR09zcndob0Y3MFM?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 14:49:00 GMT"
+        },
+        {
+          "title": "Oil prices climb over $100 per barrel as US war in Iran continues - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0QxejlnLVRleDlrSkFQcWFfQ2s0d1N4WHdzVWxGWnZ3RzF6WFV3ZGI0RGpwVjlScnR6YzZzdVlCX2lOUTV6eEkwTS1nYVZweHRob1Bza3FqOERSeW01LWpqekZZY1NvNnRKQ1hON3Z4eV9YQ2JuV2dkcDRxZkhIUlVDbm9TTlFTZmV5UzMza1jSAZYBQVVfeXFMT0djYTR2UWNMX2dyUlBIa19XSE95VDMtdGFfTHpNZlA3UXgtZVp5QkVWY1NUS2pfbDZ6am1pbkEycy1JTndIdlFOUHpWTTlXR0hvS0tiOWNldXlxeFkwSHFwZFRtZXN5b1NzSEVLQUFNZFNpSWFvRktybXBYdHpZY1I4cHpPOVJ1Wk5QRkxhcDhmOHVDa3Rn?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 15:28:39 GMT"
+        },
+        {
+          "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:33:45 GMT"
+        },
+        {
+          "title": "Oil Prices Rise After U.S. and Iran Trade Strikes - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5",
+          "pubDate": "Sun, 06 Sep 2026 22:32:01 GMT"
+        },
+        {
+          "title": "Renewed U.S.-Iran exchanges send oil price back over $100 US for first time in several weeks - CBC",
+          "source": "CBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yQm81bGc5SkdjYUdhdlEyMVpUa055VDhpbXA5ZkVVV2MzSFRqbU52em1IYndyRlQwVVowVFpqc1FVZ1VJV285UVhNLU9XZzdGd3M4dExpY1ZoX2ZtcU4tZkhmRnVPYlBMbGs4NnI0d3V5a1Zo?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 16:47:04 GMT"
+        },
+        {
+          "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHpwc09tV09ycWstSVJVekIxSmNUSzdkUFVxTjRzRTJ0V2szUkpNbzRrdnEyMzhfUXJyNHgzQUN6SjVKVHFmNEZqT3NWM1U5Nm5ZRWFQdk9KT29DXzg5YTlOQVEyVWNRMTFVcFpUdWhuUWdfVTR1aHMwZ29mbWJGRHl5SnJNdmp1bkU2R0dGWXFHY2paZlJGQWFPR3R2S3ZiV19rTTVFVHJlSU1PRkFHeUNaODJ3emVW?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 17:45:43 GMT"
+        },
+        {
+          "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - Yahoo",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlAteTcxMXlUQnFNNG5aWTJmNlNJNkZxa1daaGM1QXNTNmpmMmJERl9LNl9jNm9rX21Kd0xUSVlPYzg4SE05THJPRmtBMlNDOXlKT2dnUFJaWEd6UFNrWGdWbWtHZEIyYVJpT3JKOFBpOVdCR3gzbUh2dVBiZFl4OE5qNGt4Z0w5ckFHTnB6WnA0UQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 18:43:30 GMT"
+        },
+        {
+          "title": "Oil soars to $109, pushing up chances of US interest rate increase - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc19jMzJlM0xreS14RUljWjdkMnVWa0NXVW1aMy1mVU5sRTNDdVFxU3pHNXU1blhvZFJCZlBWbnFCN1ZDOEFCZkt3WkFlTFBWLURDRFd5Ql82TWF6bUtkT1pPY0dTa0NyOUR4NGY4S2NNeGl4aXpGSVloenJneWZHbzd4elI5cjM0Vk9ySEs5WXFRMEl0dmV3cEhpZHpzVExkNEVsenVqdy1KRDlwaUdN0gG0AUFVX3lxTFBXcTZ2anZvVEQzRTMtUkpEeVY1bmpnVERpYnRqbWNiMDBad1ZuYkkzRmxHdDF2ZzBWNlNvUG5DaTNhb2E1c3lUSktwS0ctS19HZktKRXdtb3FSWUFsbFlhVlE3R2RkMjNzMF9qMnc4LXFoMndXYTVYdHJzY291eTJqeGZfOHFxS19LVHhtcW1RRUxkUll3dlBURm5pazZSTDFnMF92WHdfc2FyLU9zQ3JvLWdOeA?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 21:07:45 GMT"
+        },
+        {
+          "title": "Oil prices soar to $108 for the first time since May as bond yields jump - NBC News",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUc0eUlnRzFSZkJ5NWp4TFc3c3RqY2t5YVV2N1p4c3lFZmJZdHE5NG1KRDF3S0NIc19YdTZsMXB1T0VYTUFCRWx5eDd4aVF4WnpUcVJyUzJpbzB1aUZ3cWtwRExJeGk4c0VGNjVDVzdmZEpYQmMtcWxhWUxXT3BHZDMxSTBxRHV1?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 21:10:24 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "Iran conflict oil surge",
+      "items": [
+        {
+          "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbDJ3UmRJSUp3QzFjUk9JSWM3OFNpUzFXVWdqTUdGZ2kxUzh2cVRVdF9JQW0yajQ0RnA1ampZUHJJYk0tQTRGSzRQblhDTVpYeklnMHlRcHBkZw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT"
+        },
+        {
+          "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnZTNldEQUVCaWRsTTNsRGZfSlZqVXVfUXMwZkFpUWVNZEdoamVnUTZvZXRocnZKd1d2cVk2M0tlVEFwLVV0N3A3dGJkbU1yVnZBM0w2MG9kaU4zOUdpTXhSS3U0QjJmU1hPUm5fc09VTDZGaHNUdFAyVjVqVFo1eTQxM1NLWHh2LUN4U1pHbW81TURycVVHTV9iOExmQmlPcndLZXlYdEZ6WVJ2N3FMOFZEVHpvTzZQWnNzS0xkSldnMDNVbnVGeHRWMA?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 22:58:00 GMT"
+        },
+        {
+          "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:33:45 GMT"
+        },
+        {
+          "title": "Global oil hits $108 per barrel while bond yields surge - CNN",
+          "source": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bVBUQ2thZHVRZ0Zmb1VSWDFFOTVPZGNuamgxbENXSmRiaDVOZzFNdENXUVk1YVpfUHA2UFZ3XzlOeDQyMmpJd3JNY1ROdHd5c2lRYlZobmg1bi1UdlpoRF9hS3lWUEd5dUdlSg?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 14:08:24 GMT"
+        },
+        {
+          "title": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVmNITlFwV0FlUC0xOEItRThDaHhmYkVGOGMyUTRaalNEc1lHQXRDaGx6SUF6dUd4NVd6NXdSOExaN1ZGTWdkWEEwZDhTYUFmVFY2MW1LV2I3LTJWM1VRaVVFZkFtV2s1Q0VkWDZjdmJGWWlKM3Y2ZHZuZHVSQQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 21:11:03 GMT"
+        },
+        {
+          "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTdXWmJBYnc1VnBEUWVuazlUQkQ1SmV5aDlfY1cxUXgzeERlWXoxWEl4WElXdFFlUWZzZzN0NlRHRUVQMWU1bGpubUlBaDM3SUZvTFJ6NHRFbi0wMUhMNkNBakFjdVduS2R2NFRGaEVDYjlyVzJNWmh6TjNMemUtajRTSWhZbnFoN25pQ3FEeXBtdw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 06:17:16 GMT"
+        },
+        {
+          "title": "Oil prices surge after Trump says he's not looking for deal with Iran - upi.com",
+          "source": "upi.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFZGNU5TSXEtaF9GdTA0QWk0TDJJSmNaOXFmdWZDQmtieGg4WENwMFFvME1HOFQ3RUtMM09SYUw3OE8teGxjQzZTYVBaNnRUU3NIVDhJdFpDbGJOclh0R2VMOG02R0hXNjRWSi1BNDRGS3NXR2E3UmoxTXhVeU1SQ2pMQ053NlFVeks5MjViNNIBlAFBVV95cUxPQzBfZllDTnRXU2tUYXhNOFRod1l6aVN3X3FPa3FaNlBHRHkzaUF6SEk0WU93YzZfT205enBYZGdqeXVXQXVScG1DdWFlbGxsT2V3M1RtSTkyQkZ1c1dZVzZwTlk1X2RZNkM5ZnUyTTNnUnIyRGpXMXozWlZUdXdoZ1daTDg3UXhjOTJ1SVFVM3FNcFNC?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 18:30:13 GMT"
+        },
+        {
+          "title": "ECB set to hike interest rate to head off inflation surge triggered by Iran war - middle-east-online.com",
+          "source": "middle-east-online.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEtMRjlpbnFqY1NjWEIyUi03azNQcGprcmJKZlRQZ2NkZ3lHNlNaVjBESy1VVlVfZkwtUk1LdDMwWHN1d2huV2RFcDJ4ZHRuaVQ2ZnBBT2drNy1xVjM5QUt6OXMwMDhaZk1PYzlnOHQzM0tGaHdFOHJKWk40YVZ6WXh6SDRhbXdoYlRYd0F1Z2xJY29vaHZwM3ZSQ01PQkFlaEE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:34:07 GMT"
+        },
+        {
+          "title": "Oil prices set for 13% weekly surge as US-Iran war threatens global supplies - thevibes.com",
+          "source": "thevibes.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamItai1Dc20tSU1vUXBnRkx3MHV0MWlPd2F4VzdlVmlXNWRSVzhBcHZ4bWtmcGJiZ3dfa0tSMHRrZ0ZNSl9IN1padGxuMXFmTlRsaGNPV09ycGliMGRJd3UzZklrMmtSU19yM2ZhYkhCV1hEdW1jZk9zXzRod3Y1Z3pQajF4SHRqRmFFUHNDOVl4RTR0ZEtHMEFsYk9Od2RJejNsYlJwMU5CRkxjRk5FTE5BQmVON1VzUWJGZlJNQnBfdFE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 00:54:00 GMT"
+        },
+        {
+          "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
+          "source": "NewsCord",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 20:16:47 GMT"
+        },
+        {
+          "title": "Oil surges past $101 to highest closing level since May as Middle East conflict intensifies - NBC News",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWsxSkpzekw3Y1IybTg0dk1CWkplQlBhTGpyTXRjX0tRZ1Baa0NQaDF0Znk3bkl4V19FTVpzcW5Vb3FXbmNWSmNoTEs2NW15cnJnYnExVDBlQkN4WExhSFctT092cloyMlU1cU8wbzk5Y09lTnFQUkRZZGFQZVUxSE1kSEdWYkI3WmJQbTdyWEFTSDBEaWpOcUZub0dNT3A5dkQ1eERNRV9IbmlvSUZKUTBNR3dMX21tUk9aemVkc0ZoVzlPNFA0?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 19:12:04 GMT"
+        },
+        {
+          "title": "Dow Falls for Fourth Straight Day, Down 316 Points as Oil Surge and Rising Rates Weigh - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CSVM5bEdMQ3VMYm02bnBRbnRaNlEyYXFQSjNZVzJmeC1pWE5XWmpiZ25nMTltMmU5bTd3ZDVsZXpwRnFsTGRvc1cyX3hwTWt3aXhTa0JicnhJeFNERjdzd3ZhTjZkdG45QTdVMTUzM2tKUUFUUkE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 21:05:00 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "US Iran tension oil price BRICS",
+      "items": [
+        {
+          "title": "Escalating Tensions: U.S. and Iran's Deadlock Amid Midterm Influences - Devdiscourse",
+          "source": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnlwZVVLWWFSdEt0OVp4a3FmejB5N2hVdGVkNWhrTHlnR0o1Z1dKaVN5VFBwODAxUDhkN210XzJWN1dZRDlZVVM2SFpVTUJHclZSa0RHbDRSRmJZbFM1aGFYMVVUSkQyQ0tSNnlEN0FvRGlYdzdxYllmbHpHcUh0ZEFpNWt5SEw3ODNBMVh3ekxjWlJ3cTdFNGhqVmtpa0x6OG5xVFI4RWpINEdFTHZQc2NGNFd5NmlITmxQaEdTY2rSAcABQVVfeXFMTlZ5cGVVS1lhUnRLdDlaeGtxZnoweTdoVXRlZDVoa0x5Z0dKNWdXSmlTeVRQcDgwMVA4ZDdtdF8yVjdXWUQ5WVVTNkhaVU1CR3JWUmtER2w0UkZiWWxTNWhhWDFVVEpEMkNLUjZ5RDdBb0RpWHc3cWJZZmx6R3FIdGRBaTVreUhMNzgzQTFYd3pMY1pSd3E3RTRoalZraWtMejhucVRSOEVqSDRHRUx2UHNjRjRXeTZpSE5sUGhHU2Nq?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:25:35 GMT"
+        },
+        {
+          "title": "Oil prices jump 1% in early trade amid escalating US-Iran tensions - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTEN5ck1XOHlCWjlvbXRXcEt1MjNza1otOWtGM1Z1T1M5cXRORzlBUTFKZDRlTGJ0eG84bjNaSU9USWR5MTRDS2xwMFh5eVpZTEtiQ2tnYVJ0aW5YLW1sSUNGd3d5WjRMMExiaXJtRmREN3RJdFdBS0FZQjB0NUdoV2dhRWNnQV9aMDMyZ1ROUDdTVGxVM28zSEpxVEo3WEQxdHBvdWJKdlQ1aUZvMHlFVHJVOUZsdDdIT0NjcnRZanlLVnJ5OXJpc2RsQWN4ckZDdGtRcmMyeEE0bmvSAdsBQVVfeXFMTUxDeXJNVzh5Qlo5b210V3BLdTIzc2taLTlrRjNWdU9TOXF0Tkc5QVExSmQ0ZUxidHhvOG4zWklPVElkeTE0Q0tscDBYeXlaWUxLYkNrZ2FSdGluWC1tbElDRnd3eVo0TDBMYmlybUZkRDd0SXRXQUtBWUIwdDVHaFdnYUVjZ0FfWjAzMmdUTlA3U1RsVTNvM0hKcVRKN1hEMXRwb3ViSnZUNWlGbzB5RVRyVTlGbHQ3SE9DY3J0WWp5S1ZyeTlyaXNkbEFjeHJGQ3RrUXJjMnhBNG5r?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 02:29:22 GMT"
+        },
+        {
+          "title": "Putin, Pezeshkian, and Modi face-to-face at the BRICS summit: Iran, oil, and tensions with the US at the center of discussions - Informat.ro",
+          "source": "Informat.ro",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPejNXT29PUEliMzRWb24xY0hTN3RROERPTmtpMXZYQzZfRGxmVFpRc3M5YjBlWWhKcUhhb2x6OTk3U09xVmViSlA4TWZpSXFfOXFhdE81dG00RnNQa1ctTy0zMDcxUU9QU3NSQlROdl9yRHl6bUxrMUtPTjV4QjgtOHJpWThHaHB5eWxJaDRPWmticHpyMlZlNldpcFFGX0tFNXU4LWFnN1FOLWg0dDRYZm5TYjBkTlM5Rnhjc1dMMG5JcEpoX2VaZF9NZzNVRjNEQ1d2OEdQOXVqX1R1TFN2MjlUN2RJQjlPbDdWeHBOZGJpUkJvbHh3Wi1NQ3hOTkE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:20:29 GMT"
+        },
+        {
+          "title": "Oil prices cross $100 as Iran-US attacks deepen crude supply fears - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMFE5UGJzRlQ0WU5tVVF6akZmTHRremd1QkdGbTJoZ05PTm1hVmtrMzdDNnh3YW9lbld1VUdja19IdVZLcE9Lb1BlMkk4cGQ5bW1ibVVBbkI1a2tGSDc0N3Zza3AzQXBlN2lwX1ZUcEhhdFlhTXFaeUpuUXFvYkVhUlFvVnNjM25KSjA2Rnh0ZEhpWXFCN2ZaTG9sRHVCTmpRS044LTBwNlpNLWFETWxySi1LMVczX0ljck5YNmxyc29GUUh6dlhzTlNtdGgxTlVqZnJLV2FxWEwzb0XSAdsBQVVfeXFMUDBROVBic0ZUNFlObVVRempGZkx0a3pndUJHRm0yaGdOT05tYVZrazM3QzZ4d2FvZW5XdVVHY2tfSHVWS3BPS29QZTJJOHBkOW1tYm1VQW5CNWtrRkg3NDd2c2twM0FwZTdpcF9WVHBIYXRZYU1xWnlKblFxb2JFYVJRb1ZzYzNuSkowNkZ4dGRIaVlxQjdmWkxvbER1Qk5qUUtOOC0wcDZaTS1hRE1sckotSzFXM19JY3JOWDZscnNvRlFIenZYc05TbXRoMU5VamZyS1dhcVhMM29F?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 02:12:01 GMT"
+        },
+        {
+          "title": "BRICS Summit: Navigating Turbulence in Global Alliances - Devdiscourse",
+          "source": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHpINmFjT0NtbXpnMjRaR0d4QU5KUV81ekl1b0YyRE9tZzloWG5rOW1UU1E0S29jUXMtMUc3UXcwWW5SSEs2SDc5a2R5Y3hmSWFXS0dQQ3R4REE3djZBb3pHRXVYbDBuQTR3UFBxNnF1dTVidkV6eUE5S1FGa1c3Ul90bGRIb0x0TTZGc3B0ZTk5QlBCMzhQYUt3eXBwUGF1T2N3TkFzdkYxQm5WelJIUkpR0gGyAUFVX3lxTE5wekg2YWNPQ21temcyNFpHR3hBTkpRXzV6SXVvRjJET21nOWhYbms5bVRTUTRLb2NRcy0xRzdRdzBZblJISzZINzlrZHljeGZJYVdLR1BDdHhEQTd2NkFvekdFdVhsMG5BNHdQUHE2cXV1NWJ2RXp5QTlLUUZrVzdSX3RsZEhvTHRNNkZzcHRlOTlCUEIzOFBhS3d5cHBQYXVPY3dOQXN2RjFCblZ6UkhSSlE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:45:06 GMT"
+        },
+        {
+          "title": "BRICS Summit 2026: India to Host 11-Nation Bloc in Delhi; Trade, Payments, Oil and US-Iran Conflict in Focus - Goodreturns",
+          "source": "Goodreturns",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU1k4TnFPelRtSzVuWm51WVNXSUo2Y19UX01vc0ZoeThIc0ZlSGJLVnJwa09fRWlzUF8zRy1lWnlzS1RKaDFhZWo3OHhiTXBuUHFHYVh0VGUyWWRVcjRvOTkwM09fckJqRVV3QlZBMC1hOEZ3d2JveXl1QjRlalJSa0xrUFFJeGNxWFRCbEdOSjJTQ1FMWE9GVVRZV1g2eDBvY1dwTHhaMkZRQ2VQZ28xSWNVYkpjeUpOUS1PWFBXaVpSUFF0VWp4cS1XN09ISXBzSXJkb0lyQQ?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 13:33:43 GMT"
+        },
+        {
+          "title": "BRICS Summit in New Delhi: Navigating Global Tensions Amid Expansion - Devdiscourse",
+          "source": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT21FckwtVDg2UWp2R2dJNmREXzZveEJOOF9JWlhhV1dRSnJCUDZmT181bHpyRzl4REd5dHlZNlA5cTF0aXlXTTJnVGExMFRSQ3g3UUEyVW82NU1FZnFUV043RmU4RnFORVF5RTlWdHlGUXNqOWtOcDVYVmg1QUtHcEJyaWFUOXRNc29vbWdLZVNfSFpEdEhxQm8zNm9EVlNOZ1JUaGM2T3piQ2gzUDF1VnhRSC0yWkFzZllyMnptWEhaakXSAcMBQVVfeXFMTU9tRXJMLVQ4NlFqdkdnSTZkRF82b3hCTjhfSVpYYVdXUUpyQlA2Zk9fNWx6ckc5eERHeXR5WTZQOXExdGl5V00yZ1RhMTBUUkN4N1FBMlVvNjVNRWZxVFdON0ZlOEZxTkVReUU5VnR5RlFzajlrTnA1WFZoNUFLR3BCcmlhVDl0TXNvb21nS2VTX0haRHRIcUJvMzZvRFZTTmdSVGhjNk96YkNoM1AxdVZ4UUgtMlpBc2ZZcjJ6bVhIWmpF?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:03:10 GMT"
+        },
+        {
+          "title": "West Asia crisis: Russia backs India over Pakistan for 'long-term diplomatic role' in US-Iran conflict - timesofindia.indiatimes.com",
+          "source": "timesofindia.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY253Q212UF9US2xiY2xVSmVOcno0RWV1U0prcTdXbENocks0ajQ3b01YSnQ1QXY2NUsyc2tCdy1JelZOV2JDTHJfQVpXYUlrVko2cGdGc3QxTUUxY2xkc2I3WHlZMGxPZHNjUEwtSzBoYmxtSGJIN1VsQjJFU20xTVQxZkVtb3hnS2F2UW1ZMU5MS0swZWFMRHJEd1BwdWdPTUlHWThTOWR2Um9QaU1iT0I4Z1B2TTQzUUdwUFRIUWNFZ09zNTRUNEhkM1duZk5XVjdKcFUwVE95RUJIR0owXzRhZmtmdlp4ZXN1Vk5NQmMwaWpkX0tHaV9LUdIBgAJBVV95cUxOMS1pbUdVNWw4QTZlSXVDZUNuMU5ORFhqUUk0anVRc3AwRXNveXh2cnN6Yk9ac1BhYmlOdXZGeTdBWVVNOV9fSEkwN1FXM19WZjEyRjhkUXBYNmRCbGZ6NG5CaGdmVkVTcGVTbTFXQ2xFU3FTWm4tN28wSjZXTFFkZ0Ziemxia2NhNndqcl8weWxFZER3U015Uy1CaWdOQ2p4dDF5OGVfOHlYVG8yLW1CNkF3cEF5YmlpSUJWN0EzT2ZCTGg4T19EYkF2WkxnOHNLVThPczJaS2IwdkVJc29VVXVhWVJ0OGVqNXh1Q1BCQ1gyYjl5ektWc3dRZmdUdnkw?oc=5",
+          "pubDate": "Fri, 15 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran war: Oil stocks being used up at record pace, IEA warns - DW.com",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUUzSDhtZVJ2UFY4V0ZhM1NLU3BFTHo4Sk9Pa0JTNDltZ3VSTmVMaFh3NmhuWDM0R1VfS1dpWXJWWHRXR01ieEVnN2JPRlYyb3lCc1BjU3EtMnZFYldKRkJVOVNLZWNrTlpQalViMFMxY2JNN0FHeFktcklheUxVNWwtbmFJV01CVWFoejBVa0d4T2NBYnRxeXN3?oc=5",
+          "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "BRICS foreign ministers meet in India as Iran conflict and oil supply concerns test unity | In pics - CNBC TV18",
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHpSTGEzWFpwYVVUUnR1cUoxaC1MdlJOeDNUb1RybnNpVUlvZy1LVjUzMjQzYVpoQVNISTZoUTMwLVZHSFV0SFdoU0dfT1JNTkpENjk5aHJXSnFKRVdpUVZmY3FoTExYNGM0SDBRdFVPU3dUc2FvcVdvR0F6ZGZMcHhsb20zWmtEaVl3RTMwMzNPUjlWazhZQklIdFVEYlVqS3N1eVA0T04yNWFKaE5qVVlaak9fS0RrQVRlSFpfeWV1WVpaMFVEaVBpSHctX2RqNUhXTGFEYk4wdFZPYlHSAeMBQVVfeXFMTktSU1lTeWlpSU1IVU9oQm1ib3JsaHRQMkFrR2VHek9IelNyd2hhUVRxSlE5czZXYjgzOTM1OVdydTg4eHVEaDFkUm5FSE5TMEZ4WGV6Y1hhYkpnUU4xc0NhMF8tYnpjRHdVNXVTMFJsNXVPMXJzTGUtSExmbFNQTUg5Tmsyd2xwWXBMWm9OLTRLc1czclJuWm5TRUo1ZFJtUGFyWHdZQ0hMY3JIQjZBc25fbTVJYW05eXNaN1lFbXVSZnRtTTE1VWpZSHA2M3FOekFfNkJvOVBLWWVvdVY4NV85bHM?oc=5",
+          "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc's unity - CityNews Halifax",
+          "source": "CityNews Halifax",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnh3c29tc1k3Wmlpd3FYYjBZdG9TeDNCcHgtWWRYZUtTZUdDQ3hTaEVfN3EzNHJ1cnZYYVNUTnVTR2NpbXo0MmlHcVZpSUtjQ1RpejZTT2NBN05NaXdFb1dNeEp2UGNnY1c4V0J5Vk9XM1k5WEZ5ejBQNkJjTk5pSV8ySWIwT0dfUjZwOUdrSVI5UVhtSzAxb0FobDdTaEVvN3FNVjVyZk9CdFhjNUprQ0tTd01hNUc5a1ZEV24zT1JSNEVaZ3dmazZPTHZjN2FT?oc=5",
+          "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Between Iran and the Gulf: A Russian Balancing Strategy Perspective - studies.aljazeera.net",
+          "source": "studies.aljazeera.net",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUplZlBoRUVBLUlGenljZE5iWEp3djRKZ2lwd1FPYVRZalNCNHQ2MFlFMVRGSHVMdVZyd2VrNUEyRnRDNkpxWmNTUDdMY0dvZTZYNEZYdzZWbE5ZMENjY0pUN0R4Q29qRUppMnE4eWlQNkR3WlEwX0dUeWxCWTR3ZUoyU0JaeHJLTGJQRk9Id0lnU0ZjcHRxd3NBSE1oZVhvQzJ3?oc=5",
+          "pubDate": "Mon, 11 May 2026 06:37:19 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "イラン攻撃 原油価格",
+      "items": [
+        {
+          "title": "日経平均、一時2000円超値下がり 米イラン攻撃応酬でインフレへの警戒感強まる 原油先物価格は一時1バレル＝104ドル台 - TBS NEWS DIG",
+          "source": "TBS NEWS DIG",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14MWFaY0g1Qm1CSWN5UEVuQzZYNEJWR2tVZFdfQ0FmUTg3QnVrLWc0M1Q1Y3M2aS1wN2lnUFdzdTRwODV1Q0VnRERkNjNYcmxZYjE3U01wWQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 00:11:36 GMT"
+        },
+        {
+          "title": "トランプ氏、アメリカとイランの戦争は11月の米中間選挙後まで終わらないと - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9USnJ4T3hRYzVaWFkwNVVUNy1RS3VROVV1eUw3MHNBUnVRSzJGMlp4T0h6MjZacGxFLVZ1V2VfeE9LVEJyUFcwQ1J5a2szLW9Kemo1TXNYaVpJbGI0enFj0gFkQVVfeXFMUHp1WUVwcEdSUGVhMjUzWGgyYUZ0TTk0M3JlNFc1dTNHMjJhMFh3SWV2eFpoWmtqa1lSWlFrZk42cHRaTVpIRFhQNUhCNHE0LU9sMFdxdmlqS3REMXZlb2lPQlJXbA?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 05:27:27 GMT"
+        },
+        {
+          "title": "日経平均、一時2000円超値下がり 米イラン攻撃応酬でインフレへの警戒感強まる 原油先物価格は一時1バレル＝104ドル台 - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WY3B0d3JJUlNkYTNGbnlkeUNmUTNhMDllRzBReXlZbWFXMlQ4X3dNYnlSU0Ixams3U2hmUTAwRkZnbVUzRkw1c0Y1WjNCMmpxWnhUVkMxUzlUM3JFQnAzUHJIVFhQY04xOFBQb0RzRF90YkFuczl1eU84TVFQMFU?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 00:09:45 GMT"
+        },
+        {
+          "title": "米イラン、タンカー攻撃応酬 原油価格に上昇圧力強まる - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsSHdCYmtaaXRBVm9yNGdZVkhsY3VKR1lIUUNwX0l5d0VraUhaOEEyNkx4SnZPSl9jNDM3dWtfSF94enA5V1FJQUlNaDNJWmtORkxpVVp6d0dEdi1I?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 20:00:00 GMT"
+        },
+        {
+          "title": "イランが船舶10隻攻撃、1人死亡・1人不明 原油100ドル突破 - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDNRbHBEV3RGN29jeVp5N25rSUtwaTZVaC12RmtFbXhTYmRxTS1aaFZOV1I5Y2pNM3ZETzlQTGFRME1vOTdTYTVQc0NiN0oydTRNYmhzaWctZU5hZnhDeDJsTzZyQk1TZVcwbjVPaVkzX1pPSXNad1hUeWVYZ3NZNUhn?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 14:34:40 GMT"
+        },
+        {
+          "title": "米国とイランが船舶を攻撃したことを受け、原油価格の上昇が続く - アラブニュース",
+          "source": "アラブニュース",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNZldzblBHWEN3aG8ydGQ5MVNfSEZyTVhidlNxS3VKancyelc2c3hUOW45anpnYW9nMnlpWFNNVUVTQmxfdTR3bEtQZ3Q2cUxja20tOWk4SWdCSWZQS0VSdmxBcnp0NEd4M2NSR0lDMXFyR3d1RlZpVDVBX1lCenRlMGFDaFRST0phWW4zVE01Y0xCdHBVTFp1YnliNVlsd3J3RHJ5b0U4VW0yX0hUS0RhZUdzbmx5anMxRlJEM1JvbzR2VGpBdmhSTTJfaDRVeUFfaFczZHlaUm5ibl9nYWZFeDFjQWlvTkNLLXA4eGdVS2kxWXhrc0VVZ1RnVl8xZXFuaV9zcXZPVm41eXFTdFY1RXliczJWX0ZDcmp5V3RtakU4UUtsWUJHXzFlbXFqRzNqV0I5UlhyUVVvRHhlY3VTY0FoMjR6a2EtY2YzQmVJZlRBQzdnUDZlRHJoZDZlQWFxaGFqbnI1V3JaNjRIRWlOZDFFSUh2QWxod1hDX1FsUWU5WlBwRThDRzllZ0lKN1pRMjVDWTlmUFVFRUN3d3JJV0hITEpRa1dKZ05PRHd3?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 11:53:32 GMT"
+        },
+        {
+          "title": "対イラン作戦終結、「中間選挙直後に」 原油価格も急落すると主張―トランプ米大統領 - 時事ドットコム",
+          "source": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HTjZjQm5qNTdvQXR2OTZxNGVKYUV4OFVuRmNzV0pZd3pZdlprMTlPWENsMHlaWGtodEdnN1lmRVJ3cUxvTm1GeHdEc0gzUmN6dk1IQXdra3VrblBSdVdTSkxsTQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 02:50:00 GMT"
+        },
+        {
+          "title": "トランプ氏、イラン戦闘終結｢11月の中間選挙後｣ 原油・金利は急上昇 - nikkei.com",
+          "source": "nikkei.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wM1pOcFNTLWsxUDkzYTFibWs0ZF9GcGZNekZBNTkxNl85djROUkFZTkNiRVlVMGItbkFxUTRJXzNONXhKdVNfMFRQZWIxZldfYzR3aWE5Y1BSTW4yNWJNWWVvSUF2enpSZHRCYg?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 21:03:45 GMT"
+        },
+        {
+          "title": "世界の原油価格が一時100ドルの大台突破、米軍のタンカー攻撃とイランの報復攻撃受け - Forbes JAPAN",
+          "source": "Forbes JAPAN",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FZ2hRalRwQWNQbm40aU15Z0FqUVVXU090WmxwYkNtQ0lSTGJldnlqbWtRRXJjYy1FVFRfRElIbVlXZ19EREdQQ1NYRFVmSVAtWmxJTm14LXN0UQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 01:30:00 GMT"
+        },
+        {
+          "title": "米イランの海上報復応酬が激化、ブレント原油100ドル突破 トランプ氏は中間選挙後の終戦表明 - BigGo ファイナンス",
+          "source": "BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wWmVfRjBkMFoyUWZJaXU4YUhNVHUxdjNudVgwRDYydGZUQ3JGZHpzeWpKM1ktX05BZ3ZrbHZYa0ZFV2VzY3VZVnZMZUhnZmhERzJkNWlhZzNNeElyOFNoSXVBc2RnX3AxNlJhVUR4WVgzS1JY?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 18:38:00 GMT"
+        },
+        {
+          "title": "ホルムズ海峡での米・イラン攻撃を受け、原油価格が上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FSFlvdFM1VGdvaHR3ZUpTemU0Q24yQjVScWxfSXhoUTlOSU5zZTRWLTlDVTZRc1M3bVV2SUl0YzBnUVVRMXRSc0tYRk1EZlVjR1ZybkVrY3dDNmZLS1RwMzVBYWIyenZpNmFOcm5RSQ?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 01:30:00 GMT"
+        },
+        {
+          "title": "ホルムズ周辺、タンカー攻撃の応酬 サウジも被害 3カ月ぶり原油高 [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MVExoX1A0VzZfR0EwQURKWEQwQVE2SlpLTXNxNDNLRDZFT05HMEY4V3B1TDhoamItLVZlQkN2Y2pHVVpmMUNpalJDUFlxZS10bEFhUkNaeFlRZmMwUUd5YUtZa3BCc00?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 10:12:51 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "guerre Iran détroit Ormuz pétrole",
+      "items": [
+        {
+          "title": "Guerre au Moyen-Orient : l’Iran riposte dans le détroit d’Ormuz, le pétrole à plus de 100 dollars… Le point sur la nuit - Ouest-France",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdEhDS0VhU0ZvdHBlWjlrVG5hTHR0WFlWTHd3MG1zbzBpajZ3WG1nU2RNSGVkOWdiOTREMWxGSWxyTk5Hc1NDVC13MUZPTnQ1TkJlWHNkVGdNZVdKOEpVVDRTUlc3elI0d2NLSkR2WVRpYUFnY3lISTBKRGFLY2dKY3FBeE5XYURuamJ1cXVpMzdoUnVzUkZLblk1ZlFWXzJWcXg3SmxHMjVQMFVXX3pTaW1sOWNMa0FpNm0wR1F4aWlfYXQtVEs3SzIwTEVPNnRMZ0E5QTBadm15OEdwSHhMbUtZRGNYYW1tQzVNVVBSdEt6dEJ0N0NwUGxjWi00Ym14dl9nTnhwRzFiMDFXb1piZE53Y0FLRmJLZ3d6UjNNVWtaOUFm?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 04:49:45 GMT"
+        },
+        {
+          "title": "Détroit d’Ormuz : le retour de la « guerre des pétroliers » ? - l'Opinion",
+          "source": "l'Opinion",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0hCZlpnRTlEWHhJTGNHVFl2UjhzaVVuZWM0WUxpeDhnLTRBWmRXdWIzQUtidUJtS1RCcjlSQ0I1MXRRSXVEUzN1S2dSVVc2VUZmM3lPQkxuSVV6NVNUc193S2wyTE5YYkhDVHgyOTcxcDk4Sk5CcmRZSW5Ya1BxR2dadjlfYnZwTTBLeGRDcGYzVXYt?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:53:20 GMT"
+        },
+        {
+          "title": "Guerre en Iran : le secteur pétrolier bénéficie-t-il de la crise qui se prolonge dans le détroit d'Ormuz - franceinfo",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQY05pYWhfUFd0V1dwWGNPaW5XWmowaDdaRy1jNU5hSnBnRzF6dkVLZlNSVXdrUnc1M0JWa3R6Y2JkNGVDdUFlMFc4ZFl0dG9NanpIdjNLem81N04wbDJjUGp1VXd6LXp5bEc1NUEyck9SZl9oZXhYb0xvbDg2Vi10VUxoQmpzVi1qNm5SRkt6RDU0SHlJRHpvQnRlSldzbkJPQ215NzFvQ1Q2QThkU0FwQXlJb0JGUWhTeVF6Z3A5amdORkZjTVo3NmhkdlpsaFZIRmtkWlBWR1FkaGZXRFB3Vm9DN2tZNXJINDNRb2JxZ0ZPdDMzeUxOZ1ZQei1nU1NUc19aRnRJZGpJamJOYzN3?oc=5",
+          "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "« L’Iran est en train de perdre le contrôle du détroit d’Ormuz » - Le Point",
+          "source": "Le Point",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2tVOTlUbjlDQzRCYTdvdzB6ZkFMZHRVLXEyMUZ0RnJaOVlhZThpOXZtb3hRTTR1dXQ2TDFhaER4VlFZZGdSN2NDTHBPQWZzbmRPcFJ1VW5lRzl4NHFIR2F2NWozWFVmNHZGb0ZtYnRkSVNhR2dldGpXbHhWMU90MnFLOEg2OXB4dzRSNmhHcEJ5ZGNLdWdXcFlEVnFieFN6bkJLYTNveElpbGQ4WDM1Wld6QUdPZw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 15:00:00 GMT"
+        },
+        {
+          "title": "Le pétrole dépasse à nouveau 100 dollars le baril avec l'escalade États-Unis-Iran - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzN3Vzhxd1hsVGZWV0lJbmVta0NwY3EwcFlHa3pNUTR5Ui1helhvNHdsQVlMUzBDbkR5Vk1JQi02VUhhcTN0aVBWRzdqNkNrUWYwdWcwWUV1cndGSjRUam9RcVhLaGdMVENmVWJ5QU5scmRjOVItdmhtRzBZNGNVWnJ5Vi1xZzRCY2lyQlA2djdiUUktMU1DQzF1a0VWUmxmUkJoVnBEd2d6bE5CMTR0TXFBWU9aYXdoMGRJVW5fOWNnZw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:17:34 GMT"
+        },
+        {
+          "title": "Guerre en Iran : comment certains pétroliers arrivent à traverser « très discrètement » le détroit d’Ormuz - leparisien.fr",
+          "source": "leparisien.fr",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZER5a3pCWldWUVhkdmQ4M1Y3bTJkRGRZczlqcktSSUJWaHhhd0xvNUZVUXVkYVlrRWh2RmJUOWdYRXFsZ3JoalBWN01qWDlFTkJJT2NHRXRIb3IycU5oeEhtRktIcm54Nlc2aGJxSnhqQVFLM1RsNExPdW4yRzJwZGJkR2QydkIzYjZVVDNnSFNfTThvb2x1Ymt0RmNmLWt6QXh4anA3RjNjcE05cGZWUFQzWmJxbmRQV1BiV1E3TlNXNW9HQWlHUU4xcjRRWTVobXhnaS1HTDdCd0NzQldlTGRBaE1wSzlUNXNSVTUyNWJEcGxqNDJNWUFLeTJKSkNRRHRMYWxBdmZSNnhadjNvamdpMEQ?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks en baisse, raffineries à l’arrêt, détroit d’Ormuz fermé : le prix du carburant s’envole de nouveau à cause des guerres - lanouvellerepublique.fr",
+          "source": "lanouvellerepublique.fr",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS3FVMWYxa0Q2N0ZHWC1iNEprcTAzYVNMalY5V1IxUHlra3B3cTFOcGcyTjFjNnFtRjVKMk5QZjNlOUZ1ZjFGTVBGSkJ1aDlsbWtoSUtWVDJ4Q0oyNzk4dnRndU5DaGdTS0hROU9tRmgxUHVzM2EtamNya2VnYVRlbXNqcy1CVE8yaTB6RkN3TzNzOV91MGl6WWpud19sNWI1N1ZSZ2RIOWpteWVKa3NaemVCQW43aDh5MERHYy1UUTdXVE1DMFdUNElEd0NKY1NqRzFyTEdyQmZNNmZfd2pta3NfV0thT3FtcFlwM2xVaTVweEFKX1V6MXlSZFRJWExYWFVEUjF5ZnE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 17:10:51 GMT"
+        },
+        {
+          "title": "La guerre, nouvelle normalité du détroit d’Ormuz - Le Monde.fr",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2VVZTh2RG44bmtZeTdwZWd5RF9hMXRrbHkxa0t0RHhqSVNLcVRPREpYVllTdVNVOHYzeWFjYWljS00tSDlfT1NXX0VTYktIRVhSc0lBMHFnQmE0NktvdWZXTDF2SDFwX2k1Nm1Lc2FYTC00LURsMnRpVmJDaFhxb3hvVWZpSVV1Z0k5d1dUZzdZRFdFa1pUS3JyZENrWWg2ZHV1WUF5REZsYXU4Q1dETHllc21ob2YzQ0hjNmpmUQ?oc=5",
+          "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Pour contourner le blocage du détroit d’Ormuz, les États-Unis mènent une «opération secrète» pour transporter du pétrole - Le Figaro",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcDhhM281OW80dkNHRmo0VGZ4ZE5GR3pzV1l4SlRDaVE3anZzaTZZbjlHeks4a19WR2RfU0taRGUtNnR5TjFwZkNzbW93R08tMUE5bl8yMm9TUDVmTGhPSlBicV9GdmtzamdYQ2VlZzlVM3p6Wk56YWsxdVNrR09JLTQyM29oRExkUTJrdW05TEtnbzJPcy01MjVEaWZDNlg0SkFCbks1RVozdHRobTQ4eU5RdDh4VEg2YWhySzNKQTlFUVhOcHhTVEwxTGNwU3Y0dmxrUHZNZ2E4dHRTMk1NbEFReDMtd2g5RFlwcDNYMXM4WmVkVFJDNTB2ZzdjNl80ZFU4ZWdRQk8?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Conflit au Moyen-Orient | L’Iran dit avoir attaqué plus d’une dizaine de navires dans le golfe d’Oman - La Presse",
+          "source": "La Presse",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWEkwWHRVRndMSnN4bWdwbWx1OHJxNHR4QVdWOW5rY2RBV0RCTkduSkg5UHY4YXI3T2RZa1dKT1MydzVNRTZwdy1lU25UdGhsbXd0ZUlvLW5KRnkzQy01WngwckhTTEhYVlZXSHk3OEVsN3dNb2k5SGhMcDZyZWhhUzNscVNQVERHWTZoanFSaEFzWTktRTVCU1hjRmdVZGJ2bE0yS2kwbkp6OS1oYVpnSGs1TTZZQWdWXy1uUnFjeFZ3cldlRVp3dGo4QW1OZDlRcUdWQms5V0x4WGh3X1VkOVlnM3RVYkFhZmZQRU01S3c3bkJ6MFh0eg?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 12:23:20 GMT"
+        },
+        {
+          "title": "Détroit D'Ormuz : Les États-Unis Auraient Ouvert Un Corridor Secret Pour Acheminer Le Pétrole - i24NEWS",
+          "source": "i24NEWS",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM29EcVEyR0hoN1ZtZGxfQnI3S05ha2lQRWNSZE5kUUJaVXk3a1U0NW9IWEl4R3g3QWJQbnBObzExVlFkWEw3VGJaeXN4SUJrbGhFSG9YR1NVOENtMjRPWGgyUHdEZ2NZVWJldGMySmMyekRUbVNtV2hpeGtmdldGOVZDOVZ5blpQNHpvU1VtZkcxWkFCZ2NZR1VnZUc0ejRvNDk2Zk9KZzFrVEx6cThldVUxWDhSX2VmMExjSmtyRmhCV2taZUo4NTRTaFNqZ0lVaDJQRlhoWEg?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : quelle est cette stratégie qui permet à des pétroliers de traverser le détroit d'Ormuz malgré le blocus ? - CNews",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXgyRExBQ21EVmNlZWJvTVN2d0xDaXJwQUd6VXRPZXJQY21HV0FpY3g3eVhrVEtVcEdHTzNXbzZNNC1oRENyWE5PSWtSMUhjQWNkb3VoMHdDcjRyQmJncmZuN1E2WGlTeC1tWmlYYTlpcmR5TTdkb1dNbTAzbW9uTXZncWVNaGRudHZKVVg1ZkpuQURIZWR5dms0MEZURTllejhxSDJCVnBKNEo4bFBQS04tVGtOVjTSAbwBQVVfeXFMTVBWZVZQTm9NejR5OE5uWmtjQW54QzdCb0g0bHJEaEFZUm0zcWk3WFhnMU1GY0NDNDJkNVhrQTV4OGpORm1zaUN1TXNEMkNSbE13NE5jYUoyNnF6VmZiTENUSVByNGJpSGlvbUgxZFl0WEtpZ241ZE9Xd2RSdlRmUWlMalRnbU1UVGROdmp6ZVBoMUdPWFN5ZTJFQTVXY1luTkVlU3VPMm5DeHducTdFLS1kM3otYmtGWkpsWTk?oc=5",
+          "pubDate": "Sat, 22 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "Iran-Krieg Ölpreis Anstieg",
+      "items": [
+        {
+          "title": "Ölpreise steigen nach neuen Angriffen am Persischen Golf - wiwo.de",
+          "source": "wiwo.de",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE91RGFjYnRpSEFxcGF4X3hGcGpHMkxGZEEwTE80NzZON21jdTMyVGRDbFNzOUN1ZDhqRGJkRDJIZjJwUjZYdjdsQWxTeXlpUnVEVzRVbkdMVjFHRWNkdmloMHgyc0ZycFVOeEFKN0JtN2tCcExwUWhqX0dua1RKU2FudEFBU3JVR0xBQVdodEVOM3k0VXhzZldxRFJDX3JkRUdrYTE2VzI3a2ZyTVdnVEkzaEdiYi1SWVE?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "USA und Iran: Ölpreise steigen nach neuen Angriffen am Golf - DIE ZEIT",
+          "source": "DIE ZEIT",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzExNFloXzljYk5LbFJyLWl5N1Z5ZUxkVEhibS1nSTFodjVxa3MwSDlyUUtub2tMb01MRFZEVHJBM2l3UjVnZF8wWVZCMmxKc1BsaUM0MEF5OENGTXlIcEFkOHZXZlJ4MEplbmFaVHVGRTBjSzk5VGZkRF9NSGlzYXhXd1hObDQ4MWFKYnIwbjE3RU1fajBsWQ?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Kräftiger Anstieg beim Ölpreis: Neue Spannungen im Iran-Konflikt setzen Wall Street zu - n-tv.de",
+          "source": "n-tv.de",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjBqMGdVckpMQldabmxXZ09JbnlKeVVXQUF4N0JfdXRLNHRyc1lTRlM2dGh6TlEyNDJzWnYyMEVBUURwUndkR1M2VzRkWjMxLWxMNmxIajZlWGtFMWhVWkpjS1NCVm9kc1JzT29NTjA1WlFnVHJjRXVNeGlVTnJsU09KYkZnaUg1RVdhV1l4M0FPdHlFU2lEcHBIbksxUFRfb0I4?oc=5",
+          "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Irankrieg: Exxon-Gewinn mehr als verdoppelt durch hohen Ölpreis - manager-magazin.de",
+          "source": "manager-magazin.de",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVDhJSzNlVWE5blhoSERqMUd2QktPUHpvS0lSOGFqQmlqRTYyTmVySi15djhhQkhLYUR2WXEzVExBN2x1eHctWHJSQk9CcUFOcldYR3FUeXFkSFJLSmVXRWhsTUlDZXZZdS1CZnFTZFNpZXVOMmgzdlRXWFcydnlFRENpOGtVaW9GT0c4NTNvQkM4NGc0OTcyLXJIOXUzMDR2NEdhaG56ejYwM0szbURRbm15c0NOUXRmX1lVSDBELUgzYldPZ21NZ1FCbmVwRFpQeU5OVFV4X0NnbEJ6RGtnc1lBSFk3eE9xeFU0?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreis steigt kräftig – Trump über „Wirtschaftskrieg und Isolation in beispiellosem Ausmaß“ - finanzmarktwelt.de",
+          "source": "finanzmarktwelt.de",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkxsdHhyRGNLa0RiUmppNVlhTE9iU0RpUVVPcGRKM3FwcjlLRVhCSjRvb1hVcnVGMDJMTnFia0lYYkJ1MTJDTG9oNFVGRk51UXJiWlhsd0hTQi1NR1BjMjROcnRXZjFqRVR3cTZXeXRmcGE5NjByTFNsOEhlX3FzM2lkbzZmcFF3NXh3cEU0T2w3aExR0gGaAUFVX3lxTE4yRFcydjcwel9VZWdrNE0yODltUVUwU0lKNWVuY2diaklvd1hUSnktU09zNGZOT0g0SFg5NVJDbGxmc2JwenVzQURua1RWNnB6bEhTbWk2bHRXU0tuLXUyRHg1WW9jUUQycDNzUEQ2ZHNtUmNiaEdCMllsUTRuMHpoWF9CLVVuQ1RLdjZ2QVVsTTh3bGVLRnh1Nnc?oc=5",
+          "pubDate": "Thu, 20 Aug 2026 13:57:30 GMT"
+        },
+        {
+          "title": "Ölpreis aktuell: Ölpreise geben zum Wochenstart nach - wiwo.de",
+          "source": "wiwo.de",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXNrQjRWYjlGN1lpMEEtV09HTHlqVFpvSXItQ1FPOWNWQWUxdjQxTGJYQUszU2dhYUpSZGcwZ1Z3ZEZkR2o5bzFBczlvcEZUUUVmeVp6bXluczV0M3cwWEdNU2hIc3o2OEFTS3JqMy1kZ0pGSzFkaHNYOXRGUTNsejg0TUlwVk5uWWpQNW5HYXNkWXRsZlV0ZDZfbEN5dw?oc=5",
+          "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Ölpreis trotz Hormus-Krise: Warum er nicht auf 200 Dollar stieg - Berliner Zeitung",
+          "source": "Berliner Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS25Sa1NueEJXZDh2dlJ2VEpCWGUyWTJtSl9OTXBWRHROUkJLOEV5Mks3N0l3YTZzX2M1Qm5FUHV3dl9GVDNRRk1uZjJfX003OXgwbGtaYXNrejRTeW14Q1FEOEFlWWk1amtyU3haMjNkUlZyY3IxaGw1SmVLV1dOZnptdGpPMVE3a0J4ZHhtdXFJd29ENENqVw?oc=5",
+          "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "DAX-FLASH: Schwach erwartet - Ölpreisanstieg wegen Iran-Krieg, Verluste in Asien - boerse.de - boerse.de",
+          "source": "boerse.de",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTI5QmN2eDlrMHAwaEg1R0NSMEtXdFFubGhNZXZLVDREVkJZajNxdkt2ekVFbVVzS0Zsa3FqWnRXdFJnLWRjSXVOM0VPQU9VWkNpd19CUXFVNi1mRHU2ekZxQ1ZOZXBvLTRvRlM5OU5fOUszNVI4NTdYQzIweXdvWDZPS3ZjNGNkcGJENm1OazhpVDlwbTZNTm1LOE1vb2lCcGt0RFdQcER0QnZhSFNQU2lHdmw3RWxWR1BSV9IBwgFBVV95cUxNcTJ4MUE1VE9hNklOaUxEX242dXdEY0xNR2t6UnRIQWt6dkJLcll4eFk1bWpxNGtWMjZiR2o5SWRLbXI2V1FLb1p0Q2pNRnFEUERBdUoySkRkTmRva2hFUWl5SkJydDlpa18zWC0xcDB2c1NSR29HWVZGY3N6MmlCVTBabEYwMjZjeXFra1hORm1MSzdSdExwZmNfMGEzNlltdDBvTHN0VEFUWldpTGVpU05VaWYzcDdxendJRjUzV0Fvdw?oc=5",
+          "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump sorgt für starken Ölpreisanstieg und Verluste an den Aktienmärkten - Börsen-Zeitung",
+          "source": "Börsen-Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPendOXzdXb1FoUmtaVXhmRmgyOWRMb0xsMzZXaVZOX2ZDMEVQRndUUEZwX2VnU0VUQVZzcGdmNWFwdTdubmVubG9EYmY2QmVEemYtdVNLalNvSzV0Nm1JV2NzTzFEcms2MzVtdk9MbzNfUV8yLTBDcGstV19KRDV5WDN5cDYxaUhPZW9uRldCWEt6b0h5Y1Zndm5wVi1Nc1A2djZwRTlhWTRQVVJSVWM0ZHRpMXE3V1kxNDdjT1JB?oc=5",
+          "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Iran-Krieg: Ölpreis steigt auf höchsten Stand seit Juni - Watson",
+          "source": "Watson",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2FmanhwclRCRkk3bFFlb2x6ZGlqTVlaSTRSalpxMXozSlNZakljMEdqYVQ0b0lkZ1BzWlIyTEg3cHhVY3ZnX3FmcDJCMG5UejBJS3FfUno2SnNZMVVqcVBUVzFDakpHd2NQWnpYSVp1S0QtcDlXRWtyNGJhR0dPYmlqbUk3d3kxMHR3eXM0THNEaVYyOTdaSjNEV3BiYXZBSlpRUVlqWHVTUXE1VkNwdlBoSQ?oc=5",
+          "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Nach erneuten Eskalation im Nahen Osten: Ölpreise geben etwas nach - Finanzen.net",
+          "source": "Finanzen.net",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWNqN2FVTjdYM1M0M2xtbndQN2g0NjV5QjdMWWtPR1FrRFRzWHFsLWcwa0ctTndZeUJldWxiSi1rNXAzaW5IV0REQkxwbGQ3OGV6TmVOZGt5WUM0aEZwQjZWdjlYU2d3Q0ExRDJCNk9IY3gycGlTdkFuVTZ0NmZydnphRG11RU52QUh2aFpoMXF2amppZkFIeGhZbEc4RFk2ZWR3ZkZHMG5ETzBPbUZxeU5aMTBvX1hYeU9RTGQwcDJ2UVF6ZXIwWndsYXg0YTZjZG1RRktIOA?oc=5",
+          "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Mysterium Ölpreis: Wo bleibt der ganz große Preis-Schock? - Capital.de",
+          "source": "Capital.de",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclNiRUxoSTg5cXh0Sl9RaXZGcURnMVRoMkhEVmFrWDBLR3BxNnRTd0RsTkxHNjJ3VnhjbWRocV93eXpjYUMtSkhLV2owZWVDMklWdEtvUVdxYkJUYUczcUpnbGJMT0J4RXZ6SkRlNXVkXzI4Znp4dnh2SVhpd2UtYWZyM01ST2piQnY5OGR0eENGUVJ3Q1FYUk44V1ZLYkRPV19adlZoZWhCT3Z6M2k4VHhLOGNpUQ?oc=5",
+          "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "petróleo Irã estreito Bab el-Mandeb",
+      "items": [
+        {
+          "title": "Petróleo dispara: por que o estreito de Bab el-Mandeb é tão importante para o setor? - O GLOBO",
+          "source": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR3BfM1VBaUgweFRjcm9EcTkxcVNiYmNJaHVHVXVWeFVpdHlGaU5GWTZicVFpUW9HNjFITk1PVmMtNG1GbmdlaS1UbTBiblNiaENiRHRrRUo1eUJSdzhGSklXdVRLbWNSR0pWUzM5UkpmbjJMbmd0VE0teWtUVkxFLVpWSFNmME5IaFg3WWo5ZEVDdWFvdllkWHFuX1c2ZlRJU3VzSmFGLVBJcXFhdFB3OFdzLWRHM2xneGJUM3N5RmxhZHVUWXBzbHd0MDg0QUY5RnB1Q0k1aHrSAecBQVVfeXFMTzNLa0JQdGFuTGNfTjBadU12YTlqcDczbk5xWE5sZTlxeHpTS3pZcHFxdkVQNDdMQnlpRy00YjFpSXBveTFIalFEdEd6a09VMGwwcG1vdFBlMUU1OFhQRGdkU2tJUTdNOFlORjRPeUlraVdlRlFkWWVzRGZhdWN6N25RM3RMQ1NVc3gwUTdzNnZ2TTd2cGZpZkxQMDI1V1h5cTBBcG51Z0FpeDhTTUFCRWpzZlBKT0wxREJvSWJnRG11NW4zTXEwVkJ3cktNd2lxVmkxN3pUWld2Zk1IRGF4TWVzbC1XbjJV?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 23:03:56 GMT"
+        },
+        {
+          "title": "Houthis avançam no Iêmen e ameaçam rota do petróleo saudita no Mar Vermelho - Brasil 247",
+          "source": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMk1kQ3hVdEtNT2djbG5PanB6VlE5TWQ5R0JVSmlOYXNwak1JSG5VdXo2eHdEaE9SeEwyd3dhWTNZUjBJX2lucnhRN0ZtZUlCRGFfVVM3amZ3d19ULTU3cHhXZnZrcUt4T2dwYmd0a0JqMGpjb3h4V0xvdmRuMU5oSWlUbXFFVkluRFJFRXVNeTlPR1FQZXNqdVBSNWU3MXkzZkswbjhNVjcxbFhG?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 17:55:00 GMT"
+        },
+        {
+          "title": "Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal - valor.globo.com",
+          "source": "valor.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2V4UVd6LU92bkMyMTdwdVVFVWU2eDZGNjR4Um5lT3lsSUNfa3N1ZWpVNnVyQTI5RmtYOE1ISUVjUTFKejdNR1pBUzVVd2NhYkVISUpkZFpUeEs4Y0Robkt4eG9FQTlzVnhLSlRpSHZnMEpyVkxLM255S2p4RlBrem15MGVodnRsQ1VzLWRWY0w2ancxYW9vWDFBTlR5TzgwTTI4N09iZFFNZFNTOS1nVEZLRzhCQlZvR2NIUDUxenZ2MzVhdWs5cnFDNUhmU2I3blIta1EybzFpakhqZlNkdFBFREtjd9IB5gFBVV95cUxNN2V4UVd6LU92bkMyMTdwdVVFVWU2eDZGNjR4Um5lT3lsSUNfa3N1ZWpVNnVyQTI5RmtYOE1ISUVjUTFKejdNR1pBUzVVd2NhYkVISUpkZFpUeEs4Y0Robkt4eG9FQTlzVnhLSlRpSHZnMEpyVkxLM255S2p4RlBrem15MGVodnRsQ1VzLWRWY0w2ancxYW9vWDFBTlR5TzgwTTI4N09iZFFNZFNTOS1nVEZLRzhCQlZvR2NIUDUxenZ2MzVhdWs5cnFDNUhmU2I3blIta1EybzFpakhqZlNkdFBFREtjdw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:16:01 GMT"
+        },
+        {
+          "title": "O que acontece se os estreitos de Ormuz e Bab el-Mandeb forem fechados? - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazRnTlAxOGtpY0V5b3ZRemw5Sm1RbE9qaVEtelRjV1lrM19jUzN6S1N1UXJNRUpJZVZvT1o2Y2F0MU5TN2ZCNnNVTW55UkhNNXU5QUVVeUN1cG85NTUyRUl2czRxaHJsNE9VWmcyQXo5M3pDM0RXT1l4c3phR3JIbGdxd2NIUWw4SW5PbGpXczk3S3lKa3dnc3JNaVNPWlV5ZzNqTkNPeVJMaGltM3E3a054Y0I?oc=5",
+          "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Estreito de Ormuz? O problema para o preço do petróleo agora é outro - VEJA",
+          "source": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXlGT2c4c19hUGJXaXdLLWxtSkttVzBpUnBRQ3JPUlJMN1YtZE9lbF81QXZYcUlxSVJfYVd3NmhnWTJoQmpnQUR0MzJaVHhiZTFUMDJ5YjRkbjZaWEpmT3k5U3VlbkVraVdkVm5LRUI1LXloMmVqNGEzQXRSaWk2R1RoVzNIcWdnWkVXcWtBWkhmeXBnSFZHMGl4UUpveTU1QXhCM1lfalotb3pna1Uzb0lWT2I?oc=5",
+          "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Houthis fecham estreito de Bab el-Mandeb em bloqueio à Arábia Saudita - Agência Brasil",
+          "source": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVlRRy10b2lUOFZJT3BwUWs4NUw4dE1NOHAwUFozZEZreVhDRzhpWHNDT3VfUDlOUWEwcUpnelZfWTZZUUY4WW5fVU9fMHVsS0tmLTFMODg5aDdRMF9Lak5jajlhaXpwMTM4RVRPV2NrRE9oMnRFa3pYOTB3Zm9td25IdVFQM3FmMlFJSDloUTlPeVZtSEM1LVFmSVJzZGk5YmhGYXQ2d01fUWtqS3NIMktuVDhrMy1NWEU5UzQ2eTRJRzVMWXhMSnln?oc=5",
+          "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Preço do petróleo sobe após Irã anunciar que interceptou navios no Estreito de Ormuz - InfoMoney",
+          "source": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmVFX3ZibmJvNHZ2QXBVblFnMHRyUU92bXpqMWczZTZSNjJ1Nm9MNnhnYVpIS3puVl8xek0xUlZpVFB5RXZ6SDY1RzFlMnhHeDNLNFhyTl9nLWxPZlVnNkw3VVJvdExFSVRIcE43a2p0OGZqRWxVVUpVblh4LXlxaHZWZGlrTUg0NlB4UU5Id3BscTdCTTlFYThNcS14a0NUUi03VjJfd3FMVDFTbTZncVVQTm1PUlJwS05SUnF4T1jSAcYBQVVfeXFMTzZUZFpWOXR3R2RqNk9KZU5qY1lrZGZUQ3pfUy1yRDdWTjVYNFBPcGtfdGhMYWRNRnhZOXdoMjhIRFhvUUNVamJuZDFOeDlsR2pkR3BBOS1DMmtCUDZ1eExyX1NpX2VTT0hvV1hWelpHMlJLaTJNdDg2WXRmOUJKQU5INEhGSFFqeml4aHlhU21vaEZJakpWOTQ0dHpmMk5EMnBqTmtSZFBXNlZWXzJwM0VoVFV6TXgzNkxVZ2NhTWxHNXJ4M0dn?oc=5",
+          "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Nova frente de guerra no Oriente Médio ameaça ainda mais exportações de petróleo - Agência eixos",
+          "source": "Agência eixos",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQW81bDljdGtTMzdyWU0wU0dMcG5NQ2Y1MTJ2Z3d0NzhvV2tndnQ4dlljQ1VTT0NXSDVQZXpXR2RpLWE1TjZheTh4WGE1VjhONXBUcV85dXEwWFRwUEpJRk5jdGhubjIwcTY5dEFZTHFsSFZENTc4VUFBMFJhVFZ6UmVmVG1VV0N5SUZfWER3RWxxNFRFbWkwMEJ5V2gyay14Y20tTlEtZWtLazhSOXhBRGNKaVYzWE1mT2dPaWFUdmNWajNycGpuWQ?oc=5",
+          "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Petróleo tem leve alta com exigências do Irã para reabrir Estreito de Ormuz - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkZacFotOER5TF9OT3hEUzVnN2xLbXpCb19EQ1lCNnhYZFNMQmJKSU1PdnpKM2tyYXFTNXZNR3I1RFZQdlhPZTZEbUU3UzNlUk1oeF9IdmNnVnlkWVhxOXRqNUxzTlRFRnBOUElSX3lGSEJBVGRQSWVzOVpEcU0zWWhkS3J4T3pnVWVNc0ZhM2tXbS1rR1dHcHM3Zl94OFQwaTlMNFNqM0ZndllFWVNPU2ZuUWp0MnZnUExILTVwNXFCeDRPQUhF?oc=5",
+          "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Houthis avançam para controlar estratégico Estreito de Bab el-Mandeb, no Mar Vermelho - valor.globo.com",
+          "source": "valor.globo.com",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRVZ3T3d5LS1YRzFMWDVaMk5EX2hOaWdPQ1pWU0hKLU9kWVdzZjhMSDJxV3BUeGVYTUR3b0NHYl9ZcVJURERYSzRuNGZkRVVOR2dvTVZvWXIyV1kyME05dmhDeGZoNWFnOWpGNTlxeDBJN09DZXk4cWhNNzRRM1FZSElmN2JacTE2YS1BRTJPYW02b21wVVR5R0hua3VoME5saktYZHNCbFlZSEdLZjFfRFktRkRBdjd2UXFsRnhYcGUxVTUxZ0JkYVFWR3lScHZVVGQ5bTJNWGVuUnZSeXZxeEF30gHiAUFVX3lxTE1FVndPd3ktLVhHMUxYNVoyTkRfaE5pZ09DWlZTSEotT2RZV3NmOExIMnFXcFR4ZVhNRHdvQ0diX1lxUlRERFhLNG40ZmRFVU5HZ29NVm9ZcjJXWTIwTTl2aEN4Zmg1YWc5akY1OXF4MEk3T0NleThxaE03NFEzUVlISWY3YlpxMTZhLUFFMk9hbTZvbXBVVHlHSG5rdWgwTmxqS1hkc0JsWVlIR0tmMV9EWS1GREF2N3ZRcWxGeFhwZTFVNTFnQmRhUVZHeVJwdlVUZDltMk1YZW5SdlJ5dnF4QXc?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:38:40 GMT"
+        },
+        {
+          "title": "Preço do petróleo supera os US$ 100 após ataques no Mar Vermelho - Agência Brasil",
+          "source": "Agência Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRldIYmpEQTFqS05LOHpJc2R4UHZCZ3ItMXpoTUdKR3pkbUxhTDltcjZMYnZUQUVtM0tpRHlrZWR6bllxWlVWdVV4c1RWaFptQjdWQXBTTmotdzJPeEg0NE9Qb2pnV25uaVlncVN2X1p6MXVMVEpoTkpZMDVSNWtyamNBZTk5RlRxa2xEYl9PYXhtMTRJVHdVX0dRZ3RFdllVeHRFZ3AzU3dGUVpmejZocHc5VEZLRVVyT3NqRVdTUGJQczF2?oc=5",
+          "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Petróleo recua levemente enquanto Irã ameaça interromper fluxo em Ormuz - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2pfYmd3UHFGQi1MYXo1NnE0S3l2UWRaWEU1MURVSmg1VnVXUlB3RDlRX0FKV0dsY25GYmpXTkgtSG1PVTRzQlFFVUg4RWdnZzROT0NTVmMtOWVpVlpQUURWcm1ZVlJUZW5zaUdyNlgxemRqdUhva285bkQydHVQTkRUWVVYWk1pUHNseHBGRnQ4Sldub01nVjc5aXJhNEE0aG9vcmFxWGlnWEc4VDhqRlZuVnhvVWMyTm1GcUhSeTc5SkVZQUhJeE1n?oc=5",
+          "pubDate": "Sun, 23 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "Иран нефть 100 долларов баррель",
+      "items": [
+        {
+          "title": "Котировки нефти Brent продолжают расти – после достижения уровня 100 долларов за баррель - Крым.Реалии",
+          "source": "Крым.Реалии",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDVRQ1g5MEw3b0dHZjJpNHl3NXNxR2JlaFlpVnNoU1djbXFVMnB1eHlqSlBmMFRlOG05REhvN2dPd2J1Z19PWC02VXE3TlRkb1VCdnhqRFM2VHhRdVpsZUVxRGg1MG1aX09tTkxmdVVkcjJfcWNsVUFzVU1wTWhjRFU1V2QtcGJp0gGLAUFVX3lxTE5EdkVrR1dEOWpiY1BxekhwWmpiZU1PcWJ2RnBfb3hiWF8yTHZuX09QMnd1V1FhV3hTNTB5YS1ZdWIzSFN1WWJ4MHk1TjN6NTVWMDk2T3VINEpRbUk0b2E2SC1WTlNpbHZuLUZFaTlMZUFEYXdMSmJpOHItV3k5NHZCbUZweFpDMGVTN2c?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:16:32 GMT"
+        },
+        {
+          "title": "Цена нефти впервые с июля превысила 100 долларов за баррель - dw.com",
+          "source": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlNWVmNhanEtaVdaS3g0SndQOENXZ0MzcEYxT2MxeTZCR0ZPclVhOXctU1dTbjdhMktGWHdyMFowdFZDV0xEbnk0M3REWV9SRi0wTmg5UjNIU2hfTk9uYWp4UzZpeW1GRk9JUXNUcHVnQWZmT0RDSk9EVFNyTXJHSXhlZExtbUVuUWJqMG1ITlhnTkc4b043WdIBmAFBVV95cUxPd2FYYmNqNmc5eXZFcm9fTHVMNDZ5dDFuaU9acGp2V0E5RXM2MzljV3lqUzQ5bnNVYXZEbzJMcVNVQ1lHcF93bXRWQm5jNFlDMlR6am5XNzZRdlZCaW5CT3U3UkF0aHR0cDZESjVHazJNZW1EMG9yenNjeDA5cU9pT084dWFEdDBVUEd1cWNjeVdCcjlqSEx0aQ?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 13:30:54 GMT"
+        },
+        {
+          "title": "Цена на нефть марки Brent превысила 100 долларов на фоне эскалации конфликта в Персидском заливе - Smart-Lab",
+          "source": "Smart-Lab",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kdHNWYnlzVGZKYTBoSmdMT0lvUEFieTdFMkZRcEpIRExKVzhDZ1JHVFJ0bWtydE1xZWR5VXQtNW91dVBTMFI5dmVPdC1Xdw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 09:39:38 GMT"
+        },
+        {
+          "title": "Возможности для дальнейшего падения цен на нефть сокращаются из-за перебоев с поставками из Ближнего Востока. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2c0d3FYS2pmWGwxV0lJLXFQb0t3eG1UaURzU3o5Z1JKeTQ3RzZRV3BlQlFfZU5JT2dkdUZ0OGc3eDhIR2VLTUNDTjI2eFd1bThiTHRYYmJzcDc2emNjclJrV0J2M2NRZHdLMV9WLVJ1d2pJZDR5YTVoMVJsY19PcHoyWjlndE5jUkhNRXNLMDU2SkIwdnNmc2IwcW55dGJI?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 08:25:31 GMT"
+        },
+        {
+          "title": "Цена нефти марки Brent уже выше $100: сколько теперь стоит \"черное золото\" - УНИАН",
+          "source": "УНИАН",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYjBmWnlET19OdzEtbmxsQmQ4SFU1NGxXTU9NMXhZbGR5TU5fUkxKa29VNDltTDV0S0RQTzVjeXpjemF5NWR4QXVfaVNybVlKTVo0dkRRbHRWTTMtMzd4M09zUzJMemVlOFIxc0NJVlB4M1p2U1djd2JlVDRKZkVzbmJfVWMxNENJOF90YUIxanM5RldnOVhDSXh3YVdONjlGbVZrc3kwZGRUS18ycWxXSElTZWJLcG9waTdwMUgyX1FEVjFPWWlQMGZmbGwzTjDSAesBQVVfeXFMT3VFOGhFTldaV1B2bnA4b0dUM2Z4YXBwNFY4Q2JFYTZ4QlR2NzJPVGVyaWJMTEZzdlY4RTloM01FLWh0UXlwdFZpczdOMjM1Zm1SVWtBSXQxZVZRWnEwTWh4VGhqcHJiSERKTVM0UTVPMGVJN0ZFSnp6djJpVnhNaGpzQlVwYUpqd1BWMzVPaGRMdTM5V25KMDRBeWNkaTFhSy1EOEJSb216VTdvMXdfY2NEd0g2SC1wSXhnQjJVcjR6Qk1NRC1CWWFfZXBXWGFZWDl1MFBjQ0pNUGVHaTFRZWNXR2xmaEFzdU1Jdw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 07:02:51 GMT"
+        },
+        {
+          "title": "Цена на нефть снова превысила 100 долларов - NUR.KZ",
+          "source": "NUR.KZ",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVZCSXdNemdiZUdsMjQzUHNjZk13UEpGTFo5bjVuZWM5c1pTcnIwQ3BZMDB1U3l6dThRVXJGNFFMT0RQbTZtVkt4aDA0eWhrQ0Z6NFR2OGZZM2JPNXhKYmhtWjhkMC1qblNDMEN1Q1Q3YkJ2WFBpOVFEdjhLd0R5LTl1Y0tpZTZuOUE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 07:55:22 GMT"
+        },
+        {
+          "title": "Цена на нефть превысила отметку в 100 долларов - Korrespondent.net",
+          "source": "Korrespondent.net",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG15TXB6MlVVSnVVdkJzYUlGUVBQZi1lUWxDdnVJbGF5QVR5ZEJZQTJ1b2M1cXgzOWRwbXdESDRiQXM4cWI2OWtBS3VyQ0tmcmppQ2Uxa3dnejVyVTJEU0xFbjdxekluazFqc0pXTlBudHU0QXIwUkVleGhDWHBrVS12R2F0dm5TbmZiTjVqSHZpN1l1clNNZkFfUzd4TTk30gGMAUFVX3lxTE5GWnNNVHNYOTFzVktFaTBJamFKaUZ5RG9LM1NxdXBDUnFuWEoxUGlYYWZxX29HN25ha2x2MHV0QmtRYlZpNnhWcWZuMy1kS1JLMEpFa09JazlPZDRvVGkyN3J6aUZpTnJXYVJnQWdWUUFsemo2ZU9qekY0WFl0SjhaUVNsUEYyVl9CY0hE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 07:59:00 GMT"
+        },
+        {
+          "title": "Исламская республика наносит ответный удар, загнав нефть обратно выше 100 долларов за баррель - ProFinance",
+          "source": "ProFinance",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0VfR2JNTnI4NHg3UWRYeHNFVUs3N21mM1Q2RVlMdzZfUXFPOWRDb0dhWlhBTEU5YXQwQWhVTkdiMDdOdFRvMVpfclRnVXl3Y3ZTM0ZsTF9iQmpBb1hXZ0djR2hPamZKbjlLYm5ia05BZk1XaXA1Q3psZThzU0h1blJnMWxKQ1hUcjVabmVUbHh5UExEMUtsanhzcExLejgxeEdHYmdwemxCMTBkbFJuZ0dnOHRhVVNYdURqNkJwMllEZFVoZjAzYzc4emp1Zw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:06:53 GMT"
+        },
+        {
+          "title": "Цена нефти преодолела психологический рубеж в 100 долларов за баррель — рынки встревожены - rus.delfi.lv",
+          "source": "rus.delfi.lv",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVzVieFNJdUhVXzlJSjdEaXhxbnU5OEpJSFkzZkMxU1hLdVRQZlczVUpsbmZMa2FUaWVhcWJQc2JYU09LZmpPdUdQaENnVjAxeHZmVEtfTHdWMFBGbVh5WFNjZzNDdjlTZ0NRUmFQaTRvSGo4N0o5eFZOSzBjVkEyUlFma2NlZlJaYlhtdUxtZVhGbWtnalNtYkNZSVZOeUptYWlqTmJtM3ZUMEw5SUpkYjBPTmg1ZGVKaVFDYUllSkJCc2lRT3RxMjJvT0JDd0wyc2dJalhndmN2QzVv?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 07:25:46 GMT"
+        },
+        {
+          "title": "Цена на нефть перешагнула отметку в $100. Атаки Ирана и США усилили угрозу перебоев с поставками - NV Бизнес",
+          "source": "NV Бизнес",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUNvY0ZKeWliZXRvejlBaTBKWC02SXRiTXJxS1ByMTY3VkpRSS1OQ290VUdXNGZhZm5NaXFNdnJUY3JBQmw3ak1OdDgxWEpRSDNmRVlZM2xWVEJ6UkJlOC1oT013UHkyd3RyTjZ6ZlVBQXlJb3VHSnRUSjJjLXJjU3pwQkx2TUdKUmRIUUdaQ0RBWldiODVoQVNrVnROTFVwanlYTjNzVV82cWRxSlJod05rampISGtuYjJBNjJPbkZZZ3gyRVFqR9IBwwFBVV95cUxQVU41MjRPYnR2ZV8yLUJYcG5HMFJJTFJuZ2oxTGktTEhpekdkcmF6MWxKTDVMM1cxZ2ZXVTZBZFRPaktzQ0VqaEZDRGxOSzFMcFpKSks0VXM2RmxfdUEyODNEUGFZWUtMNjRncjFsSDMyX1JfYU5VWlZNLTVNZXo1Y1MxNWd2RmJFWTMwa3RpaExSVGhVTWdpNXdBMzFEOTJZU1JMeEtOX1RKcVpPMWJPclpfVzM3VFpubjhSUkJXeF9hZm8?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 06:49:00 GMT"
+        },
+        {
+          "title": "Нефть Brent подорожала до 100 долларов за баррель на фоне эскалации конфликта на Ближнем Востоке - Портал РЕПОСТ",
+          "source": "Портал РЕПОСТ",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGJ4cVRfQ3RiLUt6Y0pET3hUa3pqMFpvQklldm9pT1N1aWo2OUFfOFBjRjd2NU9uMWM1SGtTTVNocDlPdDZpc3RySkc3VE45Z09RazRLUE90UkdQbTVMM0o5UFVCeXBidTc5UjJ5MEc0VS1Ib002Z3pMaHlMekNDWU9YbU8xWThtS0VTb0t1a2FJcmVxMzYyWnI2YlZMZXpLWVhhTGIyc3l3MHlzc3VYY3NvN1M0LVRSZ3JQNGpSTG5Od2tESm9ZVg?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 10:04:02 GMT"
+        },
+        {
+          "title": "Нефть снова приближается к отметке в 100 долларов за баррель - Економічна правда",
+          "source": "Економічна правда",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXg0ckNseVZfSUhpcU1ZNTZ6UzN3ZENMektEMlpueHhXcGgyQ3Zqd1FGeUVib2lQeTdWZGFoTkF2Y3pGX2hUVDA4RFE4cWU3aXBqZGVyei1jdVNkTDZKdk5KeVJramtUNHBTeHp0cnRSWi10ZDVMaFZRV196M1R6eU5JU3VraS1pbl9wUGdNT1VEcUJEUHhDONIBpAFBVV95cUxOMWI5RzRWSXgyZ2syNl9XaDd5ZTZoZTlYajh3OWN1ckk4MUVRek4wUWxEUEZaQWdHSTYzWDBZRUNuNkM5T19xM3dlbVVENUN6dmxkcEcwdU5BMUMzNDAzckM3bnVLdUhnVzd4MG9TRW5Sd04yeVlEM1B0V2J5aUFwbDFWc19rQnFmNm5uRXM3eEtGazlFQXlmNldNaGNKZFNQc0JqZg?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 09:34:00 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "الحرب مع إيران أسعار النفط هرمز",
+      "items": [
+        {
+          "title": "الولايات المتحدة ستفرض يوم الاثنين عقوبات على بنك \"كبير\" ضمن الضغوط الاقتصادية على طهران - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwU1lOa1pRQTk4bFlRLXlFU2I4ejJMQ3lqMlh1X1lCOEhYNXNmcmh5T01BbERwZWREdnJDU20xbnV4ZlNvdHcwU1RaRGRfeXdkWUJCZFl4Q1pWSXBx0gFiQVVfeXFMUFZxcVRrZnZZSTJxY0kxZ3c2SU16eUg0NVR2MERxaXFOdElGUmNpT3RzM3E3V01fYVFacEVVbDhWN3htcTdVeGdhOExBdWkwa0ZiazJYOTNKa29oYnZGY0RiM3c?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 00:37:40 GMT"
+        },
+        {
+          "title": "النفط فوق 107 دولارات مع تصاعد الحرب - الجزيرة نت",
+          "source": "الجزيرة نت",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRjZLMEs5ZlBNeG5YWXBCeGJZWlZobFZ5UEctV3pJb0FDNHUxNmdsc3VKdUtBX2o2bDJCLU81NkhMVUZzYnpFdi1acm5BZFZOR3dFX21kbWpaQUJmSjJwLXVtemdYZWJ0SS1IQWItTVNxMENv0gF6QVVfeXFMTnVSanZMeXg2R0NsOVRlSldEQnpTVWhTVldoSklZQ3ZzMXhhdUZsMy02MTdacE1adm0ycUQzb3d1VXg0SGJYRndqYlFub1dPeE5SZXN6LXVvR21LREhGd0JuY0FVSmxDUk1yQ245bGMweU82Rl9ydWhwUFE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 18:01:23 GMT"
+        },
+        {
+          "title": "انفجارات في سواحل إيران الجنوبية.. الحرس الثورى: مستعدون للانتشار السريع وترامب يهدد مجددًا بضرب جبل الفأس.. ويؤكد: الحرب ستنتهي بعد \"الانتخابات النصفية\".. ويقترح اسم مضيق ترامب بدلا من هرمز - اليوم السابع",
+          "source": "اليوم السابع",
+          "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQTGlpclBGNGYyRGUyN25sbjFQMjcyRkZHVFBKM1RvRHl5OHBZUlllbXJGcnp0VjBfdWhLdXk1eElCV0RsdGQzcXRDOGUtLTNKc1FIVHFSbWs0OFljbnpZcllCb0hYMGs3dUN3RWRDbWFTbXB5VkV3aFlaa3RueXJSLXhQRWl1dHBHM2l6cm5tOEE2M21rUnpWeW1Bajcyem8wT2dUVnBZNzd1X0doTUt6a2VCRmFzUjB1eldiU1NWOThXZE9CczZqRDV4VXVfaTM0VlZnR0ZjYWM2SGJvQ0RnUTJNSU1Iak5zdXV6S2JkUTV6cl9RRkNfT3NaZUhJaTFnckpTVkx5RkY2RU10d19rVElmOXdOdHZoWmJMWFg0T3V3UVBYN09UWm9FbGJfS3ljWTZROTh6eE9qNWwwVHlFUTZ2Wkx0bElXSXhoQnhMNWljczUtRGljazVBdkFVS29QWDFaWDh2S2V3SW5UaklsaWpmMDQ1bUNMclEyRTdHTWk3QUNFcDRXc0tFaW5ZM0xLcEQ1cVI2RG54eVgzYjAxMFlQdmY2TnNnV3MyU0JaS0ZVbkV1dlNRcDdGTUtfa1FLR3ZHTTZIa0dLN0RESkZCVWpETi1OYzRYT19LbE5kTG5sRWdUaF91ZkxqVUhnRHVBR3lQQTZUM1ZJX1Z5Yk9MZXRrNkVwcnFTZGhVdm1ReG5CRV9qWUZIOGNXZEo2Und5QjBJSUhlUzNnajM5dDgxSkxyTWFhYWRjZFJTejlpU0ItMUE3T0HSAcAEQVVfeXFMUEdfNjhUcFBDS2ZmcGZrS1FncGx4OU95dGtSOTRRa2xIU1RnNC1jajc0eFBTZU1pbEliSlFocEVVbDFRbmdYaDExYzhwZVBpYjlnYXB0b01aSFR2UjlOMDFVU2RleHhUcFEyVVp1SDI5UVlXWE1lWEp4TVZvT1JSd2gxckRjRGtyNFhfdWVlMWJuekZuemNGT0QyU3hVdmZVbFZWYmFhZGI5VGsyOVA3OXhkVmZzM0dtSzlBV0RlSVVuNEtmSzJTa0VGZ054OVh1Q2VPSkZ0U2ZGTmp3cXIzYmY5RGszSURGRk5VZVBDYkpkT3VreTFDTGdTMGRQZGJnN19jNzh0ZXNrMVhhTWFJOFpiajlZZmVGalJFMTAzY0M4bnlzVUdCdGI3ZktSM1hBbE1zZ2RWU2YtWHBDSHAtMTFuWWJudzBrdHdjeGZSUTRXWXdjYk5vaHp1VWl0Q3Nza1NsUXladlgtOFpZR3lNd0dCbDR4a01kRjZqb1Y4Zl9sSEd4UVJrSno4Rm8teEVFTnVIb3gyY2hOQWlGdWhUdEZRQjQ5Q1RieUM1T0Z1RDdzWWtnSEp2WmtXeS1QZWVBMW9NdF9RVTNxOWtoNGxoc1Z5V0ljdlU5UlpIbWg5TTBSQm1MMFZBQVhySlRkcG5fTzN3aDNRRWNaVW11S0ZOUXBnUDlUdGg3bDBFLWlhQmRRVzZzSUhTbTNBbVk2WVdOM1cxYzZfQXdHcHBWb3ZyY2NjM1AxMkdCb3FzXzdkYWVK?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 10:33:00 GMT"
+        },
+        {
+          "title": "شاهد ما قاله ترامب عن اسم \"مضيق هرمز\" وما سيحدث لأسعار النفط \"بمجرد الانتصار\" في حرب إيران - arabic.cnn.com",
+          "source": "arabic.cnn.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVRNeWNxUDAtQnNwa002ZG9IZ2NVYWhfSmJwSDF6TGV0NURLYTF0UkU3VnJUcjItLWRVSFQ1NldYSG9oV1lzYVhWUnBNLVprMUxvTHFjTW1ieTMtdFpHWmJ5b3BSWmRfT3JOeW43aEstWEF0ZS15Z3Q2aWFhZE5lRmhRS2xUYVJrakUtaWJQN2QyQQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 06:33:57 GMT"
+        },
+        {
+          "title": "أسعار النفط تقفز 6%.. وخام برنت لشهر نوفمبر فوق 107 دولارات - (تحديث) - الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+          "source": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOYmdZMVNzRFUxUWJlbjlJUEVma0U0OE4tcHcyUlpfeHdCc2hsd3J6LXViNHpkWi1PNS1ETk5mTTJxcGZESUszV0JSdzJNQzhnN2xodmVOMi1WVERYRTdWOG1EOHg1UHZRclIxMnptX0dCSG5JN0hTS1dsOGhSOUNTSktTdHpWNUNWdWtBbHBGR0JpM0Z5QWUwUjRpay1yVnFKR1I2ZC1EQ3dsU3ZQcUNXeFAtbWV4aFVXRkhuR2tBNl8tOXdYbUx4SUhZM1JYZldBVldXbzRINjNIcEVQSDBpRTlKMzRCZ09fOGJHTnhvZW1udVAtaEl2NHA1Vk5TazNaYzl0MlNmRjVFRV9taUpKaWpxWndiQWYzNy1KS29BRUYyOWpqdko0WVhwZWpucGJaeUZVYVEwUzRQQWJvMDQ4VXMzek9RVVJE?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 19:18:49 GMT"
+        },
+        {
+          "title": "هل يصل سعر النفط إلى 150 دولارًا للبرميل قبل انتخابات الكونجرس الأمريكي؟ - المصري اليوم",
+          "source": "المصري اليوم",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uMGNHbEZ3QUJtTERvU3I1M3ZDYS01aURmVnlQXzE4VDh0TnlhMjJfSUJzbG9PVUVxMGxJdEgwZEtVZGRIaDc2anp3Z2RTOGIxcTNIQUZZZHFVMmR3a3RV?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:25:00 GMT"
+        },
+        {
+          "title": "ترامب يتوقع هبوطاً حاداً لأسعار النفط بعد \"هزيمة إيران\" - العربية",
+          "source": "العربية",
+          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNNjlHN0VSNURPVzRfd2lFX21OU3RTUTQtTlBIUE9jSENuUFpsYktIeWIxYmF4MXljZkg1a3hVU1dITHlHWjR6VFJ3SW1zUHRjZTByVU81TGVTUVI2SThNZ1l1ZmVkN3pVekltRDRNRFFlbjRkVGQxWUxzd3pPTmlmT3VkNG1pUFVWUFBXR0k2dEoyT19aT3R1WUEtZ0g1LVo0UTZnYlI3elNvTFo2bnpIQkVRcVB0SXpCT0RidEtULVZQa2Y0Q1hsdVBiUko5RWl3SXE5bU1aVzlYYUcza2tac0pwWGFtSGJ3aWd2UFNfcFR5b05VbllrZUdFX1B2Z2l5dU1XMVVWWHVtM3REZEZsU3JtUEZnR0VObkJ2d2hMcXExb3hfN1VZTmlBSS1QYnQ4YTEtbS0zemtrR2pKSnFzYTlDSjFjVG1zWGJ1aWZXNUZGQm9LdUV2UmtGWS1jaXVTa3ZHNzJOTUN4dWVGNnZERHU1LUJrV1VFQWZIWWk3Yk1SSXhaVk5SYlAyQ0lSbW42X3VxdS1ReE1XUmdGSlhrRmlXS05RMmhMb0dRMnhzQkNqSzB0bVAyQ3duZU5sRHJad0FVSHhCMGd2aXYtT1ZscUxENXN5UEs3N1JkMnpWNm1LVFJB0gHqA0FVX3lxTE56MXlZaDJpU2ZLVm9YWkJqNnZwZ09lMmJ6aE80TGxfSVp5WlBtQmM0Q1E0TklVVy1tS3h0MkNGUE9ReUxLY3EtUlFlTEFoUkxLZk1nREVzNUQ2WEppcVlvRkhWaDIycTIyWHBKc1Z4Q0Nidk0tU2RMeDJZLS1MbldYWnVjcjB1NF94OTVNclNDbUhDNmppUlF5TE1wSmtJQlBUNnY3Tm5DNTdWTmZrbWNxTExFQi1iNmJXdXZaOFlaYU42ZUttR29iX2xQOFo1LThDaFN2aVp2SHFyT1pFWlNJejZCaG1LRXdCQmJJT3R3Z2YwX2lIZ2c0MVFrV1dYUHVlNW1aVG9FTVVaSWtfUGdiVWxMYXNjaGlWTHh6Q2w0UWMyZ2M3MmU4NERCSEt4UXRnb2dpZEZuMjliTkhzZTV1VlJrVnh1el9vaEJGcU92UjFpU2lza205YTY1eWhDTVF0X002S0tFTGp2TTdNRHpSZk9FTzVlaFNJQXBURFItY0V5YW9PODRkQzM3SGVpTTItOVFtV1pTeVMxc0UxaHMzcWN3M2pRT3RWQWhnbUxqTmF2cFJqY1JVMncxdlNqRFdqSk44TENVRnpZWi14ZEdKYTNUUEZHa0xEOFlxNlBLQl83cmRPWGJEOFE?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 00:17:00 GMT"
+        },
+        {
+          "title": "النفط يستقر فوق عتبة 100 دولار بعد الضربات الأميركية الإيرانية المتبادلة في هرمز - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi4wVBVV95cUxQQVYyOEl1dXVpVmdhcWszZ2lhSnU0djBSV2lpYzVIanZ3VkhodmkzY284SWVvME9JSXRJNHJkS0p4RnhBVGtGVDFadEppX0VGdGJ0WWZBa2FLYUFFSTJ6dkdOTTVnNDhZdmx5bzZNcWlfOHVNS2ZwazN4TGZ6ZFJZLUJTSVFKakNjbkZKY0tHTzRaRmxfS2xfMHBnMFF5ZzBKdXJxeC05d0p6V29wN0lWY1NKTkxjeXBMc2F0c0c3X21zMzZRSUp3Ujl5VklqS3E4VC1EZ3hZUHZ5Tm1kZzFTc3gtLVltdnRQd2doWlhjVUxrZGVpdGtxRGdOZ3JTMFVIa0F3QmczVkdWM3Nyb2ExckdFQ0hodjZBZzBTZHZ2MHdEQ0tzMzh2akpyRnBCT2tybk92SFFpS0szc2ZYV0hsRWd3bUJrX0hyYkJoal9UNTNYdXdEWG9kaTAyVWxrM2s4UmVvYU5fODFFWUtVQTN6VEttQUc1SVNfeEEyUU42WXVOYk0zRnR2QUtSTTlRY1dQZ3ZuVmQyd0lJcHR6Z2M2VG1SbUVJdDlyS1g5dWtxRkIybXZnY2d2LWI4SEhMZnJoS2t5bUFkaHJKMWZMOW5DUE9MNTliMXZCZTNqSDBSNDd1LVBVazFtNDR2TFpzN1Rlc3hLaUxfSWhPX3JwaFJ4VG1DcGxpbTlaZElWMDlQWmU4d05zS21xUm1GdTJHbTV5Vk5oWXVkeE52NFl6Q1F1MUtuWnlRczQzN3BOR0dmM3A3TW1VSmZXSHpTNzdUcnBnNzZWcVd4TVo1dEFYSWFfMlBTbTk3OXR0eE9jRVI1bkVyNTZkVU1sVG5TVFpFcy1NNGQzY1RLT3ByakVkMXNFZkF4SDgzcmFZRFMxUHIzRXpEQ1k2d3VCbG9KSlVFdndwZFgyMXZlZ05EMjE2bGV4SEdQbmFMc3A5TDdNOHppSzhvSkRPcDRkUjFnWHNrSXBRc0Fv?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 03:21:11 GMT"
+        },
+        {
+          "title": "أسواق الخليج تتأرجح بين قفزة أسعار النفط وتصاعد التوتر الإقليمي - إرم بزنس",
+          "source": "إرم بزنس",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42VDZ4MmJUd0pra0RqODUxMFBKTFpqbk1tNExXSUc5RkRKN2M1ZjVDSnVPeEg2aERaTlVVUkN0aEJvUTJpNHNZTkxZYVdMUFh4WVQxeEJuYw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 13:48:17 GMT"
+        },
+        {
+          "title": "أسعار النفط تتجاوز 102 دولار مع تصاعد مخاطر مضيق هرمز - المتداول العربي",
+          "source": "المتداول العربي",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPMU9UT2pqc2w1T2hnRFF4VGRPNWhSQjhiUkptVVZ1LXBPS2ZXYXRGUm5LSVhZUE5pVEdoa2lJVDNGeWFOaHhkT2puamZNaFB5RlpTWkF5Q3hvRmEyZGxHWmJrdnhfbHJvZG1Ga05wVHhNTFUtbTFOODVTc2trMmFhcGdtODhMLTRyemo2akY4dko2WUZIYnNjN3VVRFVySlBvaGJaUmpZWnV6NklpN09hb0ZHVjgtQzFZNWozaHhfYW5Kbkk2ajB3ZVc4S0pGMHhWMmVqdW1HdHJHdk1aU2VVSEdIWDFzWWlGZGpPbHdpUnM2c0tRVm9wcnVWNFBDX2plNWV1TnljTmNlcGRRN1M3SlRWeHVrSUlGcGVkR2lNdU9XREVJcXlWQjRqbm9ZbE5iNmdIX0VmNGhQdzRhb1loTmN4N19oSlNxbXg2VGpab2pzY0RoWHdnOGFUdEtuMHFQSFdSb2tHc3Q2RTVnZ29kN1JQZGRTbWpBNllST0JfTFdteEhBbHdZREJ3SFN4U0dWU0ZRUzVORklQdGJqWWJaZlBQNll2b1NsMnJRanJRUXBCWjJ4bGxidTh0NDlLUTA?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 11:20:29 GMT"
+        },
+        {
+          "title": "ترامب يتوقع انتهاء حرب إيران بعد انتخابات نوفمبر - IDNFinancials",
+          "source": "IDNFinancials",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNQnZCNVVBd2R1S2p2a2R2WUh3emFxYW9WMEVubmQ5MTJHOTZub1BTaXh5M1pXYy05UUtEQmJLSlhGS3doQjlqUmdXa2lYQTBPQ3JVR0ZWNjVYQUo1dWtfRGhKek1rTjZfRTdyVDFNRmpVWTVJOXJNeEN0djYyX2Rxb2VVWXJiT3FPbEdmYXhPaFFnRGhLTDRUUzZURGJzMjdLVUhNUUNzTGVRa001WnNQY2xIMlFVR3RsaDN0eVpheU1QbmJRRHRHbUNocXZLaHZLckI1ZEY1bDBIZlF5c1lvbHF2Tmt4bktHQWF3RjhMOEF5VXlJRlNxQlNPR0hGY0U3djdfWUpfYnN4NHpFNzdZVENEeENtSGFINDBKMGlRNnRURHcyeTdiYzFZVFgwOTA3RzBldXpRMnlZaGJfY3BxaWZnNUZYSV84enptWDRVRF9nRmc4NTRZTVR5SlExZjFVTlpSN3NHOWU4dGhUZ0QxNWM1NmZ1dWJEUkppTTZybFRFUnQtMEpzd1lqc1JnZVFLWGxMTWtYc0Jid01nQ2ZiVW9mb2NmRkZN?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:20:00 GMT"
+        },
+        {
+          "title": "ترامب: أميركا تتقدم في الحرب مع إيران وأي نشاط في \"كلنك غزلا\" قد يفتح باب الضربة المقبلة - Iran International",
+          "source": "Iran International",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWMURnTDNXZVRBYWR2RlhudTFrTkRDRm5ITmo4RUJlNUVHTDJQaDdtQ3JKVVNKRUVTU2JHeEM0ZjNLNTFmcnJyalJfZEFPaThOY2c?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 12:15:13 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "伊朗 原油价格 红海",
+      "items": [
+        {
+          "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7% - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DbGhaWnBGM09vRHNIbTdkMmNpRlpUQ1JmQ1NQLWpPR2JXNktPU1NHRmljVFdTUXlDOGVBRG9iS25Sa3VlOWdPMkRuN1otQUhTaXQ4?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 20:42:03 GMT"
+        },
+        {
+          "title": "川普才说伊朗撑不住了 胡塞攻占摩卡 逼近红海咽喉 - 文学城",
+          "source": "文学城",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZEc5aHVoNjNjamtna0Y1RVdrR2psQ25OT2VZbExUYnJETHRVcF82WXNMLXhYRjlmVWNJSXUxblFKMm1kWEpyR01BSjFFaGJTV3pNaUF6cXpXM3NXMEVmMUx1ZlhLcFJv?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 16:10:53 GMT"
+        },
+        {
+          "title": "WTI原油走势：红海航运风险升温，WTI原油距100美元关口仅一步之遥！ - Mitrade",
+          "source": "Mitrade",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmVyWXhsZWkwVi14aWczYUhkSDlPOGxkZDlfWlFSQ2NjX0t1dWtnTTk3UUZyUEY1V0k4V2dWRXBqR09lNjU5V2dUQXhTMnZjLVEzYTFEWEhHalFOOGowRTZYdnBfS3ZlTFpOdG5FNU5kcnlLTXZIbkJjQmt5Y2F1VGpn?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 19:32:00 GMT"
+        },
+        {
+          "title": "伊朗战争与石油：分析称中东油轮受威胁程度已达冲突爆发以来最高水平 - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OamZPdFNmdEdYbUtWaTBhVzBCYjJiNjBvVU1LdFoyb3JHUHp1WkJXY0IxQnVqZUd3UEVWRnJpbjV0UmNNYko0aUR1Y2dWV1ljNEl5Y3VlZkY4WmRlMjc4anhsWXpaQdIBa0FVX3lxTE5pQVlaY0tLdFkwSmtyY3FQLW81UFo4eGZWa2Q2UE9VYjhyZ0pIZVkyTExmbDhlcUZqQ1QwNkR6QlJiTktYTTdVT0tyc2lKeVZ5bThZUDJXNHduTWh4MFVROC0xa25pcHktc1Vv?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "胡塞武装袭击红海油轮，特朗普威胁：再打就追究伊朗责任 - 观察者",
+          "source": "观察者",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ydkJnbkFMLW5jeU9HbUY3MUlCUFZjNFg4Zk9yYW5fTDBpcFY1cnZuM0VVTEtZMnp3LXQ4dTBVUmF2YmQ4djcyZkM4RDNzWHgxNnQ3Z1hBaWREalg4WEtLQnBYSjdXTnh1bEE?oc=5",
+          "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "伊朗据悉正施压胡塞武装！红海恐成新战场 又一“原油生命线”告急？ - 财联社",
+          "source": "财联社",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ySXlsZFlZU2o5WmExdG9kZ25lRE1fU0F4UmRRMDh2cUR3U2dPT190QU5IXzBqSHFkWmZsUUIzQ0tNYnNhcWp0Ng?oc=5",
+          "pubDate": "Tue, 31 Mar 2026 02:34:26 GMT"
+        },
+        {
+          "title": "中东战火蔓延至红海航线 油价涨至每桶100美元以上 - zaobao.com.sg",
+          "source": "zaobao.com.sg",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QWVRaelVBR19FQmI5RXcxejQ4OVN4bkdtSndHU0tVNHZQR0ppUlByNm13cHIwM0VucmI5dU1iblRBZDNvVmFITGt5cHhNamVZUlV1NWNrdGp3aFNaeHZwTXNtb3RRVjZRUmZqeXpB?oc=5",
+          "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "另一条海上“咽喉”也危险了，伊朗要求胡塞武装封锁曼德海峡 - Jiemian.com",
+          "source": "Jiemian.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sMXUyOXl1cGZWUWxNbGNtRGFDWmFMNEIwMkQ2aWliRGlCZWJ6a0sxVUZtc3NUaGprclllSC01a1E5bGFiUTBlbTFVNUhhblJCcl9MbzlxUHo?oc=5",
+          "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "原油交易提醒：霍尔木兹关闭+红海封锁威胁，这轮油价反弹能走多远？ - 汇通网 Fx678",
+          "source": "汇通网 Fx678",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EZDVLb0RnWmxyVDZoSGpvejhsT3RKb2t0RzE5YS1VOXdQdHU2RFNmcURnWVc4cnRibE1GQUZOWDJlV0ppcU93NEVhVVg3cG0wTklhdG5WdUEyd2c?oc=5",
+          "pubDate": "Fri, 17 Jul 2026 02:47:00 GMT"
+        },
+        {
+          "title": "亲伊朗的胡塞武装称：“封锁沙特海域”…红海将被阻断？ - 朝鮮日報中文版",
+          "source": "朝鮮日報中文版",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWNHRVJpRU1taEtXd3BONENCenQxNmRFeUhnWDR2RUJYejJRUVdqQzNsZkxCeFp6X01qR3Ric3pxeDJMTGtacTNFQUttQ0IwYXg4dnpiMkplQ3FPemdUUk5uT0dPdHZFSF9qYUtSNkZEUUI5cm0wdE1GZkN3SE5oLXh0WXpoRVREVzdfRUVBN0VsUQ?oc=5",
+          "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "曼德海峡：胡塞武装的威胁会否触发红海航运危机？ - BBC",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmeThUUE5CR3A1VFdoRkJOMlg1bmxPcTEwOHQ3OHN2UHY1RUV1UXA1ZVM1bTRnX3R6WjhPLXgtWE9XZmU0d2V6VnRpME1KcDJ3TUxKUmlVZ3JPWUFOdVE1U1kzNmVTQdIBa0FVX3lxTFB5ZWswb0o4TzFteGxnOXhoY2xwaElRbjJXWEhJQmlUclBmR3duMXVxWVBjOGlRVFJIdTl5ZnhlVWE0NHJvVGZhUnoyUTNfLUJ6ejhUeXJNMDhuZ3V1cmYzbkxaajNEai1vRXBN?oc=5",
+          "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "中国游说胡塞武装以确保红海石油航线安全 - idnfinancials.com",
+          "source": "idnfinancials.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPX0VGOFNnampHb1BMUU93bHN1TXRTRVFrSlJqSVZ5M0M4ZU9MWlR0UVpRb3d3X2lDWWRLSDczS2I0ZWc5X0VYRUdjWXh3QUJIeWFHVDk4c0FMNnlOQjgyMDF2MjRnempxQWZBbWd0LUk2cHZ5MnhULUdqMEVoSmZvWUNNN1FBaVhkeEt0ZzN4SUdWdTdqUW1kVW5CUFRLdUR3d0hMWVdMaGZfeUlDUEN1b2tPMjREOV9paVRfZzVOb1NDdnhONmZ5REtwTlZPQVpFYzU4VHY5WjhqNTlrRnhENjhzRkpldTNnaHVLVzJxOExqZWJGaWJfZ3J0cjh1anpGS1pEYnNJZ29sTDZ0QV8wd1RGT3hsN1prOW9FdXFSZUxCeTdWdEIybnYwSnE2eDNnaHktbm95WU9uSEE?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    }
+  }
+}
