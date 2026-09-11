@@ -1,0 +1,124 @@
+{
+  "findings": [
+    {"title": "「谁没上头版」：英法德日巴的头版几乎完全回避该事件", "body": "事件在美印埃三国均进入当天头版（美：AP『Iran-backed Houthi rebels take strategic port city in Yemen』；印：路透『India hosts BRICS summit as Iran war tests bloc unity』；埃：Sky News Arabia『الحوثيون يضيقون الخناق على باب المندب』）。但英国头版10条全是国内议题（辅助死亡法案、伦敦旅游税等），德国头版被9/11二十五周年和国内政治占据（tagesschau『25 Jahre nach 9/11』），法国头版同样是9/11纪念与国内新闻，巴西头版被最高法院政治斗争和国内天气占据，日本头版也全为国内新闻。油价破百的全球冲击在这五国的头版显著度远低于其在搜索结果中的密度——说明该事件在这些国家被框定为『财经新闻』而非头等大事。"},
+    {"title": "框架分裂：美英埃聚焦胡塞/红海，欧洲日巴聚焦油价，俄印各有独特算盘", "body": "美英搜索结果几乎全部是胡塞攻占摩卡港的战场叙事（CNN『tightening grip on a key global chokepoint』）；法国（franceinfo『craindre une nouvelle flambée des prix des carburants』）、德国（ZDF『Angriffe treiben Ölpreis auf 100 Dollar』）、巴西（Valor『Petróleo supera US$ 100』）则完全从能源价格角度切入，12条标题几乎条条带油价。埃及因地处红海门户，密集报道曼德海峡安全（DW阿拉伯语『الحوثيون يقتربون من السيطرة على مضيق باب المندب』）。俄罗斯标题出现罕见角度——把冲突视为本国财政利好：business-gazeta『возобновление ударов Ирана и США спасут бюджет России?』（伊美恢复互击能救俄罗斯预算吗？）。"},
+    {"title": "同一事件的定性词差异：『Iran-backed』是英美埃叙事的固定前缀", "body": "美国12条标题中至少7条使用『Iran-backed Houthis/Iran-backed rebels』前缀（npr、CNN、WaPo、PBS、France 24等），路透更是单独发稿指认伊朗的直接作用（『Iranian arms and advice helped Yemen's Houthis seize key Red Sea city, sources say』）。埃及标题则极少用『伊朗支持的』这一前缀，直接称『الحوثيون』（胡塞武装），并把事件放进也门内战与麦加协议的框架（zaman『في أول اختبار لاتفاق مكة.. حرب اليمن تستعر』）。中文媒体则用『胡塞武装』并强调对全球油运动脉的连锁冲击（thepaper『两大能源动脉面临同时断流』）。"},
+    {"title": "日本独家关注点：油价对美国的反噬与特朗普的国内困境", "body": "日本标题出现了别国没有的角度——把油价与特朗普民意压力挂钩：47NEWS『トランプ氏、世論の不満に焦りか 油価格高騰、揺さぶりで終息模索』（特朗普或对舆论不满感到焦虑，摸索以施压方式终结战争）。同时每日新闻从第三方获利角度观察：『成長鈍化のロシアは「ぬれ手であわ」か』（增长放缓的俄罗斯是否『旱涝保收』）——与俄媒自问『能救俄罗斯预算吗』形成有趣呼应。"},
+    {"title": "中国财经媒体突出『缓和信号』与油价回落风险", "body": "在几乎全球媒体都在渲染危机升级时，中国两条标题反向操作：华尔街见闻『中东局势现缓和信号』（伊朗将与海湾六国会晤、红海西海岸停火），汇通网『但油价回落风险正在累积』。同时华尔街见闻另一条『霍尔木兹之后，红海也要出事？』显示其主线仍是能源供应风险。中国官媒头版（新华网）则完全没有该事件，头版焦点是习近平出席金砖会晤——与印度头版将金砖与伊朗战争直接绑定形成对比。"},
+    {"title": "印度把事件内嵌进金砖峰会东道主叙事", "body": "印度12条标题中9条与BRICS峰会绑定（NDTV『Iran War, Oil To Dominate BRICS Summit As Foreign Ministers Reach Delhi』），彭博的标题点出印度的尴尬处境：『India Fails to Bridge Divide Over Iran War at BRICS Summit』。头版还有一条对印度有直接利害的独家角度：H-1B签证政策变化（Hindustan Times『Trump plan could force workers to leave US immediately』）。"}
+  ],
+  "quote_comparison": {
+    "intro": "对『胡塞武装攻占摩卡港』这一核心事件的定性对比——是否标注伊朗背景、以及冲突责任指向",
+    "rows": [
+      ["US · CNN", "Iran-backed rebels capture Red Sea port, tightening grip on a key global chokepoint", "用『Iran-backed』前缀将行动归因于伊朗，并以『chokepoint』（咽喉要道）强调全球威胁"],
+      ["UK · Financial Times", "Houthis capture Red Sea port in blow to Saudis", "不提伊朗，把事件定性为对沙特的具体打击，突出地区代理人战争维度"],
+      ["Egypt · الحرة", "سقوط مفاجئ للمخا.. والحوثيون على مشارف باب المندب", "用『سقوط』（陷落）表述，视角是也门现地局势与曼德海峡安危，不强调伊朗"],
+      ["China · 澎湃", "红海航线告急！两大能源动脉面临同时断流，油价飙升突破100美元", "完全转入能源供应与油价框架，事件本身只是油价叙事的引子"],
+      ["Russia · business-gazeta.ru", "возобновление ударов Ирана и США спасут бюджет России?", "唯一把冲突与俄罗斯财政收益直接挂钩的问句式定性"],
+      ["Japan · 47NEWS", "トランプ氏、世論の不満に焦りか 油価格高騰", "把镜头对准特朗普因油价高企面临的国内舆论压力"]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "伊朗代理人夺取红海咽喉要地，威胁全球航运与石油市场，美国政策面临转向压力",
+      "unique": "强调伊朗的直接军援作用（路透独家『Iranian arms and advice』），并讨论美国政策可能重大转变（Fox News）",
+      "headlines": [
+        {"source": "CNN", "original": "Iran-backed rebels capture Red Sea port, tightening grip on a key global chokepoint", "zh": "伊朗支持的叛军夺取红海港口，收紧对全球关键咽喉要道的控制"},
+        {"source": "Reuters", "original": "Iranian arms and advice helped Yemen's Houthis seize key Red Sea city, sources say", "zh": "消息人士称，伊朗武器与指导帮助也门胡塞夺取红海关键城市"},
+        {"source": "Fox News", "original": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say", "zh": "分析人士称，伊朗支持的胡塞在红海的威胁或促使美国重大政策转向"}
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "胡塞推进逼近曼德海峡，威胁全球航运——但未进入英国国内头版",
+      "unique": " Financial Times 独家定性为『对沙特的打击』；以色列媒体（jpost/Ynet）被纳入英国版结果中，强调 Hanish Islands 这一别国少提的地理细节",
+      "headlines": [
+        {"source": "Financial Times", "original": "Houthis capture Red Sea port in blow to Saudis", "zh": "胡塞夺取红海港口，重创沙特"},
+        {"source": "BBC", "original": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha", "zh": "据报道也门胡塞夺取战略要地红海摩卡港"},
+        {"source": "Reuters", "original": "Yemen's Houthis close in on Bab el-Mandeb Strait in new threat to shipping", "zh": "也门胡塞逼近曼德海峡，对航运构成新威胁"}
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "伊朗战争与油价冲击主导德里金砖峰会，考验集团团结，印度调停未果",
+      "unique": "全球唯一以BRICS峰会东道主视角系统性报道该事件的国家；股市直接冲击入题（Sensex暴跌700点）",
+      "headlines": [
+        {"source": "Bloomberg.com", "original": "India Fails to Bridge Divide Over Iran War at BRICS Summit", "zh": "印度未能在金砖峰会上弥合围绕伊朗战争的分歧"},
+        {"source": "NDTV", "original": "Iran War, Oil To Dominate BRICS Summit As Foreign Ministers Reach Delhi", "zh": "外长抵达德里之际，伊朗战争与石油问题将主导金砖峰会"},
+        {"source": "Hindustan Times", "original": "Sensex plunges 700 points, Nifty falls 0.95% as Iran war drives oil to $108", "zh": "伊朗战争推高油价至108美元，Sensex暴跌700点、Nifty跌0.95%"}
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "美伊战争长期化推高油价，特朗普面临舆论压力，俄罗斯意外受益",
+      "unique": "关注油价对美国民意和特朗普政治处境的反噬，以及俄罗斯旱涝保收的第三方获利视角；该事件未上头版",
+      "headlines": [
+        {"source": "47NEWS", "original": "トランプ氏、世論の不満に焦りか 油価格高騰、揺さぶりで終息模索", "zh": "特朗普或因舆论不满而焦虑，油价高企下摸索以施压终结战争"},
+        {"source": "沖縄タイムス社", "original": "米の港湾封鎖 「長期」準備か 一層の油価高騰も", "zh": "美国港口封锁或在为『长期化』做准备，油价或进一步飙升"},
+        {"source": "毎日新聞", "original": "中東の戦火で油価高騰 成長鈍化のロシアは「ぬれ手であわ」か", "zh": "中东战火推高油价，增长放缓的俄罗斯是否『不劳而获』"}
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "战争推升法国油价与生活成本，政府出手支持经济",
+      "unique": "几乎完全内化为法国国内消费价格问题，出现政府官方措施（info.gouv.fr）和超市价格预警，地缘细节最弱",
+      "headlines": [
+        {"source": "info.gouv.fr", "original": "Guerre en Iran : le Gouvernement annonce des mesures de soutien à l’activité économique", "zh": "伊朗战争：政府宣布支持经济活动的措施"},
+        {"source": "Ouest-France", "original": "Guerre au Moyen-Orient : l’Iran riposte dans le détroit d’Ormuz, le pétrole à plus de 100 dollars… Le point sur la nuit", "zh": "中东战争：伊朗在霍尔木兹海峡还击，油价破100美元……夜间战况综述"},
+        {"source": "franceinfo", "original": "Le retour des tensions en Iran fait craindre une nouvelle flambée des prix des carburants", "zh": "伊朗紧张局势重现，令人担忧燃油价格再度飙升"}
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "美伊每一次攻击都在把油价推向100美元——纯市场波动叙事",
+      "unique": "12条标题几乎条条以油价开头/结尾，把战争简化为油价驱动器；Deutschlandfunk罕见地以『不是胜利的胜利』反思停火本身",
+      "headlines": [
+        {"source": "ZDFheute", "original": "Iran-Krieg: Angriffe treiben Ölpreis auf 100 Dollar", "zh": "伊朗战争：袭击推高油价至100美元"},
+        {"source": "Deutschlandfunk", "original": "Feuerpause im Iran: Der Sieg, der keiner ist – Experten ziehen Bilanz", "zh": "伊朗停火：不是胜利的胜利——专家复盘"},
+        {"source": "Spiegel", "original": "Irankrieg: Ölpreis steigt nach Angriff auf Kraftwerk in Emiraten, Drohnen über Saudi-Arabien abgefangen", "zh": "伊朗战争：阿联酋电厂遇袭后油价上涨，沙特上空拦截无人机"}
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "美伊互袭推高布伦特原油破百——聚焦大宗商品价格与供应中断风险",
+      "unique": "标题全部围绕布伦特原油具体价位（97/98/100/101美元）波动，无一条涉及战场细节或胡塞；事件未上头版（头版为国内政治）",
+      "headlines": [
+        {"source": "Valor Econômico", "original": "Petróleo supera US$ 100 com novos ataques dos EUA e reação do Irã no Oriente Médio", "zh": "美国新攻击与伊朗反应之下，中东石油价格突破100美元"},
+        {"source": "CNN Brasil", "original": "Entenda o impacto da guerra no Oriente Médio no fornecimento de petróleo", "zh": "解读中东战争对石油供应的影响"},
+        {"source": "Folha de S.Paulo", "original": "Petróleo supera US$ 98 após ataques a petroleiros e refinaria no Oriente Médio", "zh": "中东油轮与炼油厂遇袭后，油价突破98美元"}
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "油价重回100美元——既有对全球冲击的观察，也有对本国财政受益的直白期待",
+      "unique": "唯一公开把冲突与本国预算收入挂钩提问的国家（『能救俄罗斯预算吗』）；另预测更大冲突或推油价至150美元",
+      "headlines": [
+        {"source": "business-gazeta.ru", "original": "И снова $100 за баррель: возобновление ударов Ирана и США спасут бюджет России?", "zh": "又是每桶100美元：伊美恢复互击能拯救俄罗斯预算吗？"},
+        {"source": "Финансы Mail", "original": "«Более масштабный конфликт может спровоцировать скачок цен до $150 за баррель»", "zh": "『更大规模的冲突可能引发油价飙升至每桶150美元』"},
+        {"source": "Euronews.com", "original": "Нефть снова дороже $100 за баррель на фоне обострения конфликтов США и Ирана", "zh": "美伊冲突升级背景下，油价再次突破每桶100美元"}
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "胡塞攻陷摩卡、逼近曼德海峡——家门口的红海安全危机与也门内战重启",
+      "unique": "全球唯一以曼德海峡为绝对中心的报道群；独家角度包括胡塞获得红海小岛作战略筹码（CNN阿语）、麦加协议首次受试、沙特境内70余人伤亡（BBC阿语）",
+      "headlines": [
+        {"source": "DW.com", "original": "بعد المخا .. الحوثيون يقتربون من السيطرة على مضيق باب المندب", "zh": "摩卡之后……胡塞武装逼近完全控制曼德海峡"},
+        {"source": "arabic.cnn.com", "original": "حصري: جزيرة صغيرة قبالة اليمن قد تمنح الحوثيين ورقة استراتيجية في حرب إيران", "zh": "独家：也门近海一座小岛或成胡塞在伊朗战争中的战略筹码"},
+        {"source": "بوابة الأهرام", "original": "«حرب المضايق» تتصاعد قصف متبادل فى «هرمز».. وتقدم الحوثيين تجاه «باب المندب»", "zh": "『海峡战争』升级：霍尔木兹互轰……胡塞向『曼德海峡』推进"}
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "胡塞威胁红海运油动脉、油价逼近110美元，但官媒头版聚焦金砖会晤、财经媒体提示缓和信号",
+      "unique": "中文财经媒体出现全球罕见的反向叙事：『中东局势现缓和信号』『油价回落风险正在累积』；同时渲染双重能源动脉（霍尔木兹+红海）同时断流的极端情景",
+      "headlines": [
+        {"source": "华尔街见闻", "original": "油价异动！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号", "zh": ""},
+        {"source": "thepaper.cn", "original": "红海航线告急！两大能源动脉面临同时断流，油价飙升突破100美元", "zh": ""},
+        {"source": "华尔街日报中文网", "original": "特朗普称伊朗将为胡塞武装未来的袭击承担责任", "zh": ""}
+      ]
+    }
+  },
+  "limitation": "各国搜索词不同导致主题天然分化（美英搜胡塞、欧日巴俄搜油价），因此『谁关注油价、谁关注战场』部分是搜索词塑造的结果，不能完全等同于媒体议程差异；且头版列表未必覆盖各报全部要闻版面。"
+}

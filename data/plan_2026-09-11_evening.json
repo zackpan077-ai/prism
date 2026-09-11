@@ -1,0 +1,17 @@
+{
+  "event": "美国与伊朗冲突升级、胡塞武装控制红海要地引发油价暴涨，成为全球共同关注但各方叙事分歧巨大的地缘政治事件",
+  "event_title": "美伊冲突与红海危机",
+  "why": "伊朗战争、胡塞武装夺占红海港口、油价破百美元同时出现在全部10国头条，且美国（威胁与制裁）、俄罗斯（石油收益）、埃及（地区安全）、中国（辟谣降温）、印度（BRICS斡旋）视角差异极大。",
+  "queries": {
+    "US": "Iran war Houthi Red Sea",
+    "UK": "Houthis Mocha port Red Sea",
+    "India": "Iran war BRICS summit oil",
+    "Japan": "イラン攻撃 米軍 油価",
+    "France": "guerre Iran prix pétrole",
+    "Germany": "Iran Konflikt Ölpreis Angriff",
+    "Brazil": "Irã ataque petróleo Oriente Médio",
+    "Russia": "Иран конфликт нефть $100",
+    "Egypt": "الحرب إيران الحوثيون باب المندب",
+    "China": "伊朗 胡塞 红海 油价"
+  }
+}
