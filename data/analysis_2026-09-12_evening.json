@@ -1,0 +1,316 @@
+{
+  "findings": [
+    {
+      "title": "事件显著度分化明显：日、埃及头版置顶，巴西、中国头版几乎缺席",
+      "body": "日本头版第一条即为『迫る「第2のホルムズ海峡危機」サウジの原油パイプライン稼働停止』（『第二次霍尔木兹海峡危机逼近 沙特原油管道停运』），说明能源安全对该国是最高级别议题；埃及头版第三条『الحوثيون يسيطرون على باب المندب والجزر اليمنية جنوب البحر الأحمر』（『胡塞武装控制曼德海峡及红海南部也门岛屿』）也直接涉及本国命脉苏伊士运河。反观巴西头版前10条全部是国内政治（大选、STF司法争议），中国头版被金砖峰会（『习近平抵达新德里出席金砖国家领导人第十八次会晤』）和国内新闻占据，该事件未上头版——尽管金砖峰会本身与油价高度相关，中国媒体选择把峰会而非油价危机作为头版叙事。"
+    },
+    {
+      "title": "德国视角独特：焦点是霍尔木兹与国内油气价格，而非胡塞本身",
+      "body": "德国的搜索与报道几乎不直接讨论胡塞，而是围绕霍尔木兹海峡与本国『Gaspreis』（燃气价格）展开：『Gaspreis-Verwirrung: Straße von Hormus erneut geschlossen』（燃气价格困惑：霍尔木兹海峡再度关闭）、『Iran: Gaspreis-Rallye gefährdet Speicherbefüllung』（伊朗：燃气价格暴涨危及储气库填充）。甚至有一条反向角度：『Abschied von Öl und Gas: Der Iran-Krieg macht die Energieversorgung sicherer』（告别油气：伊朗战争让能源供应更安全）——这是十国中唯一一篇声称该危机对能源转型有正面意义的报道。"
+    },
+    {
+      "title": "同一起管道袭击，归因对象出现分歧：胡塞无人机 vs 伊拉克发射的无人机",
+      "body": "多数英文报道将管道袭击归因于胡塞（如Reuters『Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping』），但BBC和Al Jazeera的报道引入了另一线索：『Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq』（无人机从伊拉克发射后沙特关闭关键管道）、『Saudi Arabia says East-West pipeline hit by drones launched from Iraq』。埃及头版更进一层：『العراق يقيل قائداً بالجيش بعد \"ثبوت شن هجمات استهدفت السعودية\"』（伊拉克在证实从其领土发动针对沙特的袭击后撤换一名军队指挥官）——袭击是否来自伊拉克领土是阿拉伯语媒体独有的独家角度。"
+    },
+    {
+      "title": "定性词差异：巴西Petronotícias使用『恐怖分子』，胡塞自己的表态只出现在巴西Valor",
+      "body": "巴西网站Petronotícias的标题用词最为激烈：『PETRÓLEO PASSA DE US$ 104 COM OS AVANÇOS DOS TERRORISTAS HOUTHIS APOIANDO O IRÃ』（随着支持伊朗的胡塞恐怖分子推进 油价突破104美元），是唯一使用『terroristas』（恐怖分子）定性胡塞的标题。与之相对，巴西Valor财经媒体的标题呈现了胡塞一方的安抚口径：『Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal』（胡塞称红海和曼德海峡航行安全正常）——这一表态在其余九国的标题中完全缺席，构成显著的『谁没报』信号。"
+    },
+    {
+      "title": "以色列视角与『美国是否出手』是埃及媒体的独家框架",
+      "body": "埃及（阿拉伯语）媒体集中讨论两个别国少见的议题：一是以色列官员的评估，『مسؤول إسرائيلي عن سيطرة الحوثيين على باب المندب: أسوأ من هرمز』（以色列官员谈胡塞控制曼德海峡：比霍尔木兹更糟）；二是美国拒绝沙特求援，『تقرير يفيد: ترامب يرفض طلباً من ولي العهد السعودي باستهدافهم』（报道称特朗普拒绝沙特王储打击胡塞的请求）。美国不出手这一角度在英文世界仅由印度livemint承接（『Trump snubs Saudi Crown Prince's repeated requests』）和美国头版的Axios（仅涉9/11纪念）间接回避——美国主流媒体标题几乎不讨论本国政府拒绝介入这一最具争议性的面向。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "对比各国标题中对胡塞武装及其控制曼德海峡行为的定性用词",
+    "rows": [
+      [
+        "巴西 · Petronotícias",
+        "PETRÓLEO PASSA DE US$ 104 COM OS AVANÇOS DOS TERRORISTAS HOUTHIS APOIANDO O IRÃ E ESTRANGULANDO O TRÁFEGO DE NAVIOS",
+        "唯一使用『恐怖分子』定性胡塞的标题，并配以『ESTRANGULANDO』（扼杀/绞杀航运）的强暴力隐喻"
+      ],
+      [
+        "埃及 · مجلة المجلة",
+        "الحوثيون يهددون باب المندب... لماذا لا يجب التسامح مع هذه السابقة؟",
+        "将胡塞行动定性为不可容忍的『先例』（سابقة），立场鲜明的评论式标题"
+      ],
+      [
+        "英国 · BBC",
+        "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "不提胡塞，将袭击归因于『从伊拉克发射的无人机』，弱化胡塞角色、引入伊拉克因素"
+      ],
+      [
+        "巴西 · valor.globo.com",
+        "Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal",
+        "唯一转述胡塞『航行安全正常』安抚表态的标题，与其余各国危机框架形成对照"
+      ],
+      [
+        "中国 · 华尔街见闻",
+        "一支拖鞋军，正在改写中东格局",
+        "用『拖鞋军』这一带有戏谑色彩的绰号，强调胡塞以弱制强的地缘冲击叙事"
+      ],
+      [
+        "法国 · Le Monde",
+        "Les succès militaires des rebelles houthistes au Yémen renforcent l’Iran face aux Etats-Unis",
+        "定性为『rebelles』（叛军/ rebels）的『军事成功』，框架是伊朗对美博弈的筹码"
+      ]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "全球石油咽喉安全与伊朗战争升级的框架",
+      "unique": "Bloomberg将事件纳入更大的『伊朗战争』叙事并分析胡塞『raising the stakes』；美国媒体对特朗普拒绝沙特请求几乎不置评",
+      "headlines": [
+        {
+          "source": "Reuters",
+          "original": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+          "zh": "胡塞收紧对红海航运控制 沙特关闭石油管道",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5"
+        },
+        {
+          "source": "The New York Times",
+          "original": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
+          "zh": "战争蔓延切断航运路线 沙特石油出口骤降",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV21kdlFZS0pSTkZWUl85WmZnU3BrYWZsd044REEzVmgxZG1ieS1uVkt3YjB3c1BOYVJSd1lFLUNCN2RWRFRfM2V6aGJkNFZLeXg2ZHJBNEJuTk81UDRGN0JyUVhPRjR4YlVaOGp3VG93Y3I2TFpYODFhdUZxMkNVZXBPckd0MEZINF9YQnZEQnJHNElZ?oc=5"
+        },
+        {
+          "source": "Bloomberg.com",
+          "original": "How Yemen’s Houthis Are Raising the Stakes in the Iran War",
+          "zh": "也门胡塞如何在伊朗战争中抬高赌注",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZU5DaGpPSmxIbm1KUXNPN0JCZnp0NGtkZWZLdGhydUN0TU1Fb0ZSNjJrRk50Y1lucmVpb1BvX0NhaC1sdTdaY2ZfU1NnMUh0X0ttZFFVa0p4QjZVY3FtRWREYUhzYUlJZ29GVGt5cTdRZms0Z190TVYtbTdhQVJHMEtseVRDbkJUXy1SNlRzNUNJMXVuWThiNmFWUE5OTktINGZnLTBxcWg4cWFnRmxFdkpjbXA?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "伊朗战争开辟新战线，油气通道陷入危险",
+      "unique": "BBC独家引入『无人机从伊拉克发射』的归因线索，动摇胡塞单独作案的叙事",
+      "headlines": [
+        {
+          "source": "AP News",
+          "original": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
+          "zh": "胡塞夺取岛屿 沙特关闭管道 伊朗战争开辟新战线",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "zh": "从伊拉克发射的无人机袭击后 沙特关闭关键石油管道",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZ1gwU25yelNsWXJXMG1VRk54Y0FoQ0lnV3FVa3BCYjhkVVJTaV9MbnpleVo5OHlacUlFMHJVSG1xR3B2SkFUY1EtOGhzSHZUSG1uY2JRS1BIZG1Y?oc=5"
+        },
+        {
+          "source": "The Independent",
+          "original": "Iran-US war latest: Crucial Saudi oil pipeline ‘on fire’ as attacks ramp up in region",
+          "zh": "伊朗-美国战争最新：袭击升级 关键沙特石油管道『起火』",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3dTSUlMN2VMS3Nob2FINTVqSEwtNlhmR015aU53VjVKN2gxZ1pUc3RydzlqY0lkbXpXSXdXbE1pUXNVSWRKaURlVldPU01KcXlKaWRvR0hTLU9jV3JNNzlqN2tMYy1HR09rUVZfRkFIaDF1elhCRGZEeEJJOFFvMFBtLTFTX3dSZDRXVkNLdThudzdIQTBkQUdvRDdJZ3lNaEZ5TThSRXExZGNYajJzT0h4R20tZw?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "『第二个霍尔木兹』危机叠加金砖峰会，油价与外交双线叙事",
+      "unique": "将事件与正在德里举行的金砖峰会直接挂钩（『West Asia escalation puts consensus in question』），并独家跟进特朗普冷落沙特王储求援",
+      "headlines": [
+        {
+          "source": "NDTV Profit",
+          "original": "Another Hormuz? Oil Markets On Edge As Houthis Seize Control Of Red Sea Transit Route",
+          "zh": "又一个霍尔木兹？胡塞控制红海通道 油市紧张",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObVVieFY2NWNGQnAxV0YzbjE1SnlfMDF0b3RlSzJzejRMUzRyLTB1MklqUzFTUDVGM1hYUGZENFlqM0NsY3pKNVM5bm85bUMtQm9QOVFrRFpmTG5FV1Z2MmFKV0E4RTBwYWQzM09ZMEtncEh3dlE1YTlfbDZNSW9ZbHhXUjRvc3Azb3paeS03QklmNmliTTRSVXlrTE5HTHdrWmxoVXRQSWFXV1doNmU2eE5ad1QzT3pKeEZFd21aT3h4bEZm0gHMAUFVX3lxTE5aTFhaUkwwN2JmOGt1dzMxMkxUQkl4WVZjRlota29RMHJoUjVobGlUZVZGVzdvM1cyLTVzLTVVLVFXZFZwUXlWd3l4TjBhZ3lvTXUydW40Z2xCQUV6T2R5ZFVuaVhtUE9hUEZ6eVNHVFNNbjJBWGIyMzZSMUpzZ2lwOGJTdVNfZmtUeFpfbmtpNDFFcWZUS2Q5Q3poSS1FRFgtS3RFbExSeExocTVaZFlkaUVESVJGSkRsTXZza0tELUM2T0V4NTRQRGg5bQ?oc=5"
+        },
+        {
+          "source": "livemint.com",
+          "original": "Trump snubs Saudi Crown Prince’s repeated requests amid raging Houthi attacks on oil facilities in Red Sea",
+          "zh": "胡塞猛烈袭击红海石油设施之际 特朗普冷落沙特王室的反复请求",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVJoOU9xTm9YVC1ETExlendsbjUxT1NYNEZQajFIY3ktQnpwTzJLb1dKbWRzZ1FDZ2ljLWxHNjFCQXFWclA1MEYzRnA1UFZSdE85MEphRTBzengyUThycVlUZWVoV01MUHBLSEhJcWo4elItWksyQ29FU0RrRl9vVUF6d253aXlRR2w1VjNRR0hKX0RmYm1McXpUalZZTlg1VFU5WmYxbzhjRTRhM2g5S2dtX3VzS3FfTTBDYVRRb2pvcEcxY0VmN21ZeUE3V1FycjZ2bDBpZFVSaEFZME9mTWhLN0k3Vll5dEtoa9IB8gFBVV95cUxNS3hrVl8wV1VNb3A4TFF0QVFkZXNzbEU1Zl8yNjlDNEctT1JBWm9vYmZhd2s2RnJtMklxbTduc2E5cWgwem91aEhFYjZkZVlZWWhSU3dhSVQ5SVpNQ3FITzM1eGozN0FkSXdhS2hPV2ZfRWRoWXJLc1FMQnRCd2R5QWE3VDMwbkJ4ZUlObWdrZXhva2d5Z0d4SndDTWhCYlV6VEYyWUtNTm1fVGRHVXNYZlJzalZtZmNKSnlvVVF3TDUwcFpfUW1VT3FOSURORTU0Wm1xcHB3QnhGVXNUZzFXZnhQdHR4TTZ5NVRQNmdMSFNpZw?oc=5"
+        },
+        {
+          "source": "The Times of India",
+          "original": "MBS ‘Forced To Shut’ Only Oil Route As Houthis Choke Saudi Lifeline Amid Hormuz Crisis",
+          "zh": "霍尔木兹危机中胡塞扼住沙特命脉 MBS『被迫关闭』唯一石油通道",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRlExOFpyZEdXYURCSFprdk9wcWEyWUktNHN5TVo0eHp1RkJDbXNBN1BkU1Awa2lGYXNJTGl2cFJkZW5KUEZJR05kS3FQV05Dc3oyX0d5QlBqTl85SlBTdUo2NVRVTENUcGhQWTA1MXRGaGpDRFpramUxTGJBLW0wcmZ1ckh6Z0ZNQlZlRTM4SXRyY1d5dmc1M0ZLYUpNRnVMYVM2VmlaR3FsRzFZQUYxYVNCS0Y4bFNXQk54NzFLWldQRG5TSmQ0MmpIV0hkV2xBX1h2WGpoam5NYzlZX0pVd3RELXlsYW92c2RudXpBTUlxNmlsRFVCZThqR2RILXhu?oc=5"
+        }
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "『第二次霍尔木兹危机』逼近，能源供应替代路线受创",
+      "unique": "聚焦『替代路线失守』的逻辑链条：东西管道本是绕开霍尔木兹的备选，如今备选也被打断；强调对本国能源供应的直接冲击",
+      "headlines": [
+        {
+          "source": "nikkei.com",
+          "original": "迫る「第2のホルムズ海峡危機」 サウジの原油パイプライン稼働停止",
+          "zh": "『第二次霍尔木兹海峡危机』逼近 沙特原油管道停运",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xR1l5VkhzOTBlNHh5RGYxTEZqYnpaTy1TZnFhbTR0eTg2RnV0RDlmdU5DT29sWHZ5RmNGeUJNOGNTM1RmQTNnNWdIWG0yTHpyU25DVTNkdlJQbVZoYjg4dVhkZ2ozOHdIajJxWA?oc=5"
+        },
+        {
+          "source": "TBS NEWS DIG",
+          "original": "フーシ派がペリム島制圧 ホルムズ海峡に代わる原油輸送ルートに大きな懸念 サウジアラビアでは「東西パイプライン」がドローン攻撃受け操業停止に",
+          "zh": "胡塞武装攻占佩里姆岛 替代霍尔木兹的原油运输路线令人担忧 沙特东西管道遭无人机袭击停运",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52dkJVUEZnbGJXbjNhTmw4N0VmSEktekNwVGVyN2hEZlcyeVFlYk8tcklUN2FmMlpHNHhUX2x2NGQ2NmhQSk00TEhNeWc4eFJvWUFQNklwSQ?oc=5"
+        },
+        {
+          "source": "FNNプライムオンライン（フジテレビ系）",
+          "original": "サウジ「東西パイプライン」稼働停止 複数のドローン攻撃受ける ホルムズ海峡代替ルートに打撃 世界のエネルギー供給に新たな懸念（FNNプライムオンライン（フジテレビ系））",
+          "zh": "沙特东西管道停运 遭多次无人机袭击 霍尔木兹替代路线受创 全球能源供应新增担忧",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MLWI3YVdfaU1jZGdwYjF0a0xoNTltTkRCTXliOXlMNzJmTGFfVmZzTnZ0eS1qV3E2NVZ5d3Zac0t4a0xlcUF1T1ZDYjVDSV9yOG55V0wtdElvb2hoVTlKLUZFWlVuaDY0bWtfNzltSWxuZ19uSThZM1dCcGFhRTQ?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "胡塞军事成功强化伊朗对美博弈地位，油价风险视角",
+      "unique": "头版Le Monde将其明确定义为伊朗-美国博弈的一环；France 24关注胡塞已控制全部也门红海海岸线；有油价对法国消费者的传导分析",
+      "headlines": [
+        {
+          "source": "Le Monde.fr",
+          "original": "Les succès militaires des rebelles houthistes au Yémen renforcent l’Iran face aux Etats-Unis",
+          "zh": "也门胡塞叛军的军事成功强化了伊朗面对美国的地位",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd1dlUzI3Wlc5WGx2Yy1idHdPT21meFUtd2ZtYThrT21oYzhEbk1iVE9Jd3htbXNFWGxWUmk5bXozdVBOMHlqV2hlbXRhTkJpRGktX0tXblg2LXJWWG1qY3pnU1pxN2MtMkM4d2hUT29VbW1ZOVU1ZGZVRC0welo0czlkNnIxX05qVEJLcjlaM001WkRlLUxOT1BZMHpvcjg4RmY4bHd3N01nLW5VYWF6Qk5UTFU1dFlnSHl5ckhIdVpZamc0Zno0eXpiazBXSzdHbkpYMm94RThWSWdIejI0?oc=5"
+        },
+        {
+          "source": "France 24",
+          "original": "Les Houthis contrôlent désormais l'ensemble de la côte yéménite bordant la mer Rouge",
+          "zh": "胡塞目前已控制也门全部红海海岸线",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXJSR0M0c2xLcFk2cFh5NTNzbGs1SHJlaEpJdnlOQ3gxMEZ3ZTdXa19zcm5hVDBfTEdyT1F0UmIzQ0ZUZzVGMUllaXJ3bXVjT1lqMlNNN1BVNk16Qld1YVlWc0pOVzBlck1NamlfYXJVUjVoVWVQOGplZDFFMTJFeEF6dXctRmtYYzBxVXcwclJvVkhlY0FyUmNRRHYtb3RaOTAtMU5TeVpIT0J6dExMVHpRdWQzNmFfUWRaTWh5OFZRbTZhbkE?oc=5"
+        },
+        {
+          "source": "tv5monde",
+          "original": "Un pétrolier saoudien touché par un 'missile balistique' lancé par les Houthis au large du principal port de sortie en mer Rouge",
+          "zh": "一艘沙特油轮在红海主要出口港外海遭胡塞『弹道导弹』击中",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUnpweDdpc3Uya1phSEJlWEpJSGpPNGJHRUl6d3dfdkw2ZW8wcDJQbG8wOFFNREZmaUVWcVhXNWdPTTNMeXY4bEduOXIweURwNDZyR2JJQW1YR0Q1LW9ZZ2RKNUdjdGlkRElNbVdRRFUtUHNiR1lndFoza3dWd09xdEtvcEM4QWlvbWVJLUNGdFRNanhpNmdIbEJtTC1Tc2RlbjNpQ1RZbXFfMG5UbHYyZ2lpazdabFJoUnhMT2NNSUlFdkt4NHJKa1hsWmpZVkdtS2duUU5CeUtWT1JmRU81YVJLZHlQTzhXbEQwcUZ3ODB0Snl6SFNYMkdZd21lNnlFSzFtR2ZFUW9ERDRvZGc?oc=5"
+        }
+      ]
+    },
+    "Germany": {
+      "name": "德国",
+      "frame": "霍尔木兹海峡开合牵动德国燃气与汽油价格",
+      "unique": "十国中唯一以本国Gaspreis（燃气价格）和储气为焦点的报道体系；甚至出现『战争让能源转型更安全』的反向论调；对胡塞行动本身着墨极少",
+      "headlines": [
+        {
+          "source": "Merkur",
+          "original": "Straße von Hormus könnte wieder öffnen – was das für die Preise bei Gas und Sprit bedeutet",
+          "zh": "霍尔木兹海峡可能重新开放——这对燃气和汽油价格意味着什么",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSy13VEJLa2xLNGJOTm9VellPWXJCZFRuc0c0ZDgtOGtWQmNRNHhJcW1CeGtGa1pNRjVCN2tiRUZOcFFaMkVMZmc3cEI3eTU0a3JQdE1NQ2dIS1VtMnJ5S0JxUTRlZFllZURMOE5TbTBEcjFnSlBlU2xpaUJTTXVLWTE5TEhjTUtIZ21FLTZCSUpPWUFhcXhvNVkxTVEwZG11bHZET3dEeDF2dWt0WWNXblVRMkhlOWl3TEVn?oc=5"
+        },
+        {
+          "source": "Table.Briefings",
+          "original": "Iran: Gaspreis-Rallye gefährdet Speicherbefüllung",
+          "zh": "伊朗：燃气价格暴涨危及储气库填充",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDhYMk5Ub1h6WW1QcE41TFlEY3RWcThYQmJoMEdGcm9oY1N0bjFaWVNEeFFwQ244bUxQM1VzSVg1Q2xQUC1hTEgyYkgxQzA4NnY1UlRlLTVpVkRmNDJSWHQwWldtQ3RzX3YxX3UtRkNQbTluVHNvY2ZWYTBTdlFRQ2lBdnhlTTZjb0xsTHFR?oc=5"
+        },
+        {
+          "source": "NZZ",
+          "original": "Abschied von Öl und Gas: Der Iran-Krieg macht die Energieversorgung sicherer",
+          "zh": "告别油气：伊朗战争让能源供应更安全",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjdLSWFJYWN2US1oeTN4WEhydWtwd0g2eWR1VlBGY0tYbURBMUJGYWJaSHlySDdlVU9Vd2VNcGFwREJVR05rSDRjWHh5RHVfVWdqS1Z3RlV4THgzSTQxNm1JckNvb0trMmgxcGZ4SGI2M1dCWmNILVJBSjJURzhmeW5lWjdORmZQN01udjZ5bDdWR2Iyd1ZzRGxkREdjeTUwdzVtYlhDbm5FUnl1?oc=5"
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "油价飙升与全球贸易通道风险，夹带国内燃油价格传导",
+      "unique": "唯一转述胡塞『航行安全正常』表态的Valor；Petronotícias用『恐怖分子』定性；头版完全被国内政治占据，事件未进入头版",
+      "headlines": [
+        {
+          "source": "valor.globo.com",
+          "original": "Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal",
+          "zh": "胡塞称红海和曼德海峡的航行安全正常",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWdpUk55emZUZWJ0WmFEMGpWY0FSbFRpQy0zWUFhZVVOVHlEZTV3WlZKMTNfVWU5YWhEMkRCcEVtSmZ2N3FvRWMtMk52dlNUUlNacG5GeERTRkJkV2lvRElHT0xxSkxxczh1dG5OSXA0WWJfelhaZmV2QjRhZi1PeUtYMlJUeFVZQ1FaNXQ1Uk4yMjNPZkh6V2g1TFBEWnJha0tmaEFRRkQ0OTZyT1lUWWM5TDdWT1p2SEI0a2RmRXBPS1dJSEVGMnNMa3Bqa2pXQm9JeWh5c9IB5gFBVV95cUxNN2V4UVd6LU92bkMyMTdwdVVFVWU2eDZGNjR4Um5lT3lsSUNfa3N1ZWpVNnVyQTI5RmtYOE1ISUVjUTFKejdNR1pBUzVVd2NhYkVISUpkZFpUeEs4Y0Robkt4eG9FQTlzVnhLSlRpSHZnMEpyVkxLM255S2p4RlBrem15MGVodnRsQ1VzLWRWY0w2ancxYW9vWDFBTlR5TzgwTTI4N09iZFFNZFNTOS1nVEZLRzhCQlZvR2NIUDUxenZ2MzVhdWs5cnFDNUhmU2I3blIta1EybzFpakhqZlNkdFBFREtjdw?oc=5"
+        },
+        {
+          "source": "G1",
+          "original": "Preço do petróleo dispara após rebeldes do Iêmen tomarem porto no Mar Vermelho e ameaçarem atacar navios da Arábia Saudita",
+          "zh": "也门叛军夺取红海港口并威胁袭击沙特船只后 油价飙升",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMWZjaDFJeTQyb3B2dmVwMExoYVJ3aUR4V3RrWWRxY2JrVUFHc0JzczVlTlFLSlM3QWZIVmM1dVhWRDFoSENoVjg3OWF6N1BVemZnU1VqeDNwek5PNjk5WEVVdmZ1cjJ4eUJyRF8yNEJuell1TF9raURGUm1uaVFpLXowVUMwVVJYYkM5aDItSTExMUJVQ2xHeU5EQTM2TnhsVXlvcVp2TUc4QzVETGs1dkZvOWdvcjRuSC1Ta1NHSms5NnFGN2hJWHZKUWRIcWZKYW1VcUpac29DLVRlbHhPQzA0RnNQOXNaME5GbG9PcUtsSW5aa204cVJ5M3FmYlF2SmlObFhaZ1AwaENEY0g0a0Fn0gGgAkFVX3lxTE8tMG1halVHcGdMWDRwbmVBM0t3LUEyUDFBM19wa2FBYmc2cGthbFFyT1RYeWMzRmhMcTZTVDRkUDNhMEVYanZEY2s2QlJDenVwREptQmtkaGlaT1hHdXRVSVNnc0U1SUNSYjJtUndDUG1tRHN0UDZtZVVIdFNVcGRJN1daMFk2YXpZQldTTWdQUXJfTFF1Q2JiVldzbW50Vk9mQkdBN2NyT0lsMFVvVjlVMllSdEFMamF4Y1pCakZVVW5SYkszeVNoUUZEMHNfNU91UUNhbkVYM05XTFhCSkZ0Z1RzRHY3UG9BN1BLUUx2M2J1OFlSM3p4RFhWR3JETU1hYU42MlpRUXhQcEtubUJRcXpnZDRJaGhTdXVjcVlnVQ?oc=5"
+        },
+        {
+          "source": "Petronotícias",
+          "original": "PETRÓLEO PASSA DE US$ 104 COM OS AVANÇOS DOS TERRORISTAS HOUTHIS APOIANDO O IRÃ E ESTRANGULANDO O TRÁFEGO DE NAVIOS PELOS ESTREITOS",
+          "zh": "支持伊朗的胡塞恐怖分子推进并扼杀海峡船运 油价突破104美元",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQzFjcjhXV0RTVmxSRC14aTlJMjl3THpfRXZPdk1qSHQ4U0pJRTA5Wk0wYmpiUC1aNFhEY2tDRUpVYVR2Q0djeGdkeUZyLXhKZ291dmRNOTdKQnBXdkQyYlZRSVcwRkhMeXZ3alk5Smc3TU1wZzVWQVZmVjI1YUl0YVBsSnQ0QWpOZDNIYm9URWhuYjlIWkRuQWhmVzlrcmRsNDJ5UURSVmJUWXhScGFSM2cyQlFoMnY2dWduWWRaQmlBYUo3SDJ0UHkzWTR6YlpKczlWT1ZMTktPUTE1VVNVendxdVNrWUFRaUpGTW9lZ3BxZw?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "胡塞控制曼德海峡是关键石油出口通道的格局改变",
+      "unique": "报道大量依赖流亡/独立媒体（Meduza、Радио Свобода、Важные истории）；油价上涨被放在俄油气收入背景下解读（OilCapital市场专栏）；官方媒体对该事件几乎不在头版出现",
+      "headlines": [
+        {
+          "source": "Meduza",
+          "original": "Хуситы взяли под контроль Баб-эль-Мандебский пролив — один из ключевых маршрутов вывоза нефти на Ближнем Востоке",
+          "zh": "胡塞控制了曼德海峡——中东石油外运的关键路线之一",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk5rM2xzVFk4ZlJ6dlFrT3Y2a0tiYmxLRFdBT3VKQXFPMGtqNXNnQ1VfZ0pqMGNaRUZOdXRWVXV1T0dDUmg4MnhKWHBFbERRak1jNkZfYmZoT3FvMXpBb0htZnI1MzNlcXVWNXgtbWFiRHhlVkp1OUhnaENtRVNPN05VSjlfc3JYcVJuaWJjOHZ4eUlGZ1ZxS0lvaEczMGZyY2lxQnBtNmpQdWZzY2pmQkJXbzF1WUdsc1A5ZTJxT0UycXFrbEdSaF9RZEl6eXNYbFU4NElLRndlS0hKS2NlQ9IB5gFBVV95cUxOOVdZQ1hWTEh1YVBjRndpOEZ4NzV0ZFZjY2xaLTQ3bUVwMHdTN2E4akJPcVp0OVBLajBhY0lqYkp0ejFSYzVGNlB2ZGhSYk9YQzJ2LUNTUXd2Zy0yUnB6bGkzSE9mdVBJQmYzN0p1VWh5bkltYzY2LVRiMldRYnoyRkJmYkFKN2ZJOUFaeTZsbWxTY3UybzBMbThMbDhsVHVoeGJDMDdCSXNEeGNwUktZTWJmZmVlSlYtdHJGaV9jSVBEeVJEVXd1VWYwOHduUENvbDgzeWQwYzliZVZRSU5jMHRHVUVWUQ?oc=5"
+        },
+        {
+          "source": "BBC",
+          "original": "Зачем хуситы пытаются блокировать Баб-эль-Мандебский пролив? Текстовая версия подкаста «Что это было»",
+          "zh": "胡塞为何试图封锁曼德海峡？播客《这是怎么回事》文字版",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1Y3U1bm5RNHJ4ZjItNkd3NnNIdGhUbzhCNFJVUmtpWlhpTWlvUThpY0dkb0oyVENuRUg0TktkNW5mUXVpZjZ1TFh3c1pYYmp1X0xWYThJRnllZ01jTGfSAWNBVV95cUxOVU1Hdk5RV3lWWEFYeWVCRjdJYkxwbHVQZEcxTDJfVG9TS2FQVmRRXzNqbkVCZXVhS0s5cVpBZnFqNlM1MFI5S1p5UnFmcjFiVmVoQ1pKWWt5OUFJZ3RHQTlzTXc?oc=5"
+        },
+        {
+          "source": "TRT Russian.",
+          "original": "TRT на русском - Хуситы захватили «ворота» к Суэцкому каналу",
+          "zh": "TRT俄语版——胡塞夺取了通往苏伊士运河的『大门』",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDVXOFM2b3Z2R1M3UTRFRUF0aTRCdlhBNlVJZWVJT2RBWTlCVTQ0RDF6NXZnMnhZWi1LR1RwRjFrRG1KOHVNSG5EQlgxWDJCS0FyRzRTcWtfdnMwSE8zaVkxRHV3bE1zWjNXcGxKd0ZXVGNXbVRYVUl2M0VDMnRRaHF6YUNDNjhVWU5JYmcwYkhFM29ZZjVfRm9NQzVuclRWdWFkTmpNMzZDOG81SnB0ZDd0cUFydjFlb2JYRHZQYzhzZmVja3hKOEFudw?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "曼德海峡沦于胡塞之手，苏伊士运河与埃及国家利益直接受威胁",
+      "unique": "独家聚焦：以色列官员称『比霍尔木兹更糟』；特朗普拒绝沙特王储打击请求；伊拉克撤职军官佐证袭击来自其领土；将曼德海峡视为胡塞对苏伊士运河施压的筹码",
+      "headlines": [
+        {
+          "source": "BBC",
+          "original": "باب المندب: الحوثيون يسيطرون على المضيق، وتقرير يفيد: ترامب يرفض طلباً من ولي العهد السعودي باستهدافهم",
+          "zh": "曼德海峡：胡塞控制海峡 报道称特朗普拒绝沙特王储打击胡塞的请求",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11RmhHRXpOdXJTMU5CT1c1SFpjTC14d3h4bEVPYjRYSlVJQms5VGRiNm85cGEzd0k0T0s1SWU1T3hFMHJsaTkzTzNLdmtkd1hTMUREWGFwZ09CWThJ0gFiQVVfeXFMTU9YOEw3VTI5TzBsUmZBM1lOb1YwS2NaaGtqdWxteWNKWU8xZDJpWmVGT3VXaUdCUmRLOXhDMXJkbWNLLWNibXdkblJpLW1TMUZhZncxSi1nZWgwSHhSMkNXbWc?oc=5"
+        },
+        {
+          "source": "العربي الجديد",
+          "original": "مسؤول إسرائيلي عن سيطرة الحوثيين على باب المندب: أسوأ من هرمز",
+          "zh": "以色列官员谈胡塞控制曼德海峡：比霍尔木兹更糟",
+          "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOQzhSazFDalY1bWpCOENvT2x1NFg0TWtVZldSenBzU1RFTG1WYkx4Yk8zSlF4YXBFZmQ2SVBJR2ozUGdwSFo3UlJYTzIyZUxVcC04UDQxUkl2bDhRUDdNWEE5b1RXWV9QTzdSRzhNZWRiZXI3RnJRa2FfQjhlSi1kdDctYzlNUkNyODJ5QlR4YXpKdlZxVlRld0FfZEI4ODl1RGQwNGR0RjlQWjA4aXh6b2tLcWlpcjFBN1JQQnJtR0t2MGFlZUhZaHhDWHJIaFFnMl9MUUZfTHdFWFZERXprQXlmSUpNV1U4RjF3NWJPOHhuNXFqVWpTWlc4ajEyVFN3cWUxbFdydGRoeV9IajJTQ1YwMVdCWnhaYWRzeTY5emQ2dm5TNFNRcmlmQkhqZUl5S1huUkEwc05BOFJXcnY0dF9XLUlJMGN0VmF5c0YxSkRLV2dzcjF3NWFaakFrU1F4eVlyZUlqektkM181TGowZzl2OXBTdWl4dGFKcWZVVkZsbkRadHRLcVNJaERyQUFSTDFpdTE0czJQODhNTHU5RW1oc3dhQXlQMWRCOXEtbFhxZ2xxVjNxM1N3U3dBMUhKN1lsZnRkbm5tZUlwcTR0eGtpSXhTMnFCMjBnNDJtSTc3ZWc?oc=5"
+        },
+        {
+          "source": "مونت كارلو الدولية",
+          "original": "\"المضيق الثاني\".. باب المندب يضع السعودية أمام خيارات سيئة وإيران أمام ورقة جديدة",
+          "zh": "『第二海峡』……曼德海峡令沙特面临糟糕选项 伊朗获得新筹码",
+          "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNMlk1RFJKZ2xKaXhrTDRoaFdqai1scHU1SUd1TWVyT014Mk9xRGlBSU56QnlOWmgyS0JvajYxMm5oQ0c0RnRQRHl3a0syaTZsV21MTXUzd19sQXZ0Mk9NWUlzVGRlaF9BdExqRG1UVGZuaWhSU1dIQS00VXVUcXViUm1BenZTeE0wVU5IZkItRGNvZGFRQ3FEc08yd2NUcU40Q0VONnZoeVd0QS1nRmpZQUU3VHg3N1hwRmhQMjJ4QWhLRUs2R0ZwbU5NaUdwa3FfOFB1NzBfQjRMOU1PM1NaOXFXXzRpU1hDYThDd2JYYW5JLUhkM1lYYmY2VGVJMmt4c3lCTVBFamE3T1pfZXF4LUItSE15SWZDSUFHYTJXdnZWbXlSNlZUTl9nUzd4RnRTSERNcmpoemlZY3J4cXFOdmtKeEdSU2xoajhZd05TNXZCTVkyTEtxTzJMdTNzeFphZV9xaTBLTHNtXy1zdDFscENleTgtZHJUeWdSbElPNVBkWGxuSU83QTZVRVZoanhPS1lnajJCYjVHVDhESmlQUUN5d2NsdkRlMDRoaWZZTjdMMTBCejg5M0tYbzU3NXoxQ0FDT2d0R2dDZWRXcm5BeWd3dUJ0eUxkeUJkQms4bVgyLXJ2MVFDV2ZvU0wwRXB6ME1LdXJ4Zi12dGJkNVVoM21kdUFOT1A0NlI3dWxoemdCYWZNZms0QnpjQTFIQXdfM1pXQWtfS2NwUkRYYmdzcFl5OC1DU0NQbkpxY3ZqZ29qbktmX184S2VmU1Y5WTVnQUdnTnF3dG1fRDBWSm41ZUk0QzJOZjdGb0pCVVR2T1hreGkwQ2FvQjd0ZlpuMTFuQ0VacnBUTG10aGhBWEtFMUNqTTBIVTV5b3dWTkE2Q2lFZjQybmx5YS1XaERhNXZG?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "霍尔木兹与曼德双海峡承压，全球油价破百、能源市场震荡",
+      "unique": "财经媒体主导叙事（华尔街见闻、金融界、金十数据），强调『锁喉』『锁死』与油价对市场的冲击；头版未见此事件，全部让位于金砖峰会与国内新闻；有『美国陷入地理陷阱』的地缘评论（来自境外中文媒体）",
+      "headlines": [
+        {
+          "source": "华尔街见闻",
+          "original": "曼德海峡告急！沙特首相两次致电敦促美国打击胡塞武装遭拒，美目前无意出手",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iS1dlLUxuZ2ZhbE95Wlp0MUJTMF81RVNZcUVfNEs1ZF9GVFU2UnZPMDZXY2JMYm1hM01NMF82WndFLTdtTllhQkZ6Njc0WERuVEtV?oc=5"
+        },
+        {
+          "source": "华尔街见闻",
+          "original": "一支拖鞋军，正在改写中东格局",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JWjdUQjhVTk5wZjh0THg5cTVqTFRWVEFxTHU3Rk9NaHVsemZRR1VmalRrZmI5QnpRSTlNU21kMlhnODRnSC1ETVhQblc5allYX25v?oc=5"
+        },
+        {
+          "source": "央广网",
+          "original": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZ1NfTGNjNFhlYnVrNnRsemNhTU5HN2RNQUNjVTNnWU12aWp4MmVMb25USXE3dkxJbUlpVTc0a1JLNmJUeGlLMjZMNFBsejdRc1VfZUtwTDhYUVpZRjFYMHJqNG1XQTdN?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "各国数据来自不同的本地化搜索词，媒体构成不均衡（如俄罗斯多为流亡媒体、埃及以泛阿拉伯媒体为主），搜索词差异本身会影响各国呈现的框架，显著度判断受头版抓取时点影响。",
+  "event": "胡塞武装在伊朗支持下攻占曼德海峡要地并袭击沙特输油管道，导致全球两条关键石油航运通道受阻、油价飙升",
+  "event_title": "红海危机与油价冲击",
+  "date": "2026-09-12",
+  "slot": "evening"
+}

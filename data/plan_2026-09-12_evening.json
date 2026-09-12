@@ -1,0 +1,17 @@
+{
+  "event": "胡塞武装在伊朗支持下攻占曼德海峡要地并袭击沙特输油管道，导致全球两条关键石油航运通道受阻、油价飙升",
+  "event_title": "红海危机与油价冲击",
+  "why": "该事件横跨军事冲突、全球能源与经济议题，被美、英、法、德、俄、中、印度、埃及、巴西等多国头条共同报道，且各国视角差异极大（美国视为伊朗对全球经济的威胁、俄罗斯强调油价上涨、中国关注航运与管道遇袭、印度聚焦其对BRICS峰会与油价的影响、埃及聚焦海湾安全与霍尔木兹谈判）。",
+  "queries": {
+    "US": "Houthis Red Sea oil",
+    "UK": "Houthis Saudi pipeline",
+    "India": "Houthi Red Sea BRICS oil",
+    "Japan": "ホルムズ海峡 原油 サウジ",
+    "France": "Houthis Yémen Iran pétrole",
+    "Germany": "Hormuz Gaspreis Iran",
+    "Brazil": "Houthis Mar Vermelho petróleo",
+    "Russia": "хуситы Баб-эль-Мандеб нефть",
+    "Egypt": "الحوثيون باب المندب هرمز",
+    "China": "胡塞 曼德海峡 油价"
+  }
+}
