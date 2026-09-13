@@ -1,17 +1,17 @@
 {
-  "event": "2026年金砖峰会于印度举行，中印俄伊等领导人就中东局势、霍尔木兹海峡紧张局势及反单边制裁寻求共同立场",
-  "event_title": "金砖峰会与中东局势",
-  "why": "该事件被美国、英国、印度、法国、德国、巴西、俄罗斯、埃及、中国等最多国家共同报道，且西方、俄、中、印、埃及各方对反制裁、中东安全议题立场差异显著。",
+  "event": "2026年金砖国家峰会在新德里举行， Modi、Xi、Putin等领导人会晤并发表宣言， 同时斡旋乌克兰战争与伊朗相关冲突。",
+  "event_title": "新德里金砖峰会",
+  "why": "该事件被印度、中国、俄罗斯、法国、美国、日本、埃及等最多国家报道， 且俄中印及西方媒体视角差异极大（多极化叙事 vs 裂痕叙事）。",
   "queries": {
-    "US": "BRICS summit India sanctions",
-    "UK": "BRICS Gulf peace summit",
-    "India": "BRICS Summit 2026 Modi",
-    "Japan": "BRICS 首脳会議 インド",
-    "France": "sommet Brics Inde Moyen-Orient",
-    "Germany": "BRICS-Gipfel Indien Sanktionen",
-    "Brazil": "cúpula Brics Índia Lula",
-    "Russia": "саммит БРИКС декларация",
-    "Egypt": "قمة بريكس الهند 2026",
-    "China": "金砖峰会 中东局势"
+    "US": "BRICS summit 2026 takeaways",
+    "UK": "BRICS summit Delhi Putin Xi",
+    "India": "BRICS समिट 2026 दिल्ली मोदी",
+    "Japan": "BRICSサミット 2026 デリー",
+    "France": "sommet BRICS New Delhi fracture",
+    "Germany": "BRICS-Gipfel Neu-Delhi Putin Xi",
+    "Brazil": "cúpula BRICS 2026 Índia",
+    "Russia": "саммит БРИКС Дели декларация",
+    "Egypt": "قمة البريكس دلهي السيسي",
+    "China": "金砖国家领导人第十八次会晤"
   }
 }
