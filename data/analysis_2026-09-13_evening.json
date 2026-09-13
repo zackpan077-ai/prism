@@ -1,0 +1,329 @@
+{
+  "findings": [
+    {
+      "title": "本期为标题对照版",
+      "body": "自动分析组件本期未能生成（内容安全限制或模型不可用）。以下仍是十个国家对同一事件的真实标题并排——这本身就是本产品的核心价值：直接看原文标题，自己对比。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "",
+    "rows": []
+  },
+  "countries": {
+    "US": {
+      "name": "US",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "AP News",
+          "original": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - AP News",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5"
+        },
+        {
+          "source": "TelegraphHerald.com",
+          "original": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - TelegraphHerald.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5"
+        },
+        {
+          "source": "Ottumwa Courier",
+          "original": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit - Ottumwa Courier",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5"
+        },
+        {
+          "source": "Business Insider Africa",
+          "original": "U.S. watches as Russia, China, Iran, Saudi Arabia and Africa’s BRICS powers rally in India to bypass sanctions and break the US dollar’s hold over global finance - Business Insider Africa",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM19HaEQ0bmlzRDdQT1NSU1dQc21UVkU2TjNjX3p4YllGWk45S0dKYnNCOXdVUGpmRFk1TUpQeGhDelJ6OTRYakYxMUpkUUpsQjdBeUJPUWJEX1pzWEFhQ2FiNzRNRTJ5UTNGZFlzLUt0dDdUVU01eHo3N0VtTm5yX1hBd29XeFF6X1R5Mnh6ZVVnakFGYXo3NWN0UGRidTVRZGhmRWpaM3NLSDA3cmZNdkx5LWJpVm5hQTh3OGt5NEpRTnZUQk9ubHo2LU5wNWk3V09QNC12dHo?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "UK",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "Financial Times",
+          "original": "Brics push for Gulf peace as war worries mount - Financial Times",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzROaVEyQmhvX2JrNHFsaWNmejEza0dYZjJfWUZKdDhwY3U1V2lCVk85WFFNUnBfWTdfTmFELXo4SEczMlhKUUhPQ1MyM3AtNkxiSzR3aDkybVc2RElObXB3VHl5WFVBZ2NpSmVncWhlbXBlZ1diOE5tNlBBN1l1SlJDNm8?oc=5"
+        },
+        {
+          "source": "The Jerusalem Post",
+          "original": "Iran crisis drives new diplomacy from BRICS to Oman - The Jerusalem Post",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBVG0za3doSm9WeFhnUXMwZGh5VmpVNU9nUzJPQU5FTXZKTDBzWjJoWklKdTZHSnk1Y2p6cUhHY0I1eXUwZEFvR0hacDh3MW53eWJkY3JhbjhsYUVL?oc=5"
+        },
+        {
+          "source": "PressTV",
+          "original": "China’s Xi calls on BRICS to help restore peace to West Asia - PressTV",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWRsV0VLTzFxZk9LSnpUd1JaaTNuS09jTWNmb1o5UFJGN0d1cGNQYm8wT1psY3k2U1dKQXBQNnpGVEM0bFVXY2U2cHlCTU5fRUhGTVdzcXFtTjkyVU1SM1UzcHRZZDFETnZmaE9MN2U1aFpoZmt2ZGFIRlBJaTRhcm8xR1g0dGFTVDhTSnlfX2l6MWpuemxJNklFdTZueFcyOHhsQ0gzVU5DQlpJRThlQnJzbjlNSk5K?oc=5"
+        },
+        {
+          "source": "巴士的報",
+          "original": "China to work with BRICS members for peace, tranquility in Middle East, Gulf region: Xi - 巴士的報",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa29GQlZSMnR5Y3dtaFg4TXoySWZsaEp4WjEzeDExRmREZ1pXRnRYOUlmZTBrUUwzV3pjNmVEVWRhekkzNFJoT1hCYTNwcktLLWtFYWFLYmt1MG5vMFU5MnpBUGZwMDVtQTNxMFBoZ3VaTGNJSDJndWFNd25Kd0EyLTRxRUpCVTFLM3loSnFGbUtCX2dBUlhqazBoSkhKT2VhMjR4OHA1cXZZZm5ZMWY4LTJydzNudXpvZ2R3LUhjY2gzdHhTNnctVFdvamFPY2FYSUE?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "India",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "The Hindu",
+          "original": "BRICS Summit 2026 updates: India, China stress need for peace and tranquility in border areas - The Hindu",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlNQMTR3a0hhTlQxY1JPQ29CZ0luVEx1XzA1MjZOTlFzRkRQV3B4RXgtb1NTdzZtMkJLaGwwbDk3Q2NWaU5GdTFxa2xaa3FmRFpKekN1OHplRjBWYVZNc2dwQVYwT1dENTY1WU9WS04ybjlMQlE1S1A3VTNldzJ1WmF6aER4ZUV6MEhkSm1Oc2s5bndFR3FGRF9fQnRvX1d1YjJyLUh3QmJzRy14YVpUTDFIY0pSZ0p0UE5iUXlVWGw1RDNGYk9VdEQwVzBDNFFkOXE1RDl5cmlUSXltQTY40gHmAUFVX3lxTE1qc240c01FRW5Nc0lMTko3ZDdtcjBpNEUyMFIyMjEtOXU1WktkSWtVVC00SDZad0hkLWdrd3IteUFQMFBZUHNTWExDOWNQV0g4RzZ2OTlOY2ZDbzY4LTJ2SmtrcFdpNFdYMVJWX1lkZXV1QmM3NDBzdDlybVNFQWxPMmhaanRVVDh6WnRGbXNiVTM3NDdMWDRIR2ExaTNKU2xiTE1EeDNPZktaQ1JXSDVBZDhjTXl5dk1uN0ZOaThTaTNhaWthZFFTalZFZW51VTBWbERybG80VGJDNzJTNS1Tbi05QzF3?oc=5"
+        },
+        {
+          "source": "NDTV",
+          "original": "BRICS Summit 2026 LIVE Updates: PM Modi Warns Against Weaponisation Of Technology At BRICS Summit - NDTV",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQb3llQnp5dDFLRFFBXzZzZTVOWkRVUlo4Z1pFdl8yMUhEYzdXeFlJS1FXQ1RXWDR2TmRmcXQtVGhPOFVQSURaeEFGclM0WjIxYnFZTi13RzFDaERQNmw5WXJ3U3ZGVGN1QlNJMjRnS0tWT181QXRjUGpKNkZneE1aMFVJTGlJX1R6aE1QYlpISm5KNW9zdWhZSXFOLVB3dUI1MmpxWHlESHJ4LTRBNUR6NDg3TVNoWlhBT3lqaFo2My1TZUw4UkZLTU8zc3pVeXpBYTNiQXFST24xdFdLenpUN1A1QW9XVG1XeWVySFduZ1RGSHdDdGp0YUw5dkM0OU9MQzc5UlRqVkc1eEZ1cWtLT1RIckF3emJnVnfSAaICQVVfeXFMT0xJTVFtbXhnOGd2N3NTVlVFMmRWSFFsRGptVHhBUTdHUFJCXzR2Sl9idEhzS0duOFJjWHNKMFY5dHVyRDAtMnRsTV9xcTZVbHpkek5oald2TlBBTjlsb01wM04zbVMyV0IwcnlCT0JCT3ZaUXh3Rm1pWFVybmc5WTFtS2RWdTFkcHQxa1FkWXBqVkFGT0EtanB1RUx6SWdTSHdIQmlMdXBnQjI2UnJmeUFQSHl0Yi11b0Q2dG1sYzZZX2VUcTFwMjVpLUU4cjJHdzBrU2NUdlc0Z1VPY0d6QVM4SHc3QzFwbjZkcFcyMDZrRGtMY2NOd0wzajdVbmFKS1Bkb2tFV0d4c0R2SkJyUG1mU3NPQlo4TFY1bGdLam9iX3c?oc=5"
+        },
+        {
+          "source": "DW.com",
+          "original": "BRICS Summit 2026: Putin, Modi reaffirm partnership - DW.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUR3WGozQk9PaWNLc2JhMk9tTGRyS2lnQVcwUk91cWYzMUpYLVp4d2dnekFnbHdlQnVMMTlCY2FfcXpOSG1SYXQzbklfaXVaeVFiRGV1MHB5SmROUzlCWlRyeDdnYW9jSkliVjBLdjNIdEdOWG9uRnBvM0wtSXloamFRdHMzemNua3NQeU93?oc=5"
+        },
+        {
+          "source": "Zee Business",
+          "original": "BRICS Summit 2026: PM Modi calls for Global South to move from rule-taker to rule-shaper - Zee Business",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTktCSDhQV2I4UG9FbXRFOE5TNGx5VEV4Tk1mSVVScXBzbjBiME4wWWQ1ZUJHRmN1M3J5UWdoeDRtSXlLaXl1MzdJYWo5dWtaQ2Njd29panRfbmtsbVFObENiOF9VSWNjYlBPUjZMcFk2OFExN0c5dTU0dkhiVEtJcW5hR1p2Q2hLRzJCZmZSTmdfblczWm9oUnNEVU50eU9zUU1KdVoxbVVrNlFZZldxQjJadkp2ZXVVQ0lhUnRFY3l5Mk5STWVN?oc=5"
+        }
+      ]
+    },
+    "Japan": {
+      "name": "Japan",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "NHKニュース",
+          "original": "BRICS首脳会議で共同宣言を採択 中国インド首脳会談も - NHKニュース",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQkd4dllpQXpvbUhsd000ejFCYjNyV3VEV0tWakdwbGtpeDdfa2Yzci0zR1l3dkpRR3RQaGtyRVVKODZvVjY0d1NIbk16Ylp1XzdkdnJsbWRXN1YyeTBv?oc=5"
+        },
+        {
+          "source": "読売新聞",
+          "original": "中東情勢「最大限の自制を」、ＢＲＩＣＳ首脳宣言を採択…インドで首脳会議・習近平氏やプーチン氏ら出席 - 読売新聞",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTZDNWQW5SbGFWa0ZuWmNVcnQtX0tGVEp0dDJkeGN6a2dNUnludGFlczZINjlfN194NjNwX1BmWjl1eTJsUDZ4UW9xRWF3aVZwV2ZsUksyYWdaYUFRbHVxMExR?oc=5"
+        },
+        {
+          "source": "Reuters",
+          "original": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名 - Reuters",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xX3VQM1FNa1FMd2VpSmo1aUlIVFlTcHplU2dSb2YzNU9YYjB3SEtXU3ZkUzNpNnJXY1VsdXc2cFJhYkIzRm1JbFJxZTNCck91LWRaYVVHYklOaTVyblhnVjhHRnEyZlMxUmRhSFRDdmRORUdPNVZBNFlDRV92QQ?oc=5"
+        },
+        {
+          "source": "西日本新聞me",
+          "original": "13日、インドの首都ニューデリーで、BRICS首脳会議2日目に参加したインドのモディ首相（前列右から3人目）、中国の習近平国家主席（同2人目）、ロシアのプーチン大統領（同4人目）ら（ロイター＝共同） - 中ロ、非米欧の結束図る BRICS首脳会議閉幕へ - 写真・画像(1/1)｜【西 - 西日本新聞me",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zOW1jUG1kSm5QRWZ0OHdBVmdJS1hIVS15WjA3aGM2QkQ3MlFwam9FdDBKOHpnbTRLVTVmWENCVUlvR3FvRW5kRkxHT0hQY1QzWHFzRFduNA?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "France",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "RFI",
+          "original": "«Inquiétude» des Brics: le conflit au Moyen-Orient au cœur du sommet, Modi préserve une fragile unité - RFI",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkhSOU82dGpLV1BnbUItdzkxX2tucy1FTU5sM0hSanFuZTJESzNGOEJtdUtPb1VQVHIyeDREdV9rekI1S0pkOUg4ZUtjUVhxUXhkU1dSZjlGY2MtM29rQS1rcGZtNmVyOHluRTlsN3JGalVRQktZU2ZSX1R6dTRraG56UWlmUU5nYVltaFM4TkhNS0FUS1BIeEJvYXhSSVBNN3lTVU9ZQ09CMW9tYUtVMEhQczhPRm5vWm1lNGxfOVBXQjl3d1BsNjRnZVZEV211?oc=5"
+        },
+        {
+          "source": "Le Monde.fr",
+          "original": "Le sommet des BRICS acte une nouvelle étape dans le dégel prudent des relations entre l’Inde et la Chine - Le Monde.fr",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZ1oxbndLTU1WRHdCRkhSalkzLUp1LVBUUGY4LWIxMDRZNEFfTVJJc04ybXEzM1RqYzFFMW5leDBBeXRRalJDQkNZSE4wVHpZZGJLT1ZCYVdTWG95cDZiYU1sdjI1eVNQY3dQeHFfQ1VlWGZIY0NGN0ROZEdRTWo3cHRuMVBrdWdhMEFzVG05QktXemFSdUFmLTdoY1R1OUFNeEJscVctVVZuNl9wOUFtbTI3Z0dqVXN1UThLLS1PdVlhd1RKeW1ETHNhb21SMlFIN3hBbWlydmRwZzI0Sk80NHhka1drRHVoRG5ZUm9feXcwRjZkWG9fVGxtYmFNd2hFYU9COUZZc1NrQQ?oc=5"
+        },
+        {
+          "source": "fr.news.yahoo.com",
+          "original": "«Inquiétude» des Brics: le conflit au Moyen-Orient au cœur du sommet, Modi préserve une fragile unité - fr.news.yahoo.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkhSOU82dGpLV1BnbUItdzkxX2tucy1FTU5sM0hSanFuZTJESzNGOEJtdUtPb1VQVHIyeDREdV9rekI1S0pkOUg4ZUtjUVhxUXhkU1dSZjlGY2MtM29rQS1rcGZtNmVyOHluRTlsN3JGalVRQktZU2ZSX1R6dTRraG56UWlmUU5nYVltaFM4TkhNS0FUS1BIeEJvYXhSSVBNN3lTVU9ZQ09CMW9tYUtVMEhQczhPRm5vWm1lNGxfOVBXQjl3d1BsNjRnZVZEV211?oc=5"
+        },
+        {
+          "source": "France 24",
+          "original": "Après le conflit au Moyen-Orient, les Brics au chevet de la croissance mondiale - France 24",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU3ZXX2hTUkh5T2xSQ3JNak9LMEZULS1OZDJ3MExFaFptSUZtbTJJWHJ0dzdhdWJ6cG1HTVJQWGs2LTFWOHctaURtY3BFelF3dTI0UF9QLWtuSVp5S0tyZ3E2R0c2NzctcTh2Tnk1M0FDZkI4ZXZTWlhjZk9CN3RSRmNzQU9kZjNSOFBTVWhKWkViZ0hDemhacUVhYlZtZ0FZekloeUJPR09iOEZyVzQ3b3lHSGUyQnR5WGNJYndqZXVraXVNS0pOREkyc3ZEUTY1eUE?oc=5"
+        }
+      ]
+    },
+    "Germany": {
+      "name": "Germany",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "WiWo",
+          "original": "BRICS-Gipfel: BRICS fordert maximale Zurückhaltung im Nahost-Konflikt - WiWo",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0w4bV8wYnI4a0lNU0RzRGlNTXpFNkJDTHpJX2M5V2l0WmhFNE9fNUhWUFpnUjFPcFB4TElfX05SRE15ZU5EQWJhQVhnb0NNdnZ2Z0hXQWtRdldNNHUwS0RSa2VvU08wbFBvOXktOUV2SG90bXVXdHlmWU91RWNFc1V4SGNIREswWnAzc2R2d2g0YzJaeXFkdDFkRUhrZ3lFQmdGc2xmclBid1ZXOXhOMHBzaGlKZUstWEZGcg?oc=5"
+        },
+        {
+          "source": "STERN.de",
+          "original": "Vor Brics-Gipfel: Indiens Premier empfängt Putin und Peseschkian - STERN.de",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNem93bmE0TXFZOUhTWmc0SkJCMkNyMUlpeHpHX1lZWk1FQUNYVkY5RExSWnFzMHc0NFpSRXktaGlRT1NpdFVQLXpva0tpOE5oWnNYZzJxWXZ6ckFpVFZ1aktMWklWVHdPRkRPT2ROT2R0MmJIRlhNQVk4VmpmeHRsWTZfYkx6Sm12QThjdllZUGVqVHU2SWcxWDIzMmF4d1d3RDZWM29nNmw?oc=5"
+        },
+        {
+          "source": "Nau",
+          "original": "Brics-Gruppe fordert maximale Zurückhaltung im Nahost-Konflikt - Nau",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk9iQ2FaaXkxMHdGQU5famZ2blpSUEVQdjRoWUpCSlc4d0ZTVi1wbXlqRFdNaTBSMExucmJmZGdfRTR0bnFuTV9ZY050MUhjbTUxLV9zeHBGaG5JZ21fT1FfZmZjTV9SM2UxbFA1SFVQLVFZM3pWaEp5dTBNUjZORjVvMEZzT2tTYktqWlBMNUZqZXBpb2tQU1BJRTRWUk1oQ0QzcFJR?oc=5"
+        },
+        {
+          "source": "Yahoo Nachrichten",
+          "original": "Sanktionen und ein Marinestützpunkt: Milei eskaliert Streit um Falklandinseln - Yahoo Nachrichten",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkFaTXk1ODIwS0hXQWhPRXkzeV9ZNklhNm5BVWFIeVRwMHBhTnZUQkgwR2xDaHhFNHBWRVprN1ZrbGd2NTNhZUgtYXUtTk40X0NZYm9YNmJoT1VoSVhidER5T1p2TThGa1otNDkwaEZVWDEyUUIxcG9GaHNZazJpdVpOdTU1enhSbFk2MlFDbzRPM3ZKMWpURkEzS3BvUzJBWXI5bTB3?oc=5"
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "Brazil",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "Poder360",
+          "original": "Lula será único líder dos Brics fundadores fora de cúpula na Índia - Poder360",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDRwVk9JLXV1Y0hJY2lYUUFtOS1helYtZ1M4LThZWG0zczA0UThfRFJEXzlta3VmWDRmVkNxV0tibnlMaDFaVzFJNXJkM3J4LW5qMVZ6NUZsYU1UQnBkS1FSRi1WQWlCX1Rud3JHZjJtNzc3OE1IMTZXbXpaeXJXbUI2QXZiOVRJNGVSdHZQOFRiblNjc3VKYUpPMTJNNUl1ZXo2VGtxZEF2bUoyNzY2RFNCNnNXUQ?oc=5"
+        },
+        {
+          "source": "Estadão",
+          "original": "Putin chega à Índia para cúpula do BRICS; Lula não participará do encontro - Estadão",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYW9sUjd1Y0VaRTUtalFjZ3FkcFd3UW9oZW9tRjMyT05JcGZxbzNFZzIwdjc5a0U4Ui16OU1jdlV4MlBRT1BXNUU4M1VjZmhsRlNnZmtGV29rMklUSmRCWFpyZnVZVEZFRUV1WHhueVo0NXZQbkRIaEdCVk1PX2NNem1oekwybkI4MVJ4c2NRWGNJYlJCNWNJal9LTGlzTjNVT01kSHNDT3VuNWx6MTFkR2xsTk93WGl6LXJOSno1RldKRVFTSkE?oc=5"
+        },
+        {
+          "source": "O GLOBO",
+          "original": "Putin chega à Índia para cúpula do Brics marcada por tensões; Lula enviará Mauro Vieira - O GLOBO",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM04wVml6WHktN0pVVktFcFdmeU8wRFZGYlh6NDgxdUR2LUFoVHZRMmw5Z3laNEZTX2RTQjc2aHVteUFSdGdnZ2NLRG5FUExBcGtVUlFudGkwdFZidThrMk56N1lON2VQYzAxVGZ4NkdzUHgwSjFXdXVVclhMRVFrSkFTOEpjb1BpNDdWa0FLb0k5ekRxWWNlYXBQMHZXN28tQkJ3UlhqX2xSM2lZSlMtd1U0MkVIQmfSAcYBQVVfeXFMTW1iMldKZXdCU1pORG10YnloTGpnM1lwZUdJSFQyQmpNem1za0d3NC1xXzdONC1BeHg1UXZMT2pXZ3piTndjQXZ3RzlRUk0zbjcyWkhiZ1RtbXFzQzQ4dWI0MjZtMjY4R0JqOUpPb3JBbnZOMVA3UzdRTFNtLVJsdC1zTjFqRWw4VzNCdFhhWkE1cUxqYzduSzh2WndfaXZqZlRrUFJ4V2hmaVgyMDF1NjMtZ2sxOTRycWNlVTdoMEx5V3dBVC1n?oc=5"
+        },
+        {
+          "source": "CartaCapital",
+          "original": "Sem Lula, cúpula do Brics marca reaproximação entre Índia e China após confronto - CartaCapital",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3pQa2VBTVNiNzdnMzJnY0dRc0picWI4c2hNdE5TS2pIQ0dSS0c5dFAtbFFQQWlISGo2Zmpyc0ZGLUpFSllPbDFuRF82dWNtYldvOXRzaVdCRVdIaDluekZ5WlJySEJ2UEVlMnNFS0hnTTFPcmJvRzRsc1lXWkhZTkE1QmJ0elFILVN0ZHNmQ3EzR1NzaWNobW1qaGFTY1VIQ3lVWmhMQTBhY3pmLWhGVHQ0UGNFNERpdUE?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "Russia",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "RTVI",
+          "original": "Ни слова про Украину: о чем говорится в итоговой декларации саммита БРИКС - RTVI",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFlOd0JlSUhPcUpmRDdQU0MtM0VSTmpkMHlmNG1OcUhJZXN0LW80QjRtZWNYdzF5Q05zZk9wOFRxNjNIeGMyNG5COEZCTFRDWWRiNXZRV1Jwa1UzblRDOEozdUdOVS03RlMzTXlqcDQtN192QV8xSy1PX1E0bDg4a1J2TGNNUjBjTlB1bFFMN2xaaWNjdU54clpncEN3Qlk?oc=5"
+        },
+        {
+          "source": "Финам",
+          "original": "Лидеры стран БРИКС по итогам саммита единогласно приняли декларацию - Финам",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdFNPcjlWRExLTzRuRHJvNkt6MEt2emRHVjljUU1zcnFJM2psOTZnczlHTExWLWg0RkpLRVZCY2h1TEV4MmlkeHpKMWxuNDNvV3BhcjlyQnNyeE90ZmFiWHlrTXd1X2dzMGJIdl9mdjdPUzE1Q3ZZdG13WXE3WDlKMFRVakx6ZGdCRVM0OFh4MVRTY2F2a3ZpMzdqYXBMLWdrNzhvdmJYXzRWSmdRN25SZm1IS1JoRktkRlk1MHd2UmNodw?oc=5"
+        },
+        {
+          "source": "TV BRICS",
+          "original": "Лидеры стран БРИКС приняли Нью-Делийскую декларацию 18-го саммита объединения - TV BRICS",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM05YNmpYX05RbkVKaHIxVnVOOU1iSzQyWnMwdnV2aUZlSy1ySWN5LXd4eDV0a0V0MndKdVVfdzV2cm1zeHZ3bXJla09pNGxseDFqTkF2aUtqb2dvbDhOMEZxdEs3WkFLdGZSVWIyVnE2X2UzUHdURXpBTFVXUFZua1dtbVlZNWFWd1R5T0thUTQ5NUVjMlBlamhvLTRYUVVTbUFOdkxDSXdFLWs?oc=5"
+        },
+        {
+          "source": "360.ru",
+          "original": "Украина не вошла ни в один из 140 пунктов итоговой декларации саммита БРИКС - 360.ru",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDdfOEhoNmdTWkV6ZV9PbnFVRVRQMjBHVWlXT3Q1ZjRfNUtSc01lWGFnWW1CZlFlNC1wSzctUUhPaXZ0UFVNcmJycG9jMkJMeEQ4YXhLMXdVLVdNZXlTR2NsUWZpVnpwb2RsOVk5YTVvT1VsTm5JQl9qZFY3VlZLMWlKcUtBNmZNZ2JlU3h6Y0tKQ0lnOEN5TG9EeVU0MGlmdlU5SA?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "Egypt",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "الجزيرة نت",
+          "original": "قمة بريكس تؤكد تمسكها بالدبلوماسية لحل الأزمات وتحذر من شبح التصعيد النووي - الجزيرة نت",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQVU9GTndtelp2WEF0amtjcVJCUGpNcVhCeVRsSnpTeXFicmlwMzN0RkY2ZWxvS1VJUkJIaklManNHRGdZdVhXS19vOEdHaFMzTXhWb2RwSUotQ1JhcV9MVzFFdXRRUF84VTRSQ0pIaXVaZG1pUjdfOGdRUWc4cmctSlFFRVA4bTl0ZGVKdE5rR2dnaTUwbVRnQ3pMeXh2a0JHZ0I4SUlLejZDdEd3bVUtZW52LUNvazVmQmZlXy1PdWdab2ZnR3FSM3VMamlSM3kzWVlrRG40ekFOalhpTFk3eGd2VE9MX3ZSWXlxYUZjT1lFTTdUTGE4cm9tU3NoOC1NN3R4Y0pqcjBaSi1EYVA5STRybDZIZGU2Ym9ETUoyUEphemVTd3JtcTJjU0tGTkhvMW9vRXU3WXpYUFVHY2xkNEVsOUE3US1t0gHOAkFVX3lxTE9Jbjdsa2t3YzZNZmt3cHRKVnphVUM2U2hwa0dSMmc1dWRxNkVOMXBvQ212WW5HUW9sMHF2S1NraUw0TWt0M3hzTnhUTXZFaFRPSjFrWW5hZDZkcFZJWm9pNVFMbjhFOTA3ZnEzRXpiZEwxd1pzdzJPcVNNRE8wS2c5WVVma1k2dzVHOHRzVEI1VWlqcnctYkFOQmdBVDZ3V1NmNnlGTWRSd3ZZYnR6UTBpbXF6QThkazBCOXo5UHhtNktQV0NkTG1vMlBpWnZNWHF0TDFsdlUyS0wtam1Za3ZuQVlremtFUm01MmhxQlJRYlBOcm1JT1pYWmlnaEFOODRINVlGY3hodDctalhHOWttSzZOOWMwbzdUYkNBZnhNY091Y3RBcFJia0hHRTE0aGMwZ0MzVWloMjRVSVpKcTIyU3Z4M0RzVC0xdVlud2c?oc=5"
+        },
+        {
+          "source": "الشرق للأخبار",
+          "original": "على هامش \"بريكس\".. مودي وشي جين بينج يبحثان إعادة بناء العلاقات - الشرق للأخبار",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQQlpvWkhrT3NXcW51NjROTWdfVUtsb1pfbDc3UHp4SzhVT01DRWlMSjR4OEpDVXZnQkQ2OFB5d0lfeGxWSS1jOThHTFJoeml6Wks1UWkxSGZrSU13TVAyRWpDdVlLYkgzQ3k2TVc3OE9Eak9kY3Q1QklXcFFwMHlUdlkybWtiWmJqR0pBRThabEctMXYxTnpLRVhJcW1HX3dDZ21jQlJ6cDkzQ08wem93RGRzNUlqU3kyWEgtTXRkd1puS044VjdxWk03bkVxTlJ6a05NRGxDMVhCZGRfTHNya3VsZTdJaFViRFl3X2g3aE8ybGZ4UGVGSEVtV1AxWURLY1NacW5Henl5RFJvTG85ekQyOUdDOFBWaUEzVk9kRTM5OHJEN0xNZnJXQVVwdDEwTWM1bDM1NnpOdkJQQ2hpeTJTOFh0SVJESjdhVEw4MUVCR29rZG5OX0NkelJXZl8yT2lmQlFITWRaTzJiRy05RWVfWm4yaU11UDZqQ3NoMVJoTl9nNkV0LTVIRWQySVAzS1pKZ2hFZG5OUGRJM3NPYmF0VFlubmc?oc=5"
+        },
+        {
+          "source": "اليوم السابع",
+          "original": "قمة بريكس 2026 تنطلق فى الهند.. قادة المجموعة يناقشون أمن الطاقة والتجارة والاستثمار والتكنولوجيا على مدار يومين.. واجتماعات ثنائية هامة على هامش القمة أبرزها لقاء مودى مع رؤساء روسيا والصين وإيران - اليوم السابع",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOek5ZTTlodklBN0M5T0pqUFdzVlctbmFDRHJKXy1Id1AzN1hHVXI2bk5OSDBoMjl1b2htSzZITUZJWXF5ZjhYV1FuNmJkQXVQc1ZWM0w5dGgxNkIxMkgtcVI0akdtUThiOUxQTU9ERVhsRHNYWTM3ektfUFlHcDZLdVFBSkg0N0RNMklQeVRQR2ZxUWRObzBkalJMTEtOZWtudUMxc0FFdlU2emtPbXVOdzJRU2hFU0ZwQ1NpQnhyUm9SYWVoSmlmYW50NEhXU0FJUUJJdDJvTGRZVlBoWXA3bDhDLXpDTFdRS2VjdHU4cWtaZW5DTDhRRWhqam1IWUtvXzFoeU1nYjhPOHgyc01naXBBQThRLXBMS1NoOUNDMEZzbmxDQWt6Nkh1R3E5VjlVc3JPR0pXWWVUdERxSC1QcldjYkVsNzRPdC0xbkdSLXN6YXZPM3hFYk9UdWdFR2FLZmpkYVkxZ1B6RGhEUkxabmJUdnY4Nnk0OW5qOWJfMURDSTZ6dlpYV0ZaSWl0UV9XSUtOeGZoeU9JRWE2YUhLUUctQjBZcGx4ZE51elFaNWNUTTFEbWIzQk1uUdIBtgNBVV95cUxPSEphZC1HdndSazJFSUprbFhVTWUxa3h5MzhMak1lcmpDQkhuYk85N2xhRlh0RGFEV053b2hkb1Zhb2Q1eHdkNENNcXNtZ1hqQ0Itci1RcU1lbkhLUXA0dmhtQ1pKYUtuN1dlSlJMZlBjSXN6bEV6am1kQnYwazAyd2syb0tKLUNaX0hxTUVMeTVnRHl2TnJwOUNUUkZ2R1owcHEtM3puTGtFVFdHRDNISk52VUo1QnRhblNHWlg3N0dBVTRLSWhhYkUweFFPOEN5c3lmanNuR053SVNsamhHUVJzVFpaODBWSExrMENhQTA4NzVRc3NBNXNTeDRNdUFXdnVfOHZNbktLelFqUHIxMUxnazAyU1NPdVBtYm5LazQwcUxYTHBFRXR0VDRkQ285cmF2S1BTc2lPLWlHeGFZN2JBZUxULTY4eDJETXhSZGFhYWtyY2hCNmlwR2djUHZJclNwSmU0TnFCZU5BaGx2bWRGb2NoN3o3dWJCemNoN1BvdW1fbW9mX2ZneGNydm92N0RKYU1kWVROY1V5ZkVnTHJYU3N3RTJXckhmTzQ2eENDWVI1Umc?oc=5"
+        },
+        {
+          "source": "العربية",
+          "original": "الهند تستضيف قادة \"بريكس\".. التجارة والصراعات على طاولة القمة - العربية",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxNbE9oZEw4VC1BTlpiMy1Xc1VudTR2a25PTFNVT0JGMFVlNkJLUWdxNUFEeHM1S0JnazFjaDV6c3BCT3BwdlhsQ2xoNlpsNEZpcXhERVdPNVZ2MGVMY1JqWndfa1VDY0dBeVNwMEN1UHJCNng0ZnluRHJZb2MwZDZZUzdCNXpxaFJReGFRU1VYajZXTlBkeHdHR2tQQWNFV2VzNWpWSUhzRHNIV1o3RmFYVXJiejd6OUlkaU9ET1F0dkFWOXdUeTNtUjBEenp5NXJMZjFWZk5ldG4yMGt2NGQwSVJMMFg0UTJiN0RRUndDc1BrM3pMRGxuNVA4MGpldHpxemphZkFaRkh3cXlaa1piRGVfczFZNkhiQnc5NElnNG5nWEtfQklvYmlFRW1iZFZVX2piYmlyeU5rZl9ib19TZkh0UG5aeldrTFNOa1gzZFpJOUJ0TUFEclhoaGlIQi16ZWVKYWhheGNJZWFlR3FoejdLTFhSTDNqQUhqNWZONExGVGxYSUZXYlNXQklBa2h3ZHZjekZuSTFSZVJQbWNwT3NMNEhGRGNmR3ppTTJrbTRvM3lIczYteTh2dEpCUUpxS0xoVWxmcGdUbXNaTndHWEFWVmpsRWdGcEU1UFdJU1VLOFM3ZXVLYzl4WURxSkU2NFg1N1ZWTERBZk85dEVrTUtnVFNYUDZyWVJhM2ZIMi02X0wteG5SR3V2YmFLUdIBowRBVV95cUxON0RacnY2MVFORG9YV3lTUFhKY3VDRmMtYzlLamlrMVlGeFFzb2ZlVXpWb0toUWdUNC1lWE05RnVLdWstTURwYzV0aXhnN3R1NHE1WHdfX1UwMnNqeXZiaEdKM0QzNXVkV2x1MG11RkxPRVhSN25seTdQcVdBUmxYdFdVU0MwYzVaMTRLQTlIbGo1U0RYLXZKZWtEQVJnSmVlaXctWFNrakJELWQybk94V0w2LWdCOFpQaElsd2hBdWFDMDZuc3U1Qm9OVXo5bTdCak1zZG5YTlA5NlRmeEtuVTlQMGFXSHN0V2JnN2JmUTVWS1hldjRqbGJMeGx0SGRUNWJrckFBT1VfUHE1c1ZNSjZERHVZZ2NFTEJJMnBTUE9DQjdkbndYbVZuTFUtY2lwc0JVZWYyanJnT1ltdlhmVmZUeTN3US1qcmlnaENBYzJ0a1BUUVhPZm9uQmcxSWpDdmdfbEVjM3NnbXZQNzBDSEZNRGtUSU1KOTZ1TGNUeGwtUW5GUlU5ZG5nVTR5UFRKM0xEOHotS2JPWUpRR3M5YXA5QV82NXlKYkV4dWpaeXNaamhXcWc2V0lhQml4MzF1Tk5Eb3ppN0t1SzVfdHB4b1NMcVc3MW1jRHJOSGRmdi0ySVozc2JwVkxCWlNuR1hUcWs2blFVa09RWGZEaDJEMVhCY040Wlk2LU45SU9URVI0NnJnQ1hJOEFVY19nRWZOZ0I4?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "China",
+      "frame": "（本期为标题对照版：LLM 分析暂不可用，以下为各国信息流原始标题）",
+      "unique": "",
+      "headlines": [
+        {
+          "source": "美国之音",
+          "original": "金砖国家峰会对中东局势和未经联合国授权的制裁表达关切，莫迪强调不会抗衡西方 - 美国之音",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2pYZ1FQanJsRVVNX1Z5RFgyY0tFTDZJa1JMa1NVNEhaUFItYjZYVFdnTktuSVVyaTFubEl6dzBWVVlYbzR5S2xYYjd6X19TaS1RTUdwd1EtUGZCc1pzdTRfNHhTcFJ4NTAzazF3dEROX0p1Vmo4SGJTSU9xS05SbERUcnpNNXRmOU5hLXFncGtvNFo3dDRlWWRia1lwTmdrQUdSUHBGOU1PV0RpSFFHSnlB0gG0AUFVX3lxTE1pQTAxTU8tUGZRWWNHWDVSNU0wNjRJbWVtRHBBSURTZjVTc2YtMTJaVUwtTVZrNXdCQmhBTnpCaG9QbDZXVkpOYzN2REZhc1V5YVQ2ZjJTWlB2ZEE4RlhpM0ZFdXRxaFAybjRIZGRGVnhNeW4zZElpc2JkbXBTbTE0a2tpVDFfTDdIVlBHRlhHNXZwMGtTYW9HWlZBdkxPOUNvVm1jeldEZnFBeGZKY1FrdWxiMQ?oc=5"
+        },
+        {
+          "source": "RFI",
+          "original": "金砖峰会发布呼吁中东最大程度保持克制 - RFI",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPNFBENzEzRVFFRnVQV2xwdlF1WEJCWWw1MmRSTnhUS3NiVEtWZkJnR29xWTFSUU9Pd3lqbDhBS1NoaVRsUEc4WDJlRWMxcTFKcE9WS2x2QnRhdFBEUzNCOGRIRkVFYkdUeDZYWld4dXNWUEpCRDZJaHVDVFJkaTg3anlDZHpheFVGc1kyb0pydVQwYUJmb1dfMG51aVJ2WklQSTN0bm5wRFhiLWZveDRPdUdNS2ZSNWhvWV9Dei1jc2lPRF9lbDFtWndpTGJoRnpaaHQzYkZhWkM0enR1UEZPUDM4TzlzTk9STGJOTW1PdHphdzZ1TGp0My1EbkptM3NpQnZBcnZwbGhQdVpaSUtLR2VHY1JIc2pFYWEzOEhsS3gzQUhVakROTmFrNVZSbEZFZHhucTF2SQ?oc=5"
+        },
+        {
+          "source": "jpchinapress.com",
+          "original": "金砖国家峰会就中东局势表达深切关切 - jpchinapress.com",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjN1WElJYTczV09HeGFxWmJXN0Y0dWJBcFlVWms1eGhJU0NQTGhNX0YxYUtFWnNTYUFQMVBKeUZxRlltMkYtTVdZWGNYWEdnS0c4SVVNQUl3MkMtSDcyS2xrV1l5MVlSQ0pZYW5FcXRCeEdkNDVwZVFVUW5URjJuNC1VWFVVbU9CY2c?oc=5"
+        },
+        {
+          "source": "凤凰网",
+          "original": "直面全球多重危机！金砖峰会通过《2026新德里宣言》 - 凤凰网",
+          "zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SQVJsSWhRR3JzZ3lnX0VrMkhfZFNIOGFqOWNyVUVyNG9TYzVwSHVVTjNOZWZQU21RRHBtR05mVmVadVFNOXNMZ2xTRnI?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "本期无 LLM 分析层，仅呈现原始标题对照。",
+  "event": "2026年金砖峰会于印度举行，中印俄伊等领导人就中东局势、霍尔木兹海峡紧张局势及反单边制裁寻求共同立场",
+  "event_title": "金砖峰会与中东局势",
+  "date": "2026-09-13",
+  "slot": "evening"
+}

@@ -1,0 +1,17 @@
+{
+  "event": "2026年金砖峰会于印度举行，中印俄伊等领导人就中东局势、霍尔木兹海峡紧张局势及反单边制裁寻求共同立场",
+  "event_title": "金砖峰会与中东局势",
+  "why": "该事件被美国、英国、印度、法国、德国、巴西、俄罗斯、埃及、中国等最多国家共同报道，且西方、俄、中、印、埃及各方对反制裁、中东安全议题立场差异显著。",
+  "queries": {
+    "US": "BRICS summit India sanctions",
+    "UK": "BRICS Gulf peace summit",
+    "India": "BRICS Summit 2026 Modi",
+    "Japan": "BRICS 首脳会議 インド",
+    "France": "sommet Brics Inde Moyen-Orient",
+    "Germany": "BRICS-Gipfel Indien Sanktionen",
+    "Brazil": "cúpula Brics Índia Lula",
+    "Russia": "саммит БРИКС декларация",
+    "Egypt": "قمة بريكس الهند 2026",
+    "China": "金砖峰会 中东局势"
+  }
+}
