@@ -1,0 +1,776 @@
+{
+  "event": "特朗普拒绝马斯克、奥尔特曼等科技领袖关于放慢AI开发步伐的联合呼吁，坚称美国不能在对华AI竞赛中让出优势，引发全球市场与各国政府震荡",
+  "event_title": "全球AI减速之争",
+  "countries": {
+    "US": {
+      "query": "Trump AI China race",
+      "items": [
+        {
+          "title": "Trump Sees Race Against China as Key Issue on AI Regulation - WSJ",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOElEaDhNQW5QWVJ5Q0RMQ1M3S3B6OERSdkdoWDE2RGdXVk9XZF9ZOFE0NlY2N05BMzFZZFRBcHlKUkFMTGt2M1B4ODNDMmhtQTFKY0xodVJuRWhMMWYwMlpBZGNzTVZBTUFLMHRMUENiWEJfalVvbWhQOGtLOEdyQW9CZ1dqX1BQakdZbkh6M1RkYWxwMHRn?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:02:00 GMT"
+        },
+        {
+          "title": "Trump downplays AI warnings, citing competition with China - The Hill",
+          "source": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRVNRQXpmdm15TzNRWlpGYTlGakxyZzFrdnpXenFpUDZ1aEo4bUc1dmFKUlpKeUx6VVhzSTQ5OGVsa3pKQlpUZzJ0cGdwcmRCZWxwTjFjaGxtN05KOUxELUdUbUhDQldiZ0ZQcmtVb0RhMUgtLW9BY3A2MNIBgAFBVV95cUxNYXBMRkhhcWJfc1d3cllTZTdZbU1aTXhsa2JyNEJHYzNnU09MLW9hdHdwYW54VkNJcHBTU2I2cHRpWVRIcFVuRmlGdTJHQ19Sc28zUTE1V2J1WWdBSl9TQ25CM0JvWDlMa1FpOU5OZl9sdndBVk96c2lybWRJQ3ZlbQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:57:00 GMT"
+        },
+        {
+          "title": "President Trump focuses on AI race with China as experts warn of internet takeover - WCVB",
+          "source": "WCVB",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm5kV25WblpmQ2dnWnp2bEM2RWJwWmk0bVRGSzhxNWJIaFBnVkhnZnNrcl9BX2J3S3RJNF9TazBweVEyWkdnLVNOSnVhb2RnMGpId283M3NTc1hMaHIzY19hcWhEN2t3UFBKb2NESmNuLWpMVXdueTFfS2ZmVEthVg?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:44:53 GMT"
+        },
+        {
+          "title": "Trump downplays need for strict AI regulation amid us-china race - PennLive.com",
+          "source": "PennLive.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakl0UE5FMGdBR201WDR4YU5DS01Yc0ZyT0toREQ1cjVPZy1HdU51Q3R0NTF5blBoZUhnU2VQVm5zem9oX3FaV3Z3RHk5QmFmemZneU9kM3VQbTJRc3BkNVJSd1FWMnZoUndOSGxzMkxLYVRXV2p4ZXVLUjFibU1sbzdIZnRfbHIyNWhidjFCbVBsTGRGODh6T1ZPTnVZcmxqNjlyN3JScVJiaU1OUUs5Vw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:08:00 GMT"
+        },
+        {
+          "title": "Trump Rejects AI Extinction Fears, Says Beating China Is A Bigger Concern - Forbes",
+          "source": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFNLTVhIbERxLVFKUUN2ck01RkdxMERDT2FydmFDdjNvN2ZLTWJVS29fVDVTTnZEeFdmb3J5emZMb1NBampMU1ZYa1Y5VEtDVGxGbFJyblRfdFNkNjBZeEljZmlZdmNrY3daUmlJYUxja0tIR1RRQmQ0ZDVha3NMNXd2VGFXTDJsQ05ObHl5RnpmekdOVVUxeGVPRWc5a29Rc1diYy1vWlpXUFdEVzRCbXpPcHZYWUNVdGloQ2wxLTR1Sk1UTzl6YzR3?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 08:38:18 GMT"
+        },
+        {
+          "title": "Trump rejects calls for AI slowdown, citing race with China (ANTHRO:Private) - Seeking Alpha",
+          "source": "Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWFFZDJsVnRPSnl2c3g3MWU1cXU3aWxBOUVyU0NwQ1BqQS1NV2IyRWsxcUsxQ21oZ3RGWVZ4Z1ctb01NTGh2RDVnSHFnVUxWQ19jR1VZcV9BMjRMeXRHRGFnaFVWOEpQS2ZsSVJKbzFsZXBKbjR6R3lueWZhLUxLSEJ2SlN4TmJHa0xIVDBQZFR6V05nRGRjWHdMMzk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:45:35 GMT"
+        },
+        {
+          "title": "US President Donald Trump rejects AI slowdown in race against China for dominance - AFR",
+          "source": "AFR",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFyaFpTd01rYVVzRlZiQlNuZTRzVUZaZHpVUi1fT2Y0SDBQa2ZfdGQyTWh0TndGUXhyTnBpbTB4UDlPYjNjWHkzTHlBZHFIbU5saFRwZ3VGbGpNcVo3WG9BNW9Lbkd4Y3ZjZF9WOVhXUFd4VVYwNjBpS0hsN1QyNUNobjg5LTB4dFg3OThTNjFWUzMyOW5McVU1amhjaHFFUnp6N1ZzSTkyd0REaXRVMXJtRHFMWVlB?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:57:00 GMT"
+        },
+        {
+          "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:28:00 GMT"
+        },
+        {
+          "title": "Trump says U.S. leading AI race against China, wants to ’keep it that way’ - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRE1vRzJBVjVLQ3QtRm1peWEyN2ZyQ3RiVTVoNHV4QXlZdXJRdlV5Q0tEdHByUTdXWXdSZnh0RkNWQXprQzR3MW1FN0ljTmJrS2dRMmtSanZZdC1Vb2dqeFZjcWhGYk1Jd2lOblBPc3hyLWs1LVVrVXVoMDJxbG5NNHNqLXdfaU0wazZwMV9SMjR1azRoZVlJTndPaEhIdk83ZDNMcGlzbjNtek5ld2NuUTNFNnlWaWdnS3VxYzVTVzFxYkJydU16U00zTGE?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:19:00 GMT"
+        },
+        {
+          "title": "Trump brushes off AI doom predictions, says US must push ahead - nypost.com",
+          "source": "nypost.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnlOS0JBdUhXWktpUUJEalpzOW1jNDJUaXVSdWhqVDh3MDVhRzU4VkZVOWJXRFpzVWpYUGZmTDJRcDBvRlZ4aFJtVENXT1A5LUZmU0JmeHl4Z1YweDY0My1KVXdpSGd0cVEzc1p5TUZzSDZFRUtkbWFyTGZjVXkwaXBaOVVnblRoRi1VZTBBbzNGam9SNThtbUQxN2VMQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:41:48 GMT"
+        },
+        {
+          "title": "Trump opposes slowing down AI development amid competition with China - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3I3aWlaM2dFUHNmWVJRNDFFSUJFenJ2S1RXUjdfQnpqOG52QXVnb3J1NWtnbjg5c2N5QXY5Rm5XSEFqVEFMVUZrdnkzV0k1MlVrbWpfZVFRRUdRRU1vRjB6ZmFGZUVpcUhVZnMzNkJ3cFhnSDZKZUFRUXNkSzZQU3R3NGJvbVFvcVFodVdRclZ3M2FIaEpTbDQ1YVVqdDFRYVhnN0E3VDVNb09s?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:03:31 GMT"
+        },
+        {
+          "title": "Trump, Mike Johnson cite China as both downplay AI doom warnings - MS NOW",
+          "source": "MS NOW",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZ3JwSnR5dzU4cGZZRzdKRVdhMXNmQnhENDB3bE1Qbk05NmpEV19JRGpCTmlqTWhJMlE1U1RfSkNXUVFrNkZ6aUFoV2FKbzR5cGlYclVTajNENDRCQXBZR3ZGLTZMVGQzRkNjcGJkUVFLVEVLNUxuaV84UERDdw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:01:46 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "Trump AI safety summit",
+      "items": [
+        {
+          "title": "‘Freaked out’: why AI safety fears are spiking ahead of Xi-Trump summit - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUhCS25HblhXMmx3cEVqMUZzeDhOZlNlUHQ0ZnBCT0lEUko1WjJ3c0VEdDdTTEVGWTJraVNQXzg1X2JpdEd4U2Zad0xsUnZ4dy1oaFRNTUxpQ0YwN3ZkZC1OUFJReVpwdXIxV2l4ODhDUzkyV0tnOUlySFdDUVctSl9scGFYWi1BNTdvSEg0WXNTLTAtNE5rZmxEQWNQb0tNYlotSm9yNzFiSWI4LUIzNUVzMVVYTlIyNEJrM0RB0gG-AUFVX3lxTE5IQnMwRjBQd3BTbG51ZUx5SFN0TnRSVjQyUG9qT1JjcjZqbjF1eEJueFVCSjJpVlNiSmFXdHdSTjNJaGZTS2szZW1sYTk2RERFWnFGXzZycDhBckhXRGppVVBSTkJ4QjN0TDBqZ01RZWxXSnhvTVUtQ2xoWFBDc0VlTUFpSE42U2ZNZVpxNDF6dnBDNVExZWg4RzBONnF2dTF1bjNWMVgxNk5peWpXZlhEdzBrNVNDY2wyS1ZjRUE?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 08:00:10 GMT"
+        },
+        {
+          "title": "Guardrails for the machine age: why the Xi-Trump summit must anchor AI safety - The Standard (HK)",
+          "source": "The Standard (HK)",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSmZ0dE13MnBENEJ0cXlDOXBiaGsyc3l2OU00U29mYW1PRTB5V3Q0X1BUV3JBcWxjZ2JWMlRKLWtIbVJqWE9PREdHZTFDVm9OOExUMU41Z2JMdTdCRVJIakRSOWRpczBzRld3emFORlpvalg2LU5ZUHlfWUhBbWtmeHNuXzBmNjg5Nk1ZbEhRREJETTgwVTUxUGM1Qk1rVXMxVy12NmxJb3lPb2ZpQlVDY1J5SDQ5bENtZGNJcmtxaFdhZUZNaWM2TXoxTTQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:08:50 GMT"
+        },
+        {
+          "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkttUlVrZDkyYS1jWjFESjByNUd4TWZZM1pxSlhKQ1BrbGVaWjNzMWhkRHhLdUJld3lvSkhvQ0drM3Z1cWU4Y2E1WGNnZTZ0X3FXOVNqMEM5TnZkd1lzYW9EZEpoaVJwUjlsT3B1WDhTT3dzMEtISTFxVkVWTk95a2tiQkNubnhVRlZvNTlPSUJ1Y1NCa0F3cnJSbnNuSWZCUGQ0TjRtU0VGUEN5VDRsMG9kV1U?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 15:52:21 GMT"
+        },
+        {
+          "title": "US and China Race to Schedule First AI Safety Dialogue Before Trump-Xi Summit - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBndm13OV9GdjlnUjZHZUpKbmZqa0pZSG44MzU1RDMtU09uTk1MX0lVZXlOaUNhM2FYXzFfWFZ2ZWlXdjB1YXhTTWZDb0E4LU1BdFB3bjNqUVdkazl3SnplNWpWZXp2T1cwWjFmNldQczVWd25xclE?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "US and China eye Trump-Xi talks on AI guardrails despite tech rift - asia.nikkei.com",
+          "source": "asia.nikkei.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHJpdXBWMl9kSWRiT002c1hmbmdKRGxKVWpqTi16SnBrWkVIcjdqUlpHWF9YVExuN3dFVDZDWEpVbTFTSWh3YmhIeUEtdXZ0NmVpUlJ0TFowdGpvZTZueDgxSy05eHd0VGxEaTItOEZWNVRadXFRcEQ5MWgzYTEySUNocUpSOGhfX1MtanBVSFQwNFQzLUpVUDY4aHNodUkxeWttMHhmMVc1azFwWm9jUkxWejVnVzA3dDJ3d1J1WlE3cXF6eUMwT2hxQUhVN1E?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 00:20:00 GMT"
+        },
+        {
+          "title": "The Fight to Write the Rules on AI - New York Magazine",
+          "source": "New York Magazine",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxS3pwV0pIbFhCdUZ6ZjZTMmJyUVRwbjB4SjhYdWRSNC0yWDdFbUFhY3NiQ3ZwbU0tUlVVQk9KTmNWQktETGltb3VwMlJrQlhEWUdMSjZad3U4eENKZ3BiODlzMy0yZnNjY3h5dEwxNktyQmVURnc?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "US, China may discuss AI safety in September ahead of Trump-Xi summit - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXc0WXlITTZzbzJUUmtLWm1wN2U4X0cySm5hOXliS0wtRWxIQ0NncEJPTzV0RWE2S2tiRHQ1blpUdUg5dGlJd0VTb2VmNmV2cHg1dnF6ckFCWjhOdmdUYzlyVXpTaE9IOVExQWh1RXV4SndNS1lRNHFSQWtKYzRxeU52RWhJNW4tc2dlY0pQUmx6Y0FMdzJZZ0RHMkNXeXJhd1hmajktY08tWFBKX04yTkdBSEZPa0ZZdmNTdkhVTFMwV1RlMWxQcnhZMHVnd9IB0wFBVV95cUxNT3lXRVozcGFOOFVSbnlwd1JOekdkTkQ1LTFuWVdiWnVVa3BSZlI3bDBYNXZSd3hzdkVfaW5URW9taldBNnlROVJFbjZzaFlTY0lQWUV2UnBiNklCeldfajBaeHRYci1sWWhqRW9GR2xzTGdiX0FsREI2TjVfTGhyZ0R4elVBLXlWTG5TT2FGbXF0V3dDbFdVbkJXNGVmNjJSYU5zVV85RlNmXzkzVU10RG9wcDVWSXV0cFNLbnVHX0x5X2VMS1Z1dVFVc0JzcS1tN2ZB?oc=5",
+          "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump’s AI security order acknowledges risks but stops short of regulating industry - The Conversation",
+          "source": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1FBZmR1Mmw2N0dfWVc4ZDBUOTNMeklRUW5BOWFLajdsWER3bmIzaVhoaEpRTlc0amphNkF4ZTN6NXlubjc2MzJXR2tZRVJtMzg4bmI3NkZMQV9KeWxnOEUyM1hkQ1VEZnpSeWNlckg5WGhWZW9mbGtuN1Y5VDVzd1lHMEpqOFZ6N0hQQU8xNmVrZS15cS1ROGdpRU9nN194QXEzS1RIUVc4U2Nod2VYZTNVVW5jOEI3?oc=5",
+          "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump-Xi Summit: Implications for Technology and Trade - Bloomsbury Intelligence and Security Institute (BISI)",
+          "source": "Bloomsbury Intelligence and Security Institute (BISI)",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXFIVVNsUjQwVGJuRWVLLXFndlNGRGFRb1Y2SnotaUFMUE0tV0FVNWt6YlFvVmNvTmg2WlhaQ0k2ZWsyVHlEZWc1MklMclM4dFJEZ3RIQ0NzVVF5eVgyMTJNRGd5cG1FYmR2S1pVeVFYMGh5VTJEQXh4dUtZMVhrd1l6alh5S1Zx?oc=5",
+          "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "The Trump–Xi summit: can progress be made on Iran? - Chatham House",
+          "source": "Chatham House",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTVteERyX3IyTmlnbEtKTWMwRzdCS1F1NGRndFctb1ZkYXVMSmZ6cTVKcEFFVFpiNFhGOTVxWjcyX3RLcmEyX3NVTFhKTE5Ld2tmR25lQXRHS01ZR1dQbnhMNVFvN21oZnh2THM2cUJFcXlRclozRndHNVVSX3hYYkFRZF8?oc=5",
+          "pubDate": "Mon, 11 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "OpenAI executive urges US-China AI safety talks ahead of Trump-Xi summit - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEYwOE51cEhtM0RWdjJ4Y2pZcHJxSzdWU1VUdktRcFltVWYwZGo0T1kwOHlTaFNZaERZcEI5N3FKV3pwd0NsLUNSbHVUQmVzYTRTTk82bTJyZmZDemNKekNoRzZieWFmSjFYR0RocVZadkVId0Z3aHBTV3lab1d0clFyeWRBZ1R0SzlNUWVBMlJRU2k4MGdUclRMbERLVHdPUnBPXzVhTnhBX0JVZ3VldzhoNFYzS0lvTnFz0gG7AUFVX3lxTE9TRUxqUmRhNGRLeHpCVjFxZmhIUE8xM2haQXotUEUwaFQtQUpXLV83ejlvdG83ZzYzVG5NVW1PTnpzSzdoV0N4NjJCd0tkWDR2NXVaTDZfbnUzdU5LQXVtM0tTTU12cnQzdDBvZ2Z3ME54YmZBaWhrODNveUNfLTRWeXdmYkdKMWlDWjB6RVY1UnlWVU1zdHB4S3haSGJQZUxjTTZkMmJsTlNGc1ZwYkFpN25pMmRZaURhbnM?oc=5",
+          "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "Trump AI development China",
+      "items": [
+        {
+          "title": "Trump downplays AI curbs as US races China for tech lead - India Today",
+          "source": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUhqUEFzT3ZsaC1qbU5Va3p1LVNTZTFXQ2tCaVVCbUNvTlNDb1NBR1NDNEt3UWN2Y2loeWZLQ1dzVUdCaWYxc1o1VzBQV0pabXV3UnlaTG9UcDJEUkluNFlVY0phWUpaNWdyMHl5WkpRWFNUS0ZjdENyTWV4RFc5ZGZWZ01HOTZEQWpyTkRtTnFIcG1BTGRhWm9ueHVYU2trTFdxMnQwRDdLNXIzeVlsdTA2ZmhYWG1YRVUwbNIBwgFBVV95cUxNSFpPbjl0enR6TVp0WktaMlFsa2tJY2x6VGxWcnRFYVBlTm9uNmpWV1VWcnUzU21CclZOd215MTVBMWZDWG1kV2JNVGphRnA5UFV2QUpjRmFIU0N3TUo1U3RPeTlicXdnc3VSOVZJWHNGWDJBa3Q0QTBsTWJWYkswUjZrS3VnY1Z4aEU4ZE91WUUzNHIxV085N1REY2FFeU1uTHRpQVVZeW5ndGxwNWJ2OTFqV3pGb1N4eWVCdGJqZnhLQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:56:27 GMT"
+        },
+        {
+          "title": "Trump dismisses calls for AI slowdown from leading tech CEOs - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEpOdzIzWllBSFVqZGx5MFVrSWQzY2Z0LTBHblgyVnVPYW4yOVdPbUltMWRUdjBIdzc2cV9uMTBJWlZ5dkNENVhTb2M4NTE1MENpS3pBZ29pSm92RHlkelRRajc2c1RZb2h5RjN5R3JkVzd0N1Z2ZkNHVUhOWnFWNE9DeGNOUUVJOXFMdlloTGZrU01sLXZvcXkzcUdMVHppazFj0gGoAUFVX3lxTE02c01ySm80Z2pHbFBpcHVud29VN0ZOUmJIMHdBNUcwT1B2OUxTemJoMFJKQmtqYXcwX2psYWpYTXBpdlV6dUN4a1BPelA1YnNoQnltdFpLT1BRZ3VrM0pBM29ZMHBfNS1fYnYwdUJTVDFSMlJoeVc4dFhlTTVMZ3dIYVl1NFJfdDNIbmdxUFFFNG9uUlN1WHVWNmJLczRfWHNGdDRyRGstcg?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:40:49 GMT"
+        },
+        {
+          "title": "Trump Sees Race Against China as Key Issue on AI Regulation - wsj.com",
+          "source": "wsj.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOElEaDhNQW5QWVJ5Q0RMQ1M3S3B6OERSdkdoWDE2RGdXVk9XZF9ZOFE0NlY2N05BMzFZZFRBcHlKUkFMTGt2M1B4ODNDMmhtQTFKY0xodVJuRWhMMWYwMlpBZGNzTVZBTUFLMHRMUENiWEJfalVvbWhQOGtLOEdyQW9CZ1dqX1BQakdZbkh6M1RkYWxwMHRn?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:02:00 GMT"
+        },
+        {
+          "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
+          "source": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:43:51 GMT"
+        },
+        {
+          "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - AP News",
+          "source": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:55:00 GMT"
+        },
+        {
+          "title": "Trump opposes slowing down AI development amid competition with China - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3I3aWlaM2dFUHNmWVJRNDFFSUJFenJ2S1RXUjdfQnpqOG52QXVnb3J1NWtnbjg5c2N5QXY5Rm5XSEFqVEFMVUZrdnkzV0k1MlVrbWpfZVFRRUdRRU1vRjB6ZmFGZUVpcUhVZnMzNkJ3cFhnSDZKZUFRUXNkSzZQU3R3NGJvbVFvcVFodVdRclZ3M2FIaEpTbDQ1YVVqdDFRYVhnN0E3VDVNb09s?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:03:31 GMT"
+        },
+        {
+          "title": "'We’re leading China in AI': Trump rejects AI slowdown calls as US seeks to maintain its edge - Firstpost",
+          "source": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQam9DQjZ2aHVtZ3ItdGdPVGdwYklMdWFja2RtNTBqTDJvQjQ1YThkSnBXS19lTTlKaWxyZjBzU3Q3OTZ3YnJFOHVkdUdpYUNtR3AzWGtxeC1JOURnRjVuV1B3TjNtODU1dkx1MHAtTEZnYldTcGsxYnZqdGw1VzNZMzdUSk00WS12MWhQSVZBM2w5Mzk5elpWU1BZUmFzWllLZ2I1cjV4eEZoSDluZjJ3d1BQNkNYZThhRjZkal9TR0dZZmNsaS11Z2ZtOUhzUkXSAdQBQVVfeXFMT0lQMWlZRk4xRjNPdVlZMmdyNGUyQlNoTXZvcklvT1I4M3FEeVNpUDVqY2ZhclhTQW9ZUHZCMWM0dTNkSE5ycXNyUzF6STB5cjNiRktjSUNJNWZVaGZ4bW9Sb05mMzhwR1FPRDl3OWZ3b1dHZHJyb0cyUDl4NFRhcmo3LTJXWmFTZk51R01ZdEg0SFoxSm8tOS1rMjNvMDA0SHRDMW4wRUJ6MUlYeXNtQnctcUFZZThRd3JKSnZLNVRVR1V0eTlyZExDdVJoWHdLelFKaDA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:09:57 GMT"
+        },
+        {
+          "title": "Trump downplays calls for AI slow down - NPR",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVdHY1FYd2RBVTlXQ1F4cTVobHh0X3c4VHVNTnJjTzgxdi03NzlrVlAwYV9uVXhfOF9BVkRvd20zM1MtZUlMRzlhNnhiSldhMGtqck5JV1YzWDI4RHhYem5Ub2RKdEhPek1sNE01M0Y3eTZWXzRSMU81b2tNRTRtSg?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:32:39 GMT"
+        },
+        {
+          "title": "Donald Trump rejects calls from tech bosses for AI slowdown - Financial Times",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGpIWkFrLXNOMW52MlJQZno3UmNCMU5jMFVaNjRoOUZDSU1Hc2Q5MzRFaTd5ckVPS2FwR2hmVkNqRDhhcEYtZGxjNUhOLUZDWWR1YzBGY0dYYVI1ek5NVFd2d3hLNzlrN1JnbkE0Wmo5a3R1SUhJaHNzLWJ1Yk1Ib3lvc3A?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:42:41 GMT"
+        },
+        {
+          "title": "Trump, Mike Johnson cite China as both downplay AI doom warnings - MS NOW",
+          "source": "MS NOW",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZ3JwSnR5dzU4cGZZRzdKRVdhMXNmQnhENDB3bE1Qbk05NmpEV19JRGpCTmlqTWhJMlE1U1RfSkNXUVFrNkZ6aUFoV2FKbzR5cGlYclVTajNENDRCQXBZR3ZGLTZMVGQzRkNjcGJkUVFLVEVLNUxuaV84UERDdw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:01:46 GMT"
+        },
+        {
+          "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFlIUXp6SmlMdy1VLWU1OXpsdzBCMmpEMm1lZWU3R19IR0VkOFpXdVo2cmRkRGJFN2I0a0MxS080OHk3TE0wN0NxN1BCTDJjM2NBRDdLTS1BWVFYTXNMTjI1aVcyT3Z4aVJUVkd3MTkxNlBSbktsZDc2M0k3RmQ0cmc1ZEpWRmxVTnhiNW5KMU56LUwycGpqTk1ZaWlydldGLTBhTDg5ZldITlg3cEZLUXM2R2RuZ2VaTHczQlJTM0tKblVjZU9tWTVtZHFnNVptSFZN?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:43:00 GMT"
+        },
+        {
+          "title": "Trump and Xi Jinping would win Nobel Peace Prize if they make a deal on AI development, Altman says - Fortune",
+          "source": "Fortune",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0dkdEVWUE1IZ2VxSVFIakd2UDdZT2lGdFlfRENnTFQ3VHFiSUphcVdiN1BNWHdhekhOdm52U3dKYjA5SVNmeXl1LUM3bGhvMzM1dEZYYWZKX3hSZTQzVDdaNkdab2FCcFZKOEJDR1FsUFBfRHJTSUZha3h2VFVzU1liVktJZ3h6aEd4OWxzWGpCVFlDa1I5ZURCZnlOUlQ5a0pWVEo3RGRua05LMTFxcnByYVU4dw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 19:54:00 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "AI開発 減速 トランプ",
+      "items": [
+        {
+          "title": "トランプ氏、AI開発減速に消極姿勢 中国への優位維持を理由に - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04cnRRM1R3ZW5VSzMxZ3A5cmtVejZKcjFkOVZDUjhvUE02SmRiWklTSzQ0SlU5aTlPYVByMEkwYjAyamd2aUVCMVZRdXNRMlAtNWU2dUp2QWI2S01faEZua3dsakJ3VkVvdm1Qb2R5S0xsX1RXVF8zZDVPUVpPcEk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:34:00 GMT"
+        },
+        {
+          "title": "「AI開発、減速を」 アンソロピックCEOが警告 トランプ氏開発競争を重視 - テレ朝NEWS",
+          "source": "テレ朝NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NXzFtWHI0aG52bDdwR3ZWUkFOaDdWdUFSTEpMTm9BdWJoZWp5Vk1MTnAzQmNtdGY5Z3VEd21Bc2pWQkExbnFtNm5QWUwwQS05dlhfb1VkY3RQQVJGeHB6ZGhIbDBqRkFxSFloRThsbERWZXpTMWhnajZn?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:44:23 GMT"
+        },
+        {
+          "title": "トランプ氏 AI規制議論をけん制 中国との覇権争い「アメリカがリード」 - khb東日本放送",
+          "source": "khb東日本放送",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrYzd5YUtjbjZtRXEtMkl1bnhCbmkxelZabXpMZ3hidGFScHpVUGlvX2pQTUh5cWtHNVJUejFrakluWVNZX3JFZmctbTNWdFk?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:43:39 GMT"
+        },
+        {
+          "title": "トランプ氏 AI規制議論をけん制 中国との覇権争い「アメリカがリード」 - ABEMA",
+          "source": "ABEMA",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQnBELVBSWHZ0MldNSWJNWUtsUW9BVzFhTWJGdGFRVTV6ZE91V1RQVDhNQWQ0dERYbDJEcFNWd25rNXZpdVprLU5LWUZkNmxjWkZZZ1FDQU96NW8?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:53:43 GMT"
+        },
+        {
+          "title": "「AI開発、減速を」 アンソロピックCEOが警告 トランプ氏開発競争を重視 - HOME広島ホームテレビ",
+          "source": "HOME広島ホームテレビ",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbDRDUy1obndtN1dsYzMwMTJHUF9iVkpXcGVtNWptTnN2VUw1cE41QUtBYXBDSmtGS1FUaGY3ZXJWNndfYTA5UnRUU1VWdVU0SzUtVURfWU9SZlNCZ0h6UjNlX3NTdkJG?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:44:00 GMT"
+        },
+        {
+          "title": "トランプ、アモデイ・アルトマン・マスクが求めるAI減速を拒否 - Pasquale Pillitteri",
+          "source": "Pasquale Pillitteri",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjNyTDRsSnUyeFUwVzJWVlJkVDRQN1dnVWx6eFdicllSVERpclBNZndNV1ZRMnFHOG1FdDY4MDA5NkMzcEEwQ1NCRUVCTWFXRVctcXZCNFU3T1o3Y2tSZXpCVVFGQ2NsSnBGbjVRd0NaSTRsLWlyOGxwdmNaZUxwREJUNnNQdXYxVzFfY1Jn?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:14:26 GMT"
+        },
+        {
+          "title": "トランプ氏とジョンソン米下院議長、AI開発の緊急ブレーキ要請に抵抗——中国に敗れるリスクの方が大きいと警告 - BigGo ファイナンス",
+          "source": "BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IQ0o5VkdGcUQ2U1pxQmItSWVWSm1WOHhYRFVXaWxOcWVZUThVcERreVcwSC1yUUxwUnhYUWRqYVFGNUtsYXB0RGpjWjlDazljZFhFUFpnQUFzZ2pabDJMNVJoZERveEFXNGpHWUgyZmxkNGFN?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:05:00 GMT"
+        },
+        {
+          "title": "トランプ氏、AI開発減速に消極姿勢 中国への優位維持を理由に - 千葉テレビ放送株式会社",
+          "source": "千葉テレビ放送株式会社",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SSm80b2hucmJFbkVpMzBoUDctZWVzSW1CcndzZTRLZjFZR21nekhVaFcyUE1jLTlIVTJKQkw0WlRUckh5OWh6LV9MM0dkeThRdmxmckZoX0tjUTF2Z29DRDFuVDY?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:54:24 GMT"
+        },
+        {
+          "title": "トランプ氏 AI開発規制の議論をけん制（ABEMA TIMES） - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMzNvUFRINmJEMkMwVU92SHRIX3VlRWFDdHdpRzhZbUstMmpJbGNLbWdMcW9NUDVOOGJWZjA1WVlidmctNGNieW91a2JSUHBYNlo3RmNWbm02WVRLZFpyWllWS2hQZE81QVlEcldpbnNISDNWSzRHMTFuU2U1N3c?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:00:38 GMT"
+        },
+        {
+          "title": "ＡＩ開発減速に反論＝対中主導権の維持強調―トランプ米大統領 - ｄメニューニュース",
+          "source": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81UENfZmhVMnNUZmktSUZuYzhsb3ZBeTZUM3NsdmtGRnJlaTdBLWp3ZWJYb3g5WG5nS1NuMU1KZ0xlamdmV0VjWjRJNEttUDRfR2VvaEt6M0ZNYnFzWnpKdGJhbmgwOFVSanNZV3pqRkhDMm1iSEpWWTYwWXbSAYIBQVVfeXFMTk1nVDVpSlJzaUxLUTdDRFJDWmRvQ2owMllzd2NOWmcwRkVPSnF0SUQ0dDNJZkZjNzNwbl9BZ25zTXRyUjFNQkJUY0RPOEQ1ZS11VTQtZVRuVmxXNkNqU28zRDlyU1FZSU5xNjFvS00xaVFjNmRjdE4tTDNMbGx0aW5vQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:04:52 GMT"
+        },
+        {
+          "title": "「AI開発、減速を」 アンソロピックCEOが警告 トランプ氏開発競争を重視 - ABEMA",
+          "source": "ABEMA",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3YnI4RnJSRU0zT0FheUliTGRORTFINnVGbEtyMlpvOHlnSmhVUTZqcEF2NElWMU9WeDZxYUJEYlhtNG1OOGFzNFA1SklCU1F2bmw2YlFJR2t0Y2M?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 01:15:22 GMT"
+        },
+        {
+          "title": "「起きないようなことまで問題にする否定的な勢力がいる」トランプ大統領、AI規制論に否定的見解 - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHUWlwQS1lMzRoYXNBckN6U19ucC1HSjlWTkYwMi1qcDZvQmx2SXlnN2pzWGVxMjQ5SGJZTWdNeVk2dVRxS2pFSHh6NElxbjY0bUhfQzdLbE9iVkJoWkdQSUFub0FNSndwaHRoekRfSjFMYWt6emV0ZXpMTU91a0E?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:03:23 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "Trump intelligence artificielle Musk",
+      "items": [
+        {
+          "title": "«Forces négatives» : Trump ne veut pas freiner le développement de l’IA malgré l’appel de Musk, Altman et Amodei - Sud Ouest",
+          "source": "Sud Ouest",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNUhhYXF4MlY1czZSaldFenVpV2IwT3haT2dqYURmLWluWFdpcV95RWhBNHRIY1lIeUU4bHFrMTdJWnFyeXpaamdOa19uNzBxQXRFX1V6U3dQZm54SlZQbDZHZEZRRTFuNllPVkVzcm1FUlBFdERYWmpUc0x0NVM3R3JoRDN6Z2M3VnV6QTMxTnUtZ002Q0ZKQ1hxaG1XclNtZTZCdENwZG12c1RRX25ZTGNnZy00MllhcmFMcU1EZUJMcGVaWnRsYkIybUptMFdHTVEwX2ZHb2dfbElWdkJOdXJNVHMtQTBlOUhRNEctLVdRZzVnazFCMVlzcFFtVmZfdTZ3SG9fNXhXYzFtc19LaEVIT1RfeFNReGI0TS1MS2FRclFJMGJYWG1ydWtHN3RROGpfR293ZmdwYngzOXNob2JtcE15N01lTmVDaHFrR3dnMlQwVHk3ZjkydG5SRjRvczVGSGRXWlBHdmM?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:55:36 GMT"
+        },
+        {
+          "title": "L’intelligence artificielle va trop vite, ses grands patrons appellent à ralentir… et Donald Trump s’agace - Télérama",
+          "source": "Télérama",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUktWLVMyUzJaRi03c1ZpQTBmaGF1d0tMN05rZmlodExBUWJSZ2tyZGp2QjZvWVNPdmZqODRGMlhFTEdTSHR1Q2R0OFBiVXhZOXEzMkhsU19wYUZkNi1Yem42amFGbHdBV0hhMUh2dHVDM19Bd0doRzNMcl9qWGF5Q09FR2dObWRWbDA3UnFDVnBQNlF1U21BNzUwZDZJSFFSVTRQcldJM194M0xoTDdic2cyV29mRkFqaFIybFlib2ZIQWhybWd4WjE2MnRfVWM?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 09:19:58 GMT"
+        },
+        {
+          "title": "Le patron d’Anthropic veut ralentir sur l’IA, Musk et Altman le soutiennent - Libération",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZkVURDlFR01KWmhkY2huOFZPMXlUc0JDNE9ZcVVlRmVidWM4QW5PdmJrZ2NqNjEzVlVDVUNPQTg1N2lDT1BveENpYkVYNUJ0ODFVX3d3RzRzLThnaUliRWZfWWlrVGJMY0lGSVFPYWYySG5rVEVZZTJ3VFdSNHAtaDBhOFJKUDNTV3p5SVJ5dXk4QTlLeU90eUFZWmxOaVdzZnhkd3lZSi03OHg1YW5FQVp4a0ZoenRfLXlqX2tycEhsRE9XX1lzRWV0blV0cTkzSG1pUHVCMHJTXzB3c1dYalp1OFhsMmJWTUFVYWFoRDNzdlVBc2c?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 07:22:00 GMT"
+        },
+        {
+          "title": "Donald Trump soutient fortement l'IA et critique les \"forces négatives\" qui veulent la ralentir, malgré les avertissements des chefs d'OpenAI et d'Anthropic - ladepeche.fr",
+          "source": "ladepeche.fr",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZmdMdHQ2bGMyZXg2ZzF6cGxJelg1dUs0eERzUlVoaW10ellzU05JOEc0aTRfdUdtYmtVd19xMHYyOW93UW5BMExXQ3Z4b3Ixb1JPcXJqWUhoR19lbFNkZzhtNjFCaF9RU25DMEExSWlhX0V2eUhkR0NNTXJhVTAtSV85bkxVSXlBcVdDdVphc2E0Q0hfN1ZISVVHc1pIdWFNbXVGMEtYNG9UbXI4SncyX2U1M3JNenJWbUdCNUZVSFZYLXAtaDVvWlNBZWtqOUs5OEJZQnlhSmRnLWExRkFXVGRERmFpcU9tUkIweW5MalBpbmNQRW4tUnhaRm5lWXJodUZBZmZ4LU5YenROWmhZNUtrRFRMRmpTYkdNUVdLdFZLNTExT3c?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:58:00 GMT"
+        },
+        {
+          "title": "Trump est réticent à freiner le développement de l'IA - Blick",
+          "source": "Blick",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUdxN2N6azM5RnNQRW5aWjluejc1R29UQjJmQ1cwODh4RTlTbTVQLWhMUEM1S2dsYlRpZXc1eEhuWkE3UjBhc0s1SUpqWm5hSWNIV21Dc3FKV1lPd0R0S0NNdjlKNlJkSnVlcEdOMzYyREtuR1lWRVFIYVNLeUhXcE5wMWtsQVBhckV1RzNMeThzVS04N2hZ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:33:55 GMT"
+        },
+        {
+          "title": "Voici les raisons qui expliquent la peur soudaine des patrons de l'IA - Watson",
+          "source": "Watson",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNk9UUWtGWlJWOHZ5a254U2FLcFd5NGRxRkdjalhWckIyVll4MWJrM1FHdXBObWlrU3ZNcGpYYUJ0elI3M1JteTVKLUUzWEpPZC1TU3pHVmt5d3g1XzFiS3pCNjJpaWhnQ1puQzNOcVpYSXpWMlhHZHkya2RSUEZBX0FtRlNwazlVYmgyaTdkYURkWlY4dUZwcUs2eUFWNk1zYmc4TlJzMGhBNzU4T2ZhN1d3dnVpX1E?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:02:35 GMT"
+        },
+        {
+          "title": "Trump rejette le frein à l'IA réclamé par Amodei, Altman et Musk - Pasquale Pillitteri",
+          "source": "Pasquale Pillitteri",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEpSU3JFWVA0SDF3LWNhT3BOTjdpWndGZGRyX3EzbWJqM016cHZBNkVXdktiR3NfWUN3eFpHQWZURTFqb05ONmc5SUhyaDROckZ4U2VHcUFLVmhLNzBZMkZMUUN5QzJrekIxc3NxUGE0TnVoVktyVF8yZG5VUzZXQTNhTFdZUl9Rc3kxLXF3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:16:39 GMT"
+        },
+        {
+          "title": "Grok, l’IA d’Elon Musk, a servi dans les frappes en Iran, révèle le Pentagone - Le Monde.fr",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRE15d1JuMXlSUjdjQjBpX0F4eTN3ZU9RcHNra3M0bTFQT1Z2cktlSkNwS3NSVzlicWNUeFVqa2x2cENxMlhCczRiV0F0UFJ0V3V2VU9FSFRQYjNKTGRMR0hiRnE2R3Z3dXVJSHdOZnlROTBsUmRQT3NmNmt5WkZ0UV9jeWMxVm5OV2hkSkswdmQtN0pDeEUxTktQR3VpNldmY2lxT2xoRzVMc2VpczdYb1Q5cnpuYVhEeG1mWmJEaW93bElkODFZeUR0NERlSFVNSklVNC1TUVprNDhhcmtLVXln?oc=5",
+          "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump vend sa parole à Wall Street, l’IA licencie et Elon Musk marche au gaz et au diesel - Courrier international",
+          "source": "Courrier international",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRE8taEhTZGJsX2FfSVJoT3FYS2dCdUxQRWVWdWpJQU81SUt2eGwxSG40cEs3VVhDbnFyYUtPNGpoSkttZk9LV3VZZzVFN25FaVMyaWloNS14Wk5SeEJRakNyeWc4UTBjNWQycE5feDFORXQ3ZVc5QXB5Y09paEwxNTlKZ3FtUkFfd1YwV0xpQ3JHazAzTlZ5TXdxUWh3RVp1UzZnUFZ4VXRYV05QR3R2Rng3QTA4Szd0WHkyV0lSNnNKZGVqOHNwVjN4ZTV1ZlVwQWxpUnAzcVF1c0VWTUdJVGFjMnNVZVhZLVFESg?oc=5",
+          "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "À la Maison-Blanche, la régulation de l’IA s’enlise sur fond de récits contradictoires - ledevoir.com",
+          "source": "ledevoir.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnN0MDZZTzhnRkR6anZ2MTdFWTAwVzh5bW1wUzRBLUZGcS1lblJ4ZzB4R0w5dlVQLUVZUi0tLWVrTXpoRXlCN2NXeUl2UE9mWDVvb19wRm1OeW1WUnE1eVBJY1F1SHJUNmpXMUJBMVlpNVpza3B2UXBkRHNreFU4OVh0OVdEbUVDWFp0WW5YSmpvd0FjbUtqRGZJTWd6SjZGYlVoWWl5Q3dRRk4tN3ZsekNB?oc=5",
+          "pubDate": "Sat, 23 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Musk, Cook, Ortberg : Trump part en Chine avec une artillerie lourde de puissants patrons, dont le PDG de Nvidia finalement présent - Les Echos",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSy1FdE1BREROM3NiSHFaejE1VDVvRkt3Wnl4cV8zV2NjX2Y3anpEaDdvVkdzT2FWU3FCdjhYTzMzZE92NndFYm44MG03TVdXb1kwc0ZNZ19OMTVQUmZEZHg1dWtrbGMyQ0M2TU5ocUxfUnB1eFpYNEdtR2VRaVUxcjRkTDJSdGxKbXZpd2RLemdwMjNFbEM1YnpxSkFCaTd6VFkyd3VpSGFMdUdWMnJmb0xoeUFWSjN5OTNQRjA5UWJMTVE1dGlULWhXcmtvYW5rbW1JcjdBVnAwNjV6Qmc?oc=5",
+          "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Musk, Nvidia, Apple, Visa, Boeing... Pour sa visite en Chine, Donald Trump s'entoure du All-Star Game du business - franceinfo",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVHhGN29tU3lZQ0tjQkRMTWQ3bndrT1RaSTVUcmgxYkJ2eDFfUjQ2X3E4OHlNNmhCOVVNam1Bc0FHNllnR21vUUtVeGp3YkZseFc4N3V0RHRaeEJTN0pkNER5TFlYMzFkdHBsQmpaaF9mQXlWck5KbVozOXJVT0lISEhYUlIzZ0pfeHY1OC05ejZIUzdhTkpZM05JMjVLczlfb0JIdnpRZWtGN1FaU2ZsbjczdlJOZG83NTVIdjVDVG5wVUIyTVY5anFiek5teVFIc2Rta3daSF9KdWRhTDlnVmtYa2VhcThTS2dLTXpPWExPQWlMWUdfSjJ2MHVyc0dPNjUtMVFOTE1nUQ?oc=5",
+          "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "Trump KI Sicherheitsbedenken China",
+      "items": [
+        {
+          "title": "Trump setzt auf KI-Wettlauf gegen China mit weniger Sicherheit - Politik - SZ.de - SZ.de",
+          "source": "SZ.de",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0dpUWNFem9paFFUNktxZW11R0lxQmRraHBvR1d2TU1yeXYzWndaODluQnE3eWdqZWdleUI1X1BPX3hLY2Z6R2stRnNDOFNtcGJxUUk0aHNfSU1pYkxVT0w1eDZiMks5NS1nMGhUX2V4ek9PeG50UFJOSXBIQV9aVkJpX2w3YVRDTmp0dEMwaw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 12:21:32 GMT"
+        },
+        {
+          "title": "\"Negative Kräfte\": Trump lehnt Drosselung von KI-Entwicklung ab - ZDFheute",
+          "source": "ZDFheute",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXE0ZUlmTmdjWUgxdy1SMnhZUzJfNVZ0ejR0bFNpNGc0RDUyWUs5dTZsd2NKcjM3SzZ1MXhfR1dMWU5ES1REblBtU2wtRDZRUzZnWnR6a0pQYU1ZRE9SS3BsMjBORWxzR0xyUU1KcjRlNTFsWXJJTC02NUxORHk3MnU5bDJVdy1PMjlhZE5TMjRDMGdsMUhlRVNoczlWUXBkZ1BR?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:30:00 GMT"
+        },
+        {
+          "title": "Trump weist die von Amodei, Altman und Musk geforderte KI-Bremse zurück - Pasquale Pillitteri",
+          "source": "Pasquale Pillitteri",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXdWTEZjMjdSbUxES0MtVDJrR19RNzJhQUc5eGxpb2lLbl9yMGE0VFJOWFNrZi1hd0N0Wmx0b1U5ZEFTX3NMT3JZR2hxVFVPeU5mMnFFMmpEMjZDZHN2Znd0UG1aRnpqYURGdm5wbnRSVFBQa2JjMW11bWpvczU0SXRwbFB3MVpETm4yYkQ3WVA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:19:14 GMT"
+        },
+        {
+          "title": "Trump-Firma bietet 90 KI-Modelle an: 43 von China-Anbietern - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkV0aWpMWFgyQ2RxbnBpWVdMcUlCcGlGMU1aRjBFWnZvUDhIYWZaTzdOMWRsVlc0dGluUHJxeEN5by1lUVVGSWxxV2FBN2s5dXF3TDNWRmQxUjRNenBpNFNHcVBnRGFHeUZuWWdVbDNCamFrRGdWckVoMFBiTUcyc3dBYlJNMGt2VW4yWXVWcFlFVTZlQkxxakpmMEppTzFMdEUtQzRoTDA2N00?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "„Mythos“: Wie eine KI zu mächtig wurde, um veröffentlicht zu werden - Kurier",
+          "source": "Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkd3M0dreFFKWGdMUFAwel9QeENGWG9aS3RjVUw3X1hwLVJpNG1xTldrbmV6SXdESVg3a1lyV3hzdHk4VGV3MGJWZ2NwRE1ibElmTHJ4RTZYOTNGVTFGdl9pQ3VENV9KbHdJTTExb0ZBM1FOSlVMalIyMWp2eVFJNkxyay12cWxETUkxU0hSVzY4WDN4QnRFNUZwSTB4UjRMM1Vz?oc=5",
+          "pubDate": "Sat, 16 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trotz Warnungen aus der Branche - US-Präsident Trump weist Sicherheitsbedenken zu Künstlicher Intelligenz zurück - Deutschlandfunk",
+          "source": "Deutschlandfunk",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWC1iM1VUYi05RlEyR2xQRjJhcWdIX1lOUDBBaGtYMzZNeE5FZG1ISzNnYVgxSlA1SGhoaW9nVl8wRlRuTDUySWYyUk91eTFyQzBDcmFESXIzaTlCZkUtanlnVk93ZWlwS1lNWjlVRjNVYmZaQm9nNGtyNTQycThpVUNrS2NBUzhpZ1BTYlRCVWREbXNuTXYwLUp5eEJYMURmT1V2dVczZVFQaWw5T1VGc2N3UFR1RG01LXdyUV93?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:51:19 GMT"
+        },
+        {
+          "title": "Umstrittener Nvidia-Export: Trump setzt auf „25%-Deal“ für China - FAZ",
+          "source": "FAZ",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDc3cUdudGVTam83QjRhclE3MlZFdGZsUy14bkRkWlBwMEdtWHVPX0VBQXc1bV9NbXhIdmNKVkRnTWNWTXdlbVJISkoxUDd0Y0NjOVFrcDVEMmtMY3lKejQwSTYwSVZHbmZvNVNuRkpvSGdtSTZIYTg5U0lkR2VWa1Z5OWdkRHZKdUlwSHpNTkhnTEtWQ2dhb1dvZWh2ZUh6Z09GTg?oc=5",
+          "pubDate": "Tue, 09 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "Trump lockert Exportregeln: Nvidia darf leistungsstarke KI-Chips nach China verkaufen - Merkur",
+          "source": "Merkur",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0FFbXZDaHcxbW5pMFlhNEtTNG5zX1Y4aU5lRDhGdm5rQ2lOOUpRaFBpZS0tME4yOWZwdWpYSFhXYmlYVHZGOE9QWEtSQ1QxbEVCMmFNVlpqU1hhYWRxUnd3ejJrU1o5VGpJZ1NhSXZKRWpRN0NwaFBqQXZzaTEzcDVCdUpCV3Z2X2hLRUFMQl9ZbzVtanRpLWpYUFEwdVV3S01CUlZiRTRKYXZnRjhFNkg2OHRYd2NfVXBCREJJc2diRXN2b1ZMQWJ4VQ?oc=5",
+          "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "KI-Export: Trump will China-Embargo für KI-Chips weiter lockern - WiWo",
+          "source": "WiWo",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3dPaGJtVXVrLXp1bXBZNnRWRkNjYzlyaFV0ODEtZHlIVTlIeUV6ZUJVSW9WMndZZlNkcWlUeEJBRkVNdW5mTVVPQkRWUWt0dzZZR0VYMHBGa1RBYW5udG5YcE9fSEVvU0JuZWNleXZkb3QwUXB0SmdGN3NtRUJfSXRSd1VmRnNlRGdCNjBpRmZFR09TZW53cUc3RzNPeDRWWl9EOXVDZm1lMnVFcllXeC1xUko?oc=5",
+          "pubDate": "Tue, 12 Aug 2025 07:00:00 GMT"
+        },
+        {
+          "title": "Trump reist nach China – und diese Wirtschaftsbosse dürfen mit - Politik - SZ.de - SZ.de",
+          "source": "SZ.de",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVZ5UkVHWjRGUlB3MzVWMlRDaXhxTVJoRjlDRkkycFVFVWhPYWtNZDJWSTdHUFpFcVlackx2WmdfYzBBS1FEX0w4LWxPYUswcXFKMmRTMmc1V3FIUnhxMlNaNFNnc2pka3g0bW1GemVWdnZjMmpwMGtQVldpYjN4R3FSRElSbmhVN2xaZ2RGZnA5NVA2SWF4MEZvZi15QQ?oc=5",
+          "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Gefährliche KI: Auslöschung der Menschheit droht – Trump reagiert - T-Online",
+          "source": "T-Online",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGZ2NDUwRHZLNmprYVNCcG1XQ2ZfTlZGUVZPaXZmSnUzczhMNEo1YWxWLUZJZFNsNEEtclV1UkxkX1pNSlpLYmRHeXRLdTBGcS1UYWZ6X3pBTWtnMGkwLWFHT0tLTl9IbFJ5UGlrRHczQ0RzdUM1WjVGS0dTd2tHaXRuTnh0UGZ1SnBMa1pzRjhIMEQ0TzdVa3Z0WXdaaEVlN01BX0dhZDFjQWpRcmN5bzhPZjlvdw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:24:54 GMT"
+        },
+        {
+          "title": "Nvidia-Chef Huang drängt Trump zur Beschleunigung der KI-Entwicklung: Die Angst vor einem chinesischen „Sieg“ - firstonline.info",
+          "source": "firstonline.info",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdUtlRGpBZXd4OEJEMWVhMGFlcVRXSTY2NjdxcHNJZ1pxXzlSYTJpczZUSHV1bFY4NW5pbmRQWmhDd1NiLUxqTXN0ZVpSUHlUQU4zV195WjJYQ01qVXlQQjB2R1NMQ2ZERzRyNGFlbWNxdHJfTU9vSVVUelpoVGozejRlNVpUNDJxWkc4N2JQOWhBbFpHWDg1V0pTOXNxSDF6QkxKOHRRaWdwSXFIYjVSM2lDd1h5dW1Da1drSXBJWXZjeENoSm9hT3RxMllwUFVjTHc0Wnd0b3B2cWtxRnk5REVuRkpYaXdjWGpMTEVBWEhMWms?oc=5",
+          "pubDate": "Thu, 06 Nov 2025 08:00:00 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "Trump IA big techs China",
+      "items": [
+        {
+          "title": "Trump minimiza apelos de big techs para frear IA e diz que EUA não podem ficar atrás da China - UOL Economia",
+          "source": "UOL Economia",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWTlPSGx4TzIxbF9wY0tNLXNxcXA0QlVhTU1sTTk5UlRxLU5YaS1DRnBkRi10aThYYlNqS1FrU1ZFVGpFbnN5ODlhWkhoQV8tdTZndmFlN0JOOUozdWhNVHBDU2VpcXhMR1ZqeEstLUQzc0ptTlVXakk2SWh4NGVlRWRWZkMtUGRuZEVzMU9idF9vRFpoZS1MTlVNQUZXWHFnM1JwSzltRTRCN21RNlZ2M0tRVXoyeW1lUUtXR0hOM0hRSVFhbVFkNDZxU1h4RDk5WXpuN3p0bUlsVXoydW5ibjFXRmZvUjg5Qkg4QmVjM3JBdW9p?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:57:00 GMT"
+        },
+        {
+          "title": "IA: Trump ameaça com novas tarifas e aterroriza big techs - Meio Bit",
+          "source": "Meio Bit",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG5NVXQyVkRoSmpJcGZqLW5qZVVjbVdSZE5XNzNtN21OTXpESWNYNmRxS3lXcHJkUkpUNzlmTVJuOHc1RWRRbmZFQ3l4MFduUEVBTnN6NjI2Y2E0alEyVVZyb2JsN2JZQnUzN21uRjAzV0tLcFRNRkJ6ekFmNWhwRHhXVmRNVmJiUzRFUw?oc=5",
+          "pubDate": "Fri, 28 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "China veta compra de plataforma de IA por big tech dos EUA antes de cúpula Trump-Xi - Gazeta do Povo",
+          "source": "Gazeta do Povo",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFDajdGQ0QyUHRpUkxVOEZralV0ZDJiZmZnUGNad0dPY2JIb0pPNDJMWWpUd1lPUm9XNVlFZ1BNRURFTm80SzFYWHh1UXRweks4ZUpIYVRGSktscENEUTlWcHQtUXJ0QTJDTVozdklkVnp3QUd0Zm1LVWQweFpjWUVKQWJvcTlUeVFvUWtxRXByT3NaS3pTaEhYRWFVUnJQVHFJVFZRNDc?oc=5",
+          "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump convida big techs, como Apple e Nvidia, para acompanhá-lo em viagem à China - Estadão",
+          "source": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMG5TYlRtZVFBYVFidWFNZlZMc1k0LVQxWTV6bEQ5d1pDUTNmc2lxQ21OQnd6SjlpV3Z2MUxqR1htanAtSVZXcS1uZktBQllScFpZWHI1azJZLXZpZlljbldJQXRFem5fR25kZE9aOHJCaFhMUFpHYmRXdmhsY0Z3OXcxNDZZZWRaNGU0Q0hiZFRaUHBhYUpTWGI5OHNZUl9QWDNwMVRQd2RWbGJqakVHbklVUXI4bUE3emY0UVpBalNtT1FzT0tvZ0Nkd2hxd9IB0wFBVV95cUxOWUh3SWhvdGZaUWJHdGdoMnF6azBqeENvZERUZGhZUzJXN2drcjJvUG9TZV8tMjJhOUN5djhCTndRX1RlQXF2SF8yLTNsN3djb2QycXN0emVlZVZycDBmZEFRY1h6cFM1dF9zcXlySVJIaWI5bWpmRVhOazVkWHlVZXVfNU11Y3BDcGM1LW9CRF8zTG45SmF4VlFhdGgyS3ktM0JHZEpNZlhZUk9PTVBic21JS2tQLTdDY2EwTE1feC1GQnRrUDhPRU5LamZRLUdtcGo4?oc=5",
+          "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump deve se reunir hoje com empresas de IA para discutir marco regulatório, diz agência - O GLOBO",
+          "source": "O GLOBO",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZnlxWGhYYVppelF4YTdUaXN2VWR5d1JuajJIU1NiRk1tX1hyWjkzc21ibDdfc2h6cEs5SnJkUTlGeHRuTE9TTmNfMnRnNjJpTVNuX2c4WGRlbzc0QWJKRm9SN3l4c2xPUGdYWjZkcjZmdjl4UXRCMDFsbUI3TV81cUcwZlFXcV8zcG80YmtNTlNiZzI2OTA4NWZ3N0I1dGpPbHVOYV9wMVppel9SMjJhQU9VMUQyeXEtdE5oYTc0RTlaQ3p5cUFEb1RmRVhEVW1KeFlaczFDZHdXS3JIOXRxb2JUei1VemoxX3NRMFVNQdIB_gFBVV95cUxONVRYLWswSWtIVDYwM0pNdGRvS19lcXRRUWlZZGtIQmg2aUFiR1dpZGJiY2tBTmxnRkVJdFcwb2NFTEZtTGU0OHdTNGRpS1V3RnozYUFVSzZHazFIR2VsRnh2cWJUVmIwZG1hOHJKUVN1SWJ5MEE2OUJwVGtYTVRuaUtTMWZvX3NucF9OS2x1WVA5NXJmNTlpemlwTDRReVRCcTAxWmpCLWRMLWFFZmlMWlRmcndOdGtKei1MeVl6SW16cHNUcUVsR0cxanBsdUJzYmw3X2NZWXZSWmplYXJMWnpwckR3UktTaEJMbFNzeXNUOFhQR28xYWRib0lZZw?oc=5",
+          "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Modelos abertos de IA dividem mercado e acirram disputa entre EUA e China - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYndRbEkwTkdFZXdCTlN5TzRMTE1jUlhZbnBBUGZZQXdoMmpNTUdsYXRVQzdpeUNPOTB0ZXNsLTkzVkU0Tl83Z1RhSnlkUUk0cmk2ZGFQelJOYlRnQ2VmcDM2OGQzaWtadlJpeDZTNHQ5M1JRWmdMRFZWRk9wT3JHLXpVd1l4MGRYNlYzTXR5MkltZ09GbVIyY3BuTWhsUjdqTHJhZEdWM1FLYU1ORTU2b2htLTI1VWF0bjRXbFlURWV1bEpQbUE?oc=5",
+          "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Musk, Tim Cook e mais: viagem de Trump à China é acompanhada por CEOs de big techs - CBN",
+          "source": "CBN",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUptQ1FMNzdzMnhEak1tVG9NUDFPd0V1blptMDlfZlg0NHI5UGdMTFhiME1VZjF3WmpEVGxSc2Zib1MzMWI5UTBVZkxXYjgtdXNzTFpJampYMDJCd1VyM3ZCZkVoalhkR3NQUmpyQ2dSdFdkdEMzVl9QcjhCU251TXc1TGE3RWVWR2w5S3lfRFRZdk9MSTE5dDV6blZwcHdHc0sxMXE1aW1zekRUZFdiUkZfNFZpaDlIb202RkJ0Q1BOQ2xjRURvcV9nOUtiQdIB3AFBVV95cUxQTEt4MjdXa1RrYlRnX1F3QXBsTkhuRk1tRjRpVW92LXBCdXNuQzN3Q0RwOEV3OEJjNHpsUFUwVWFPR1dKMUFmWmJHZVBPalZCLWxabHdyMGdtZjBqQ3pUMUF6NG04Z1pOT2Naa245UEdSSWQ3Rm1FZFdmWHY0N0tnOVVsRTh6RDNJeV81a2g3Q1Y0Zkl0V2h0UGI4UjZWZDVBOWJNWWlzcDJQLWVVRjBVYm1FenVUYTdEYjVuNjZIendTV0N6UUtTbFVYUkhDaWV1VEJSaG1FOE5DaWN3?oc=5",
+          "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Trump critica suspensão de data centers em Nova York e alerta sobre a China - Estadão",
+          "source": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkdiWmhnamE4N3JIRjdCTHpHNjVFTDRWOUc0NHZJa0NhZzd5Z1VmZlJWMVN0TUVEUWk0c19oSkYteFFMZlA0SDJxZFFjY3Q2X0VUZ3JxZzh2c3dvOG5aZW5WTHhkTE0yNVp3V0Y4eGw4Nml2ejhyYzhEYmFsdVNwVWVfM0twTVU3dUVuZDhUSVB2ekVFWVlFczFJM2lHZjh2WGNnV2FYM2dFN0xXTFVfb3VaN3JhOTdsaE5nS0ZRTjNNU3BmZVhBa9IBzgFBVV95cUxQSWtVWjg4YVVXVnVMVHl2NXZyODdCb2dUYkpXYy1LNWljalE5bE43bGtOTjY0MHhNcFg0eXJuVHZLT0JMNjhST3BobTFFRlFDS1RjaHVEcHZGVzV2QU0yOU9oSHdTZzFTWnhmUGNUNTIteGhlR0xzQUtrdl95bm9ncnNNdjNJSDJsSUpNQlM0M3VncXZiYXlLRE1HTERoRXA5Mm9aYUkyLWpKZHlGRmRBb1RqYzFiWjh3QVF2V2cyVFJDTWtWbTNNVUJNM3RPdw?oc=5",
+          "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ByteDance investirá US$ 23 bi para competir com big techs dos EUA - Poder360",
+          "source": "Poder360",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ1ckVOcFk1R0tJX0N5MGpjMmRzaV9Za0VMQk1KNzltME5BZU1XaGxoQkpfUkZhOFM3NXE2ZWNCUHVsaXlfWG5uX3F1a2tFOUlpZ0JuWlVqc1dteE5KVkNTaGNoU09nMFkybmV4NEdPZTcweHBfV01mZ1JVb09FNkZQNVJYQmgxSWxxdGtVZWQ3dHNCd0J1RnJzelRUa3U4NGJMZEl5MA?oc=5",
+          "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "Novo modelo de IA chinesa surpreende big techs dos EUA; entenda - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEI0QjlzVU04cUJVc3J5a3RhZU95YUpJUXlkbkZuYTFYc2dWcU9aY3VrVU01NnpoWjdIVmcwQXcwVnMxbkV6eDZnQi1SX3BWNDBqd3k5dEZvVTY0b09GSVp0bm1ZVk9jSlU1SUZKMWZWdHhtVnZuelVneEZkN3BWWHI5NU05V3BMQ1F6U0lkbGQwNGZxZkJGWkRFd0VxeW5ZSXhTQ0duSnRNNEgzemVSNlNFWWJLLUp2b3c?oc=5",
+          "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Alibaba e dona do TikTok treinam IA fora da China para contornar medidas de Trump - Folha de S.Paulo",
+          "source": "Folha de S.Paulo",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMHBBdU41RVlHcERaU3RFYkZIYXdMc2NFQjlHOFp3TlU2SmYyODcySGRYUnQ0NEliR3M1WGM3b1pxMmhKZjlVT2hTWVpvSFpnSFYtU1J1TUFqMVFvOFNhR05Sc0U2cUtvdUxkMmpQNzFMSHV1TUtFa00xRWJudnRsTlVKcDBMSEJBSjVZOV9DZWdpQy1tMHdpUnpib1VkSFVPTF9ack1lbXRKaklpbVVnMGhLMzl5ZWswSTdzMlZEWVRZU1NIendJSdIBzgFBVV95cUxPdEJ3dTF3YzYyb3huanZyaGlteV9oS2V1MklFYlduX2cwMWU3MlhPeVl2LWxINWFKa1FCdXF6V20xbms5VWRnbzFTaWJjNUFhcWQ4YmJrQ1BMLW1TNEt5ek96NEFkV19BWURFYzZPdl81cDVCVGowMXpKSS03WmgzUFY2TV9OZ204VzlIQlJjVS16VkZfQkFuNDNhVmZnR1Fha0xxS2JiWnRXZGZRak8xRkY1bllWTms4bGV1QzBNZl83aEZIa3cxRFVpVkpPZw?oc=5",
+          "pubDate": "Thu, 27 Nov 2025 08:00:00 GMT"
+        },
+        {
+          "title": "IA: Os EUA ensaiam um recuo? - Outras Palavras",
+          "source": "Outras Palavras",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkdMaWYxTzVDZnNsbzNtUTdiRnVQQnVQbEc2bzh3VFVtRC1sWlJGaWFfZVhvQ1IzeWNYMWFPOFdfaW9BZTlGQXFhbERFQlJoMXFoN2hSYnd2TElRQ054VmxHVGRyb1JLaVNoM1VpbHo0TmNmR3dHSU9QbWFUV0Z4TU84elQxOVlnTVE?oc=5",
+          "pubDate": "Tue, 18 Aug 2026 17:35:00 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "Трамп искусственный интеллект Китай",
+      "items": [
+        {
+          "title": "Трамп считает важным опередить Китай в разработке ИИ - Интерфакс",
+          "source": "Интерфакс",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1ZVdDcERKSzBrMWpnMGxIcFZDWmFwd3lINFNDVkJna0twRW9MdGgxcVAtMDB3LTQxeUtzTTI0N05YYlRwaUhvN0d3aGxHd9IBS0FVX3lxTE44cTM4c3d4RjlMa3VVQXdfMXQ2bWJRR2syMmIzTzd1WlVFd3pTTVJZNnl5NHB1MEUxV2JMUS1NVV9YLWNXQk1XZ09YNA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:22:00 GMT"
+        },
+        {
+          "title": "Трамп отверг призывы технологических компаний замедлить развитие ИИ - Українська правда",
+          "source": "Українська правда",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tbHVyZ3NJQmxod2tDbExZZGNZc05pUG94WG5ZN2dFTjl5S2VkT0JQeHl6QjVCUzFlREdhR2ZJUTRCbnFOVjh6cnd5YnlXd0ZvcnlUd2JZUUh1bnRZNnhLY1FnazPSAXBBVV95cUxOUHpOZnRPMWdWT1hJOWUwMDVWYnZSYjdlYV9nQkJrNkY2azUtbFN1d20xWXFBV05oY1MwTDR5Mjk1aHJ6MFVDTnhUdFBHSmpSTVpZMllCRXpsWGk5c0xkWGFhZW1OdXJHUXV1bENGOFc5?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:31:00 GMT"
+        },
+        {
+          "title": "США должны опережать Китай: Трамп выступил против замедления развития ИИ - Дзеркало тижня",
+          "source": "Дзеркало тижня",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUtRQzdEOERSQldfNUlTOThlVXduUE1sQXRlelJlN0JPdGJvbGdCdFNLMF9aWEVrRFdmMzNhTmtheHgzR0JXcFZPSmJ2Sk52YzZnUm9LMWRsT3lrT1ZPWEZsLVZZYnBZRHFxbDA5NUhHcUNHcGdYRnNkcUZZOUNYOUpndjJ1RHBiUTNtUTVDNEtSS3Ixdkc0Yy1HcVRIWGvSAaQBQVVfeXFMTVY1SEpEV0pjVDdwV3VDd1dyX2V3MF9XM3hobWhTbHJxUHJGQ0hzclZ5b0tfekZDM2s4TVRZeEpaT2ExTWVwSU1ZRTZPODh0alZhNDJ6cENCUGRaWnFsLWNMTUxXZ2diYTN3b3R6cWNnb19LNVZqTGI3RWY1Ti1HRF9Mbl9nVzJqQ09JSEVlUDNES29qR2hJTV9aWVk5RWNZSmY2djc?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:13:00 GMT"
+        },
+        {
+          "title": "\"США опережают Китай\": Трамп выступил против замедления развития ИИ - РБК-Україна",
+          "source": "РБК-Україна",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1FsMm1fYUwxUWJ5OGZTSnAtcGF6VjdDd21POHlobmxtdEozSU9jSWU3a2dMVnlkai1EMFVCOVNkOU5WRUpFQUI1a2g4UjFmZGZWcVRQMVh5YWFleElxMU14Y0UzSEUxZldrV1ZpZTFKT3R5RU9tei1pQVVnYzlqckQtN3pObDlUMDhvQ0N6bjhsNmvSAZgBQVVfeXFMTlhCdnVleHVmUnlmWXVTM1dUX0c2R3ZtQm54UXBpSC1SRlNzZkMwM3gzQWFubi1kcGgyNncwLVpLQnNfVnQ2dzlBOVA4dVFzd1Nad3pfZkhiNHVaNzhmV3U1Qko3emF6dFV5cWlWZWItLVZ4S3lsNXlJV1JZNnJWMVJJZlJpWVBLYjJVZmRKclJNeWEwV3h5aXc?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:45:02 GMT"
+        },
+        {
+          "title": "Трамп и Джонсон отвергли призывы замедлить развитие ИИ из-за угрозы человечеству - Портал РЕПОСТ",
+          "source": "Портал РЕПОСТ",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjF4Uk9FM3dzbUltUjcwYVA1ZWVjejl0NEdRZzNfMk1XVEhZNFB3TDIzSjcxSmlBN204YUtNNTgtazBlRVlwNkNVbVpQc1E4QmQyN05EWmZYQzk3NFhRRlBtNmxJM1hza3JHMEQ1TGYtRDFZc2NkUm13RzBrT2dfZDhSWWQyWUxneEs5bTBSM0VrQkZxNEsxTU1ReEp1NWpsOGw2RGZKLVB5Z0tKaEsyWEx2WUo?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:15:00 GMT"
+        },
+        {
+          "title": "Трамп заявил, что опасения по поводу ИИ раздувают \"негативно настроенные силы\" - Українські Національні Новини (УНН)",
+          "source": "Українські Національні Новини (УНН)",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFltRjNsbUZ3Z212Um40bkFSVUg2ZzliYXFKWGR1aUtWa0Y5VVhpR1phTEpXeWRTLVVUYmNOWGFvWjJUZ0xxWjZGek1iODdnNl9EbW9FYXM5OU16NGpqSE03UzgySmljRFRBc0c5c1B6QlZEdEttZEcyY0F2UDBYWTNXcUJzVGN3YWxGWUFmMkxrNlpkaGE5Vkozc3M1OUp2RjBiV9IBowFBVV95cUxQaHh4NDlEQW40Yl9SVmF0WGxMa3phU2FCWFBHXzUwRTd2V0RPdndDSWl0UFpNWVc1TTFDSnJWclpMNi1wRFppZXVscmlXM0E1Nm9JLTEyZlRDT3BBVTRjbnNjUUx1SjZDWG1jQ0U3NVFYcWhxRVRlXzE0NGYwNnQ2WkdnZlpRMF9PVlJYMk5HeU1iNFo1UWhKOHVvT21DWFozTW44?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:01:36 GMT"
+        },
+        {
+          "title": "«Проигрываем Китаю»: Трамп и Джонсон отвергли призывы замедлить развитие ИИ - АНТИКОР",
+          "source": "АНТИКОР",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVG5HSnE4UFZWa1ZRVmlBaXQzSC1hZ3NuQ0dEbWlBckJKaGN3WWp1Y3lmV3p3cVpVblp6YVVEUjU2NXB6c0FPZmhqOTR4RDUwNEVyS3dXcHpBLVc1MVljTFdHalFpQkR0b1hramxGbjJ3bGVtUGFQNy1YajFXOFJYYl9QNFNWWkRIWEhBUEJVNzZ2RmhPTUFrUFd4UldjTjM5MlNqQXVFYWlvQzdKUDRaaUZMZw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:42:00 GMT"
+        },
+        {
+          "title": "Трамп: США выигрывают гонку ИИ, угрозы вымирания преувеличены - techora.ru",
+          "source": "techora.ru",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEMwOGpjb0JySGk3NnFrRXhNeEdPeHEzTFhwOU5xVldVcDF6aHVZdG9Qc3I3VHpCU1Uyelp3Z3JXek5MNTRCTXNyb3pFaTFSOFdfREtzcDlEanI4ZGkxYnNIUE50TTZpcnhPTU9XQ19jTlRwS24wM2FYa3F4UmR2cXpB?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:48:05 GMT"
+        },
+        {
+          "title": "\"Кто победит в гонке, тот и победит\": Трамп отверг призывы замедлить развитие ИИ - focus.ua",
+          "source": "focus.ua",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXZXZElhQUdhejFXb2JaRmRfRFRmWmxjdjM1WmpkQTNnSFRHcnpVTURQcWdWZzNSUzluaUxhYnRFTFFYQkZDSGNjOVhMVkFpVWl1aVprZDJ4aUY5ZmE4TzlOcEhBWGVpQkVuN3dCd3JKNWlEOVZrRE56U3VKM1R1WkNoRWpKclVUbUYydnRfcUdyMG14c2hNZ3hMbDAxUENlQTMtb1pvTS01SnZYVzFVY9IBsAFBVV95cUxQWXZXZElhQUdhejFXb2JaRmRfRFRmWmxjdjM1WmpkQTNnSFRHcnpVTURQcWdWZzNSUzluaUxhYnRFTFFYQkZDSGNjOVhMVkFpVWl1aVprZDJ4aUY5ZmE4TzlOcEhBWGVpQkVuN3dCd3JKNWlEOVZrRE56U3VKM1R1WkNoRWpKclVUbUYydnRfcUdyMG14c2hNZ3hMbDAxUENlQTMtb1pvTS01SnZYVzFVYw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:43:00 GMT"
+        },
+        {
+          "title": "США обвиняют Китай в эксплуатации искусственного интеллекта в «промышленных масштабах», Китай предупреждает о возможных ответных мерах. - vietnam.vn",
+          "source": "vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzFmeXBVVUxQS1ZzODdDOGpJc1dYckppZjA3Y3FfM0ppSy1UUTJtUGNzMVc1RmNJWE05TFQxZl9LVlNoVHpIQnljbkVQOVE1SWQ5enZwX2NyM3UybkJZQnJDMTRqdnJOOFQ3R3JXdk5FU1RncTFJSUZuSmNxNEFfRS1kbF9zeHdUaFhTaVV3NDlLQXBFdERicE9Jd1hOY3pkM1pxWU5OSm9EWXd1?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 00:29:30 GMT"
+        },
+        {
+          "title": "Трамп відкидає застороги: США не сповільнюватимуть розвиток ШІ заради Китаю - my.ua",
+          "source": "my.ua",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0w1RFhTZzlrWlVHZDZzdEFPZmFTZzJwZXhGeUlRVDVhTzQ3TEt0VC1zZ05tUHZRX091TzQtWmJhaXlMYS1CZTkzcng3RlRJWWNxMnpUOVlndFprd1R4S3o4UlJ5c3JGTlhTbTZ6bGVVYjFSZXlxbFlweDRJdHU3TFFCNVJONTRVZmxKcER1ek4xb1hJYVhpOVZsVTBDTTlUQ3N3eFhEWE9YcGtINUJwQklVN05xNHVWazZR0gHAAUFVX3lxTE54Tll4VU95MS1ndjhkZmRCUE1BaFlfYlRQZXBHQUlkVnFMLXFjQ3VhdUhjQkFzaGx0NmlPSWxudlJuX012SjlGQ2pRNkJCUi1vckZITzl0cHNzYXpxWGVrN3pTemhrMnZKUzV6V29FRHFXb085c3M2ZlAtSEl5QUVZNmNheG5KMmhjZHBnOU52MDBtOTNPZFNDNG5hLVIwYjRuSnpFV1VEeW0xQTloSzBHWHdqYzRScUJXVnRHVG9URQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:22:46 GMT"
+        },
+        {
+          "title": "Трамп заявил о преимуществе США над Китаем в сфере ИИ - UA.NEWS",
+          "source": "UA.NEWS",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUxnNFJuaEpmU3BzMlpXU3VPTlFZeXZZcFdpOFNsRnVVa2I1YjctUEdjckQwMW5JUXRfRGg1cENlaUhiWVY2UkhmZGwzbTZsRjFrZkZTWEVYOGl0eTJhRnNNeXNBV1ozR3F4QnNXMS1OeVowemF5RGZ2Qk1EaTFFdzhpMGdmTEU?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 03:11:55 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "ترامب الذكاء الاصطناعي الصين",
+      "items": [
+        {
+          "title": "ترامب: أمريكا تتقدم على الصين في الذكاء الاصطناعي ونسعى للحفاظ على الصدارة - جريدة حابي",
+          "source": "جريدة حابي",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOcWo1a3MzY3dSRHN4YjlRNjA2S0MyNUdNRW1KcVlHWmsxNjg1TjlDTXAwbFVPYkloU2EwbmpqUmZDeXBfakxDOWxmeFV0ekNXNkk5OXQyM2tyeVpONEl0X0xVLUt0UXBWVGFSZndNclRyRHExR1YyVGctQzdPNVpWQVhBWmVPUzZES3J0LTJrWVpWa0p0NjZRMzg4MExHR0JtM2RmR056bi1jZFQ5RDQtdDZlQzFQQ2lCWmxlNnljZHg1dzNWQ1NNa0dhQmZNbVRvSEdHeVFDOWJLMkp1WU04cXRFOGE5eVZtVG5HUE0wTi04SVNaQV9QNXlQYzRIMWNRemxpMFNFNUVkMFNpQXRPOVlpOEdoRGY5YlRGUWhiVXB0d2Uxc2ozcHN5RGZMcE1aOWYxUmtCNVhQVWo4TmNEaFI4dG9IUF9aWTRZNU0yQTRIclJ3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:29:59 GMT"
+        },
+        {
+          "title": "ترامب: الولايات المتحدة تتقدم على الصين في ملف الذكاء الاصطناعي - بوابة الأهرام",
+          "source": "بوابة الأهرام",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tVVU4UnI3WW94eVU2Vl8yVE16b2xxNlBfSGlmRVZQRkVrTk9kWWt6aGhmcDd3TFFVRVNBbEVXcjJIZk5Ra3c4RWVPanUzQnU0b2licS1n?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:38:00 GMT"
+        },
+        {
+          "title": "ترامب يقلل مخاطر الذكاء الاصطناعي ويتمسك بالريادة - سكاي نيوز عربية",
+          "source": "سكاي نيوز عربية",
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPV0xlX29XTFNwaWYxN0wtdmg5T285bHpkUVYzMERzcTNORGc5Y2hkdjhHcTVfOE42Qi1IR09RRktXUXdWVE5CZkN3WTVPM0lzV29peXhKR1kwcVpaWlhuUVpjaDRRaGttWGhCMVVMOS1EcUx3S0J5aTd6c2JveVM2aWZQMUUzS3ZkSVFBeXRycmNMX0RWclVxMVlraEIyT1Z3eFg2QXFnYlYyM25IY29rUkR6eGV3bmlOXy0xS0t2RVdWMElKcy1XVVNfU0Z1Mlk0M01rYk9TTlZqRG11X0JFR3R1bm1VSUMxalVRYXJYV0FkbnJXOHp2LU9LM1plMWdzODA2clphdTBZbm9OREpQWmtzM2psMk4zeVF4NzB5cGpIeFRtT1o1bFBzOUQyS2VHY09fSm1XZlQ4ZC1XbDhUU2tUWWhmYkZUMXJFQV9fam9vckdrWXpxeWV3bWpPY3hURFBPeS15Wm12TFJpUnE2c2dzTzJHUHVsc0MyY2R5U1dRQnVSd2xWRDY0cGZBRW81b3R3REU3RkFyYld4bUN2UUlWWmNMMlF6Sk1UWDJINlgtNDJwbGctWFJSdUFxUdIBwwNBVV95cUxPZmZNOXIxamhBU0pIUmd2a1BkVm1VQ1ZOSVRDX2pRTU5IMWVVU0VEU0xvcUxCUURjeDJLbFhBelFQYzRlaHBuMVpTWEhTckFmSW5VVjQtQ0pseHY1NjBpR09oX3huWF9mcy1xbldDQms1bVJtSk83RFltR1VXU0VNMmw3X2RPX2xGSVFGcV9wbS1fTmFpTFJ0SDR6dXNWX2pWbVZGYWtGRzZzcU5EQkxhWXVJVmdaQlI5X2hxRDVCcnZGTk1HWHk5bGRpS21ZQnc1UkhHWjd3QU1kTW1PVHBMRUJxeTVNcUpfTENEaHdnQ1FJSUpXZ05nLTAwVkYtYzhlb3l3d2FhbzFGd3RiOFZMcjhRUEZCcy1DU0xicEg0Z2tqUDh3Yk1TT19Hd3VSVWthX0ZGWVJ0VE54OWY4QUdZWHFySzZhck53ZjFodXpNUzNzbW1lV1VxTURjU29NN3pNbElvVnVQQktHS2pJbk03eVVaMFJzdllqSndCZUZZcFZLZGRQU3VoTVN2bWFuWDlWdm1OTS1PNW5vNTJwbkwyalhsZVppSzZlenJiSm5jUFEta0J1SWV3dGJkYUptTzAzaERN?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:34:45 GMT"
+        },
+        {
+          "title": "ترامب: أمريكا تتصدر سباق الذكاء الاصطناعي مع الصين وتريد الإبقاء على ذلك - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcVJsT0h2VkdqcWdWOWdDYnRyelF6N1B3SU9jTnBFNmNTbHFRNnFmb3hmQ0dWQkllX2p4VGJVdGh2bUhaaEJPRFRGcV93Y2RiMFd2ZWdLdjAzLW9LMFAtYjlUY1B4RDBWMEpTT2ln?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:19:00 GMT"
+        },
+        {
+          "title": "ترامب: قوى سلبية تثير مخاوف مبالغاً فيها بشأن الذكاء الاصطناعي - العربية",
+          "source": "العربية",
+          "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxNcVk2UWhPTUg3TS0zOElZVmU1VzMyLXRVb3B1dExIeWE5NzV1ZEFfNWstZUw0dS1TSmxnOENEcGVCRWowVDlQeC1DVzhlVE11X1NOSjJhU1F4QnUweDVrZ2x5Umt0V0VTOGg1Mlc4TnVFVU9UUFBVRklJb1JjRU9MMld4Z0owU2Jab1AyUEhmTnFIZ05CNHlpNTVULVdqRXdtX3RsZjQ5Ui15bXRLY0pzX0E4c2V3bEo1S29tSUtPZkR1dDV0SS1DOEk5NFB1NzVoQy1BZExFODRTSm1ZVGRaQkdNMjNmbXRhbHZoaEtLU0s2U1hsUkdNeTF5MVFpVlo1VmViNHRqeEIyZEprYWZUcE1qVVNQWEhEUUZIcF9xVzYwbWZJNHdoblhmX1hKeU1JcTFqTDhuVVljcmY5UTFza0VKcm42cmctT1JGNHR1SDNONlNMSDVQMjl2OTIwUHhYRWZ1d0dyQjNwdnRlamtocXlIc3BzUkw3NzJSS1RlMUFFeU9teDJQNXc3SnhRWk1zeUU5VHlIZW5rWDFidE1fcUxVNGNjbzZXVlAtQnFoZ3Z1ci0wQS1xVVdVNGRRMzFYeGFSSkJfR1pPVGRHa1ZWeU93bUQ1MHRKeDBTNVo4N08wVVJBd0RZc19aUDY1QTlLb2VBMEQwTlg2NHFObVF3YmJ1V2HSAYoEQVVfeXFMTi1XMW1pMGE4cEFYeFRvU1pXMzJWZ3RPdG02b2JVaHRXRnJMUzNBbkEzbVV3NjVWZEVfTFByQVdMOW1zM2VqUl9nT2x3d251YzdxSkQ4SGhZOXJVMlpVVElONjFrcEtpMGVCbnRNWXFpcUxHSE5YbDYtSUktYmxYVHVNZ2xwUUpfdldBZ2FXdTFHYTI1YUJXc0IwTVVvOFFhSVRnZDJEU01kVWplcUN0Z2NWVndyekZjdUhDREZoVDFUX29pREg4ZDZ5T1E0dVNJXzhaMVdQYW9RMmZPdHQ1bndWNDNIUU9EbHZ2eElnQTMwNmlhdWN1V0Fyc0tCRGp0d2hIVEZIT0ZQU1d3elJHYkpxTE03amxUQnU3RWlVTFpLN0ZXMTNXR1dMYWVuWjhzckxEeVlqZzZBTlIyc01aQjJyUUJTTjBHR3VGZ3huUkxSWFBjRFBkNXQ0WGhmdXFOOXIxUFhXRkxBTnRwMnNqNDFKcGxESzNqMmtLVm02NzRWbmxkWS1pR2k5OHNYOGFQMGZITVJkcFVHNURHUlI0TkgyM3pGODJ2aGJpbFJSb213VTB4Q2pQSVlRYXFSU0ZnYUQ2cXJ1UmE4aGQ1YzdvcU1kMUQ5c09BQ1FNQi1WWEh0THlGUzJpT0JHRXB5Vl9wcm5pUVZwcTJQekUyLUktcVJRZ0ZpVUpjYzNB?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:49:00 GMT"
+        },
+        {
+          "title": "لا نريد إبطاء التطور.. ترامب يتمسك بريادة أميركا للذكاء الاصطناعي - إرم بزنس",
+          "source": "إرم بزنس",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ITTUxRE9JWWpsRTdPY3NYTVlzclpEZGM4YmYwQmM0b1lWbUJGa1VfV1dHMUZZTzM3MHNrS0Z2ejI3bDhrUU9sYlpIeVRLSHRHLURGa1M2SU5IcTQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:49:55 GMT"
+        },
+        {
+          "title": "ترامب: قوى سلبية تثير مخاوف مبالغا فيها بشأن الذكاء الاصطناعي - reuters.com",
+          "source": "reuters.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UdzN3WGpMS2pBV2dyTnFBaHl1a3BBOUJzOHBsblk5SHU1N0VKN0lidUpUQURha2Nta251ZXBIQmtwZ2tfZy04MXE1cUFOVE9UWW5FNHo5Ukl4Y1pScHYyZVlQUDA5djM2TDA0ZU1zWWVERnh4SVhGQ2QyM0N0RjA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:01:33 GMT"
+        },
+        {
+          "title": "ترامب ينتقد الدعوات لإبطاء تطوير الذكاء الاصطناعي ويصفها بـ\"السلبية\" - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNT25zVk1rMkpnV21ScjVvTzBpeEstc0FPYjZoYnlvQ3k3UEVmTVlFUW5CeDBCMjEyTHpveGMtTjdJakNRb2xlQ09hZE96dklreWVZSEVGVzdPYWpKN3ZWdW1lUTN4STh4VzJqdTFyUDRoemxLdFdnZmVHTVVmUTA2V21odGZnOWs2ZjRlYmhhYWM0Q2hvMkN6ZnFOZUVTN2ZFamFGbVlKTXhfVnlpU0ZWaFI2Wk1DRjlhbmoyZlRTSmkzNkc5MTlSemlnTDdrdGc2TXl6cTN0R2dEb3BkRlhxb3VkMEtMNzhnRUN3S0xHQjUyMjh0UkJSLWdzZEhyTFlpb3hvdWZ3dzhtX1N0RGlZc2IyeDNGU1hBQ3RJRk5PTnpMTEZNTlh6aGZpWm9TbWkyaFZNejNibUVKZHZoRHl6eXNlS1FGcjRlc2hUNWNvZ2NkTUhqbFNKLUhrUU9QMlp5MnRqZGFGOXVod3JqQndCcC1leU5JekQxLTBqbU8tWXVsRUcwVk1YcDgxNWtPU1BhSE9nY3plbnhXbThjZUt5dEc5RmpNM3pJR1dMVmEtWTNRQ1FOd195TmdiR0VuaWlpdVdQdlRZTVpJLUxCQUFNdHZCV3UwRTlEZkxZVVB3REpxeDZEWllwYXpuamN1YnRTaldDbDV2bk9YbW1MWXdOOUJDNVJDV1M1SVQ5RHNta0JhRm5zdG80QWNCc1dESWxlNmFrRkVGRkhndw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:21:14 GMT"
+        },
+        {
+          "title": "ترامب: الصين تتجسس علينا.. ونحن نتجسس عليهم - صدى البلد",
+          "source": "صدى البلد",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00TVZKVEVFSi1DT28yU3F5SDZQZkxVOUYtOVBOOW1HLVcwb2s0RjhJZjVMWWRiWXJRSEFMb1U5ZDliQUlQaWln?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:49:00 GMT"
+        },
+        {
+          "title": "بين نار التطور ولهيب المخاطر.. ترامب يشعل سباق الذكاء الاصطناعي مع الصين - مبتدا",
+          "source": "مبتدا",
+          "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNb1ZGZ0ZSRk9fM1NlYjJYVkwwNTJGMlBYVkk2ODk1eU44VTNKU0hRZTdMV09iaDB1alpzeDJPTXdZRXJFd3FwUGFSQ2FpZFg3WlFPLUxCWUJmN253ejB5VGd2VWxVa3Voa3ZWRnlOMEdnOXdUZ1k5TWtHV0p2RlBES1VJT0ZwT0Y1dTJGYUMzTW9DQUJWay1pUWx2NTVWR2M0MUI3X0UwVDJmWlJibzV2WVBpQWRKUXdDV0l5eERwSF9fQndyc1YxZ1d4Y0RVeDJDODVxQUhyVE02UTJON0NQRXljeFpId3RtMzh4RXdDN25GNXBrT2tEaTBvdnZMeFlnRVduYktGSnVOT0VJT3dLSkhZZHVISHBxbWdaZ01zejh5OS1QeHdTQmVvRFpQUTJtLVV5eDl4ZkFqdTdDVXFqTTM4TzJoUG13OFM0WUF4UU5YSmxjNEhUWmdzR0RhYnNSdUU3M0drSXM0VzcyYVhpYXJaenJYYWZ1NEttbERVS29VUk8tcmxfaTIyUjFWYWxydmEzZV9XZ0tfTV8wb29qNUpvQWF4RU8xYTlaTlNJOFFMcWdVSzRBQnFwUWFwVm9GSk90MFV5Y3RNajgzLTlQNTFtTWFPWHljTC1GbXVnOGRDOC1taFM3UzktSUNGQlVCSTlmSHpzcHBELWpyWDBlZkNGc0lOT1NtWC1GVFpBdXhpQjZud2J2X0VLT2NySmNTVllqdTdraWtKZWw1LVZiZkdIaEJjQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:26:54 GMT"
+        },
+        {
+          "title": "ترامب ينتقد الأصوات المطالبة بإبطاء وتيرة تطوير الذكاء الاصطناعي - مونت كارلو الدولية",
+          "source": "مونت كارلو الدولية",
+          "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQd0hPTjc5N1VjSGVCUWVQWHI4Qm02RHA4YmttS09VSkNWZ1BUOTQwd2xCUXhySnFJMmM0RHhRYlBRQlNHbXF1WENOQVBsd01LTmFNVmdETFhJU2Ntcm1WcUtCNUFvTUdINXdBUGMycmoxcTdSRzF1bEVDQ0N6RllYUkg5UU96OFk0QXUtb3dYVzlVZkNwOTJ6NFpPemhkZE5jVDhuMXFpTFp0NGk5TkFHV1pjSzlhcFhXYUhPWGNhR293cFNzakdfZFd5SmI3NE83YVh3andMbEtuNnM2dW5MNGZQOTc2bEtJVUN0OGdjTExUcDZnR25RWTNnYWExZjJiRThJNUxWdDQ5NXBfRHozWEMzYjM1dDFDdTFVS2pCdUE3QXdQdFBRY2tNeHlSRWRRVzR1TWJEZFlOREtDdWY3NjhrakZUd3dHOGNUTGlmbXNLZm9MMlRzN1NpRkt6OXppY1lZWE5uWkxISnhST1lLeTBxOWJUTVlCdk1YNjRuRUJfUVRiT3JsQmJ3VXlBbDQ0WjIwWVpMZHJjTEVUZlVxc3hzdmxVR0RlSXdicS1hNnpjUHZpQmJNQWxHWVVkenBESnJzandNek1EVHB3d0J5eEkxSklvVDdGV1g1aERRbEtnUzBGdDZwQkdaQ3lOdzJoTHVrelR6dUVJU3AtUkM0NnRkNkF2NjlUZ0xIR1Y2UnhDTmNsbDVyQmRuQm5RYVJzUmpvWEprMGxMWDhYb2M1R1prekZqcDA3SHJJeTc2VHUxYzM1TEVCV19GSlZMRk1hSWI1ajRSdGNLS0VibnM5V21McTllanVoeWZkTS1YSkEwOS1hVVBVV25UTFBXWExYcUR0RkoxSGw4NnBadDk3S0pn?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:30:18 GMT"
+        },
+        {
+          "title": "ترامب: قوى سلبية تثير مخاوف مبالغا فيها بشأن الذكاء الاصطناعي - صوت بيروت إنترناشونال",
+          "source": "صوت بيروت إنترناشونال",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPaUo0WXVWTlduWElsLXRRM0I1ZFJJRnhidWtRQmkyREZ0d05DZXY0dnAtaGpaU0tYQ0I5Wm96RjJ0OGlhYVl5U2VYeHo1MV92cGtodHFQMTJEWndNVURYQnV6SXY3WE83TzhhMFExbEJXWURVUzVCNml5cXNCTHc3WDJBTlg1VUVuaXVmZTlVQ1V3VlpheDVaQ2Nwc3hHVTh4TUczSTlCR29tVFJsSkQwQmNsdWkxb0psWlpVZ0xTMllhZTNQNXMxamdFbEs0UHhKYURMSFcwU29YZVpQWDBPUGU1UkhmOURDQWVfbU10eERyZmU5SGFXeGU4WHJqZnUtR1c2QUZTSUpFdUpWNHNpV0xZVFRtcHkwR3BPMGNXRkVOQlB2N3pmWjVyU0o4Z0doRWdsa0JRRXhfcGRWYXg5Mi1PSmpTY1JfQ3dISnJuaXNPeDZRelQwQg?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:59:12 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "特朗普 人工智能 减速",
+      "items": [
+        {
+          "title": "特朗普指不担心习近平可能会取消峰会：我们关系很好 - RFI",
+          "source": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX0dTZW9NbHBTYjVQRTZtUkIzempnTFpMSWlzcURNVy1ORmNxenRPSlZJQ2tyb1F6akpyMUJibVBRbldPcWMtNEdaelh3bTRVVDJMZDRVVUpLcE00YThDVGpZT0hiU3hKdThJUmF0XzVycVE5dGR2MXVRd29Eb3hTUklWWjZjZnNHM1drVnNscEhaWkdfU2stOS1feGk0OWlMSzFfX3lPSWpZTXNwVWRJenhBSUVtOHFESXRSZk9xaG5wd2xiNXdGSWJJdFdwVnVtc0s3b2lqUktSaVgzdEhMR0RzdHNvdkxNbUpSZE5nay1iSEljeWxJdTA3dnphT1dMdm4yZUlGdW5YNW1sQ0ZFeVNya3REYzBKbi10alFyTzFDelc0MU9HTWJpM3RQOGVvWDVaZGlmaEVEUHIxVGJjZmNIZ2w3RjVyTDN1V2VUR0dndmU3Wk5vS1JwRWpybEdFNUY2elhiTWZVUXhDR3NWV3dPSGs?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:53:57 GMT"
+        },
+        {
+          "title": "AI巨头为何集体喊“踩刹车”？但谁也不敢先踩刹车 - 文学城",
+          "source": "文学城",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6OVZLaVR5MXJhN2Rwa3J3NWppR0hsYWVseEJlUDBURF9GdElqRlpCX1RIaDh1U2JhWGZHNXVodW14Mml0aURqNHZjdTBSNlVZcEF4Q1V2SEJOVXVxNXRsRVlzNmotSDNC?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:05:18 GMT"
+        },
+        {
+          "title": "AI会毁灭人类？美AI巨头们呼吁减速 - t.cj.sina.cn",
+          "source": "t.cj.sina.cn",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XTjJYWGFmWXRtN3E1Z0JWZ0RwaTZmQzN0WTNOSWF0QVRfX1JzRmhSYTYyUklERlJ5di1wUldzY0Z0S1RBRWV5RkxlTzNQZWNfZEdseE5EeDFsazh5MTlHSWFsVEhGNFpSTlZvelEybDNlQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 09:17:00 GMT"
+        },
+        {
+          "title": "特朗普拒绝阿莫代伊、奥尔特曼和马斯克要求的AI减速 - Pasquale Pillitteri",
+          "source": "Pasquale Pillitteri",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDBJWmhscE9nUE83Q2hMTkNSQzRxQlFZVW96d0dacmVNVGN4dlBLbkcwWFJzOFhfdUZET2RkVEtUaGpOaTE2akZJSE9BcGM4WEk5NmF1S08wbEdVMVJlOUNBRmNQRUJHb0RzU0lESTk4WVlVeFNGUzQ2MGN4cGxNakE1dThiS05DY3ZmdQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:45:38 GMT"
+        },
+        {
+          "title": "Altman、Dario都喊AI减速，特朗普科技顾问Sacks：真怕就自己停，别拉上全行业 - BlockBeats",
+          "source": "BlockBeats",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VUdWUnFscERnRVFDaFlrSlFnYWhYN1FDcFRVQlVEY2tDUG5HSnViZmR1N05QMTB3YWFNblVWQXA1WjMtOUE3eUNwZkhFWXljUkRrbk9n?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 08:38:42 GMT"
+        },
+        {
+          "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车 - 凤凰网科技",
+          "source": "凤凰网科技",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Nc1RwZmIwNTFiVHU2ZVU1MjRtbmc2MmROTDdVblZIS2lLRlpObEo5MWhaT0xUSXZjb3dYMk9ybEdlSXYyMjVMajRGTVE?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 12:20:00 GMT"
+        },
+        {
+          "title": "Meta扎克伯格曾私下致电特朗普：别设AI监管机构 - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FM3VMMDdGWnd1eENfLUhaME5OMUl4QlF3bUJGRTFqNzlXWXBNWTBqUzh3NlBNSkU2VjdzZXhob2hfMG91M3d5VjdKS21JSHJSZmw0?oc=5",
+          "pubDate": "Fri, 04 Sep 2026 07:33:36 GMT"
+        },
+        {
+          "title": "桑德斯呼吁特朗普和习近平就暂停发展人工智能达成协议 - UA.NEWS",
+          "source": "UA.NEWS",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFZJRXZMc3pKT3NhTGNrMm42VzV3bFVSaUtXQzVmZ3JQNUEzZ1VGR25FWDZKVkl1MGR3VzJXdTJZdERSXzNJM0p4MDZtQzl2N2RoQThjLXFuNmtGaWE3NWlQSnZpSW50blVGUVU4UGRVeWI0YWJONC05RkM3LUxQaEF6eUVtYm1uV3FiRGx3dDFCS05K?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 23:49:00 GMT"
+        },
+        {
+          "title": "马斯克支持减速AI发展，称其风险高于核武器 - t.cj.sina.cn",
+          "source": "t.cj.sina.cn",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzNLd082R2JaVFdkaXZpQXUySjd4MUxZT2xyRzR1WW03WF9aRXgtS19QdFhPZGdNQWZuMEdibU9UUEFNTDl3QmhZNG9OUy0yVzFBYVVlVTZuNlRjSkYtVXhXVjJRVW5lNDdOd2gzMTJ4TUtxR3lzTGQ0QWN5NjVWNjY3bFFhZw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 11:02:40 GMT"
+        },
+        {
+          "title": "美国AI巨头专家：10年内AI导致人类灭绝的概率超过10%！特朗普：不担心AI灭绝人类，只担心不能赢得竞争 - 新浪财经",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjFfTzV5UC1QQlZQMmlrTGpjamJuVUZHcmpEUVhhZkZpQy1BOVQzcXFCYUM2WTNyRlM0YXRHUVdORXBRV3AxUzRLN3d0M3plMktDaGw2emhlZExNUTBYbC1ONmR6LUFVbi1kV29DalloYU1Wc19TaldibHBIb3Ftem1DV0dNdWlTYkJzcC0zaE9KNkdiaFhrdGlYWFNQcmNIdm50c0VLZ0pNRmVwcDJEdXc4ZkNCbTc2WGRBbVBGQnRNSWxmMDJPdS1Ta2d2UGc?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 06:48:00 GMT"
+        },
+        {
+          "title": "社会反弹不会让AI发展减速，真金白银或许可以 - 华尔街日报中文网",
+          "source": "华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNTjg3RDVZcUxnVmc0Y010VlZPLWxLeVR2Y3BrVDZYdVEtUXJCVGVHeUpMN1dwTlEzSVM1T2NRUzQ5Ujg3RHpkdWhSZXRVYWVDZXRDT0sxLXZFUjVGTmgweGN6bkJMei1xM2RSOG55R2RmRFhqZVZQazl2SkxhRFRIQjNyS0d3YzdSSkRDZHZnRE50VEZ1TThGLXFUWWp4SU01NVFlX19lazRWNGxTRldTMjJfcHAyU1VFbnFpeVg3YmRfcHVpSkZUXzY3V1BTZ09VMjFaOUZPeXZOVkh2cnh0Z2F2bVY0TjBJY08tV21PQVRzZTJxRWFVTm9uNS1xLTRsN2NfODVUQVROcVZxY2VUX3J1TnMyRFZGMXI0dVV6YjIwX0t1UFA2X3JlaGdKT1ZjamVHNkJR?oc=5",
+          "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Anthropic研究员因“失控”AI担忧辞职，安全隐忧蔓延顶级实验室 - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91S3MyUG0tcVl2TW52UXUwQkx5dXlmWjFLMHJDZ3Nrd2hSWnZQU3d2SkFKeW1ZU0hZX0xfenNaNy1WWjk3c1BvQVNQQmluRFBINDJF?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 02:47:28 GMT"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+```json
+{
+  "event": "特朗普拒绝马斯克、奥尔特曼等科技领袖关于放慢AI开发步伐的联合呼吁，坚称美国不能在对华AI竞赛中让出优势，引发全球市场与各国政府震荡",
+  "event_title": "全球AI减速之争",
+  "why": "该事件被全部10个国家的头条共同报道，且视角差异极大：美国聚焦对华竞争与国会缺位，中国强调算力治理与BRICS开放AI倡议，俄罗斯关注中国在BRICS中主导AI协调，印度、日本、欧洲侧重产业与股市冲击，兼具地缘政治与重大经济属性。",
+  "queries": {
+    "US": "Trump AI China race",
+    "UK": "Trump AI safety summit",
+    "India": "Trump AI development China",
+    "Japan": "AI開発 減速 トランプ",
+    "France": "Trump intelligence artificielle Musk",
+    "Germany": "Trump KI Sicherheitsbedenken China",
+    "Brazil": "Trump IA big techs China",
+    "Russia": "Трамп искусственный интеллект Китай",
+    "Egypt": "ترامب الذكاء الاصطناعي الصين",
+    "China": "特朗普 人工智能 减速"
+  }
+}
+```
