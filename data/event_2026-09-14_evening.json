@@ -1,0 +1,703 @@
+{
+  "event": "伊朗与海湾国家在阿曼就霍尔木兹海峡通行安全提案的会谈被推迟，加沙外中东紧张局势与油价飙升（布伦特破100美元）联动发酵",
+  "event_title": "霍尔木兹会谈推迟与油价飙升",
+  "countries": {
+    "US": {
+      "query": "Strait of Hormuz diplomacy",
+      "items": [
+        {
+          "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmxSZmUzZzdYUkJrQ2l3RzRTQklHdjFOWmVYZ2NDcmZmOW9UUVBoZkk0bC0wcHhveWNHNldiU2E0WV9PYkFtWGVaUUdMVUlieFBZMVRjVHFkTTZ6YjVWXzVLUlA2QXE2LURQczRJN010RGR1Y3Jkb0JpS1lhdF9fZVdJT0hMV3A5QXNNcllfalNoem0wS3VMNUlNQUgwbG9sUU1XN2R1aUpkaXZDekZ6bnlqN2RiN0t3X3d3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:02:00 GMT"
+        },
+        {
+          "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwTGlJOEZRVUpiWERhUm51WWZwRDRWVXlnVXczV2pQOGFnY01GUklBZTg2MHc0SU8xbzlYWjlRWFdxMFBKYkxPVy1TRUdXcmdBS3RxZmtsZnpGRG5rSjRobU9BNVY3cUlHNEMtOFZaVTFMRldydlcwSEZHbTJZUdIBgwFBVV95cUxOeF9MeDRhaEhUVXdqZ2ZJdWhkVVFTSlRNWDFoSllFMno3bE5lVXVnaDhGZnA2RDRFSnI3SzRTdF9yNXB5SVp2d2hacVdHS1IteWZkUk5PQ0EwNDhwTEViYUVCQXpGaHg3YXQ4TlhoRnpZMHprOHhkTDNXNDJUSmNnY2xiaw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:38:23 GMT"
+        },
+        {
+          "title": "Update | Middle East diplomacy falters as war spreads and Hormuz talks stall - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0luczhXaDM0bFZyOVFFLU5aY3BBS3lyWFBUVDV4S2t5Tkh3cXVoS1V5eUwwdXJPWTlxVEwxLVlwSGF2Z2kxV2NpY2d0MkpjRGZDYWNxR2o3bkNnM3ZUbU5MOXJEMXBiVzNSRmstUHdjVDVZamVYTmRSWW5rZFFsQXhMMG9fbnM3ejNaS3U0bUtqY25GUW1maUJIR3hrdUdLYVVBQlBWQjBOZ0IyMkkyQ1pQZFlJTVNwRGh6eGg0ONIBvwFBVV95cUxQSjVhQmU0dWhTU2dMN2hwWlNBMlZxQ2FOS0FabV9mM25VbTJSVnl2U3RPaGhVa1dwUlNGb192aU1wYldka3JDUnVYczF3WE1rTldHdFN3YnhjM3Z1QkJoanZoM05PdEhXcXhqVWUwMXN1bzcyY2hYdmRydWRyQlFXS3ZBX2xFNTlkaDNjTjVrakJZWGZFN2p4OWoxeFRwdmVPYzFnZzFwcjNUYTBWZjc4eEVCaWtLRUtDbFhPc1dmWQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:57:50 GMT"
+        },
+        {
+          "title": "Could Diplomacy Fail to Reopen the Strait of Hormuz as Oil Supply Risks Grow? - Modern Diplomacy",
+          "source": "Modern Diplomacy",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUNWRXVRQ1NLQUk3R3ZDSTdMQlM3YldQUmpWWGh2cEJTbkxfODJaSVF4ZkdjSnpTRV9iaG9QdVJJN2JzdW1VVzJ5UWJKTE9DakpqUzVJWEkxQTYwbjFoWGNMY25Id3RXWVNvOU1FX2dvNVFfbmRSc2J1LTRBZXJqSWdpQVNzX21LOW5aaC05ZHpZWV8tZWxVS0Q5ZzRPSWhFdDNoNlV2WEJEQXhZZC1PRnpsWXhadw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:55:13 GMT"
+        },
+        {
+          "title": "Diplomacy stumbles as regional meeting on Strait of Hormuz proposal postponed - news.cgtn.com",
+          "source": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1ZOWklvbUpCNUZtNGxrOWNpemtzaTNXOUxnQmtrRU1vWG9EdFlUdjZFbC1RWFJtdFp3alVDbkhzSXVKenJ3NFRRSDAtZUc3UFJ2bTZfZlhJZkduVU1KTDRmeHBZc3Z3RXJXbFlEMkhBMU9VZzkyTmZ1M2d3TDVDVnhGdy1KNWJDU2NIaFJuT0NqaGZhTFlvZGhQWHFMSFpGbUtwR1d0T3U2YkZHb3N3eE12clVsTVNMdUhmbHZjNUVFLTVJdGU0c0Q0TzU?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:04:53 GMT"
+        },
+        {
+          "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal - Polity.org.za",
+          "source": "Polity.org.za",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGduTGtidzdlS2JBbTltNHVlU0lWRG1rdmpxMDdmOF9ydUphWG1peTZBdHZNVTZzbmFEcEktcEV0bFQyaEJSajVndk0yRE9ISE9VX2FkYW4yR21xM3RsS2lwOC1ONV84YzYtUlBwblNqRVYyRkNScllQVkxjY0k0V0hibVNxQlhvWTJDU25pYXdiaGdGWTVCbS1oczVMNUpyUVdOMTQtM2p1X01yWFFWb3REVERCNTFpdlNHeFVn?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:07:00 GMT"
+        },
+        {
+          "title": "Hormuz Diplomacy Hits Snag as Oman Postpones Regional Summit; Oil Prices Surge - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zbEY3cTAtMmJ1bThHYU4xRGhxbGxCb0ZwY0dwOWFyZ3hoandXTEJSOWRCOTJ5RzVZS09heDRxdGVDYVFjVU1zLW5kejN5WURldmFkLXJ6aFhjaGJsNHVONEhVblpGZTBrWWxBOGFaX2lQcVc4TWc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:35:00 GMT"
+        },
+        {
+          "title": "Iran Is Set to Unveil Hormuz Pact to Gulf Nations on Monday - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0xIQ0c5MXZVcHlkYldBdzdHV09KYWRDcXdNV2p6YVNRSS1rR1pfWmdvUklrb1ZRZEkzVE4tOGh2cWtGZGlqX2l0YXQ1YjNlLVREQzBXQU5CQXdkZ2dqTkU5anFiV05iUkV6eU4zS2lDWDlSYXRhQjZSNUVDS0lwLTJpeHVCUGtlSnVncUVHT3I4TWEwaC1BWjBOaHhKenR3azBVUThFdWdjaGNDTHppV29fUQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:53:20 GMT"
+        },
+        {
+          "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal - Oman Observer",
+          "source": "Oman Observer",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBadWItRUZrZ2RaSnRxeHM2WFMybjl0QzQxcmoyOWljWXBHRDNBVmdmV3RnLUgwYTZ1NmRwc1BqMXdHRUhERVhMRXJpNFlZS2NiVnRlZ0pYSS1uQdIBWkFVX3lxTFBadWItRUZrZ2RaSnRxeHM2WFMybjl0QzQxcmoyOWljWXBHRDNBVmdmV3RnLUgwYTZ1NmRwc1BqMXdHRUhERVhMRXJpNFlZS2NiVnRlZ0pYSS1uQQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:22:11 GMT"
+        },
+        {
+          "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal - Channel Africa",
+          "source": "Channel Africa",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2pEMnB4ckphOF93X0lfZU04TGtxTFlEYzJPMzRob2Z1bnhrOXdkM1RWYTVWTURRbE4tMDNrU0VzTlQ2czJETVRpTmdLaC15VVpUS1ZJZFUzcWlTRWhmQWJwak5EdzQ1TjF1eXJ2YjFNcGlCSEFnV3E0OGhXSFZuUHZER0ZteHB4VW5VWTZSR0tFNF9TMkpfV1BNLVB1MEFhRU4yQmNvbkYwc05jaWRoQlZRbzItY1dTTC1MdFlncDBQd1JUNDZN?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:07:14 GMT"
+        },
+        {
+          "title": "Iranian top diplomat's consultations go beyond BRICS - Tehran Times",
+          "source": "Tehran Times",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjJFTmo4Y2twSi12dHd3TUxqaGZ0M3VpdGIzclQzWU5HUVJsYjhlbFNkTTgtNThHSTU0X3NUTWEzTWlucks1aDZGMmU1VlZHWDVjbUcwVWh3OUhGMXlTZEM0OGcwTVh3ZDhVTnVXWmp5d2g2amUzdlM2cENUa3BrdW5kZG9WbFFaWi1KUzlHRXZUQ1lIRWsw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:19:25 GMT"
+        },
+        {
+          "title": "Diplomacy falters as Saudi oil supply faces five-day risk - The Vibes",
+          "source": "The Vibes",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkhfV1ZVeDdwVktlS2NNY2t5MURqcXhPWGNHeGtaUE5KMzVRMy0xZXBUYnVaNDdwMy1pU3BSY2VSeVI2TUxmaTBFVmlFaXpnQ29YcEx3M3lQeTd4QkJmZTM5NVNTN0ZXekExM3FSdzB6RzdpemhiSDhXc2hUc2FYLVpZR0t1ekRnOHZSSmp3b3dEdUR2RVhaWVFfTkpmbTdWQ29faGxndw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:42:00 GMT"
+        }
+      ]
+    },
+    "UK": {
+      "query": "Hormuz oil price surge",
+      "items": [
+        {
+          "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles - Crude Oil Prices Today | OilPrice.com",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmYydkRWVVJiZ0hacFBMVEtFdEJsSHRnZXNZSEFacC1iM3BlYldxeFJuNGc0d0E0WHY5NklaUU02bVJJMFEzQUpzY2dyamZ3SXJ2N1RGeVdpcUdtblpWZnVPdjd6R3V3MHBYT3Rjbk1RQUItNDM5bkFrN2J0Tm1rUUdtaTVUSmF0akdhMDIxTkJrV3pTYmlENGRpTTZCckxobXFMRGlOdjhJNnQtNjFMQlZPVXA2MGl2MnY00gHAAUFVX3lxTFBuWE1QQVg1S0lDY0VuVU9Lam5RYmx3SkZyTWhudmdMZ0hHTzNMYW9ZcmoydmplNzZFVUFyVng4MzVGVTBOWnRGQVB1MUNDcm5Dc01tWGtVelpiTW0wTjdhMjE1WWdDR0VmclU4Z2g3WmhLTG13a2wycEtlXzFkR0JNZEZWeFZadkwxWENDT19CTGw3aFltNkZjSXl5eUxVc1IzVVB6LV9NTTNSRWpKVXlmSzZxNHJXSEl5RkJhaTlHSA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 02:39:17 GMT"
+        },
+        {
+          "title": "Oil surges past $108 as Hormuz attack and Saudi pipeline shutdown rattle markets - Yahoo Finance UK",
+          "source": "Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3BmSE5rdXZvZUFWeVVEY2hYeEJlOXduMl9WVUxWNnd6QTlfMUh6ZXZtak1YT1p5dm4yODl4dG96YnFXVEJMWUhpZmozb0ttazNpWVdnZDJpbVBaTGJ3UEo0TU9DY3pkRDE4NzQwakhmejVkSjNmNGIwOVRJZ3F6Zg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:44:00 GMT"
+        },
+        {
+          "title": "Oil prices surge higher after Gulf states postpone talks with Iran over Hormuz - The Irish Times",
+          "source": "The Irish Times",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGszNHNNemU1ak83OXdUbURNUkNteVNqVlhCSk9CRXhzNGxjSFBUMm1XVTdYSzB4ekxkZkZnaV9wSkd4RFBYUFZ4WnQ3SHd4elJHNEhFaUtWa1VzSEtTMGtPM2pUVkl5Zlc5S3R3dkpCNjNjdXRSdGlvQWE0VnpKYWxfaTBVanBkYWpxNXE3SFRjVkowMzNmNkMtTHE4TlVFRzhqcUo0cnllejRQaUVTSTFXY2tCdnlmbW1WTlRXaUxxVVg5cjh5a2tZX29xV2Rs?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:22:04 GMT"
+        },
+        {
+          "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+          "pubDate": "Mon, 07 Sep 2026 21:33:45 GMT"
+        },
+        {
+          "title": "Oil Prices Surge 3% After Strikes on Saudi Arabia, Strait of Hormuz - Global Banking & Finance Review",
+          "source": "Global Banking & Finance Review",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUpMR2hkU2JDUXVyRlZuWFYtQWN0RGJENWJ1Y1NvNjZoc1VCdDFIdjFIMlNwRy1QWkJmMGNZSHNWSVJkWGtHNFZrTWl0WW52TUZ2V2NLaUowWEJpWVUzQjEwcXBVQXJ3TDBCMGRUbHNDTUo2WjczS2UtMmcwR0ZWNDU2WVpMZGhacEJnVzBjeGxsbS1L?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:05:36 GMT"
+        },
+        {
+          "title": "Oil rises on Saudi pipeline attack, Hormuz supply risks - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTTc1ZkF3LVRjRVZjanNGOHQxdmMyTVU0ZE80Ulpld0RjT1M3RVk1T3Izd0VwOFZKYzctdk1JVTc0YzVXM29TWVBVUjlHeTBaOUFMY3NQN2JtY3RQVHF3NmVBLXVfYk13ZTg3aFJFUklIMGdFWVlSQXdHSUhHTm5yYXdERW4xYThXbFlJMFBwUG1fV2FBVGtndTJWQ3E?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:43:27 GMT"
+        },
+        {
+          "title": "Hormuz Diplomacy Hits Snag as Oman Postpones Regional Summit; Oil Prices Surge - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zbEY3cTAtMmJ1bThHYU4xRGhxbGxCb0ZwY0dwOWFyZ3hoandXTEJSOWRCOTJ5RzVZS09heDRxdGVDYVFjVU1zLW5kejN5WURldmFkLXJ6aFhjaGJsNHVONEhVblpGZTBrWWxBOGFaX2lQcVc4TWc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:35:00 GMT"
+        },
+        {
+          "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March - EnergyNow.com",
+          "source": "EnergyNow.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:11:44 GMT"
+        },
+        {
+          "title": "Strikes on Saudi Arabia and Hormuz send oil prices up by over 2% - RBC-Ukraine",
+          "source": "RBC-Ukraine",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUwwbkZpcU1rWnBOSWZCOUZabDRaS0g2T29LWnQwUjV0T3N6cDM4UGltekhWck1JOUNpZDFwV0Q0dngzLW51TGo1aERVMzVzeldBamYtcE00RTNtRU9KdXRwaWk0X0ZSX3diaGRhLVAwUmtmdEJQWDZYUWFkR1JodmtrRUxZeVpGd1g1bGFPYzJuU1QtWlE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:40:58 GMT"
+        },
+        {
+          "title": "Brent Crude Oil Prices Surge 3% as Houthi Attacks, Hormuz Tensions Raise Supply Fears - apacnewsnetwork.com",
+          "source": "apacnewsnetwork.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0FXM0V6UzBlSXFMMmwzMWlGTEs4Q01oTDByRlp2eWpIZGpBOG8wSjZkYWFuMTB6UGprRi1wRVd5SFZkZ2JLTjBRQXFqOUkzVjlKTEgxOFRMSVRJWWl3YjFoa2x1eTRrNDRQUms5a3VGYUNKY256Q1FlWU1pYzB1VjBYV0JlV3Zfc2J4N192WkM?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 05:11:36 GMT"
+        },
+        {
+          "title": "Oil surges to $100 a barrel as Strait of Hormuz tensions continue - The Independent",
+          "source": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGw5U25IWHd2V0dQQkw4M21ZTmdhTm9jd0FOYzBwdWNoajVfdllLVVBHb0E0ZVh0VmNHeDBIQk5Wb1lnQUJOajFrQ3l0YnpkaGFCUFZCbl9Dak9MSDI2LVBlUl9VZkZoSk9xam14dFhwVGhGYUtPQUtEeTRXVmdmLW5TcWM2cU9YS0JwekY3OE94bTF0NTJNaA?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 08:41:00 GMT"
+        },
+        {
+          "title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles - Crude Oil Prices Today | OilPrice.com",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDFRU0RHZ3FNR0RnR1pmZWw3dm9sMURpd2x1d0hadllfMDZJam1rUGxHeHR1aDI0XzdCOG13T25NdFIwTzJNZkxPMnk1THF4bXNjTlB4aml1MjBXTUM0OWNlYkxfOHNQUmtYM2tabUpuaF9VOVlCemtNdXFSTGh5V0s4cVlMTTVWWlBaMU1FMFBHYWNianBEaTVJQTJtakdkZ3lXNTVmN3lKbFd2cGVIU09Xc3JoY3FHbVQw0gHAAUFVX3lxTE16eE5RUmVqb1M0RjVaeDZ4MjNPU3FkdE8yX29TTWlwNGtSMHpoZk1TeUpnZ0dZSlp6eUFsNThmWG16Rk11RUZTUkNSN3FwYkNKLU5uMlVJTDB2MEZJdUMxR0NiVlI4SVVlSE1EM29mck1DTU1hbFRsZjh5MUFQbWtTeW5xN3BLQ3lPaGFjNU9CLS0yT1V4VlVZRk5CU01MLUg0QXJOVDBNUGpQdWpSSGR3YWxWdVowVXdGR3JFN204eg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:15:00 GMT"
+        }
+      ]
+    },
+    "India": {
+      "query": "Hormuz talks postponed oil",
+      "items": [
+        {
+          "title": "Oil hits $108 as Gulf states postpone talks with Iran over Hormuz - Financial Times",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS19fUlNXLWZxOF9IVTF0RVpxcDBRSFNvWmRKT2V3Q1hKbTVKLWV3LU9tM2tMMkZleXZMM0Q3OHFmZXhiU0ZKUW9KZHphMlB6WVVkdUNuUE42Wk51dERDZ1VOVFN4NkJKTlMxUno2bUs5OFM5SVd4eVluam95bzhXN2tnb3E?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 21:14:47 GMT"
+        },
+        {
+          "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:01:00 GMT"
+        },
+        {
+          "title": "Oil rises again as Hormuz talks get postponed and Saudi pipeline shutdown deepens energy crisis - investingLive",
+          "source": "investingLive",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTFnZGpYbXhUaWRqaDBKS2xDLVYtb0hPbFRxdUcyUDRwamNWT2ozR3BvY1JhRnZiOGlJR0E3dkpMNml2ZjM2Z3JDQ2NXYkl5Sm1zcTBCd2FfMWplZ0NfV0tqRDJ5NVdlLWZqWE9lUklJVzZubmJiSG42bldFNDdTc3RoczZfODdVNHhBQUxXZGhpZnlpX2xBeHlFQ01ISXBfRW1sSWNLYzRWMlpNZGFOaUZ4WDI4ZEVRSlctZUJjdlZBSzhqeXhPZFBtcmt6OVk?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:09:56 GMT"
+        },
+        {
+          "title": "Hormuz talks between Iran and Gulf states postponed as regional tensions deepen - CNBC TV18",
+          "source": "CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVjkyTmhmRzBRUjN4ZnBnWHNaVTBXMzdOaGRXdmpmQ3VZMVVpd0NnWmc0YlN6c1VNb3V0UkN3R2o0QXdfM0h4VUpBeFdoWkJmOFNHRVZGNzFlMU91Xzl2Z00zZ1E0Y2l3NXpKWmRmWjh0TktSSlVsWlZZRko0LWV4X3d3V3lUYk5KX1I4NVNTVXdjMkl2OXlLZ0ZvY1NtdjRTQlZHMmRGRUdLRGN3cFM0WXhybV9nelFWUEF0bWJMTjV0LUVIZ1VzMDJB0gHPAUFVX3lxTE1ralBybmdsOGJkYktDWnQzcm5TdlVTWDgyZnNlRXJhYlB2cXBmLS0wMl8wbTNNa1J6Ri1YN0djSzVldGtNYWtSOElPSnZ4R0VkUnpyczF0em53ejYtVVE5bVJyLTRHVDRsQmdwQkJsWF9iU0xXNTJoVTgwMFk0TEFFeEJJSXZxX1NwRFVrdV9NTWNBOC00Rm1heEMyV3BDZUFnQnJpUUlSZ1NSbklQcVBxcUl6QTVyejJhakI0WVVMQjMtcEp4UXNfLWpqWEMxbw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:34:15 GMT"
+        },
+        {
+          "title": "Iranian ship struck in Hormuz; talks between Tehran, neighbours postponed - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWY0dlVIQnA1bGk1WGw4V3c4d09uMi1kOC12NGtVczMtb2xSNndxb3NidTYxNFg2WlNqVTVxWklUTUR4dWIxemdXTlVyWHJYZzJqNGlPWGI2VVR0UUszQl9QOExSRUtuZnRCYnRQVmJiV25ORlg2eHppRnhiMi1wMWtkN3IzX18xdmZYQlJINXdfbVkzdEZaMldEYm9YZGRMY21NSWFVUEZoakNyVjVLZGhuT2VUQ2hNZ0hnQnZrZEktckVKQWJFYjVkWXFiRzVqZ0HSAdcBQVVfeXFMUHZiQ2t0ZG5SaE80aE5fZnQ3azltZi1VNUR3NmQ1SWFKOUo2a0NDdC1Ya2g2RW1sOWhSS2tLdXM3TkdjTXgwTEpkSU5VZGxIcWtxS04xd2FDTVEwd0phdnJYOVhXVGN3MVNCeHhVV3BYeEhJaTB0Y3FLcWZ3NmZlT1laQ3ZRemNWNnU0WE1OYkNVamI4QUxtWThFT1dQM1IxWlJsYVhVTEppakVxbDQ1RlVPU0RvV3VVYmF1bGxQaVZuaWprYlVHVFpzRXhhNVNub2s5TTNEUHc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 02:09:30 GMT"
+        },
+        {
+          "title": "Oil prices surge higher after Gulf states postpone talks with Iran over Hormuz - The Irish Times",
+          "source": "The Irish Times",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGszNHNNemU1ak83OXdUbURNUkNteVNqVlhCSk9CRXhzNGxjSFBUMm1XVTdYSzB4ekxkZkZnaV9wSkd4RFBYUFZ4WnQ3SHd4elJHNEhFaUtWa1VzSEtTMGtPM2pUVkl5Zlc5S3R3dkpCNjNjdXRSdGlvQWE0VnpKYWxfaTBVanBkYWpxNXE3SFRjVkowMzNmNkMtTHE4TlVFRzhqcUo0cnllejRQaUVTSTFXY2tCdnlmbW1WTlRXaUxxVVg5cjh5a2tZX29xV2Rs?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:22:04 GMT"
+        },
+        {
+          "title": "Hormuz Talks Are Delayed as Attacks Threaten Global Oil Supplies - mezha.net",
+          "source": "mezha.net",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtd3FMQ2FWVzk2VlRoVmRYX0ZQZV9BZjlRcUZuakpqWEV0ZVZvLUJzekEzc3QxblpKQldYZ19qNkZTMFBOMmNnSXdGV3JXN3F4VHlTOWl5ZFhzLVZqbnlobnNJZw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:11:11 GMT"
+        },
+        {
+          "title": "Iran-Persian Gulf Hormuz talks postponed - IranOilGas",
+          "source": "IranOilGas",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmRqclNVTm5HMmhhemdKMWtEaGd1WE1xWGM5bjUyYks3MkVPVWVkOG5ZbmNFUmZBRTV4R1BXUzlsR1Y3ZDJnT1g0Y2dPQzlmM2p1MEtOakFiNjhfaWJZRWR3UWdKQmdJcnZWYUJSU3BDbF9UM2lCLXB1cVJ4SThNODJGLTAzaWxncGF1anJ1N0Uxa0tUVWVCdXlPZkVCdm4wZktZ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:27:22 GMT"
+        },
+        {
+          "title": "Brent Crude Oil Price Near $107 as Oman Postpones Iran Hormuz Talks - FinanceFeeds",
+          "source": "FinanceFeeds",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1k1R2RoZ0Q0UVA5TGs4MGZDUklzVzB1MGw1VU5NNDhGTmdqNW9NZG9vM0NFVHk2NGhvWmpvMWxYcjFEOG5nY0w1UW5nU1FubHpKSVdHYmFBQ1BVX2pXMldFcnBsd3NEdzZHWnFqbU5NZG5Vd1NzUDZSLXFKcE02RDJvRi1qUkJxWjBLbA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:44:14 GMT"
+        },
+        {
+          "title": "Strait Of Hormuz Proposal: Iran-Gulf Meeting Postponed As Diplomacy Stumbles - Outlook India",
+          "source": "Outlook India",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWRpcU9WcmdkcFh5cTNqOVVjTVZuNkpwWmJmTGgwZEx6MVdUU3FvbEtabmo0VjNyX3lqVWVBd0hlVV9PWmwxdGx0U25FbThQVUp2RUZnNnh6eHBXTEg0eW9uaDYwS2FJQmVwVXF5VVYzQmItckM1amw4Y0xsYkxDQ0o5RmY5RFFHMXZKWlhKNkg3ZXJvR3h2bjFZYjJ4c3EwX2xVZWpiTEdNdHRESVluUVo4TXpfLV9fOHfSAccBQVVfeXFMUHUtNVVHb0tfMVZIdXp3cVdTOExJOTlnT2ZkZ3BjaEtpaGxVUE9Oa3NqQTVGdFQtd2l6aUJuNlJCbUhJZWVaOXRNc09fcXFVMkRHQjZLWXlrRWh4QUZ3aHFfQmhSWWtMV1p1N0JEZVZKNGd5YXlma08xdXY5ZExoX2NfZFAxN3NDaGFBcU1INDUxWVV2NV82Tm13eEZQNjJTNG0ycEo1bVZiYndWOEdFamFOc1M1aXk2YzNJZG5qOEJTU3kxaHREaw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 02:20:02 GMT"
+        },
+        {
+          "title": "Update | Middle East diplomacy falters as war spreads and Hormuz talks stall - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0luczhXaDM0bFZyOVFFLU5aY3BBS3lyWFBUVDV4S2t5Tkh3cXVoS1V5eUwwdXJPWTlxVEwxLVlwSGF2Z2kxV2NpY2d0MkpjRGZDYWNxR2o3bkNnM3ZUbU5MOXJEMXBiVzNSRmstUHdjVDVZamVYTmRSWW5rZFFsQXhMMG9fbnM3ejNaS3U0bUtqY25GUW1maUJIR3hrdUdLYVVBQlBWQjBOZ0IyMkkyQ1pQZFlJTVNwRGh6eGg0ONIBvwFBVV95cUxQSjVhQmU0dWhTU2dMN2hwWlNBMlZxQ2FOS0FabV9mM25VbTJSVnl2U3RPaGhVa1dwUlNGb192aU1wYldka3JDUnVYczF3WE1rTldHdFN3YnhjM3Z1QkJoanZoM05PdEhXcXhqVWUwMXN1bzcyY2hYdmRydWRyQlFXS3ZBX2xFNTlkaDNjTjVrakJZWGZFN2p4OWoxeFRwdmVPYzFnZzFwcjNUYTBWZjc4eEVCaWtLRUtDbFhPc1dmWQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 18:57:50 GMT"
+        },
+        {
+          "title": "Hormuz talks postponed as Iran, Gulf states struggle to reopen vital oil route - Ynetnews",
+          "source": "Ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SUVdKbW02VkIzUEpMajY4VkhmdGtmT0NBZWhIWEFibGRxT1JVN2NXTWRDa0pDd3UxZ3h1R3MtWGNxV2d4T2NFcGJucHBtaE01dUtkV19B?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 20:24:53 GMT"
+        }
+      ]
+    },
+    "Japan": {
+      "query": "ホルムズ海峡 石油 供給",
+      "items": [
+        {
+          "title": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:04:00 GMT"
+        },
+        {
+          "title": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化（ロイター） - Yahoo!ニュース",
+          "source": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MSDUxb0hPaGU1amg1NXNBdS1ZbHZpcmZOUjY0T0JZQjlCMW5VLS1jMGZJSGxKTy01SXlDdHg1N3AtWV9GSTBHYTRoZ1JlOUdZRGUwemg1NGxBQ0dCUlUwRXpZSVdtYVJSdDNRUzFzY1J5SUJGN2M3ckowaXJhYmM?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:03:57 GMT"
+        },
+        {
+          "title": "ホルムズ海峡の代替ルートを押さえたフーシ 世界の石油供給に打撃 [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞",
+          "source": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbVBfWWZ4NW54bWY4Zm85V2VPR09fQ0FfWHNULVlHYVVTY3BXRzZqR0FjU0RRWkVhOWRhQmZad2laVGx4akk5d2N2YzJRMnF5c1BhdFBxOGFFOXZrRHkzM1RoeXZfSzg?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 13:11:31 GMT"
+        },
+        {
+          "title": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - ｄメニューニュース",
+          "source": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkJuNXJjTzctNkt0QThvcHRSbmd5NkpWNWN4UjA1dEs3dGtIM0EwRE9jQ1dXaG11MHl4NDlzMUh2QUd4RlVKbkplSEFlc2d2amxHdnk2MGw0eHZFR1liS1NnTXVZeVpXMnV0dVBzaFdhT1oyUDRodkhaWmlnLVN3MHdLNNIBgwFBVV95cUxNQkJuNXJjTzctNkt0QThvcHRSbmd5NkpWNWN4UjA1dEs3dGtIM0EwRE9jQ1dXaG11MHl4NDlzMUh2QUd4RlVKbkplSEFlc2d2amxHdnk2MGw0eHZFR1liS1NnTXVZeVpXMnV0dVBzaFdhT1oyUDRodkhaWmlnLVN3MHdLNA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:03:00 GMT"
+        },
+        {
+          "title": "日本の原油及びナフサの代替調達に関する現状把握・今後の論点Q&A 野村證券エコノミストが解説 - nomura.co.jp",
+          "source": "nomura.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMlFEWHJuTUtIbnRaM3RzYnd4ZlFWZURUVU51WFV2dlNmUXFrM1JvY3pnYzd2SE5XU3VCT2RNcnBvNGVtUjB2SFpuU2dKYWtwTDYzUGo1TXl1TlI0Z2c4?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "本日9月14日の原油価格：中東における供給逼迫が続く中、2％以上上昇。 - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVQ5TmdHS0RUb2xYWnJVVEJDbG44T1hGZ3JjeFJWM2NXMHNManR5NF94cWJPUm8xNmthMTAzV3NNSmQ0MEVZMjRKWW1nRGNwNDVfY1czM3FTc2tTV3ZrNzN0TTB3bGx2elBZa2luQXpDbF9rclphajlGR216ajY0ZTdQUmdlOVVlR3kwMjUtUzNZdmFiOS10QTdPbUk0X2kzODU1ZA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:43:39 GMT"
+        },
+        {
+          "title": "ホルムズ海峡の協議が延期、船舶攻撃で世界の石油供給に懸念広がる - Межа. Новини України.",
+          "source": "Межа. Новини України.",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1d1BiM251TjkxYW9lWVFWQVFsVXloUFUwZEdDeHBSZDU3QXR2T200Y0xqRjdDMXd4eXJJUDRTTUx2cV9jMmN6TlJidkRWTlU0dVRYU3RiMXZMSEZwVTU1VWx3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:46:00 GMT"
+        },
+        {
+          "title": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化 - Infoseek",
+          "source": "Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMXhlSFQ4YnRCWE84Y3QxeHBYZkdXSnBLYlJzTy1MNUJHNnQ5YWZqWXZxS0hhS3dubmRmUTFjZWNiOW9nTUxrczBwaWtMOTY3WjNCeFphUzFWVWF0aXYzYWhPeXVYSjBKSkpuSUhB?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:03:57 GMT"
+        },
+        {
+          "title": "ホルムズ外交努力が頓挫 オマーンが地域会議延期を発表 原油価格が急騰 - BigGo ファイナンス",
+          "source": "BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RQ2hvR2VGcU1feFQwNmdvWGhsYzZGMkN6akRoMDI1NDhmazNueTVORDV6TVN0enQzUmJMdC1mTGZDWl9lQXpaQS13Sm9LNnpLSFNwVTR0M3VKRGFFQjRmV3ZJVG5xek1oeF9kOVl0VUg5UVRL?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:35:00 GMT"
+        },
+        {
+          "title": "原油先物が3％超上昇、サウジやホルムズ海峡での新たな攻撃受け - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Wa1JvNUdMUU1ZamVGenU0VEM4YXgteUdxSThUc2kyMFpQTkNQSkpIZW5JaWhiVlpQUzRjcnZMVk5EU041RWFhWDlfX05RVDBVSjh4N3JqcHNVdXc3WEIwWGlzR1lCUFpSVmJMVWp2MDFzZXg1Vlg4akkyLTlBQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:44:00 GMT"
+        },
+        {
+          "title": "原油先物が2％超上昇、サウジやホルムズ海峡での攻撃で供給懸念 - ニューズウィーク日本版",
+          "source": "ニューズウィーク日本版",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBQ3ZuV3R1TXJZTnZ5VFlKazF3STA4eE01RWxlYmNBczF1bFB0dnVRaWMtWUl2ZDlzNjZWSDU5OC1JbjNvUHFGQUV6WFpJOEd2cHdlcUJGRldodw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:44:00 GMT"
+        },
+        {
+          "title": "ホルムズ海峡で新たな船舶攻撃、イラン戦争拡大で石油供給懸念が高まる 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWmE3UndmRzZNMVBpOGxjM0gxSEpBNG44T3BMX3pWSTVpelBKQTZjd0JGRGJSYUFnREJBRU5xM0loU0xCeTZNZEhNcmFDaDJIek1XZ3gyUnpqTk1YNkpjV19hM0RWRHhtV1E?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 02:50:00 GMT"
+        }
+      ]
+    },
+    "France": {
+      "query": "détroit d'Ormuz pétrole",
+      "items": [
+        {
+          "title": "Pétrole : l'Arabie saoudite, visée par des drones, coupe son pipeline stratégique qui contourne Ormuz - Les Echos",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXgwWHA3dS1ZR0xkY3dyMTRvR0dIRk1vMW1adlRlVXhaSmNzZVNMa0JKYkluT2xBSC1KQl95NkQ2WTRMWUNOdElLTWV3MkJBcU5SZ3E3SjlOYjVNSGtvc3V6UDJJb0VuN1gycWFzcFdSQmNYZEliVzY1c3o0OWVBRWpwTVRBYk80MlNCbTZIZXZjX0NnejZ1NW9pTkgzWDk2WmlEUnJFWjlHZVhqV241aWtEa0N4ZmJWQjJrMWVDOUQtZw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 06:24:44 GMT"
+        },
+        {
+          "title": "Carburants : le principal oléoduc qui contournait le détroit d'Ormuz mis à l'arrêt après des frappes, les cours du pétrole s'envolent - ladepeche.fr",
+          "source": "ladepeche.fr",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOc0d5bjVjYUZTQ1BDWURmamJ4ekFPM1N1aFhvQk1IS3lvaWh3QkZNRF9zcDd5bmo0VGxZbXpnTTZ1R2lnNmxXOWtPN05QSTlDRFIwY1RRZ2M5X2RWSTJIZTA4YWhmZU1YUERZLVE4NW14ektneDNQMlVOeWJsVFExVDctU0Iza1MzT0tJb2xDUDF4Y1Q0dnlscl9ZMlItNGR6bV91R0tEMU5lYzdHOUJRdElzX2hEbzh0LXluQnlKamdhSUNSd3BFaWhKWjhZV2ZfSjVvMERGdjZfcXJxT0ZwMnA3MS1lSmVTYW1BeENmN1FqemJyTnVvTlZzcnR0SV8yeHdjZUhPTQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:40:00 GMT"
+        },
+        {
+          "title": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak - Le Monde.fr",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb2lxTnJ1azh5VHFLSXpEeDlZUXpMX0U5MzNMSm4zOXMxczUzeDNfYkthTTdZalpZeW15ek1iR29SaEhjUFd0N0lZbnZ1Y2VxLWxqMXdpVTBLdHlyU3lvOHNVMjNoRHl2TXZhQ2swYTFiQWxzeTlGM0N5NThDcS14cFBFZlZ2cHprcm5CSmstSWRkbFplSEsxVHJZU1NIYWZ6WkZlXzFfX2w3U09aVEpwcWpjNHhxc3hnQWlNcEVkMUZLN3FNb3F2eU1tZ2lBb2U0aEJlSC1WSjJGaWdJakswQUZqbXlpcV9VQ2VkYVNvQ0VZZDlHSC1TdE9sbTJtMGwwT0pkcDRmZ09aUFItcVN6a2dfRXNFZkxEaUlHVmlRc1NNZU5tWUVIOWxRdw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 10:30:03 GMT"
+        },
+        {
+          "title": "Le pétrole dépasse 108 dollars, les attaques à Hormuz et l'oléoduc saoudien paralysent les marchés - Yahoo Finance France",
+          "source": "Yahoo Finance France",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1VvZHRDZkxhTzhmRjB4c0lram9QWWxfYW5xUW9hMW0wdFljSEhBT1dQb2ZILS1rd3VOM0h4V3NsNXpuZHAteklhQXNsUUdwMHM2b0poSENENjEzZ3R3VU1HeWozWFZMWHlNV2F1eXlFZ2JKYlk0ODUtUnhnOW02UmVqZF9GM3Q5cUN0ZVQ2WmplS09UOEYtTzdicTNwMkp4NG9v?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:48:14 GMT"
+        },
+        {
+          "title": "Bab al-Mandab, Ormuz, oléoduc saoudien… Les «routes du pétrole» menacées par l’avancée des Houthis - Le Figaro",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXVLYklRWVI5aXZETmNBUHRfc2hKUWJCRC1tYlJCT3Q1SVEzdFFENTBkMkMyMm9TWUFkbDNfMnZkTTR6ZVJsbjdNUXJ1MmJRdVZpV0Vha0pqQTJGblZXcmJvbUVxcHFYLTFHeEhMWGQzbEdxZS0xeW5hcFJ0T0lFZ3F3bFVvNXZPeXV5LVdxSHlNRTJRNHd1am1TOGJMZmp0MTNRTmd1TkdQdmdoR0tub0FCOVIwbXgycGh1WThBU3p6ZVRKUVk5aEM2czdIcllpd1E?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 12:33:46 GMT"
+        },
+        {
+          "title": "Les cours du pétrole bondissent de plus de 3% après de nouvelles frappes en Arabie saoudite et dans le détroit d'Ormuz - Zonebourse Suisse",
+          "source": "Zonebourse Suisse",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQmMwV2JKRkJRdE9Cc19iUHRzdzd4aERpbWJmV0FReXRRd1FkMklhV0U2MmtMaFlabTNuTXpyUlQ5RDFhWlB1QUlsOU9XdlN1aXdYenh1WXUyX1A0R0o4UlZSRm1saWEwRVRCcnhSZFJwUkhybXBIdjhaaGlUZXJ1MnhtMThuX1BLX2pZVVE3R0xLXzNkUzV5cDVaR1ZETzRzRkhpWHh1ZnhYZTRSdnBadk5peG9ZdF9QN3JlaVhGc0VwQzdoS2ROclVjdG55bFFoTng1MWQtQ0FiLWMySWhxUm0wQm5hRVVhMzNNQmxfUThDZw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:21:34 GMT"
+        },
+        {
+          "title": "Après la fermeture d'un oléoduc clé en Arabie saoudite et de nouvelles attaques dans le détroit d'Ormuz, le pétrole débute la semaine au-dessus des 107 dollars - bfmtv.com",
+          "source": "bfmtv.com",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNWTIzS3Bjc3lCTjlPMnQwXzlVY1ZtQ1ZOVlZjcDJ2SXppcDJRZ2l0TG9RVllBa2ZYSFdkbWlTV3FlU0hYN0JxLXRiaVBXRG5pd1ZBNTgzM3ByMFlFRHVzOFo0NmNudkh1UW5ZUF9rc3hLMU5tZ19zRENLTkNqT0ZYajNsSHhUb3dvR0E2UFJ4cTAtSjM1UkV4MmdQZnpmWF9jSXZPb0hFUG9pMnBfdWRDcGl6X1gxVWRIZFZ3SHl5RWFNVzM4OF9vZlR0MXVKT1FNaWhlYVFUa0JCMjE1MU9OTGpvcGFxa00wUVppQnNEUHRnV1JRQ3FmZ04ya2dJMV84M1NxbVY3N3NNZUVIcDByNVVySjg2Vk8zWXFkQ2dsRHZDR1hIT2FSc2tZbDc5MHAwc3R6SjVzODRSMDFJSWR1TEkxYkE4X3Z3SmVwWnVVVQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:52:40 GMT"
+        },
+        {
+          "title": "Un nouveau signalement d'attaque contre la navigation dans le détroit d'Ormuz attise les craintes sur l'approvisionnement pétrolier - Zonebourse Suisse",
+          "source": "Zonebourse Suisse",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcndtRk41R0ZWMlVrQ1lDVXNOX0ZuVHk5c3VoaHhvSFJfdEpDQXFucEQ0SjNLb0hVMVZaT3d1amY3ckxoVUR1a2EzQ1h0TGVGSFVqYXJza0l0U2RMd0J1dlhRQzdzLTJqN2dzeXZMOS1DZUQ1dVpkY1VWdDlOTks4SGI0M3dYV3VxYy0xNmZPdVBMazVmWHZjUnFzdjNxQnloMXRTeWtjMjBsaVNidXdndWt6aG9BaTZnR2hJT0NHT1pVUllZUFd2eElRZjFRNHE5Z243ZkVId3ExT2R1S2Y0ei1nZzhIUlRIYmJQN1BKbE5WQQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 02:18:21 GMT"
+        },
+        {
+          "title": "Le pétrole dépasse 108 dollars: Attaque à Hormuz et arrêt d'un oléoduc saoudien ébranlent les marchés - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM3ZBeVBzUUtEQjNvUGpneTZ2V1UyeEF2RVVIWkx3LXlvTlFlMUlqbExKc1QwLUJkTjEyY3NOOHpFWHUzcjZMMEtkWG5hWVFSdzVzQTJyOTU0Mks1SXc1T2hNdXdVT24yQWVSZjVEUmFxakc5R2RFMDZNN3YyNzZLVjg3RW9KU1FXSm5lbGxKZV9jNHBVajcySzZqcHlHRVVnZmEzY05sRzh1SWhfZ1lyR3p3TUV5TEZubGRwWnViNHZKaEMwM01wNnB4MDFBd1k?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:42:43 GMT"
+        },
+        {
+          "title": "TotalEnergies signe un accord pour rénover un oléoduc syrien, une future « route alternative » au détroit d’Ormuz - Challenges",
+          "source": "Challenges",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnNaQ3kxdXp3M2pYVHhyc1VDRDhuRlRjc2JsNjZadFAxUHRER0wzMElNZlZrMGIySUtQSXVXYWpGaG4xOG5USWhnODRsMmJVOTNLMGZ5Rnhkb19BaHhYTThzd0NQT0FNajNxekoxVmxGdXVNQ1dGVnlLTnkzSXpIeXBWMmw2NVdkaEdUSXl3WEtTcjFlZW1QNFZBWnZqT1RURFpVa2hTVk9wd3d4WWNHTl9tZVJTOVAzUFlrdWwwTmplZGZYSGk1amdOLTMyaWlMVC00d3JteHBZaDBrNmFV?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 05:00:00 GMT"
+        },
+        {
+          "title": "La confusion autour du détroit d’Ormuz perturbe les marchés du pétrole - Le Monde.fr",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZEZ6YnZRbEh5bHUxMUtaS2ExaEtkMFg4czJlc093WXNiQ0l1ZTY5Qkx0LXl4XzdLV3dndGd5TkVmZFVRSnQ3ZnJpNkdfM1ZtM3Bsak1FU0tCcWVOOTd1Y3VSbDVEMGtIdkkzZ0pLbUE2bW9zbm5GOU93c1kyenlmekQ1NnJSajNFNlQtLW1pUnRrc3NOcGZGVUJrdC1DN3JfRi1Vc3l2Rl8tQ1Rob210QVpQM3RfdTFfeHdURXZrTXd0ZXNwdXB3cGZubFVrbV9ybUZxakJNbnFsVi1qajU2R2lFSmZHNDJLRGYtU2dYZw?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 17:00:19 GMT"
+        },
+        {
+          "title": "Le pétrole dépasse 108 dollars, les attaques à Hormuz et l'oléoduc saoudien paralysent les marchés - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeElyV1pVY1hGQVBjTWxaWUNyeVh1QzZHOUJ5Z056cFFQMFlkMUUxZUU3eGlNVktrdGE5TENKUnppNjFPVzB4bHV4Y1k5Ni0tUVVCSHEyb2NhQ0t1dzFRNG05dWJDdHJ6YW00Vkx2c2RIZk8wVC1TcGlDZDhFYVdhN3BNSjRPQlNfM3BTUnpacjA2Z0ZSYjNzdy1KdG1YdE1iWnItSnJJLWgzXzA3M1JkYVlRZHZNcXVhai1sQklDV241Wk5BOW9aZVBJT1M4M28?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:42:43 GMT"
+        }
+      ]
+    },
+    "Germany": {
+      "query": "Ölpreis Allzeithoch Ormus",
+      "items": []
+    },
+    "Brazil": {
+      "query": "petróleo Arábia Saudita oleoduto",
+      "items": [
+        {
+          "title": "Interrupção em oleoduto na Arábia Saudita ameaça perda de 4% da oferta global de petróleo - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd0ZTVmlrQ3Y1MTlmRENVY25INnRhTk9QdzJSTFlWNERwT2tqS0loSnVpZXQwYjdZZjZsaENPS3lPNjVDYlR2TmF0Ny1sQk43TVNUTFVEWThrbTRrTV82Tk1XS3VCa3VjYWFqbHVNcjBVb2M0N0Nkbk1MWk94QVVRMUdJXzNBby1rcEN3alJHLW5SRWxwOVpIaGJSNGhfMjJzTTVwZXc3SEhLc0F5Q1BSVXhMN2FfMmVWR2pZdmJaaWVpVjNvU245dzZhZU1TWkpWRWFheW5RWnRzenRPblA0ZlFKSUdZX0V3czNXWFVFeUN6QdIBgAJBVV95cUxQd3FfYlUxUUgzTzF0aXl6cmZRNEthN0tDeUJMZ29lLWhRZHBwNHctVU1JS0VMeFBEOWhGdVpWX3V6NGJVZ09uVGJfMHVCM2htOG1jUVIzSXktbk9yaWpBU3k0ZC02bndZU1daU0wyalZhTWwzajF3aTBtQXJQb0pwbzlFSDJyZVB6cTRDU1lLYXNUM1puUkxfN1hwdkRLcnJYNzNmMHZPNDdhVHBOTVNaNlhlaXA0RHhuTE5rN1NjMUFrOXpxNnliZVY5S2liRzFpeDRwbVdIV25HQm5DRFhSZnYxOVVhZjI2NjRMdEk3V2hIWVR6ajQ0eDdZTzdXZm9o?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:24:28 GMT"
+        },
+        {
+          "title": "Arábia Saudita pode retirar 4% do petróleo global se oleoduto não voltar - Exame",
+          "source": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkxwdGlTQmpTeTlHZWdiNzI3emxvaXNlUmtVUmNiOVBTNzZ2Tm5YdFZCMGI0Wjd1SV9nQWNsRHR6SGxsRjlmRnBUdVU2WlRsd2ZUdnpra3NVUUlVVGRCSlNST0VFODloc3dVM3pDendCOHhmQXFVYXdBUEhfY2d3QU84b0RaTHMxLVlOaDNETFkyTlk2UHFobkt2d3A?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:27:13 GMT"
+        },
+        {
+          "title": "Ataque contra oleoduto na Arábia Saudita causa incêndio visto do espaço - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFlmNDN2dWl6Z0dRaTNXWDVKR0dheC1aYW5KWXIzd3N6UG5VcWtEVFZOZ1lGNWV4b1MzbXM3ZWVoVGVMcmM2STg2ZVlVcGJXRk4xSk5Ed2czN21scTJUQ2NWQkxUYjdHZjNLTDU2bzh0VFZsdHlLaVJOb1JadDU2aVk0bmtaTWFBNTVaWFFMV0dUTkZFc3FHaldveFVRRmlQWjRfTjRoOW1GaGhUMVFIVHRFOFRPZw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 18:48:04 GMT"
+        },
+        {
+          "title": "Preços do petróleo sobem acima de 3% após novos ataques à Arábia Saudita e ao Estreito de Ormuz - Money Times",
+          "source": "Money Times",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkxWeWR0UEE0aVFYRnlxMDRzY0F6elNJLWVka3BHZDlhdFpibTl2UFFPazZ5SUhTZEx3SDJNVF9xeURuVEJ5cGtOeDNoT3VSU3g4eGdUemdjX05Wb2FaVm50M052bVRFYURZWjAzb0VGV0UydWtWRkJqOFcwemtfd2d1cWVmZW84S0tkbVBQSWlGMEpsaGk3WHNzU1ZCUGJtMXhXREltRTNubjlhbkhEb1gtazg2RzBERWpvQ0JVMjV4UHpMclVsMTVR?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:02:00 GMT"
+        },
+        {
+          "title": "Ataque a oleoduto saudita prejudica mercado de petróleo - SBT News",
+          "source": "SBT News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeDFlM0wzcTVvT0lsZXJESVdLbE9DN19xNEd1LW1HUXNnYmdHdmpzdHl4Ti1odE1LRGFHNmVoNXY3NEhORW1LQTg5Vnd1UFBxd1ZCcW5UTnZXTmRkLWMtTi1yTnA3dGFSQkkxc1pvbWJMVS14ejBJal9naHNOcDNzRy1YcEpEUVc1X2Rmckp4a09KcjFRTmR2al9oX1RELTA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:25:53 GMT"
+        },
+        {
+          "title": "Paralisação em oleoduto na Arábia Saudita pode causar perda de 4% do abastecimento de petróleo - terra.com.br",
+          "source": "terra.com.br",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZzdzam1MUFV3ck4xYVRyQnp4bWIzNjF5QjlsV1BFakpseS1TNEEtNzZueTI0Wm9NVnlLTkI0bC1CcHVuYkdoQTNxSS1CMGtUUHhEeUs0R2lrMXN6U0NlZ1VmSkh0OVg5SUh2RFJ1dDRZZjFNNjBHcldSTDMwMjljWUNOVjVmSGFtaVFPSWRDTUVpLW5TSGMxeXhxNDhZbDRWUGFadzhpMEFPdFo5aXlUR3QwVG1sMjJFU0ZWNlBUZnNLQjJ6OTh2SmpsdWhEaFM2N3ppUWNVUUtrY1QxSVVBd3ZMZ1dQQ0ZfWFBPZnFUaklRY3pTZXBVQnJsRnlNUExLOWJJ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:33:00 GMT"
+        },
+        {
+          "title": "Arábia Saudita fecha oleoduto estratégico e amplia temor sobre oferta de petróleo - InfoMoney",
+          "source": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDBzU3RMb01oOE1jQU9ETktQWVFGY2dwRXRYdElDQmhIQzlsenpVYS1NR1ZWUHZVS21ra2VZTktGWnE0cmJCUldDSmV5S0JQY043MkdqRkNVUjBXUEt5cGtWSTVma3I0Rm9wdmRfb1NVRlZ1NW4taHVSNzNZTnhsTnFpWkxNeXpfWDNQcjJhZWNyQnlQNXRHc21ZYWJfeVQ0czFuYmZKc2FEYjdLTUhET3ByVTFZZ1Uy0gG-AUFVX3lxTE42TEtYUFNRSjZ5c2FHSjRsZy1RLXZkN3FaeUdwSlZ2RjVYMEJBR2x2UVNLdklfZGw5cjhqLVdPZlRTN0ozcjA0TS1BUlVNaWs0dzRxMWFFYkIyVU9ub3IyUVhUdktaTlRoV0pMeEJ4U0plZ3Bqa0ptSzNrdk0xUXppT1RVQnUzUTVRWW1HV3luSE51NDduOHBEYTBjbzYzWlMzWE9xMEcyaEQ1SjdfLXpWLVRjWEcza19KWHlCanc?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:45:04 GMT"
+        },
+        {
+          "title": "Arábia Saudita fecha oleoduto, ataque em Hormuz faz petróleo superar 108 dólares - Euronews.com",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY1RFdFdtNkZGdnFOVVp1c2l5cDloRU5ZSzlnT0RxcU41U19SU2phekg1YnJnTTVkM3hrUXY2TC1WUWdpckhaYU5rb0FCT2tWNWd3QWUydlZ5bHBiT01KMl9HYzNTMTE3QUpJaFU5LTAxRXFhOW9ubjJSYWZTcnpkS1hjLUJYS3hRRThsSm1STjNORTVTcnhoWEt3MHZMWnl6OTJOMFpwbmt6VUl1UGUwVTBqcWxnZEN1TldDdnRlMjg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:42:23 GMT"
+        },
+        {
+          "title": "Paralisação em oleoduto da Arábia Saudita ameaça perda de 4% da oferta global de petróleo - G1",
+          "source": "G1",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN1RDVlRYUFJnc2Zpdkgybkd0UW5IVkhzUFd4aXgweDl2YTIyeGNZYU96QkhtNnYtc04xRS1BbTN3cVlva0xwQjhxekVEcDVwRWFnTm9IcHZlSnJuNWRmSzE5OGZTdmVxVUktb1dLbUJUa1draVkyeUViaktCZmJyYjBSLXlIWmIxaHJRa3dVS0tCTzN3c1QzZjN5ZC1kWHR4S21QWkJsdkNMd0VjbVpkV002a1FRWkpSN2Z2dEJaZm5Ma1dUbzV4ZlZIZzFkTGU1NGdRZHFvUC10RHlySHY0RmNob0LSAfMBQVVfeXFMT3F6NlRYWEZvZHZTRC04YXNhbkNoaGpmZXhrbWoxbmo0TjFRNGpaVVhuYXh3eXZvdWVzSWlKWnhjM0xGeTEtUVJsY0cyWGF4N21zZE5aSkJqQm1uR1U2b3pjaERta09YMWNxZ0swTnh2bmJjUVZQLWFyTmctdzRFX2VHZFl1UlluNktrX3htZGp2ZG1nOHNycHIyajFQRVJSSmlxOFlMemtxMnlWSFpENGhvTFcwZU9mQkp6ZWNVX3MwVFZYZmtHT2ZiVHpydVFCcGJHLV9HcEhqWklDY244NERBbndzMmpPU3dKbjZKX291QURz?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 12:50:35 GMT"
+        },
+        {
+          "title": "Ataque à Arábia Saudita ameaça até 4% da oferta mundial de petróleo - Gazeta do Paraná",
+          "source": "Gazeta do Paraná",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3JhdnpqeWVsT1VfRkhybHdfTE5ZV2xtWEZIekxOV1hlQWh5WWVHQ3V0MUxwRDZYUmVWQUVvdVZta2d2M3l0aUpodUJrUjlPMExYZTdWQkpiZm1JV2lKc3lJNG40SUdETkZWRTdNdkdIekxkT2VBX193dWQ1clRhYTNvVGo0d2plQVlWdmdlemZtMzFaelp4cTZId0FDUVlTVUVOUHNB?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 14:32:51 GMT"
+        },
+        {
+          "title": "Petróleo dispara e Brent supera US$ 107 com novos ataques no Oriente Médio - Estadão",
+          "source": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1NBMEpFX0M5eDZpM1E3UWFPZmd5Z2NUc09Ma1VmMV92MnBUZTRPVFlvTEtGemJqRUFnUnNvNkU0TGhxS0JodkJpaXg0VlJYU05reWZaOVRSRkxURWZ1ZUxtT2F3MGl3SXRDUlk1c2t0YUg5YjVrRTN1VHhFbGxKaEpzRnZoRnJhZGNzN2Fid3RjQW9LNkhiaDlUVktNVGEwS0dpNlB3bWs2VlNndGE2eVpWZ2ZKOHdNcGVzcDBIaUVNSUNFa3VHV0FVczPSAdIBQVVfeXFMTkNsUnh3TDRCa1cwTnZib1FjUm1iRDg0ei1XWjlGZUtsNTVxSHpURGxoREMxeGwzSEN5R2lZSGl3dDF0T1BES3d0Q2J0eXJUNWhIT3hyNm93VFBjQXhOaFRIRzVnVUMwRzM5TmdWaVJ3cHF2OHFpY25DNFdib2l1UHNPVFJGYWxwbEJRaWxPSkxmY0tnV0lNSUlQQllmU1Q2Tll0SnRid1l4Q0xzc0U5X0MzRXJjUmNZdURvN3ZQR1ByTTJxNDhacEZCdURVSjhGdDN3?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 01:53:00 GMT"
+        },
+        {
+          "title": "Petróleo sobe após Arábia Saudita fechar oleoduto que contorna Estreito de Ormuz - Times Brasil | CNBC",
+          "source": "Times Brasil | CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzRESWRLa2ZXdUxRVXFvdE0wR0F6eFVuSDFoMHVEVE50RkdPSGZyeTAzRHZlUE5vRVQ0clVfOHItekdfVnBDeXQ1N0l2TDdUWGkwUnZjWjc5SmlVNWVobU5JZTIyck11cFpHcTNpMW5Rd3h0NlY3UUp0Tk4wRl8yRzFmTVA0SWQwTTJUYTB2RnNSN0F2UWZ4RzhSZVFNbWxUSVdZ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:34:00 GMT"
+        }
+      ]
+    },
+    "Russia": {
+      "query": "Ормузский пролив нефть",
+      "items": [
+        {
+          "title": "Хуситы взяли под контроль Баб-эль-Мандебский пролив — один из ключевых маршрутов вывоза нефти на Ближнем Востоке - Meduza",
+          "source": "Meduza",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk5rM2xzVFk4ZlJ6dlFrT3Y2a0tiYmxLRFdBT3VKQXFPMGtqNXNnQ1VfZ0pqMGNaRUZOdXRWVXV1T0dDUmg4MnhKWHBFbERRak1jNkZfYmZoT3FvMXpBb0htZnI1MzNlcXVWNXgtbWFiRHhlVkp1OUhnaENtRVNPN05VSjlfc3JYcVJuaWJjOHZ4eUlGZ1ZxS0lvaEczMGZyY2lxQnBtNmpQdWZzY2pmQkJXbzF1WUdsc1A5ZTJxT0UycXFrbEdSaF9RZEl6eXNYbFU4NElLRndlS0hKS2NlQ9IB5gFBVV95cUxOOVdZQ1hWTEh1YVBjRndpOEZ4NzV0ZFZjY2xaLTQ3bUVwMHdTN2E4akJPcVp0OVBLajBhY0lqYkp0ejFSYzVGNlB2ZGhSYk9YQzJ2LUNTUXd2Zy0yUnB6bGkzSE9mdVBJQmYzN0p1VWh5bkltYzY2LVRiMldRYnoyRkJmYkFKN2ZJOUFaeTZsbWxTY3UybzBMbThMbDhsVHVoeGJDMDdCSXNEeGNwUktZTWJmZmVlSlYtdHJGaV9jSVBEeVJEVXd1VWYwOHduUENvbDgzeWQwYzliZVZRSU5jMHRHVUVWUQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 16:41:00 GMT"
+        },
+        {
+          "title": "Удар по судну в Ормузе усилил тревогу за поставки нефти - dw.com",
+          "source": "dw.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVJmdXU2ZmJzQWxISVA5aG5xOGczSWNGODZQcUhJOE1FTnF4cnBBeXNMNERfb3c1MkhOcUNsa2cwZm9Qc0kwWUctcXlfSXBOQkxkbURDbzJSbm1IbjlXaGw3TmR0dnBvMFp4M3k4MnVkcUdYVk9XSTFHSHFnRDUtLTEtOUVpQS11TVhDTzVraXpJZ9IBkgFBVV95cUxNNjJPT0lTdXA0U2ZRemg5X21lb3dWejNhblJfYkh4TVZycWtoWkpGMGdNVkRQR3N0eVdhMFNOY2w0NGMtX25qTW1LWk5KYllDcHFaMlBrSWh6cXBvNkpUOE9jU3BvNGJCUlpuMlc3VWdWSnIzV0I2N19GYXhfTVhiNWdXNTBHZ2Y3NWFSenI2MFNMZw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 11:05:41 GMT"
+        },
+        {
+          "title": "Почему нефть дорожает в сентябре 2026: конфликт у Ормузского пролива, котировки Brent, прогноз до $120–130 - Финансы Mail",
+          "source": "Финансы Mail",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUW56N1RiTzlPblNnR08ySGZ1b3VwbTFsVHh2YUhWVFlfQ0FCX2VkOVp1eWtVWUdXeXpWSk1FYnI1YUMyUDlKNnBkMXBkVzI5WnhuTVFxeVJzejF6V3dnbGxxei1TdXNDRzc1Z2hBWjktUVpVSUtNUXM1NmhmeUxJekZHbnlUbllqNnpMNVRqTHhNUQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 07:00:06 GMT"
+        },
+        {
+          "title": "Нефть растет более чем на 2% после новых ударов по С.Аравии, Ормузскому проливу - Русская служба The Moscow Times",
+          "source": "Русская служба The Moscow Times",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMS1oN3FQRlFOV09hU3Myb3NUVW1yUTFOVnpRbEVwNmJsRHA4TmlLMjJKc1FYTHhiZnBSUV9TWGIxWWxXRDJQeVd6SXpTSlNqM1N3QjVvaXF1R0RmOWhSTUxiUTJCX3k1UkR5UVIwRm9mUXJtZXBiQmlxSEpMRzk1bjg1SXgxODh3MGRJaVoyb0FZNXNzSTRiV3RQSUpNWWFYTVRvaEFnTFNEc1EtYzQ0cERzdEc0QllxOGhjZjd4UGxIYnhF?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:01:48 GMT"
+        },
+        {
+          "title": "Цены на нефть взлетели после ударов по Саудовской Аравии и Ормузу - Korrespondent.net",
+          "source": "Korrespondent.net",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkhkZFM2cEs0SlNxRlcyVGoySFdTYVBGQnBVaTBQMHYyZTI3LWNVSk9qeVVGdDB0NUZMb2JISGFFVTItNExHMzZnZ0xNTW01X3JGUV80a3JzZVBSSzRId0V3Tk9Xb01nZHU1UHdXZnhla1E3OERFeEoyVy1nUTQxeHM0T0hkZzIwWU5ZUUJiMm9MY2ZrU1FrWThyZTlCUlM5R1J2WUJvaHdlcnpfSHQyZEJPQWo4U1dSWFHSAaYBQVVfeXFMUEtZUmF0OFdTbnhDa1NYRDN6UFFFX2FqdFotSTJ4QXdFMEJsckVFRXZkY2JyYjlVZnQ5c2FnZlpWRzNwOWlJQ2tkM2k4cFJ5eThvN3E4VDRFVDMwOXl5NUN0OGVxWjRrS0hsa0tueW85Q1V4U2RrV0s2Y053QnJ6d01TVFFzV2Jud2dHS1N3SW5jQ2d4U3NwaGlQOWRMWUVhcXktbldKdw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 02:38:00 GMT"
+        },
+        {
+          "title": "Оман собирает глав МИД стран Персидского залива - OilCapital",
+          "source": "OilCapital",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWUweVBCOWRORTVudkxJZ3pKSFlib0NDX0x2RkowSnFQXzhhbVdIYksyRGFfRTZoa0NBVkRLdElLM1lST1RTWUZ0dUZjTXBwa0ZoV1RRTnp3T1ZMMGNPRnZfY01lSzRoYzVXMVphUkk1Q29SeGs1c0kxTTJKbTFNUmRad0FKaExTWURhd3lVVmV2WGNWT2tTNw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:04:00 GMT"
+        },
+        {
+          "title": "Атака в Ормузском проливе усиливает опасения за нефть - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZUNib040aW1Kd1dPWEdud1BZZE11c3o4bFlsS0JRaTZQdGFBZWQ4UWxQTVRvMW92eTUzcEpNTzhGYVk3RTBjZ2dZVzhtT0c5MzhXQjhNbHV0Ul9VdGg0LTUwWFc5VjFvS1E?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 02:50:00 GMT"
+        },
+        {
+          "title": "В Ормузском проливе образовалось нефтяное пятно до 400 кв.км после ударов США по танкерам - Новости Беларуси | БелТА",
+          "source": "Новости Беларуси | БелТА",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaHRzaklRdC1iV05jWUVsOVR3VTFobGFxOUIyY1hMRUZZMFJkTFhGN1g5Y2JHLXZBVmdlSi15VjdRc2lxUjlEOHhNcG85ZVFZNm5fbnhfN1F0bHBQckJJbFhwaWJFUWZjaFRlVXA5akpiRlM1VnhPbFhHX2xzT0dXMnZBVHJNUGFubl9NOTZ3NEJNQVBLMHk2WmJjclRXYm9UUUlmVDlna2lhUTNjOE40N29oQjFQdHBzcG5hTUpIRUt0bk1hWEhNZ3hNQQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 13:42:40 GMT"
+        },
+        {
+          "title": "Нефтепровод «Восток–Запад», заменявший Ормузский пролив, приостановил работу - Overclockers.ru",
+          "source": "Overclockers.ru",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMVVHSW1yWHI4T3hXcldCRlRnTWs4MGc5SW5zczE3OWZ0Uzlvd1BKcnhOV25GSWJxaTBMT09odkpKdGtaQWpMdGlwQk8wXzh6Vk9IQVNxdE8yMHZJcGxFanhkS1d0eTNqbVdfdTYxcXVxUmxyMmM5SlBzQXdpeXVqdEVaa3ROTjl2VjZYMFpzX04wbXhacGFlU0hCdHhfTTkzSFZYQ2VDUzBQeC00YTlWZVBaak5OVkMyRC1TcXp5QU7SAb8BQVVfeXFMT3owblo4T2Fjd1owUk9lNTFmeTVJakRSZlNsT1lFNUpMX015N3J1UlR3d0tILWtSNHFmSkloZnpwMENVYUluTUNfNGlwVnM4cUJYdVpNZm9WWGFrMHZtMFlBWVJUdnhyQmtKaEdzTW1mNlViUTNiZWp6OFhabnd5V0k2YUJoQWlJWUVtLW5XM3ZZM2RoS0l1bmRtZXBtUmp0OVVZb1BFUV9XVWVGa1ZRMGRyMjBfU2lGMXlOaGtEQlU?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "За сутки через Ормузский пролив прошли лишь семь судов. Цена нефти Brent превысила 105 долларов за баррель - Meduza",
+          "source": "Meduza",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbFFPVFJBQmg5UUxJTnBwQ1pvMXJESVVIRjRJaXA5R3hHNU1WZjJwZEdTWjFscm9Rc0lJZkpoZE1uLXJPWGdGWXJWUHEtZHJoMXFOYkgyZFdUamZ0VC1PZm9SWnF1MnJ6LVBocmhweFlCaHhIOExxY0V6MmgyYTlrdlRmblozMjVsUU1DRW1fUmJZejlUOWUtb2o2N1pvTFJKZ1lNVXBwT3hGT3diM1ZDS005TUhnejJ4MmpVWDdvT215TjdCSkxRWjFDT2Ria1hWQUg5TGJNUdIB3AFBVV95cUxOWDdIUC1qRDFfZkMxWjNXVFJvTnJ0VUNVS1hlZWM2U1RoQTF1a096bTZUUWNWdWtveG4xM0pwWDdjS3hUczF6aVJVNXZPOUJTMlBjV0VyODZOaHRmMDJKdnllU2tQSFhjbDI3ZzZFbXo0YmNsaW5VVVVQWktXN0k2UUh0WDF0MlVoQVNCeXVpTjluSEswOENxcW1yTWh3ZHNZS2tMVjExcVh1VlpYbDFhdTBXRk9Ld1NfZjJ5bDVtcHFZb3poY2s2bk51b19VLTlGTUlvbTlodWhDY3V3?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:17:00 GMT"
+        },
+        {
+          "title": "МЭА отложило восстановление спроса на нефть: Ормузский пролив, кризис, прогнозы - Финансы Mail",
+          "source": "Финансы Mail",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWpMM1RKMDJwV2tHYVMzYzNwY2VEQzU3R1RPU3dvYmVIWVNCREZkcDhXUWtYNDc4VjBmcExuU1dsU0VsQUhFbUl4NEhvVkJLcS16Snc2Ni16Wk44aHVFazF1ODd6a21fZlJQVTFieFVrWlJuRk9ucFR6SjFiVWNOVUpMdmNQT0xPSjBwbFVhbXNZQi1FeV9FZmo3SmF3UQ?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 09:12:02 GMT"
+        },
+        {
+          "title": "Цены на нефть выросли после отмены встречи стран Персидского залива по Ормузу - EADaily",
+          "source": "EADaily",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblY3eERzWFhtYWswTnJqbC1FQy0xZnh0SDBKWk5RZG8zUUV1WU5tUEZPUk5UeG1ZcDNrb0NqOGl1bERObFJ5VGxDNmxVVHM4TkYzLVE2OGVUSjBMSTBHMVVaTllNOGhPdkdtckI4Y0cxaXVjOWRvLU1nTExSd1ViWVo0VHoyd0N6TE1oX1F4Wjh2TFJ4dFlGYnd5b3J3ZnJpb3MxWWg5b0k5bGRKVlRaSk5zRVY0dDljYm5NVtIBwAFBVV95cUxQeEt5N2x3SEpmX1FieHZ0cXZqd2lXODFyRjJDRXl4S3JmQ1UzZUI3OVNSMDhGekJsWjA3R2pkVjNkYkptS1NhMlhoa3labVdSR3d1eGRnNlllbFJodHB3VnNfR2dGTUpHUzdVR2pyRkV3VG9fX1IxR3JoY1FlVFdfaFdBb01VUzdEVmVJUWRUZk1nV2d1TmY4VDBkbVJaRC1FR2Y4VnptNWZtUndiR3FSaDVXdF82d0traXNUR19EQVQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:00:00 GMT"
+        }
+      ]
+    },
+    "Egypt": {
+      "query": "مضيق هرمز تأجيل اجتماع",
+      "items": [
+        {
+          "title": "عُمان تعلن تأجيل اجتماع خليجي إيراني حول مضيق هرمز وتكشف الأسباب - CNN Arabic",
+          "source": "CNN Arabic",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV2VWMEJUYnVwUU1ibkEtTzE3MTRqaExscl9aZVZXSlBRYmtiVE91cmdtRGF4M091SUdhY3pzQkN6dWk4TTB1ZnpDN0h0Y3ZXeDNhR1NaUWtCWU9pMjZES2dBSkpnUUZzc3FWb1Jhck96SlN4aGdieU90LXhyM1k3VDdMbXhZSHN0aFZGU0xqQ19XNDBOTm1TcmM5azNqYzN6VlZsaS0tbllVUnhhRjdnd3ZjWXU0VHQyQkR6dlZRY2VsQVV1eUdQd2pmZXQ5NzN4QmgwVFFjQlNaVmQwWUszRS01VGR6Zw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:05:50 GMT"
+        },
+        {
+          "title": "خارجية عُمان: تأجيل اجتماع صلالة الذي كان مقررا اليوم بشأن هرمز - youm7.com",
+          "source": "youm7.com",
+          "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNUEZEYXNlMW1RdTRySTY0b01NMWtueEgyOFZWaWdpRzJPMHdoQmpCTTVhUWxmUXlrR0gyMnlMX1doQTRUcGd2dm13SEl2OXUwSzB2eG1PQkdLaDJhRnNTOE02eUFaY29fcWx2Zmx4ZUZGSEtsdjhkeHc5ODUyb05UR2VUbko0WExvTkpEbjFFejItaHJWU3REZk5hM2NsOU82NGtmSjFNUzlBdjhzSnJNcVNfYlVvT04zamJLb1cyb0RucVJ2bG9IUXlwVWZQZmxENHpwWWtzT05yWVhGUUVHV0NuWFp3eFpMNGF4MFptOXBtSGR5M2JyMktPd1k5bTlCQThIRUlQazNaVVB5ZEE5ZVR4ZHotVC04RDZCRkdfaTQzMEY1VC04eDlXMTMyOUpLS3VZcVdkeG04NDRwd0hlN0d3NllZam9xeVZxQnFudkZGVVRBVTdjVlJ0VVBfZWdkekJ0LVlZalJoWVFxRENYUkMyS2FPQ2w3TjF5MVNTOXlGcTh6eWRSbGZPN3BjN3c3VUx3NngyZThPZ0ZadUpQbkZKWVhKMnlUWkd4MG8wZnNxTlVZSnhBMlREbXRKRW04RFA0Sk1odUFNZGJIWEdXeC1DR2oxd01vOWRQOG95SHAyTnJzUkHSAeADQVVfeXFMTmZSbTh3TnlLd1lvWC0wcmxsZlc2X0RNVmtiVWF0b0RkRDNtT0QyMkdDSElPWHBqdmFOMUVPbXZnN0hGd0NwY1lYT2lVN3R4SmEwcFNlMlhBVDRoVFh0eUpmZzdVYWY5WElzY25uRk4wZkVfRWJYeXdVN014MkZEbEVzMUtqS1ZRaVFvdk9sc2ZrSnJuV1NRdzRQOUFRQ1IxLWJycVJMdTVYcDEtdWFocXZqRkdZb182OVp6YVpxaUFLdFZzNGRYclcyQ3k4Nk5SZ2c1T0djQzBTMGw3SnFYTWlPMFdCSS1wdlpOTVFqOFNrODlSeHMtaTYzSDNIR002WVRiSjhVUGVoMk9sdENsSmQyb1lGdW9iZWY4ZzFRbnpaWFhTcVlXeWFIaW5tQlhiRVVTN1JLLVhTMzRlYjVqY1YzQXZZbXY2Z0VqV2FtNFQzdFBMUW5CX01ydzZPVlp4a3JYbjVMaHhNdTV1Vm1xYlNwSmlRcGdaQVE3dnJIbERBZEdzZXZrZ3J5MDVkWG1Sa0NranJQcjNYbVY1SGRxZC11dDhjZXpFV0cybFdwaVZoaEFPak1DRk9wZ1VfQmdEZjhLSFQ2YnczaVNTZ3R6eDJNYUY4bEwycXNKalZxazdC?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:11:00 GMT"
+        },
+        {
+          "title": "ضغوط أمريكية لمنع إيران من اجتماع لوكالة الطاقة الذرية، وطهران تقول إن الرياض طلبت تأجيل اجتماع مضيق هرمز - bbc.com",
+          "source": "bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OdzhjSmVHRG10U25lOVNSeUhrSzVGMEtTRzViQVoyODlLVXJHY3pTLUlDMlpnTXMwUDRBT2RJYVFJdHpwSmhDRlRILUlSa0VNc056OHRqS3RiNFc40gFiQVVfeXFMTldXX1BXdzJ6dkQ4SzZONk9aUEJad0pmaXVKaTl1dnBqVGNtaUpHZ0cybllwVW1tblBNQUR5WjFuZ1YzajdEYlV2d1dnZm13b3Y1Qi1md1NIUmY2dzZsLXNvZXc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:00:55 GMT"
+        },
+        {
+          "title": "إيران: السعودية طلبت تأجيل الاجتماع مع دول الخليج في عمان - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQTXJaLXhLMzd0bzhKZ1NUZVRzWHFoc0ZuT05YVndZbDlDbXN0VmxfM0wxRHItT1R1TzNaU3RRSmhVSG91MTFrMEplSUFJeWhOdzVlSWJaYzlhcHV4MFhFcVN2c2FUSmxENWN6TElTUEw4YkRxUWxzdVAzRjFpZVMybEtqSzZCbi1KRlBucDM5cFZ1TjZMTHI1d2NzcU9oaFloUW5jUHpLZzExSmNQUGZDRl9FbWNRU0NzNUw5M2RNeFlMU3F4UHVsY1VaeVEzdlhWTDZMNVoyd2FXcFJqdjFWdnBRVVFyM3J4VFFkNEF4N2JSeFZYNlZvSXZWOUQ5M1RCNTJKV3JFR2ZNZEtkM3h6cWlRVFVtMlM3MmVmT0hsZ1B1MTdLZHk3TEltOVNMRUJ0VnBvSkQzUmJXUkhvampvQWU4eUdtenA1eFEtbVFFT1JGc012aWV4aFhsejd1b0hrQnpNWEllTTA1dEF6S1N3YVM4NHM4UTk3T1FaRWlYRXl2a1dROThkMFhzM0p3RkIyalJ1R2RXYUI4c0UwYjE2a3oyQ0xWQlAzUjdTZUJCNE5temw4RURVQWR1alhBUFJwM0VJancwN2o3OUxHdms2eXZSZ0pTbTVkWlF2M2RmYmpiN0VEdDRaU3liMEZoRnR5MDN3SjVzamZfZFN4aUZyV1FVVdIBiARBVV95cUxPVnBVYUQ0cVB4UE5JRjlURUEwT3Rwc1g3M2VQTGlwOTBrd2plSjVyeUhtTGNIY1BITnhVVnRreTVlRi1meUhPZDROMHFXYW9DSEF1dkxBUzd6aGRuXzRQU3M3cGE3T0kyZEdQcGg5OV9kVXZQeW1LQkw4ZDlKNEJJdDdzN3ZyZ0d0VHR4N1pzYXpMaFVpaG5VRzNMeDh2b2dtY09WS1lsNEg3blJpa0hxNmlibXY0UVNCSzZjSktVS1AxMXFMWDlsZzhNeDdIMGxWNkFlNHdleGd2b1ZSMmxyWk9OblN4ZGlqZHA5THc2M0Q4R0hBZnV4N0x5RHpJaXlfanZpWm56cFV0NU1oOXhXamJMNW5OT2dkS2hXbTRkY0RyWnE4cVBDU2xST00xMllPSFlHMWpHeEN3ZGhCdmFfQUpUVm8wSTM0NGloQ3FqQ2xyUGlrdzVRMFN3d2hCRHdLRDBGRXhWd0lmZV95YmVpQzY5NjUtRFd6dW9xUXdFSWItbGx6MFVwOUdYNTM2Mi13dFg1NUNidFkyS1hQd0Z2SjBYVlB2RTVweWYtMzc1Rm44NFRrbnZLenVXZS1nTVdPY2d1UkVKZTFYc3o2Y093bEpKX09TVnA4cmQtcm1YbjBZRlZweG9SSERLSHhkTzMxUTNwQUNsU3JOSVBkek9QYWR1Q2hSZVdB?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:37:43 GMT"
+        },
+        {
+          "title": "\"برنت\" قرب 107 دولارات بعد تأجيل اجتماع عُمان بشأن هرمز - الشرق بلومبرغ",
+          "source": "الشرق بلومبرغ",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOOUN2c2pYQjVHclVwNWNtdlZsakxpYVl2SU1uQlF5NDdTOVFGdWtLWU02YTZuQmMyYWRTMGdVS1Z5YWdjQi1TYnVUaHg2YjNVOFhCU0Y5aDQwRW1tSFdiZ255SWFqQlNqSlg3ci1VejhUWEJGdkstRm9Lak1EU3AwTE5jZWwwUDNyNGxmbm9OWHNpcnRHQTFKckZJVUZVQzZHQ003QzkwU1JmZXNaVkR3STNuX2RPVGN1SGxTRk1nd0NPX3F6bjYzb09Odng2dWZzUXo2WXpwWmRsc2pNWjhVejdFakR3ODlIbFdkODJlWnpTOThwTzBtbXk4Mnl6VEZxNzdPLVJTRkNSbllVaXVCb21Rc1drWkdSVFZWWHNFd2ZuanlER0tLT3I5NndQYnJtUU1qa09USkZIaFVLN3FNaVNndUV6eHBaNmZRaWJNNVVYSm50dVFNSUVxV3FJTWFGTmVxTUE2Y2tnVlhCeGZhRE9YbXNLbGUybDdYUG1BWnpXOGhZWjZKZlM5TzhSM05mblV5Sy1ISnI3Wk45RjJiN3paeVBMQmxDeERyLWNFT3JVWlU?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 02:58:06 GMT"
+        },
+        {
+          "title": "تأجيل اجتماع مضيق هرمز بين إيران ودول الخليج إلى موعد لاحق - المتداول العربي",
+          "source": "المتداول العربي",
+          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQRGQ4WXU3V29sdzBaQVhocVZLd0lnb1dXOGlRbkNONHE2dEZYQ2U2ODAxNjZlaHM0bE0zX0t2Q1lfOVF3UmNlV29GTGtVSS1RdXQ1cHh1eEt1cWZyVUpkQ3RIdFFpRXNzeHpHbkc3MTFyVmt0WUl1VEoweTN1c0xfNnJJR25DMU9JYlhST3FpUWF3MFgzRDNMT1RWRmZyUGtncTBzNW9tejZRM3pDSE5FeFNjYzNFbElzMVcyUEhmYkdZc0wzejhBeEZRd1ZsNjNHT2NHOFVwa2lEcHZBUXNGRGNWemRocTVwZEFYNkFocWU5MEJhbFhwVUkwWENvOHlkOWtjejgzUV9jdjRZVmJrRm1tWnVXbTdvRVVXMXg0YkdrWVFUcDROSFd3dy1ySHZ4NDlSRUhLYnd5blpXNm1GWU83MXZJY2NIZUlIeTBLX24wa2d2NmpNb05uWmcyc25va0tnOE53S0NRWDYwQUd5cHRrWTc2N2xLVG5sUURzbVlBTnB5dkdRQXNHd096b0lNeEw4YmZud2liYWZLYkhKSEwtOHh5ZEE4TThwQnJwRVh1UnZWT3NfcmVFWm5ES1FlVjExSWRQY01YVm1vU2VCaXlRQU5peW1QRjhiWE1xY24yWDRxR1hhSnRWUUdpR1pDRkFfUQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:46:43 GMT"
+        },
+        {
+          "title": "مضيق هرمز تحت الضغط.. تراجع حركة السفن وتأجيل محادثات عُمان - الشرق للأخبار",
+          "source": "الشرق للأخبار",
+          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPTWZTOHVzb2ZKbGkyUm5qNE41R3NjRF9WVmxFbXMxX1d3QVgwNmNoNjFZWmFxcEFJVGlrNHRRcUkzb25pZUYyeldwNndWOEprcnQxeG9aeENXdVdIaWl4ajdldzlUQlZLYmFpRmlhZTlLbm9wUUNMd2tUSFozazdJTXBzbk9iNTRua0Flb3ByMlJ1dDZOMkJ3NkNRR29GUjRJNFowSUdPczgyVVdnYW9xc0lSVHI4RnpzLVlrX0FYWEVDR21XZ1dUS05uX0hWOE1CWlVxNnJSZjlTSVdVcEN1UmVOdE1qM09aVFI2UF8yR1pQTUswdjJ1WmlHSXBaWktVcDFXVUxQa1RFS2NtYzViZHpVZXVOWEhQS3lGRkoyTW5rX2lTR05GWnRDLWYwa2RBSkw5Skl2TXRCYm1rQnhUdV9tZjdqSlpmeThIdTA4WldlbER5TEktV2ZHTGNiOFl2OHdIdTJWWWlHZ05Xa05qSU1NVkpyX045VEVQU3hnZDQyWi1zN2FvYXp0Z1hTVzdIVEoxWkloZEYyQ2VkQjRvZXl5MUdPRXk2V3FYaU84TVNibUt2QktCVG5BWXRhSmV1d3FLN212enpNM3BFaW1BQVlB?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:19:11 GMT"
+        },
+        {
+          "title": "تأجيل اجتماع صلالة بشأن مضيق هرمز - العربي الجديد",
+          "source": "العربي الجديد",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWVFFc0VvSUhQWEN1RVNiTHREVlE0Qlo5WDdKTTQ3Z1FBSmJuY2UxM01qRUNwUDE2blRmc082bWFqYTN6YkNqY0hHd3loUDk5TkVDNGMwcGZkTVd3VzdLcURoaHhFSXQtVHVOUnJJb0dZVTQ4N0NVclAyUzlETXAxdWlfbjRnLUVWdWJfQVRlN2RTUGpJbDBLWXRZc2RHNlQwTEhMdXF0V05qYjRTNmU2OUpLVVNPdHVpVHhobWFZM01YYUk2YURIeDNMc3VlQmZmRndyUGhZLVh5QlhzdHJoWkdQRGxwQjVGMXpGckhGbmIzTkItaUVqd05UaGcwUEZFZHc1T2U1bURLam9ZTXFteWp4d0czZUFUb185OFZBaUhzbWFSV21RQk5lVELSAbcCQVVfeXFMUG0wdnVWQkRuZURjVzZlNm9ibGpXLWdmY0VYVTlKWVlqQUZlTmJraG1vbGxhUXZFVW83b3dxRXFhbElhZm5XNmpDNE5TeWVDcVEyWTZtcWtQVGxfaHYybnN3NzZsX3czVnZwb1J0QkViM0M1RVdSd05GUFBvaU9YcV9oMkFwZGROVDNyZHdDVVpJWHpHYlE0b25zQTBaQmlFdF9rNVZzeUJMZU8ySW54ZkdTRkNtTkRUSzdnOFhiR2JPSFRPSE9fRjNyNXJiYVY1X0pHM2ZUNExGWnNqUDF4Y0ZiNi1mUmpjSHVHNzZoZnl3RGtKbkZ5bmMwTzM4LXBWTFRXUE44a1VkckFBYVVhSGJzS0xMWFpwQ2ZSS2lOSmtHblBkQ3lwT3Q1VFpIQm1iaTVZN19jWWs?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 19:50:07 GMT"
+        },
+        {
+          "title": "سلطنة عُمان تعلن تأجيل اجتماع إقليمي بشأن مضيق هرمز بين إيران ودول الخليج - TRT عربي",
+          "source": "TRT عربي",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FWGpWNXgtejBqLW9SNWswTEJqbmVDOGxCcEFRODM2ZkxUeW1CMUlMZ1VKdWM3dEpIMTA5aG1YMmpmbkV4WXozZ29DT3laQjBkdUtTWU1LTzE?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:17:35 GMT"
+        },
+        {
+          "title": "بطلب من دول المنطقة.. تأجيل اجتماع إيران ودول الخليج في سلطنة عُمان - مونت كارلو الدولية",
+          "source": "مونت كارلو الدولية",
+          "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQUmx6TFNnTkh2MTZMcFFMaWZBbkRCZnZKTk5XTWFSa2pWV3M0NXFTV09Rc29tNDhfOXY3cnZCd1dtdHBuY09fNTNTZVMxR2phQU1BYkFLNlNMT2hNaUpqc2dEMjRNY2pUS1BmSklFbmZoMHRhWVZvdmt3WkJsaXJfdHhoajhMVVpPREZvRURlNV9xVU5mSGlqRWxLb25ITWJfbTJqVnA5MkI3WEI5b2lCaGZPeVEzblEtQ2Z0SkdTdjNPWWJpUUl1NW5uLVFLT1NlTjBrY1MxS3Q2UTMtMzVUQXFOaUtsUE9jQ3kwNHBwb1ZZMEFlZEtMMXo5S3BYM2doVjJIaGRhbDlNRnRLTThTRGhFVWRLVEJxcHNWRWt3S21zRlVEblRCVzdzejR4dzFJRXQ1MGFJRU9IVlBLTkVlM1QxSmF1cmdaalBIS1I5VGtWV0tweEdyWWlCVGtQbjdvSWxKbDZhZ0VxV0V4RkJiNUxIemIzTC02ZTE3dHdCeHpWNUN3cGlpSjdneUR3QXZEdXBxNGJKcVVta0czTzN0cVZEVnBjUDVFZWpPczlIQ00yQ25nTTc1ZWVNSHZWZ3ZtRVNqcTVFY2JjSlI1WmN4SGJQZzZOZ01NcDE1NU1PeGlQSlV2MG4zWnpjRVJFZ1cyR1d1Njc2elFxY29wR3RfaXlPeTRFVUVTQURBREdNREFTdFlGNDlDMlB0cURZYVlFd2xkSF9ENFdCU1lEdW1wbjFGcXo5TE40dENqbDFONDNRcUhjaExMTnprb1d5MVRaWGJVWUFkQkdiX0VBWDdFS1o3V1JnUWM?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:18:18 GMT"
+        },
+        {
+          "title": "لماذا تم تأجيل اجتماع عُمان بين دول خليجية وإيران بشأن الملاحة فى مضيق هرمز - youm7.com",
+          "source": "youm7.com",
+          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQUVdOZklMa3VPbDNBQVp4bFpOa1gyZGk2ZGxoM3FTVGQ5M3ctdnBscjBrTkJnQUVYbm8ybVhaQ2ZVaDNWRGU0OFAxZ2p5bHp5VlljZ3lmeHZFREgyaDJxSDdQWC0yYjFtYl9IenY0eFNRRTFEdjEwRlJxa3lGSGlqSnZXMzFrREE3OVBPTDRSS2pFenI4RnZqWDAxZVRlWkNuNWNJMXo5V0lCS2hTSlRvQTVHRmRfV0tsaVN4emd0N2RxbG5NZ01OTHpSaXcxSHJZb29oVkRBdHc5ZzZUSXc1aWJRUlE2ZXUwZ3pxeUstQ3NwOWRpMEpaZDRYbTN3WE9RbU5KanhCQ2ZQcmdFYTA0SUtUSThQVjg0OGkzYlNpb3Z0YUt3QWxXU2tZMmZnMGhfMlNjN0tKUlhCQ3I2WFgtTnBzZGE0VzdRd2xZa2E5ZzVRUHBYakM3YXlUMmRuYnBwenlWN1pqajE1NEVPZFlTeG1JYzNEOFg0TWt0OEd2cXZmNjhOMUxCdUhFRUhfZ2hNLWhBNkd5dXhDR1FPTVlrOXJvT3J6MTVPZ2FQMTV4Mm5WTmJnbXZYTl9jNWp1OTRHX3NjX0g5LXd5dVljWHfSAcgDQVVfeXFMTk1veG8yaEIwbm93MGhKc2xKOXZzV1NJTEpxYlVxYzA2enFzSU9LY1lKSlFjd3pDc0hLQmZHNkxKVHRlSV9TT1Q3VjN0cWtWTEtyOUVHbHJNa2JHTTNpSXBfTEoya0xoT216NWRtTEZsdGI1SzYzbHNUQzFLdVZBX244NGVfUUNqRWoxb2hlXzhILTJaNkx5ZnlOeHIzUUJ3bHJSYzdzWEw1OGFxcWVnMjVkVUV6VHgtZHlJQnNOeEp6QWd4QWtrbzRLbFJfTWZlNTNBNE5odU1vZmJzQlJRU19EcDd0WldZdzlwcmdWRTUybGlJUEZxZnVvZmpfTDQza21TNjhEVnVjd1FUbnlZX3pERnVyLWZJb0sxRmlETGxtSTRDMnZWUWloNWxjMTU4NXVhM0pWZzRwa3F0VGZyenFKTk5ibE5vc0twMHdKdWNaRkhkN2tGTmxDNkkxM2tjQU8teW1YNy1nS21JRUtlRUl2R3pfNHZURnBEeWFMeERXbW5PMkNRX3ozTkhfRlBSYlVra2I2NWFQTmhsWVBsWkYzVi1KNUFtdTctUlNDTDdGNzZxNGRVc3JOc1JUd0RMM3kya2IzdW5Z?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 04:00:00 GMT"
+        },
+        {
+          "title": "الخارجية الإيرانية: السعودية طلبت تأجيل اجتماعنا مع دول خليجية بشأن مضيق هرمز - CNN Arabic",
+          "source": "CNN Arabic",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlluZFlNcVN1SkIyS1Vac2VCYmZWNFV5a2ZXNlZ6OW96clJDTlAxd0hZNnBrbjBYN2tSMUpOWkVGVG1WSWxob0R2U1dteUpUTGx4SXNUTHg1ZGJIMjhUcWxQZ1N4RVNpRGJBcGlZZ25NZVdBS1JHMzBHZDUxc0V1SWRaaVdNblItVVRrMkl3Z1YtU0pQd0NScmtSLW9OTnlfeUVicnhIOTVValNKUjQwamhYVVBQdmFlSy03SndDRVBvSjNRV0Y4X25RYVFCbkVjUlE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 09:29:23 GMT"
+        }
+      ]
+    },
+    "China": {
+      "query": "霍尔木兹海峡 油价",
+      "items": [
+        {
+          "title": "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟 国际油价大涨3% - finance.sina.cn",
+          "source": "finance.sina.cn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdGWHlJSDR1OUFZNFlEWTluWWxDY2tEYmVqTW9WNllHRU96SjRKR0I0N3JNbFhyeS1hVFpjZ3JKNVE3TnotZzdRVEtsX2pTb2ZtSUhvVGNndVFqZmRHT0l4N0dxZzhsV3pFTVhKRG9jZ3pjNnhDaWFvZTJjbGg0Z2pOeHBhVWpic0M1bm56Z1NTb1NCSlUyNw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 01:35:06 GMT"
+        },
+        {
+          "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位 - 东方财富",
+          "source": "东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwMFNESHozSGlZZGg1NzNTZ1I2bEdDV3NmdjVoa1FSNmxINTdSSnVfVjFoU3NpQjQtRmdBWW5BYURsVWVLWkRJMzJibTBHeXJ1ZEdDMk1nWllWZEdUVkMtTA?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 23:02:01 GMT"
+        },
+        {
+          "title": "石油市场已达“转折点”？ - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Sc3lBVDZPTndOelAyYzVzZEg0bmNNbVpELXUyZTNfT0oyaDVMU3ZQMUM4V3ZUOFVveExPQlgwRVpGdXd1R095VkMzUDRjNi1Udm1F?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 11:40:15 GMT"
+        },
+        {
+          "title": "大涨超11%！霍尔木兹海峡，突发消息！特朗普最新发声 - finance.sina.com.cn",
+          "source": "finance.sina.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yQVJyVjA3MGppQjR3OVo2LVJqNzJITERHa09ENGl4MWhjZ1JXSFM1VW5laGU2WW5nMTlKTXdnemZydlRqTFA2amowYXNPRkluTklOeVVMODlSaUd4Z3Zmb19HeVhVV3ByTmVKQnpkR3lIVFIwaHNYbA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 05:44:00 GMT"
+        },
+        {
+          "title": "沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨 - video.sina.com.cn",
+          "source": "video.sina.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWNOUnVZb2N3Nnk0M0RpdnFhX1EwZlpZcDZuRkxhOElualBORkxLM2dFYk04cmlZamhSaWdhamN2bHllclRTNUhnWnJ6dVJLVEtMUjAtQ0lMQVJtMUVPNUJtLWllWWtqRmZxSTFvN19aRGlvLVBod1dTUTVHdWNGTjR3?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:42:40 GMT"
+        },
+        {
+          "title": "9月14日周末要闻：沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨 - finance.sina.com.cn",
+          "source": "finance.sina.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenBHZ2tXTjJuVG5tT1M3emMyMVZwcEdRdGNmMy1sbThyZVFtbERYU1RsTmhWR2RyZzhHUThfc0F4VHI2SlRQOWFuOTZUcVpQX0pxREVVMnVTRzZUbWdWU1ltdzRpX01pMy1OR1BOU3NTNVhlcjFLLW9vSTRYNGlDajlyTlBVN2NlZmJnWFVBXzk4aWh0UEJMZmJEcFg?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:21:00 GMT"
+        },
+        {
+          "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号 - 华尔街见闻",
+          "source": "华尔街见闻",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRWVQTFVoM1RYYXJ2TmtOXzdKbERHbWhCTnlRUE9KRjhzaFZJTVRER3BGV2FqeFNHbUxZQUxJUkFiaFdfMWMzMXRQSUdqSmY2emxV?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 06:00:58 GMT"
+        },
+        {
+          "title": "沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨 - cj.sina.cn",
+          "source": "cj.sina.cn",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xbUhWRTNQdVlSdV91RldDVmZ1Qm10RGVmdUUwaFZFU1BtMlp6NE9nY1pGemFFLVJYbXlaM2xXRkw4Q1c5U191LWJ0UQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:12:49 GMT"
+        },
+        {
+          "title": "海外研选 | 摩根大通：霍尔木兹海峡难全面恢复 油价仍需高风险溢价 - 财联社",
+          "source": "财联社",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcGZ2OFhTWm1QRHJXVTFKTmJFUGJxNElMZVV0dHJ1cUJZb200T0xiZFdSR090all0WlhqVVB0UVlHTmh2NGl4Mg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:07:19 GMT"
+        },
+        {
+          "title": "曼德海峡局势趋紧霍尔木兹海峡航运磋商将启国际油价仍维持高位_期市动态 - 中金在线",
+          "source": "中金在线",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkblpadUVWUUVhN0VzVXpnY21HZ1p2ZFNKVGFuVDd5Tzk2ZWFiS1NSa2JQN0NhRkJMSldnalpfdGUwMGpVYmF5VGd3aERKS2VFU0dyVVNYQWp3cEVmamx5bXhKLVB1Ujd1cE0wYlZB?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 00:04:03 GMT"
+        },
+        {
+          "title": "9月14日周末要闻：沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨 - finance.sina.com.cn",
+          "source": "finance.sina.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT3gwbHJLSFZveXdGOTFpNVMxSE1ZTXVrWGNOTFg0cWRlQlFXcEU4Y2RJSlB3T3lJM0QtTF96M0VnN2lCdkNJYUNSc0JsV3dKQzRFVUI3TWR6M3NKcGFBdEx2NmpoRjZUOWlURC1CQ0dseXNOODRqbG5BSU5tcXF2M3JmZUxKb0U?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:21:00 GMT"
+        },
+        {
+          "title": "伊朗将与相关国家讨论霍尔木兹海峡内新通道 - bjnews.com.cn",
+          "source": "bjnews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00ZVhfa0czLTdxMHJrUW1WNVFwMTFIQXdudUV0MTMtVTBnSHRQb3hRcEZ2LUxHOXd0Y1VWMk5fOEdlVEtNT2ZEODdsMlRuMzNaU0FYbVZ2ZDhXdU9CYURtdzlhS1E?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 10:52:13 GMT"
+        }
+      ]
+    }
+  }
+}

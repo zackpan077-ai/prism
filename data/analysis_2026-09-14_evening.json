@@ -1,0 +1,296 @@
+{
+  "findings": [
+    {
+      "title": "推迟原因的归因分歧：谁推迟了会谈",
+      "body": "同一事件（阿曼会谈推迟）在各国标题中的归因方不同。埃及媒体密集引用伊朗方面的说法，明确指向沙特：『الخارجية الإيرانية: السعودية طلبت تأجيل اجتماعنا مع دول خليجية』（伊朗外交部：沙特要求推迟我们与海湾国家的会议），youm7 还打出了『عُمان تعلن تأجيل اجتماع خليجي إيراني حول مضيق هرمز وتكشف الأسباب』（阿曼宣布推迟并揭示原因）；BBC 阿拉伯语版则加入另一层归因：『ضغوط أمريكية لمنع إيران من اجتماع لوكالة الطاقة الذرية』（美国施压阻止伊朗参加国际原子能机构会议）。相比之下，英美媒体几乎全部使用去归因化的『Diplomacy stumbles』（外交受挫）框架，不指明是哪一方导致推迟，俄媒 EADaily 则用『после отмены встречи』（会议被取消后）的被动表述。归因差异是本次数据中最显著的措辞分野。"
+    },
+    {
+      "title": "显著度信号：只有美、俄、埃及头版可见，日本第4位，其余国家未上头版",
+      "body": "检查各国头版前十：美国 Reuters 的会谈推迟报道位列头版第5条；俄罗斯 EADaily 的油价报道是头版第1条；埃及 CNN Arabic 同一报道也是头版第1条。日本的 Reuters 船舶攻击报道排在头版第4，居冲绳知事选举等国内政治之后。英国、印度、法国、巴西、中国五国的头版前十均无此事件——英国被国内政治与AI议题占据，印度被 BRICS 峰会与国内新闻占据，法国头版是乌克兰战争与2027大选民调，巴西全是国内司法与选举新闻，中国头版聚焦金砖与国内事务。事件对油价的冲击与各国头版显著度明显不成比例，说明该事件在多数国家仍被当作财经版新闻而非头条政治事件。"
+    },
+    {
+      "title": "德国完全缺席：唯一无对齐报道的国家",
+      "body": "德国搜索词『Ölpreis Allzeithoch Ormus』返回无结果，且当天德国头版前十全部被下萨克森州地方选举、萨安州选举、瑞典大选和联邦政治（AfD、联邦强制执行之争）占据，完全没有霍尔木兹或油价内容。作为欧洲最大经济体、对能源价格高度敏感的国家，德国在本次样本中既无对齐报道也无头版覆盖，是『谁没报』信号最强的案例。但这可能受搜索词过窄（含『Allzeithoch』历史新高限定）影响，不能排除德国媒体用其他关键词报道了该事件。"
+    },
+    {
+      "title": "日本与法国的独家角度：本国能源供应链与替代路线",
+      "body": "日本出现了只有该国才有的实用主义角度：野村证券『日本の原油及びナフサの代替調達に関する現状把握・今後の論点Q&A』（日本原油及石脑油替代采购的现状与论点Q&A），直接服务日本企业如何另找货源。法国则有两条独家：Le Figaro 的地缘综述『Bab al-Mandab, Ormuz, oléoduc saoudien… Les «routes du pétrole» menacées』（曼德海峡、霍尔木兹、沙特管道……受威胁的石油之路）把红海与波斯湾串联成一张航线风险地图；Challenges 独家报道『TotalEnergies signe un accord pour rénover un oléoduc syrien, une future «route alternative»』（道达尔签约翻修叙利亚管道，未来霍尔木兹的替代路线），把事件与法国企业利益直接挂钩。"
+    },
+    {
+      "title": "俄媒中的独特事实点：美国袭击油轮与石油污染",
+      "body": "俄语区出现了其他国家样本中没有的事实细节：БелТА 报道『В Ормузском проливе образовалось нефтяное пятно до 400 кв.км после ударов США по танкерам』（美国袭击油轮后霍尔木兹海峡形成达400平方公里的浮油带），直接把美军行动定性为污染源头；Meduza 给出具体通行量数据『За сутки через Ормузский пролив прошли лишь семь судов』（一昼夜仅七艘船通过霍尔木兹海峡）。此外 Al Jazeera 在英美印样本中出现『US-Iran strikes intensify』（美伊打击加剧），而印度 CNBC 则引用伊方战报『Iran says it destroys U.S. advanced drone』（伊朗称摧毁美军先进无人机）。对军事行动的施动方表述（谁打了谁）在各语区分布不均，需读者交叉比对才能拼出全貌。"
+    }
+  ],
+  "quote_comparison": {
+    "intro": "对比『会谈推迟』这一核心事实的归因表述：是哪一方要求或导致推迟",
+    "rows": [
+      [
+        "埃及 · CNN Arabic",
+        "عُمان تعلن تأجيل اجتماع خليجي إيراني حول مضيق هرمز وتكشف الأسباب",
+        "阿曼官方宣布推迟并说明原因，强调主办方主动性"
+      ],
+      [
+        "埃及 · Masrawy/CNN Arabic",
+        "السعودية طلبت تأجيل الاجتماع مع دول الخليج في عمان",
+        "明确归因于沙特主动要求推迟，引用伊朗方面说法"
+      ],
+      [
+        "埃及 · BBC阿拉伯语",
+        "طهران تقول إن الرياض طلبت تأجيل اجتماع مضيق هرمز",
+        "在标题中同时呈现伊朗说法与美方向IAEA施压的背景"
+      ],
+      [
+        "美国 · Reuters",
+        "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+        "不指明责任方，用『外交受挫』的抽象框架处理推迟"
+      ],
+      [
+        "英国/印度 · Irish Times",
+        "Oil prices surge higher after Gulf states postpone talks with Iran over Hormuz",
+        "将推迟主体笼统写为『海湾国家』（Gulf states），接近沙特归因但更模糊"
+      ],
+      [
+        "俄罗斯 · EADaily",
+        "Цены на нефть выросли после отмены встречи стран Персидского залива по Ормузу",
+        "用被动/无人称的『取消』（отмены），无归因"
+      ],
+      [
+        "中国 · 新浪财经",
+        "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟 国际油价大涨3%",
+        "不归因任何一方，重点转向『新通道』方案与油价联动"
+      ]
+    ]
+  },
+  "countries": {
+    "US": {
+      "name": "美国",
+      "frame": "外交受挫框架：会谈推迟被表述为抽象的『diplomacy stumbles』，回避归因，同时叠加美军飞行员在伊朗境内被击落后的搜救叙事（头版第4条）",
+      "unique": "头版同时出现美军飞行员『climbed 7,000 foot Iranian ridgeline to hide after being shot down』的人性化军事叙事，与外交受挫报道并列，形成『战争进行中+外交失败』的双重框架",
+      "headlines": [
+        {
+          "source": "Reuters",
+          "original": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+          "zh": "霍尔木兹海峡提案会议推迟，外交受挫",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmxSZmUzZzdYUkJrQ2l3RzRTQklHdjFOWmVYZ2NDcmZmOW9UUVBoZkk0bC0wcHhveWNHNldiU2E0WV9PYkFtWGVaUUdMVUlieFBZMVRjVHFkTTZ6YjVWXzVLUlA2QXE2LURQczRJN010RGR1Y3Jkb0JpS1lhdF9fZVdJT0hMV3A5QXNNcllfalNoem0wS3VMNUlNQUgwbG9sUU1XN2R1aUpkaXZDekZ6bnlqN2RiN0t3X3d3?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "original": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
+          "zh": "英国海上贸易办公室称霍尔木兹海峡一船只被击中，美伊外交前景显得渺茫",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwTGlJOEZRVUpiWERhUm51WWZwRDRWVXlnVXczV2pQOGFnY01GUklBZTg2MHc0SU8xbzlYWjlRWFdxMFBKYkxPVy1TRUdXcmdBS3RxZmtsZnpGRG5rSjRobU9BNVY3cUlHNEMtOFZaVTFMRldydlcwSEZHbTJZUdIBgwFBVV95cUxOeF9MeDRhaEhUVXdqZ2ZJdWhkVVFTSlRNWDFoSllFMno3bE5lVXVnaDhGZnA2RDRFSnI3SzRTdF9yNXB5SVp2d2hacVdHS1IteWZkUk5PQ0EwNDhwTEViYUVCQXpGaHg3YXQ4TlhoRnpZMHprOHhkTDNXNDJUSmNnY2xiaw?oc=5"
+        },
+        {
+          "source": "Bloomberg.com",
+          "original": "Iran Is Set to Unveil Hormuz Pact to Gulf Nations on Monday",
+          "zh": "伊朗定于周一向海湾国家公布霍尔木兹协议",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0xIQ0c5MXZVcHlkYldBdzdHV09KYWRDcXdNV2p6YVNRSS1rR1pfWmdvUklrb1ZRZEkzVE4tOGh2cWtGZGlqX2l0YXQ1YjNlLVREQzBXQU5CQXdkZ2dqTkU5anFiV05iUkV6eU4zS2lDWDlSYXRhQjZSNUVDS0lwLTJpeHVCUGtlSnVncUVHT3I4TWEwaC1BWjBOaHhKenR3azBVUThFdWdjaGNDTHppV29fUQ?oc=5"
+        }
+      ]
+    },
+    "UK": {
+      "name": "英国",
+      "frame": "油价与市场冲击框架：几乎全部标题以『Oil surges/prices surge』开头，事件被处理为财经市场新闻而非外交新闻",
+      "unique": "OilPrice.com 关注航线流量本身：『Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles』（霍尔木兹通行量骤降），但无英国本国利益角度；且该事件未上英国头版",
+      "headlines": [
+        {
+          "source": "Yahoo Finance UK",
+          "original": "Oil surges past $108 as Hormuz attack and Saudi pipeline shutdown rattle markets",
+          "zh": "霍尔木兹袭击与沙特管道关停冲击市场，油价突破108美元",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3BmSE5rdXZvZUFWeVVEY2hYeEJlOXduMl9WVUxWNnd6QTlfMUh6ZXZtak1YT1p5dm4yODl4dG96YnFXVEJMWUhpZmozb0ttazNpWVdnZDJpbVBaTGJ3UEo0TU9DY3pkRDE4NzQwakhmejVkSjNmNGIwOVRJZ3F6Zg?oc=5"
+        },
+        {
+          "source": "The Irish Times",
+          "original": "Oil prices surge higher after Gulf states postpone talks with Iran over Hormuz",
+          "zh": "海湾国家推迟与伊朗的霍尔木兹会谈后油价进一步飙升",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGszNHNNemU1ak83OXdUbURNUkNteVNqVlhCSk9CRXhzNGxjSFBUMm1XVTdYSzB4ekxkZkZnaV9wSkd4RFBYUFZ4WnQ3SHd4elJHNEhFaUtWa1VzSEtTMGtPM2pUVkl5Zlc5S3R3dkpCNjNjdXRSdGlvQWE0VnpKYWxfaTBVanBkYWpxNXE3SFRjVkowMzNmNkMtTHE4TlVFRzhqcUo0cnllejRQaUVTSTFXY2tCdnlmbW1WTlRXaUxxVVg5cjh5a2tZX29xV2Rs?oc=5"
+        },
+        {
+          "source": "The Independent",
+          "original": "Oil surges to $100 a barrel as Strait of Hormuz tensions continue",
+          "zh": "霍尔木兹海峡紧张持续，油价升至每桶100美元",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGw5U25IWHd2V0dQQkw4M21ZTmdhTm9jd0FOYzBwdWNoajVfdllLVVBHb0E0ZVh0VmNHeDBIQk5Wb1lnQUJOajFrQ3l0YnpkaGFCUFZCbl9Dak9MSDI2LVBlUl9VZkZoSk9xam14dFhwVGhGYUtPQUtEeTRXVmdmLW5TcWM2cU9YS0JwekY3OE94bTF0NTJNaA?oc=5"
+        }
+      ]
+    },
+    "India": {
+      "name": "印度",
+      "frame": "供应危机与外交停滞并重：油价数字（107/108美元）与『energy crisis』定性高频出现，事件未上头版（被BRICS峰会挤出）",
+      "unique": "印度财经媒体引用伊方军事战报『Iran says it destroys U.S. advanced drone over Hormuz』，以及『Saudi pipeline shutdown deepens energy crisis』的危机升级表述",
+      "headlines": [
+        {
+          "source": "Financial Times",
+          "original": "Oil hits $108 as Gulf states postpone talks with Iran over Hormuz",
+          "zh": "海湾国家推迟与伊朗的霍尔木兹会谈，油价触及108美元",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS19fUlNXLWZxOF9IVTF0RVpxcDBRSFNvWmRKT2V3Q1hKbTVKLWV3LU9tM2tMMkZleXZMM0Q3OHFmZXhiU0ZKUW9KZHphMlB6WVVkdUNuUE42Wk51dERDZ1VOVFN4NkJKTlMxUno2bUs5OFM5SVd4eVluam95bzhXN2tnb3E?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "original": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
+          "zh": "伊朗称在霍尔木兹上空摧毁美军先进无人机，中东冲突加剧",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5"
+        },
+        {
+          "source": "investingLive",
+          "original": "Oil rises again as Hormuz talks get postponed and Saudi pipeline shutdown deepens energy crisis",
+          "zh": "霍尔木兹会谈推迟、沙特管道关停加深能源危机，油价再度上涨",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWTFnZGpYbXhUaWRqaDBKS2xDLVYtb0hPbFRxdUcyUDRwamNWT2ozR3BvY1JhRnZiOGlJR0E3dkpMNml2ZjM2Z3JDQ2NXYkl5Sm1zcTBCd2FfMWplZ0NfV0tqRDJ5NVdlLWZqWE9lUklJVzZubmJiSG42bldFNDdTc3RoczZfODdVNHhBQUxXZGhpZnlpX2xBeHlFQ01ISXBfRW1sSWNLYzRWMlpNZGFOaUZ4WDI4ZEVRSlctZUJjdlZBSzhqeXhPZFBtcmt6OVk?oc=5"
+        }
+      ]
+    },
+    "Japan": {
+      "name": "日本",
+      "frame": "石油供应混乱框架：聚焦『供給の混乱深刻化』（供应混乱加深）与对日本原油采购的直接影响",
+      "unique": "野村证券经济学家发布日本企业替代采购指南；朝日新闻独家角度『ホルムズ海峡の代替ルートを押さえたフーシ』（胡塞武装控制了霍尔木兹的替代路线），将红海与波斯湾联动",
+      "headlines": [
+        {
+          "source": "Reuters",
+          "original": "ホルムズ海峡船舶とサウジに新たな攻撃、石油供給の混乱深刻化",
+          "zh": "霍尔木兹海峡船舶与沙特遭新攻击，石油供应混乱加深",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVFIMmhQQ2Fvc2dpTlUtOC1ObDR2dnVNZmRYZTJ0TFJTT3VRWS1jejVtanV6M0dIczVQQ05zSGJlRzlCNTB2T0JCNHNrcVpDRUpYRVk1SmRPNWx3UFlKUUUtSno5VHcyMmZCXzZIX2pvamUtY1VGVVVVNkZuem0xLVNHaUhCQQ?oc=5"
+        },
+        {
+          "source": "朝日新聞",
+          "original": "ホルムズ海峡の代替ルートを押さえたフーシ 世界の石油供給に打撃 [米・イスラエルのイラン攻撃 イラン情勢]",
+          "zh": "胡塞武装控制霍尔木兹海峡替代路线，打击世界石油供应 [美以对伊朗攻击 伊朗局势]",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbVBfWWZ4NW54bWY4Zm85V2VPR09fQ0FfWHNULVlHYVVTY3BXRzZqR0FjU0RRWkVhOWRhQmZad2laVGx4akk5d2N2YzJRMnF5c1BhdFBxOGFFOXZrRHkzM1RoeXZfSzg?oc=5"
+        },
+        {
+          "source": "nomura.co.jp",
+          "original": "日本の原油及びナフサの代替調達に関する現状把握・今後の論点Q&A 野村證券エコノミストが解説",
+          "zh": "野村证券经济学家解读：日本原油及石脑油替代采购现状与今后论点问答",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMlFEWHJuTUtIbnRaM3RzYnd4ZlFWZURUVU51WFV2dlNmUXFrM1JvY3pnYzd2SE5XU3VCT2RNcnBvNGVtUjB2SFpuU2dKYWtwTDYzUGo1TXl1TlI0Z2c4?oc=5"
+        }
+      ]
+    },
+    "France": {
+      "name": "法国",
+      "frame": "『石油之路』地缘框架：以沙特东西管道被无人机袭击关停为核心，把霍尔木兹、曼德海峡、管道串联为整体航线风险",
+      "unique": "Challenges 独家报道道达尔签约翻修叙利亚石油管道作为霍尔木兹『未来替代路线』；Le Monde 指出无人机来自伊拉克：『frappes de drones en provenance d』Irak』，这一攻击来源细节仅法国媒体提及",
+      "headlines": [
+        {
+          "source": "Le Monde.fr",
+          "original": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz après des frappes de drones en provenance d’Irak",
+          "zh": "沙特在遭来自伊拉克的无人机袭击后，关闭用于绕开霍尔木兹海峡的管道",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb2lxTnJ1azh5VHFLSXpEeDlZUXpMX0U5MzNMSm4zOXMxczUzeDNfYkthTTdZalpZeW15ek1iR29SaEhjUFd0N0lZbnZ1Y2VxLWxqMXdpVTBLdHlyU3lvOHNVMjNoRHl2TXZhQ2swYTFiQWxzeTlGM0N5NThDcS14cFBFZlZ2cHprcm5CSmstSWRkbFplSEsxVHJZU1NIYWZ6WkZlXzFfX2w3U09aVEpwcWpjNHhxc3hnQWlNcEVkMUZLN3FNb3F2eU1tZ2lBb2U0aEJlSC1WSjJGaWdJakswQUZqbXlpcV9VQ2VkYVNvQ0VZZDlHSC1TdE9sbTJtMGwwT0pkcDRmZ09aUFItcVN6a2dfRXNFZkxEaUlHVmlRc1NNZU5tWUVIOWxRdw?oc=5"
+        },
+        {
+          "source": "Le Figaro",
+          "original": "Bab al-Mandab, Ormuz, oléoduc saoudien… Les «routes du pétrole» menacées par l’avancée des Houthis",
+          "zh": "曼德海峡、霍尔木兹、沙特管道……受胡塞武装推进威胁的『石油之路』",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXVLYklRWVI5aXZETmNBUHRfc2hKUWJCRC1tYlJCT3Q1SVEzdFFENTBkMkMyMm9TWUFkbDNfMnZkTTR6ZVJsbjdNUXJ1MmJRdVZpV0Vha0pqQTJGblZXcmJvbUVxcHFYLTFHeEhMWGQzbEdxZS0xeW5hcFJ0T0lFZ3F3bFVvNXZPeXV5LVdxSHlNRTJRNHd1am1TOGJMZmp0MTNRTmd1TkdQdmdoR0tub0FCOVIwbXgycGh1WThBU3p6ZVRKUVk5aEM2czdIcllpd1E?oc=5"
+        },
+        {
+          "source": "Challenges",
+          "original": "TotalEnergies signe un accord pour rénover un oléoduc syrien, une future « route alternative » au détroit d’Ormuz",
+          "zh": "道达尔签约翻修叙利亚石油管道，未来霍尔木兹海峡的『替代路线』",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnNaQ3kxdXp3M2pYVHhyc1VDRDhuRlRjc2JsNjZadFAxUHRER0wzMElNZlZrMGIySUtQSXVXYWpGaG4xOG5USWhnODRsMmJVOTNLMGZ5Rnhkb19BaHhYTThzd0NQT0FNajNxekoxVmxGdXVNQ1dGVnlLTnkzSXpIeXBWMmw2NVdkaEdUSXl3WEtTcjFlZW1QNFZBWnZqT1RURFpVa2hTVk9wd3d4WWNHTl9tZVJTOVAzUFlrdWwwTmplZGZYSGk1amdOLTMyaWlMVC00d3JteHBZaDBrNmFV?oc=5"
+        }
+      ]
+    },
+    "Brazil": {
+      "name": "巴西",
+      "frame": "全球供应缺口量化框架：多国媒体共同强调管道停运可能造成全球石油供应损失4%，事件未上头版（被国内司法政治占据）",
+      "unique": "巴西媒体集体量化供应影响：『ameaça perda de 4% da oferta global de petróleo』（威胁全球石油供应损失4%），CNN Brasil 还报道『incêndio visto do espaço』（从太空可见的火灾）",
+      "headlines": [
+        {
+          "source": "Valor Econômico",
+          "original": "Interrupção em oleoduto na Arábia Saudita ameaça perda de 4% da oferta global de petróleo",
+          "zh": "沙特管道中断威胁全球石油供应损失4%",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd0ZTVmlrQ3Y1MTlmRENVY25INnRhTk9QdzJSTFlWNERwT2tqS0loSnVpZXQwYjdZZjZsaENPS3lPNjVDYlR2TmF0Ny1sQk43TVNUTFVEWThrbTRrTV82Tk1XS3VCa3VjYWFqbHVNcjBVb2M0N0Nkbk1MWk94QVVRMUdJXzNBby1rcEN3alJHLW5SRWxwOVpIaGJSNGhfMjJzTTVwZXc3SEhLc0F5Q1BSVXhMN2FfMmVWR2pZdmJaaWVpVjNvU245dzZhZU1TWkpWRWFheW5RWnRzenRPblA0ZlFKSUdZX0V3czNXWFVFeUN6QdIBgAJBVV95cUxQd3FfYlUxUUgzTzF0aXl6cmZRNEthN0tDeUJMZ29lLWhRZHBwNHctVU1JS0VMeFBEOWhGdVpWX3V6NGJVZ09uVGJfMHVCM2htOG1jUVIzSXktbk9yaWpBU3k0ZC02bndZU1daU0wyalZhTWwzajF3aTBtQXJQb0pwbzlFSDJyZVB6cTRDU1lLYXNUM1puUkxfN1hwdkRLcnJYNzNmMHZPNDdhVHBOTVNaNlhlaXA0RHhuTE5rN1NjMUFrOXpxNnliZVY5S2liRzFpeDRwbVdIV25HQm5DRFhSZnYxOVVhZjI2NjRMdEk3V2hIWVR6ajQ0eDdZTzdXZm9o?oc=5"
+        },
+        {
+          "source": "CNN Brasil",
+          "original": "Ataque contra oleoduto na Arábia Saudita causa incêndio visto do espaço",
+          "zh": "沙特管道遭袭击，引发从太空可见的火灾",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFlmNDN2dWl6Z0dRaTNXWDVKR0dheC1aYW5KWXIzd3N6UG5VcWtEVFZOZ1lGNWV4b1MzbXM3ZWVoVGVMcmM2STg2ZVlVcGJXRk4xSk5Ed2czN21scTJUQ2NWQkxUYjdHZjNLTDU2bzh0VFZsdHlLaVJOb1JadDU2aVk0bmtaTWFBNTVaWFFMV0dUTkZFc3FHaldveFVRRmlQWjRfTjRoOW1GaGhUMVFIVHRFOFRPZw?oc=5"
+        },
+        {
+          "source": "Euronews.com",
+          "original": "Arábia Saudita fecha oleoduto, ataque em Hormuz faz petróleo superar 108 dólares",
+          "zh": "沙特关闭管道，霍尔木兹袭击令油价突破108美元",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY1RFdFdtNkZGdnFOVVp1c2l5cDloRU5ZSzlnT0RxcU41U19SU2phekg1YnJnTTVkM3hrUXY2TC1WUWdpckhaYU5rb0FCT2tWNWd3QWUydlZ5bHBiT01KMl9HYzNTMTE3QUpJaFU5LTAxRXFhOW9ubjJSYWZTcnpkS1hjLUJYS3hRRThsSm1STjNORTVTcnhoWEt3MHZMWnl6OTJOMFpwbmt6VUl1UGUwVTBqcWxnZEN1TldDdnRlMjg?oc=5"
+        }
+      ]
+    },
+    "Russia": {
+      "name": "俄罗斯",
+      "frame": "油价上涨与美方行动后果框架：油价报道登上头版第1条，并出现美袭油轮致污染等他国罕见的细节",
+      "unique": "БелТА 报道美军袭击油轮后海峡出现400平方公里浮油带；Meduza 提供胡塞控制曼德海峡与『一昼夜仅七艘船通过』的量化通行数据；俄语区标题将军事施动方更多指向美国",
+      "headlines": [
+        {
+          "source": "EADaily",
+          "original": "Цены на нефть выросли после отмены встречи стран Персидского залива по Ормузу",
+          "zh": "波斯湾国家霍尔木兹会议取消后油价上涨",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblY3eERzWFhtYWswTnJqbC1FQy0xZnh0SDBKWk5RZG8zUUV1WU5tUEZPUk5UeG1ZcDNrb0NqOGl1bERObFJ5VGxDNmxVVHM4TkYzLVE2OGVUSjBMSTBHMVVaTllNOGhPdkdtckI4Y0cxaXVjOWRvLU1nTExSd1ViWVo0VHoyd0N6TE1oX1F4Wjh2TFJ4dFlGYnd5b3J3ZnJpb3MxWWg5b0k5bGRKVlRaSk5zRVY0dDljYm5NVtIBwAFBVV95cUxQeEt5N2x3SEpmX1FieHZ0cXZqd2lXODFyRjJDRXl4S3JmQ1UzZUI3OVNSMDhGekJsWjA3R2pkVjNkYkptS1NhMlhoa3labVdSR3d1eGRnNlllbFJodHB3VnNfR2dGTUpHUzdVR2pyRkV3VG9fX1IxR3JoY1FlVFdfaFdBb01VUzdEVmVJUWRUZk1nV2d1TmY4VDBkbVJaRC1FR2Y4VnptNWZtUndiR3FSaDVXdF82d0traXNUR19EQVQ?oc=5"
+        },
+        {
+          "source": "Новости Беларуси | БелТА",
+          "original": "В Ормузском проливе образовалось нефтяное пятно до 400 кв.км после ударов США по танкерам",
+          "zh": "美国袭击油轮后霍尔木兹海峡形成达400平方公里的浮油带",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaHRzaklRdC1iV05jWUVsOVR3VTFobGFxOUIyY1hMRUZZMFJkTFhGN1g5Y2JHLXZBVmdlSi15VjdRc2lxUjlEOHhNcG85ZVFZNm5fbnhfN1F0bHBQckJJbFhwaWJFUWZjaFRlVXA5akpiRlM1VnhPbFhHX2xzT0dXMnZBVHJNUGFubl9NOTZ3NEJNQVBLMHk2WmJjclRXYm9UUUlmVDlna2lhUTNjOE40N29oQjFQdHBzcG5hTUpIRUt0bk1hWEhNZ3hNQQ?oc=5"
+        },
+        {
+          "source": "Meduza",
+          "original": "За сутки через Ормузский пролив прошли лишь семь судов. Цена нефти Brent превысила 105 долларов за баррель",
+          "zh": "一昼夜仅七艘船通过霍尔木兹海峡，布伦特油价突破105美元",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbFFPVFJBQmg5UUxJTnBwQ1pvMXJESVVIRjRJaXA5R3hHNU1WZjJwZEdTWjFscm9Rc0lJZkpoZE1uLXJPWGdGWXJWUHEtZHJoMXFOYkgyZFdUamZ0VC1PZm9SWnF1MnJ6LVBocmhweFlCaHhIOExxY0V6MmgyYTlrdlRmblozMjVsUU1DRW1fUmJZejlUOWUtb2o2N1pvTFJKZ1lNVXBwT3hGT3diM1ZDS005TUhnejJ4MmpVWDdvT215TjdCSkxRWjFDT2Ria1hWQUg5TGJNUdIB3AFBVV95cUxOWDdIUC1qRDFfZkMxWjNXVFJvTnJ0VUNVS1hlZWM2U1RoQTF1a096bTZUUWNWdWtveG4xM0pwWDdjS3hUczF6aVJVNXZPOUJTMlBjV0VyODZOaHRmMDJKdnllU2tQSFhjbDI3ZzZFbXo0YmNsaW5VVVVQWktXN0k2UUh0WDF0MlVoQVNCeXVpTjluSEswOENxcW1yTWh3ZHNZS2tMVjExcVh1VlpYbDFhdTBXRk9Ld1NfZjJ5bDVtcHFZb3poY2s2bk51b19VLTlGTUlvbTlodWhDY3V3?oc=5"
+        }
+      ]
+    },
+    "Egypt": {
+      "name": "埃及",
+      "frame": "推迟归因框架：聚焦『谁要求推迟』，密集引用伊朗外交部称沙特提出推迟，同时关注美方向IAEA施压；报道登上头版第1条",
+      "unique": "阿拉伯语媒体独家归因链：『بطلب من دول المنطقة』（应地区国家要求）推迟（蒙特卡洛国际电台）；BBC阿拉伯语同时披露美国施压阻止伊朗参加IAEA会议；多标题区分推迟与『到稍后日期』的表述",
+      "headlines": [
+        {
+          "source": "CNN Arabic",
+          "original": "عُمان تعلن تأجيل اجتماع خليجي إيراني حول مضيق هرمز وتكشف الأسباب",
+          "zh": "阿曼宣布推迟海湾-伊朗霍尔木兹会议并揭示原因",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV2VWMEJUYnVwUU1ibkEtTzE3MTRqaExscl9aZVZXSlBRYmtiVE91cmdtRGF4M091SUdhY3pzQkN6dWk4TTB1ZnpDN0h0Y3ZXeDNhR1NaUWtCWU9pMjZES2dBSkpnUUZzc3FWb1Jhck96SlN4aGdieU90LXhyM1k3VDdMbXhZSHN0aFZGU0xqQ19XNDBOTm1TcmM5azNqYzN6VlZsaS0tbllVUnhhRjdnd3ZjWXU0VHQyQkR6dlZRY2VsQVV1eUdQd2pmZXQ5NzN4QmgwVFFjQlNaVmQwWUszRS01VGR6Zw?oc=5"
+        },
+        {
+          "source": "CNN Arabic",
+          "original": "الخارجية الإيرانية: السعودية طلبت تأجيل اجتماعنا مع دول خليجية بشأن مضيق هرمز",
+          "zh": "伊朗外交部：沙特要求推迟我们与海湾国家的霍尔木兹会议",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlluZFlNcVN1SkIyS1Vac2VCYmZWNFV5a2ZXNlZ6OW96clJDTlAxd0hZNnBrbjBYN2tSMUpOWkVGVG1WSWxob0R2U1dteUpUTGx4SXNUTHg1ZGJIMjhUcWxQZ1N4RVNpRGJBcGlZZ25NZVdBS1JHMzBHZDUxc0V1SWRaaVdNblItVVRrMkl3Z1YtU0pQd0NScmtSLW9OTnlfeUVicnhIOTVValNKUjQwamhYVVBQdmFlSy03SndDRVBvSjNRV0Y4X25RYVFCbkVjUlE?oc=5"
+        },
+        {
+          "source": "bbc.com",
+          "original": "ضغوط أمريكية لمنع إيران من اجتماع لوكالة الطاقة الذرية، وطهران تقول إن الرياض طلبت تأجيل اجتماع مضيق هرمز",
+          "zh": "美国施压阻止伊朗参加国际原子能机构会议，德黑兰称利雅得要求推迟霍尔木兹会议",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OdzhjSmVHRG10U25lOVNSeUhrSzVGMEtTRzViQVoyODlLVXJHY3pTLUlDMlpnTXMwUDRBT2RJYVFJdHpwSmhDRlRILUlSa0VNc056OHRqS3RiNFc40gFiQVVfeXFMTldXX1BXdzJ6dkQ4SzZONk9aUEJad0pmaXVKaTl1dnBqVGNtaUpHZ0cybllwVW1tblBNQUR5WjFuZ1YzajdEYlV2d1dnZm13b3Y1Qi1md1NIUmY2dzZsLXNvZXc?oc=5"
+        }
+      ]
+    },
+    "China": {
+      "name": "中国",
+      "frame": "新通道方案与投资视角框架：聚焦伊朗提出的海峡内『新通道』提案及油价对市场影响，穿插缓和信号与机构预测；事件未上头版（被金砖与国内议题占据）",
+      "unique": "华尔街见闻给出反向信号：『油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号』（油价短线回落，缓和信号），以及摩根大通『霍尔木兹海峡难全面恢复 油价仍需高风险溢价』的机构观点；新浪标题提及『特朗普最新发声』",
+      "headlines": [
+        {
+          "source": "finance.sina.cn",
+          "original": "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟 国际油价大涨3%",
+          "zh": "事关霍尔木兹海峡新通道！伊朗与海湾国家重磅会议推迟，国际油价大涨3%",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdGWHlJSDR1OUFZNFlEWTluWWxDY2tEYmVqTW9WNllHRU96SjRKR0I0N3JNbFhyeS1hVFpjZ3JKNVE3TnotZzdRVEtsX2pTb2ZtSUhvVGNndVFqZmRHT0l4N0dxZzhsV3pFTVhKRG9jZ3pjNnhDaWFvZTJjbGg0Z2pOeHBhVWpic0M1bm56Z1NTb1NCSlUyNw?oc=5"
+        },
+        {
+          "source": "华尔街见闻",
+          "original": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
+          "zh": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRWVQTFVoM1RYYXJ2TmtOXzdKbERHbWhCTnlRUE9KRjhzaFZJTVRER3BGV2FqeFNHbUxZQUxJUkFiaFdfMWMzMXRQSUdqSmY2emxV?oc=5"
+        },
+        {
+          "source": "bjnews.com.cn",
+          "original": "伊朗将与相关国家讨论霍尔木兹海峡内新通道",
+          "zh": "伊朗将与相关国家讨论霍尔木兹海峡内新通道",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00ZVhfa0czLTdxMHJrUW1WNVFwMTFIQXdudUV0MTMtVTBnSHRQb3hRcEZ2LUxHOXd0Y1VWMk5fOEdlVEtNT2ZEODdsMlRuMzNaU0FYbVZ2ZDhXdU9CYURtdzlhS1E?oc=5"
+        }
+      ]
+    }
+  },
+  "limitation": "德国检索词含『历史新高』限定且无结果，不能断定德国完全未报道；各国搜索词本身偏向油价/外交等不同侧面，框架差异可能部分源于检索词差异而非媒体视角差异，且样本仅含标题、不含正文。",
+  "event": "伊朗与海湾国家在阿曼就霍尔木兹海峡通行安全提案的会谈被推迟，加沙外中东紧张局势与油价飙升（布伦特破100美元）联动发酵",
+  "event_title": "霍尔木兹会谈推迟与油价飙升",
+  "date": "2026-09-14",
+  "slot": "evening"
+}

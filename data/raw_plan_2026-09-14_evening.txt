@@ -1,0 +1,17 @@
+{
+  "event": "伊朗与海湾国家在阿曼就霍尔木兹海峡通行安全提案的会谈被推迟，加沙外中东紧张局势与油价飙升（布伦特破100美元）联动发酵",
+  "event_title": "霍尔木兹会谈推迟与油价飙升",
+  "why": "该事件被美、英、印、日、法、德、俄、埃及等多国头条共同报道，且各国视角差异极大：美国看外交受挫、欧洲看油价与能源危机、俄罗斯看油价上涨收益、埃及看海峡通行与地区安全、中国看原油期货与能源供应。",
+  "queries": {
+    "US": "Strait of Hormuz diplomacy",
+    "UK": "Hormuz oil price surge",
+    "India": "Hormuz talks postponed oil",
+    "Japan": "ホルムズ海峡 石油 供給",
+    "France": "détroit d'Ormuz pétrole",
+    "Germany": "Ölpreis Allzeithoch Ormus",
+    "Brazil": "petróleo Arábia Saudita oleoduto",
+    "Russia": "Ормузский пролив нефть",
+    "Egypt": "مضيق هرمز تأجيل اجتماع",
+    "China": "霍尔木兹海峡 油价"
+  }
+}
