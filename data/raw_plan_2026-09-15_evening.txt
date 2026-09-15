@@ -1,0 +1,19 @@
+```json
+{
+  "event": "胡塞武装袭击沙特城市并控制曼德海峡岛屿，红海航运与中东局势急剧升级，油价大涨",
+  "event_title": "红海危机与胡塞袭击升级",
+  "why": "该事件被美、印、日、法、德、巴西、埃及、中国等至少8国头条共同报道，且沙特安全、全球油价、航运中断、联合国安理会紧急会议等视角在西方、海湾、俄、中媒体间差异极大。",
+  "queries": {
+    "US": "Houthi Red Sea attacks",
+    "UK": "Houthis Red Sea shipping",
+    "India": "Red Sea Houthi attack Saudi",
+    "Japan": "紅海 フーシ 攻撃",
+    "France": "Houthis Bab el-Mandeb",
+    "Germany": "Huthis Angriff Saudi-Arabien",
+    "Brazil": "Houthis Mar Vermelho",
+    "Russia": "Хуситы Баб-эль-Мандеб",
+    "Egypt": "الحوثيون باب المندب",
+    "China": "胡塞武装 红海 袭击"
+  }
+}
+```
