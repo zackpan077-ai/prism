@@ -1,69 +1,69 @@
 {
-  "event": "胡塞武装袭击沙特城市并控制曼德海峡岛屿，红海航运与中东局势急剧升级，油价大涨",
-  "event_title": "红海危机与胡塞袭击升级",
+  "event": "胡塞武装大规模袭击沙特设施致东西管道受损、油价跳涨5%，中东能源供应危机牵动全球",
+  "event_title": "胡塞袭击沙特与油价危机",
   "countries": {
     "US": {
-      "query": "Houthi Red Sea attacks",
+      "query": "Saudi pipeline oil prices",
       "items": [
         {
-          "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands - DW.com",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakxzRnUyZzZ5dkJiNFlseXNIdFo3SnlPekp5RkJKUmdTWFNzYkxQLWJyNzFuOGlmWEgzc2lmNXM4a3JWb2J1ckRvUEgxbXlfcnFkcV9oLXY0bXNYQnRKeVlXNEZkckY0NkNFRDVKM0ZUeHZkUERFUFA0UVBxak1maGNSRWJrSFNESnVGaWgxWVREQmZVbWfSAZYBQVVfeXFMT0xiX1h4ZFZnZjBGQ3JtOXpJalNYeGhJTGVORTdGY2RqUlZmcmtDVkZGdVM2anhGQ1JTMTBPYTZOdHZKdFpjTnZjYW9LT1dtUm03Zklkc29mS09fdFZEQS1WeFdBZ2Qxd0tQWWo3eUc2QkZYc3RWWmw1d2xramtETjE1NGVJcGJpNGNodFgzVmV6Z1BFcGV3?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 16:16:02 GMT"
+          "title": "Oil prices climb as attacks, pipeline outage deepen Saudi supply concerns - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:36:00 GMT"
         },
         {
-          "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch - The Guardian",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHppUWxidEExeFZVdm5ScWdwemlCMnp5cDhzVURHbnQtSUdGRHhxcGUxTnRFaW90bGpVVTI3dGpRWlFlbUNKVjNaNXpCQzFVcVVZbExpb0wxaG1vNGtMbVZEUXZvMzVDTk1Mem80R3VocUtKckVhRGpvVWdjQUNfMGN0clNHR3JSSjFVUWh2R2k0c25SR0hVTy13Nlh2YkJwZjlfYk1KLXhfQQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:44:00 GMT"
+          "title": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline - CNBC",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXU5N0tnZ0pFSWgzbVpoZXdhNXpadXpGWXpEWmdrbDNMa3lNbnBFQ2Jwdk5helFyRnEySVg5TUhuczdHWllZelZnUkhFLWotTWFIY1FvUE1NOWlaakR0NXFEUUY3bzA3Tm9FZ1ozNEkxVmxRdTF0MDdJR01WMTB2Ti1lZWh2Q3RwaE9BN9IBkgFBVV95cUxNaG9wRDR6TUlYSGt1TldGZ3BfdmRkWE5hV2k0S0poT0FXRVZOd0phejlkSWVtQXB5NU5uVlVXVzVvcGFUbWRSa2dKMHlpT3VqWlRONHpmWWFQdm5PckVnVDBBMmdERnN2dVJkSG1qTk1uX205N3RLUDRnVlB4QmprdDBSOGNMODdubm5tNG5ibTlSZw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 09:58:48 GMT"
         },
         {
-          "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait - Al Jazeera",
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWdzVU1LTmNmR2czRnZCZXNXeDFGZURZc3BYVHZWLTA0djdpR2QyT3BpTktxMllPdklvSTl5bE96cWpyazBGVkNCYTVmeWZnMnpoQkx3elVtdnRSQVo2dTl1MlMtT3J1Q3lSVjJnbzJkTTZRNTZXVklJRk51YmdfMGZIVXpGT1J0eTdYTXJUS0cyakN0LVdzbjY0UjVKWUxDMG12RF9R0gGrAUFVX3lxTE1LNXdNYkFtSTdURUV4YUxIb2I5YlNVbDNTNXZlbF9sSEZ0amFxbUVUb0JpTTZVLWxNWTN3NVlta2V6YUphNVVkY2tqN2Y3aktxb2xvMmFjSWtUc0dXOEpIQ3ZoY1cyNnJpWEQtRVRQQ3lFR2dic2NuZVJncWMzYW1hb0g4RFZZQ3BTbDhERWozamNPWkQtbFZFSmRlZ0k4Wm5CbG0yVHlPcHByOA?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 15:01:51 GMT"
-        },
-        {
-          "title": "Houthis seize more key islands in Red Sea, launch attacks into Saudi Arabia - The Times of Israel",
-          "source": "The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTdHVjVyVUJvWWFVOWJLQ0IxdmJVZzlLRmRZd05iLWkzVHg1bVNFZFc3V2gyYms1bm9nRl82OHlNR0JVOUlWVzRIdUd6OFBGYUZkOWpKVDNKcHB3dElQMTVaLTFrd3M2VGNaWnVzNzFvcDZoWGo3SnR5V0JhUVhiVDlMcmEzTXdBV19ZRm9nWGlDeS1NSEtpMWNjSUR5anVQTGFWZ3NBaTPSAa4BQVVfeXFMTjhaRjh5T3JUTEMxeUxBZVlrRjJ3SDhwLVNyZndGbG1ucnZqdFRBSkZNYlhOTnpvRXl4UFM2SFdCaW9CeFhpWi1lc2lKUWNPVFhJbURWenVTZHVubWo3bE5XdE5PajhEZUVGaE9LbkgzVTlIM0ltR2paZ0U4MnEyeENEWTc2US1BeUNfX2tnX2JTN21JUkNzMDJmSGZnZ0hZbmRJWE91SVlxQXdwYmNR?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:53:00 GMT"
-        },
-        {
-          "title": "Houthi attacks in Yemen open dangerous new Middle East front - DW.com",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTi1RMUhGbkg2dURIWEk4by1YaHRKbUdsUk5sRVdQeGdXUlh3RG1ieExYR1locHpEaE9lczQ0dnNNRFZtdmpSN2pwNHRsNWo2M3hSdEZDck1uTVV5WV93UzNvUnlNVHRHaV8zYm02VnF6V2tRNGZGREdTU1RoX283UUhya0ZDUmZSVFVXcHFfd19YaDFQbUZkLTJ2NWRvZw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:35:25 GMT"
-        },
-        {
-          "title": "Yemen's Houthis capture a Red Sea island in threat to shipping - NPR",
-          "source": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW1oRU43TWZHOUU5T3dGZlNMSGV4NWZTLVpKbnRrU3JzTzllNFlUdFdYX3hGN0JCdEJrV2NrcUZJQk1GeHRXaTR3SUFFMU1XNVpxZFlib0xtbVZFQUp4b21zSUlNYVR6d19Pa0hpMkdNRVBGeEVYSUlNcmRaci04T2hJSUduR3c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 05:57:08 GMT"
-        },
-        {
-          "title": "Iran war updates: Houthis warn against intervention - Al Jazeera",
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTZTa1RDLUhuSVNvcm83QzVKdFN5WHZFT0hMSWtkVE5vaExLaXpON2tsdFVHTTUydWxXTGcyMkNUTVlwbmtfQmVtdFdYd2xuMHV1VTZtQ3Y2OUIzLTdsaWsxd19XVFZ1RjFvamRSSmI4c0YzY25jR2xOWmNQX0VySlJWMkZrNWZ6WmlYbjJ6c05EUWxrTTAyZFVJUmJxaS11eGFvaTRzVWlxVWlMSGV6RU1yZFl3N2V6alHSAb8BQVVfeXFMTWZBUFBQRV9OOHlHeXp6Y1VNbUdLLWRpRmFiNUFXX1dtRUlNNEZUYW5rUjlwR055VFpnN3FnOVBteThHanFnNGdEbDdQbnhhdVQzWHk3MENpR2hCcUh2WWlkMGFFNm1IVHhPelNJNzhxRTVUQlExUW1iSUtPSktUTGZRbUY4TUxqTnJCQjFSdTZZOGxJaVdOV3lfcS1abzJXX1Q3UTlSdjlDQ1d6VS1OWG5GLThBVGFuLThqYjBtWU0?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 00:08:34 GMT"
-        },
-        {
-          "title": "Strikes shut down key Saudi pipeline as Iran-backed Houthis tighten grip on crucial shipping lane - NBC News",
+          "title": "10-year Treasury yield tops 5% as oil surges and diesel hits all-time high - NBC News",
           "source": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1ltMThONzFHT21BQW1uY3BGRnNsVUNiVldxOHhpcFhycXR1WmNhVXo5WHptV0k4VDV5U1ZtNXBkbnM4N2VxdldMc0tJRjRqU3NWQ3hnbHBacl9VZmVBYnB6RGt6dFlUVHBlbEh4ajRRYVFfaHhmNXRvT2NQT3dVWDFMSWo4UEc4b1lKT1lQMUR5ZUp1ZFNOdzZ5TG5NNEpTVm9BOHA4YkNsQXdOaFlVTTQ2WEVLdw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 18:45:28 GMT"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkRkSl9oQ2hxWlMzQjZIME9USDQ0YTNFRXVuUlB3bUlSUm1wQXlYU0JWUUxVU3BDcFY3SkdXcHhxZUlNakQyTXdXUlVnc1pNUHdVMHhqUDVrU3VsVzA0ZXN6LWFyQ2FtZTYxRGo3QWJsVGRNOWgydGg4UDZxcERHa2FQejFCeFkyY0Q3djU4YTRxVExHS3BRcGU4clZKck5RajN0ZURFa2pHZTFmeEtRY2NodFB6TUk4NUFuUnZ0Sk1xR21IYks0?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 16:44:12 GMT"
         },
         {
-          "title": "How Yemen’s Houthis Are Raising the Stakes in the Iran War - Bloomberg.com",
-          "source": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZU5DaGpPSmxIbm1KUXNPN0JCZnp0NGtkZWZLdGhydUN0TU1Fb0ZSNjJrRk50Y1lucmVpb1BvX0NhaC1sdTdaY2ZfU1NnMUh0X0ttZFFVa0p4QjZVY3FtRWREYUhzYUlJZ29GVGt5cTdRZms0Z190TVYtbTdhQVJHMEtseVRDbkJUXy1SNlRzNUNJMXVuWThiNmFWUE5OTktINGZnLTBxcWg4cWFnRmxFdkpjbXA?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 09:44:05 GMT"
+          "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off - The Guardian",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ05UMnBpMk5ia2pSdEZOS0x1T2tpWC1BS0VacHYwZGRVakZXem9RUWZNZ0lTN3Q2SzRrX3FKUUJKcjhwY2NqOXZxZ0VLd1k2bXprSXhwM2FzQWdvbl8zdUozcXc4US1rVXdrTE9ldWh6SnM0OF9wZWdlZWdRaXp3S1dGbkhLeXhoYm1xVmFTaDQySnZDbTAxOWxCTnFaV2Z0alF1QWkteGxGclNJdjJn?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 08:03:00 GMT"
         },
         {
-          "title": "Yemen's Houthis seize strategic Red Sea port of Mokha - BBC",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUTBldk5ZbDBRTF9rN0o3bHNMWGtaRUp1R2xlSDJWSThBc1VSc2NGc2hLMDZMZVFnUE1FTTJSNzM4VG01WFlKMnRWaGlIdGVfeW1aZHNGRi1yZw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 09:20:45 GMT"
+          "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OUFpsVy1IOUxNRlV1QlB5LS1jMnlKcVJjUUtZcHhzdUx1Q0JwTmtQOEN1VDViY0lhS0JMR1V2a2l6SjV5dEdoV2hWa28wemFYeks5Y1FGdnRGTFE1RmhUQ25PeHJIT3hQbDRfb0V3MnRqWTA5bUVj?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:06:00 GMT"
+        },
+        {
+          "title": "Oil prices soar over 4% to 16-week high after Saudi strikes - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2otdmw3UllpNnlRX3ZCWmlxZnZZeE5kNXE2c1p0d3lIZUxYQ2ZfT3pVZmhlcUFzUXFUaWNfRV8wZ2VYS1NhcHc5eTBkcDd1eEFxOUtIdndFUzBvendCa1M5NFZiQVdVQlJRZk9Sa0hTajlTSV9zR1ZnaWRKeGRMbjJrNWxnQQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 14:56:58 GMT"
+        },
+        {
+          "title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets - Crude Oil Prices Today | OilPrice.com",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0NhMEpjN2d6QUFEdmJ5VUxTNWRLZUJHSW0yYXh5d0MyZmZEUVpXejlsalpDeUowYUdjUTl5NnNPbmJGc1lhS2M4Zy1SQXc2LUVKWFdJc1RsRkxWa05YY043LXZwQ0N0N0xoNnNGWHJCOHpKWmRvMm1MYzFtRU9XTjJTbjM5QURBRV9ydVdkbEs4QUZmQnVYWGxwRENaM3JNREdsdWtBVTVaZExyd2lucG9VU0owRWZLY2pkanZQQlLSAcYBQVVfeXFMUExCNlQtR0FLNkFnZUlNNlV5cmNLRXRVM2NNZTVTU0JSaEgwYWQzMVp0cDJsUWlTNTE4ckRHNktzM0ZwVXBtLTJ1OHFUd1FyOVhZT3oxelI1UUphRk9ITDUzbnM4MjdUOFZ6QWp6cVVTNHF0YUx3VngzLXRIaE5KVXpiblhrUFRxbzZCWkN2cXc2YUxXbjMzZnc1N3ZQZm9qTVYwZ0hEcTViTjNITVVhNzlSV0tTQjI0RWtLUTYwVzJTaFoyUEF3?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 11:30:00 GMT"
+        },
+        {
+          "title": "Oil prices up after new strikes on Saudi infrastructure - The Hill",
+          "source": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUNyZGZvdDljdk5yYWNidjRMNkpiQ2ZEcy1qckJ2MlM1MmJzUVl1THZtZ3NKd0RGTFNrR21fc21SRDBIQ1BuN295Wl8ySlppWTlncHhHSzNQWTJ5MWFHUW53djNxdnh5dDlFYTRZOWNsXzNqNUg1RW9aWDJ3akk4dGNmY3BUcTVtZUxFT3hn0gGTAUFVX3lxTE9oSjRDR1BEQklvREFlc1ZfMTlsRVhNZGtDRmVpSEJDQk5XZEFpczJjdUs1UDNZWDMzNS1DVG80el9UWEZ6bDlMcWFUbU1RM05PVVF2NUFLY0gyMm9pQTZxYkxpZEJob2ZoVFdsQjR1akFaM3o3S003eGh0Nm9id3lpandDRTlYSFl6aW41ZmhUMGVSYw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:23:00 GMT"
+        },
+        {
+          "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns By Reuters - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3RfdG9tSTBnVklMdzAxTUo0NFYyTGtPR1RYdVJWQzVkNGNCTW5yLUYwUGYwZjgza0lOLVFWY1V4TTliazFJS2tVZEcxS0ZUZktsRWpIT3ZKMVdWYXl1M2JycERyOXV2aGl1eDl0Z25jZ3loMGx2dllpb29vZHpVVEwxdDN1X3I1U0tLbExPeHZ6bXI4eUlwQmNMZzA5dVJTb3FyNndDYlhKNDJWVERFdVRBTE9SV3BPUnd2MXEwUWpkUTBKMURaWUFkUnY?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:47:13 GMT"
+        },
+        {
+          "title": "Crude-oil prices tap highest level since May on report Saudi pipeline will take weeks to repair - MarketWatch",
+          "source": "MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOWnVyTVZ4Q2RMTGdmX3JyQ1J6QVFkb3QwYnQ0QmI4RnZwT09wTU9tT1NERUdqQ1VTa2hLVGQ2U1NDQVNSRE5wTVMzb3Z6eWZjdFFmek05WkJRVTBNY1dtaDB3dFg3MnZibFA4YnpFNmwxRnZ4dTl3Z0UzTHFMMFlGNTNZaGFLSXRBYU5Qdy1JNkxfY0o3TGtXODRvd094cWRXUXhIQ21jX2JleVRvYWlGMVBCeDRmczhlQmYzTTZYWThEQ3Q5QVBnbm9XVDltV2x5YXd1YTNFOE1lZVBUYTl4RUQyWVo2RUd1NFVYLUltUWpnZXU5d2M5eWNzbHg5bzM5YUQzQXBRUW42c2RDN2hMM2EwQXl2ak52OXI2cm5Hd0VPcWYzMFFIelMtbm92OTVrYjJkUm5uRDNYX2U3S3ZYYVl0R2Q4M2haUWI1Y05OU0hueVplYTctLVRjcVMxZW9UeEwxb2hCcGJsdDZQcWM0WA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 13:01:00 GMT"
         },
         {
           "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
@@ -72,252 +72,294 @@
           "pubDate": "Tue, 15 Sep 2026 01:30:00 GMT"
         },
         {
-          "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments - pbs.org",
-          "source": "pbs.org",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1ZuZndYc1dWZnZZeWFDdHRNNnZnc2RwS3ZkRUxZaVlrTFBURTZTY0xqV0oxdy1vUXhDYVA3Wmo4MF9hUXRScHpMVzExWldkVkxNWHZVUjJJQ2w3b1V1NEV2TnBjNEdWRVRjeklobnRNcElOVWRyckpTVzhZX05zdkI5dlhOMDUtaDZYWW9WaXJVZU04RVY5RVl4UUUtTktoMjBHbzRhU1BQclHSAbABQVVfeXFMTUYtSmItemFrTzNZYldLWllqS1hXTmxmSncyeTg3Z0thX1hOWHdkN3NvTVFuczhOVzUyNzZHUzFWdXFIakctYnAtUFVLX21JVWdXSVVlbk9KRzNfTkZyOEMzMWdVSzVsSFF5WU1WSFpWb1FlNUdWTVROSzZCSkJoczVYdGc5dTU2cVNHNkptMjJIdnczUHdhTkZDaVRSOE9hclIxTEUtQUFnZ2kyc3VEbjU?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 20:19:30 GMT"
+          "title": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks - Crude Oil Prices Today | OilPrice.com",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTVloc1Uxem1kd0ZJNXJXNlNvVVhIQlZHc2pKaHFURGJqVk5Sam0tdTU4Y3ZpUGxMRGV6MUs3NHZadWtPMS1KTXNMRmYxeHRFOERLaEFMelJLd2JVUy1aQk9vRXBLWnl5UVFFQ0szOFIwRnZLSVZHdy1CdzdKblVOd1NVdDBsbnNrOWxiZUFOdDVfbFhQeXExQ2hvbFZ3aUpfb0VCNWtUNnVKcWNqcjhIb28tbFpsOGdnVHRrX2xn?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 06:10:00 GMT"
         }
       ]
     },
     "UK": {
-      "query": "Houthis Red Sea shipping",
+      "query": "Houthis Saudi Arabia strikes",
       "items": [
         {
-          "title": "Yemen's Houthi rebels seize more key islands in Red Sea to grip shipping route - ABC News & Headlines – Australian Broadcasting Corporation",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEVqeTlJMTdwRzA3Ml8tV1BnOGdyMkxkc0xjMXZlLWFKVzVyV3ZYRzlkazJZREhoazVqOGQ3MFJ2X0dPcWNlYkZMci1JV3E5cW5lTHhESjM5RGFNZjdIeVNXdEhZeUhEdVZIMWp5MncwWEFsbUE2VEplZVlZd29BbExaUkdXQlJ5ZElZVnd6dG1NVDhxdjBMYnJpTQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 09:36:56 GMT"
-        },
-        {
-          "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 17:17:56 GMT"
-        },
-        {
-          "title": "Exclusive: Egypt rejects Houthi bid for Red Sea shipping talks - The New Arab",
-          "source": "The New Arab",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEZFd1Q1WlV0OXR4SndfcnhSaWhQWUlxQzd6R0JsMXVnaW5vQndabXlFektHcXp0ajd0MmxkdDFYM3dvR2drU3NfY05sUmZyT3p0dkk0R2doRDFSMWszMHdoN3ZaaUUzQTJhdDl5QVk5LW8wZXpJcE9KcHNYOG5PRThjZUtPR3hrcDZidEI4UdIBlAFBVV95cUxPb0x5TkRwelZoRWdRMlB2ZW1pOGJVRjVtLURVMy1HRHlWdWFMRnVDbFZ4T0o0cjVZamkxUGh5UHp0SDlsTjNoYUlpYmZmNHBubzJJaFY0LWtnNUFQcUhMSXFqRzB0R2RUaE40WXJuVGdPZmxDU0k5YUpxclJKaHhncGl0VWQzbkdwYlhIa1pNVy1tcE5P?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:58:57 GMT"
-        },
-        {
-          "title": "Saudi Arabia faces nightmare scenario as Houthis threaten shipping route and drones close pipeline - Fortune",
-          "source": "Fortune",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFp2RWZlSjR4RUdfOHIwc2ZuNFFVR1dkRGtzWDlHMGMtaHEtVzIybks3ZnE3ZzJyck95LXJvbFBvVGJZbjFTVGhFeUVfWEhaYU9FMGFIeWtMaXF2MUs2UzhkRzk3NElTdlhXMGJUSDFndDdXN0NmN0V1dDBZZFphdDI3aTRjR1ZpSXRmVzVvc2lJQ3FlVTBtcnRzLVpKX0oxWWp1dVJhN1JKLXhQZXQzel9nWjRaR3g0NFExb19Oa1hrZ2tqMXNFemhGU3dwNVZT?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 15:22:00 GMT"
-        },
-        {
-          "title": "Houthi offensive along Yemen’s Red Sea coast raises concerns about key shipping choke point - The Times of Israel",
-          "source": "The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmt6VVlrY0d5R3RyVzZNM3FCUmYxX0VjMUJZdTQ0SGx2U0lSRjgzSFkyRXlqcTFuQU1BUUJpZksxSF9aSkdsYXRCdExURmo1cEJxUkVJcmdWVl9BUHVYY1lBSER6YVZYdjUtNW5xSlUxNzdaem1mazF5U0dlUHluRmk0NUw2eE9jb0psTnE0WHpPQ011VnJUSG40blFFZVZXbGZYeTgtMU5yanJrRm5RUWhXQ2Y2QTJCWFltVTVn0gHDAUFVX3lxTE9INVU2aXQyWHBsNXc2dlItTkJtdG9CQkxtLUd4VWpOc0NJSWdWMjlFSnRCbDgyRm5FM0g4dTdqeUtQQ2FWamxIN25LWHdHVVdHWXNZVHAxMk9nMHhtV1BTYTN6WE9ma1phcUg0UEoyZFVNY1lsSXJhNG5mZTVOcWc1Z1V6aUZkSmxSRkFXVHBvX1JaSUl1bjgxSGpTSE4zdFBrWGlLNjBJb1o1blF5QlVNdDBjdVVtYnVDVXF2RHRlV2FaQQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 03:42:00 GMT"
-        },
-        {
-          "title": "Yemen's Houthis capture a Red Sea island in threat to shipping - NPR",
-          "source": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW1oRU43TWZHOUU5T3dGZlNMSGV4NWZTLVpKbnRrU3JzTzllNFlUdFdYX3hGN0JCdEJrV2NrcUZJQk1GeHRXaTR3SUFFMU1XNVpxZFlib0xtbVZFQUp4b21zSUlNYVR6d19Pa0hpMkdNRVBGeEVYSUlNcmRaci04T2hJSUduR3c?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 05:57:08 GMT"
-        },
-        {
-          "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane - bbc.co.uk",
-          "source": "bbc.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPdTg2dzhOLVIzcEVqNGJINXBBd1JTMHB2TmVTNWVhakNETURYUDZCOUdzMVoxMUxfNGJEbjhfOXF4dkU1enBfS3hQME5hVmR6V1BwOEhKYTZ6QnYx?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 11:35:19 GMT"
-        },
-        {
-          "title": "The Houthis’ capture of Mocha has transformed the war in Yemen – and the geopolitics of the Red Sea - Chatham House",
-          "source": "Chatham House",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnVmV2hLZUFpYkRNMlB0RkVNa0FtblJIVGFoRFJaZDU2QXZBWjVrbi1VVElnMkpQa1RPdEptczhsNVZzTXJkYThGYjQzNGhwREZpcVpVdENKTzIxUjVDc1BJY08wSTF1UmRRVkxKZzFjWlhUdTJnWnpLN1pYZ3dvdVcxd29xamhZVU9lcmNxXzN1YVJZSUJ5aFJwTmhOM0lQc09Nb2RkOFYzTlNT?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:03:17 GMT"
-        },
-        {
-          "title": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlFYeVI3SHYwdi1Yb0NXbms5ZTN6NUw1R1d6eDFnVWh1OG5IMDdRem4waFIwd3ZGQURUVTNTanl2UUZMdy1QZHZvMEFKelFUcEJhUTVwQjdfYnVhR2FNa1RfM3VmOHF2ZXRvcnBOUWU0YXB2V0hvU0F5WEhJcmNvajhJN1VHNEdYX1dLTkduMGVTQzI3eTYyWGYzSjhJaFYyRlHSAacBQVVfeXFMT0RIemMxWDFhR0oxZHBJUmEyTHpfcVhaaENGcUZGc2tEVWJXUl9WX3NEd1ZkNkxWLWZXMUJtNGVBV3I1MXVGLXVTZEpzMURxTlBhWkJ4blZZTTU4YnNrenE1S1lnZ3IyWVN1bVV5R3VxNEpwdTFRb3VRS2VldWloaUFWYTVjX1VGVG9FaGFvbXNnYm1Cd0d2bl9pTWlXNjhPOWVHd0xGd2s?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 15:43:48 GMT"
-        },
-        {
-          "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast - Al Jazeera",
+          "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response - Al Jazeera",
           "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lLRlNUMnEtRnREVzJ3MkpoMFIzS2RkSS1Gc29HYV90cS1SRGZBNHhMUHhKUy1YWTdtNkZYclNZclhUTG05NFo0ekhSTWp2X2dGbU5QdkFRak1KcFU5ZE1obkp4SE5FejRGYWhQVmhvUEJGRkpYY2RRaGo4amNfYy00R0JXSEpVN2RZY2dEU210dnNYM0J0bi1DVXpSXzZ6UWl2YUdkTdIBrAFBVV95cUxNdld1R2Jibno1S2hhNGtGZVE2QkcwVjhBN2NGd1VuSW8yaXJMOWpCeTRETHFsZjVrTGJGeXV0c25Ed3Y3UEdGWDdncDczR3NOMXJpdkhEWU5HbVlTOVBDOUx1VHowTEtQUVJCSUQ4MnQ5TjFTRGZaSW5vc3JfOHN2M0thR0lZTXRRRUhJN2V5akZsR0Zrb3BGcWxzdTV3WngtcFRmNDdac01uNFdx?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:21:34 GMT"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:39:11 GMT"
         },
         {
-          "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 01:30:00 GMT"
+          "title": "Why Saudi Arabia has few options in its conflict with the Houthis - cnn.com",
+          "source": "cnn.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zb1kzVFpiVEdBdDJ0c1l5YlBUbnhJLUg1QlBMdkJQUXFHLTR3RjBVQlFMNzhkdldNczZsWXVXWWp4eVU5Ny1PaVQ2QVdhMXk1WEZfa3NnRFR6d3lnbWFZNVJpajlpOXBKRVlaZ1FyVzJkcmpUbXFTLUN6TjBUcUE?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:00:04 GMT"
         },
         {
-          "title": "Why the Houthis’ Lightning Advance Threatens Global Shipping - nytimes.com",
-          "source": "nytimes.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZW5nYUZuSFFWR2lpVE9IY2pLLVJpRWhmQklmM2NsWHM1V0IyMjQxOWJHZjlMb1dHbXBzcTAyNTYwTURpX1VSLVY3ZHVsM19MSkdjZmNLcUg2bEZUUWR5b19NcXpETnFSXzBKRFJTNzZ6enBvdDJzR0RVOHpKQTNEcW5zdXowTldUZEhHM05tWmRJVXVQelR2YVhKaDVTaUFjUGFzb3I1TQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:20:00 GMT"
+          "title": "Iran war updates: Houthis seize 2 islands, Saudis intensify air attacks - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkdWRTVPYmhhU0JEMzRYay1oaUF2Wjh2bllaTmgtSUE3QlpOZUtaSWd2WDVoRnkwYmZTMVlSZ2E4bVdYdl81TXF6TDRqbURlaXMyU3ZOTXFLNlhaRE9qTms5UDJNNC1tQy1POVFjUXBqNHdXQmZNTHJKYV84QWp0UzNTSVhnLUt3dUZVUVZqT0FuYXU4Y0F1OGFVOUtaRnJVUG5qYTYwSXJCa1NEUGJUb0VyY1F2WHlkQkHSAb8BQVVfeXFMTWRfblJYLTZiSV81MlE0Vjl5NmhiRkFYdFBfTjZGck5MZmZRUHZpbUI1Q2lwclNCVXNjNUZSdFdYZnFFVkpXT2ZjMldOM1R5OVVWOFRRdllvaU1fcjFTQnIteVJQWnlWdktHREV4ekJYcm9IYTNKR0hqVHZnWlF3UHI2bEhWMzNKbjYybkN4dXJrVHk2Z0UwVFZoYjluVXpuYW12R3ZyZnJMQ1Vram1TUWNCbmFpRVdCTjhxTU5Xa3M?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:09:07 GMT"
+        },
+        {
+          "title": "Iran war updates: Houthi vehicles in Dhubab, Mocha hit by Yemen’s army - Al Jazeera",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjJYYTEtc01jR1hnV3dPbDl1SW9GTlM3cmpZSkM1OFBsNm5pLVpTS3ZwbkdMQXN3YkdkVW5wUDNyUHBKeE01NUFvd3RDYUlMUlM2VGwwbUtodV9uTkhNYzFTR0h4NTdRbklvNUlZbjQ5aDZ1WTZZbzUtQTJ6U3BsaHRHZGVibkdVSkZaQ2NUMDk2Vk5lbHgwZFhjT0JvTjJOSkRjT01EYVNMOVFCbWF6bENSRWU5bjFRN0s3YlRR0gHDAUFVX3lxTE80eEFuVVFCNXR0dWhobEFRNTFGX0ZTQzJVT2NGQlh4djNpR2cySEl0ZHlXdmdNQ2I4Y0xhRDBOLXYzdGt6bkRRNlJCcFJ2X2dkMDg4R1hFeUplLTEwM3dDS2E4RU1GWllqU205OFgtVFJsWDk0OHk4RTdGX0F2MWppZW5vbGxjcTdteFZTZ1VzaVVaTlpWaGYzZE9IQzFfOFFVdUF2TzZUV3ZYSUhmSG9FenEyWkRGMkFtOHFfaUpoOFRUYw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:28:05 GMT"
+        },
+        {
+          "title": "Saudi Arabia's MBS pressed Trump to strike Houthis in Yemen, sources say - CBS News",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pbXNvemROZjJTeDg1cmJaVmtUYml4OFQzcmdrSjFwTnJKV19kcmU2S3ZoMGFPbFRXRTNaTEVkd3BYVGhoQzBkMHVaUzBhWlFHenptQmpPQkNqeDlhMjZHNWktVzFVVzBYMDN2SUl5UVUzaFY1?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 16:17:25 GMT"
+        },
+        {
+          "title": "Houthi strikes on Saudi Arabia injure 13 and drag kingdom back into war - The Times",
+          "source": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcElqZGVKMC0zVUtCOGRkUkpJcFhDQktOYWtuU19KWDZwXzdSUzVqbE9sM00waEJkVUNYQWR1R1lpVHdMTFdqbW51UHFFbjVydFdyNG5Bakl6aVhpeXZFaG9xcGdTemdKb09WT1o0VzU4QU0xMFcyczlXclZwTlRDdDNaZWM1eDZKcVloWkF3RXRQb0x4Ni0xSnltQ0hWMTFIUDFBVQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 09:45:00 GMT"
+        },
+        {
+          "title": "Saudi Arabia vows to respond 'firmly' to Houthi attacks - Al-Monitor",
+          "source": "Al-Monitor",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2R2VUNlSmxDUExKa1NRVXdJMDZPQzh0X0pickJTWmdaQXRra0xtXzVLekEwUXVPUlZtdXNvbl9YbXFEV1Mtd2V5MXQ3NDAxcS1mOVYwdXBKZkJOMnd0eEZZTjFqbjk1WkhDa1FNVkVEZnY4dk1KRy1scHFST3RURmRRLTlLaDRKamRUOC1fT1l2anFlQTRN?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 08:31:21 GMT"
+        },
+        {
+          "title": "Saudi Arabia raises Jeddah, Mecca alarm, vows response to Houthis - dailysabah.com",
+          "source": "dailysabah.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFMtLUVLOVdfUGktVnFkNUlubnJGcFJpY1l4SUIxUFcycURkSnlfcUFxdjc1YVhfMFFLX2tYaGw0Y0ZONVltR3NIdEJaWGdpbVVseWRONmpUR3FiTGFMRWRiMEVxeUZPWi1QajRyNVVRN3l0cFlQbUxGMVpDU0F6Q3FNRG5NUXlkQzB0bElQOE9vMEczOEFueXB5WXdwUk9VY001cGdpQks?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:22:00 GMT"
+        },
+        {
+          "title": "Saudi Arabia warns it will react ‘firmly’ to Houthi attacks - The Times of Israel",
+          "source": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem45aTVkdGdGNVpVdlp3VHFRdTd3cndubHItUFZvbmVuMUZpVU5qQkJqbnF5S1J4S09QS0FBZW9IZGMzWEFXdmY3U1R0M0RKWjVWeExQbDItY0k4b2hUYzJfWWg0ajNBZzZpS1FYbS1YWHp5eFlMZU4xMkE3VHFDUkozdGpNbUZFZTZ1ZzBGbENWOFhqeTFxaFdLa0JFSVRaNndkQzVB?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 04:31:38 GMT"
+        },
+        {
+          "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts - The New York Times",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGREXzcyeWRfNzBlYzhVQVlPa0hYNGVxdnFIUHdSMmFOSXprT3ZoY3llLW5VcVZLNl9EUW83LUhmdnBKVEFoYjdHVWU4bFc2SWFiSnBUS2c0OFdjeHFEMHljMG5BMXZRV1F3THo0WVlzV2tjTTFWdDRNY3NRMWJ0cXNXMHV4bG42bGQzdnh1NTVPd3g0WFE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:53:11 GMT"
+        },
+        {
+          "title": "13 civilians in Saudi Arabia injured after Houthi attacks, alerts for several cities across Kingdom - アラブニュース",
+          "source": "アラブニュース",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMG0zUE1YZFgwMThWLS1rRmZ5TER6cUlyQVQxMm1lZTVNb3dTUERtZDk1TlVBd05adkwyZ2dzX1JkcHFvZTJUbEtiY1VFNjVoSjRLLUg0MU9jdE82aDNVZHNlOVVlTUM2NU1IVjdqeVNPLTBoTjBYTDk5ZVdKZkVZTTkzM1F6eDBRTkE1V3ZZdkVSNnlVQ2ZkTmQwWF9KLUcybVp4U01jSk5ydl84V3ZzVHV4dGlqZFJrTDNvRzc1bFNiSERYOWFHRnR6Ukc1VlRFcmQtX0diWlMzUzNmandr?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 12:44:53 GMT"
+        },
+        {
+          "title": "UK Mulls Supporting Saudis Amid Fears of Houthi Economic Hit - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazY5SFlfY0Q4ZlRaTF93TGI5QVg5Yy1rbFJ2bmtWM2ZWTXJ0TVBZNktiQmFVRGNjV2liWTZ4SXBZMXR5QU9kekpIbklBLS1zZG55OVNGVTdjVFozVkVGTUNLenB5VTEzUkFJemI3MkZWMVZjcXpXdVZKRVlVaENZV3o4UWdYUExoUWNtZnNTb2hpMDRQY0VMT0x4Q0puemZTbkFIMi0wdlJwRm9RbEhycnFIVndXZw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 06:21:00 GMT"
         }
       ]
     },
     "India": {
-      "query": "Red Sea Houthi attack Saudi",
+      "query": "oil prices Saudi pipeline Nifty",
       "items": [
         {
-          "title": "Houthis seize more key islands in Red Sea, launch attacks into Saudi Arabia - The Times of Israel",
-          "source": "The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTdHVjVyVUJvWWFVOWJLQ0IxdmJVZzlLRmRZd05iLWkzVHg1bVNFZFc3V2gyYms1bm9nRl82OHlNR0JVOUlWVzRIdUd6OFBGYUZkOWpKVDNKcHB3dElQMTVaLTFrd3M2VGNaWnVzNzFvcDZoWGo3SnR5V0JhUVhiVDlMcmEzTXdBV19ZRm9nWGlDeS1NSEtpMWNjSUR5anVQTGFWZ3NBaTPSAa4BQVVfeXFMTjhaRjh5T3JUTEMxeUxBZVlrRjJ3SDhwLVNyZndGbG1ucnZqdFRBSkZNYlhOTnpvRXl4UFM2SFdCaW9CeFhpWi1lc2lKUWNPVFhJbURWenVTZHVubWo3bE5XdE5PajhEZUVGaE9LbkgzVTlIM0ltR2paZ0U4MnEyeENEWTc2US1BeUNfX2tnX2JTN21JUkNzMDJmSGZnZ0hZbmRJWE91SVlxQXdwYmNR?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:53:00 GMT"
+          "title": "Oil Prices On Sept 15: Brent Crude Near $107 As Saudi Pipeline Shutdown Keeps Supply Risks In Focus - NDTV Profit",
+          "source": "NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLWFhdVVNelI3aENiYktudG16Vkk0STlCekNHd3FyazJZek0xT2hEbFl1c3ZsZVZHQ3NZYkZGcTZhTHRBcFRxS3pmOV9zVWlOY1Vkamd1VWIzODFfOWdJZ05EMGszQURGSlhCMzJhUzdsamNSSl9PMlY1SndpN3dmMGIwbTh1ZEJQSVJEUTBocGRySURnbXlvQXUwaDFNMldHN25XX1R4cGpEMG55SnVUSjV5a0pORVNjMGk2a3k2aXBCWkpzZXR6OG1QZldIS3V5S2loM3dsanlBVWhneXJkU3Nad25VbzTSAecBQVVfeXFMTS1hYXVVTXpSN2hDYmJLbnRtelZJNEk5QnpDR3dxcmsyWXpNMU9oRGxZdXN2bGVWR0NzWWJGRnE2YUx0QXBUcUt6Zjlfc1VpTmNVZGpndVViMzgxXzlnSWdORDBrM0FERkpYQjMyYVM3bGpjUkpfTzJWNUp3aTd3ZjBiMG04dWRCUElSRFEwaHBkcklEZ215b0F1MGgxTTJXRzduV19UeHBqRDBueUp1VEo1eWtKTkVTYzBpNmt5NmlwQlpKc2V0ejhtUGZXSEt1eUtpaDN3bGp5QVVoZ3lyZFNzWnduVW80?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 01:41:58 GMT"
         },
         {
-          "title": "Houthis claim major missile, drone attack on Saudi air base as rebels seize Red Sea islands - The Jerusalem Post",
-          "source": "The Jerusalem Post",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93aFFOZEF4dERVSDNUajRxbzRSX1pQa2RtTzRTbTJRYUdYUnB5ZHFyTVRGU1QxLVdfRVdsNDMtQTdoeHlGYWJRUTFqQVZmX3VodGlkTFdJWDdoVXMx?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:06:32 GMT"
+          "title": "Stock Market Open Report Today, September 15, 2026: Sensex, Nifty Gain as IT Rally Offsets Elevated Oil Prices - HDFC Sky",
+          "source": "HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzdna3JmNEFyb202MFQ1Q2dhNkVsb08tRlpMVm9tQnEwYmowdTVHY0NPamJyMGNyQmJ6MXpEVXEtMzYyYi1DMDlPUGROMmFoTTZPZTc5c2Z5RURRQWh4blBobTE2c0ExZ3hHbG1TaC1MOFY4OEhxOXRteEZfQzAwRXdEMklMcnhObnBoNGJxd2d6ZUltU1otMHFlNFc0ZUVIS0s4NU1xVVZDLW9kRGpKSU5vZWQ3R1VPWkJ2Z3VnVWx4MVpSOFB0WFBGYw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 04:48:05 GMT"
         },
         {
-          "title": "‘A f***-up of epic proportions’: Blame game begins after Iran-backed Houthis’ lightning advance down Red Sea coast - CNN",
-          "source": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rNC00UEttX2RuYWVWaEl5T2RhZkpyWXFNYzA3MEt0OW9CX25ialVsSkphTk84eGl2R2NXTlhycHJPN1NQNjIwVEZHVGdqeG1vY3dYTmNTcGk3blAxTU1qRmg5WDFUSF8zanU4NHBmS19jYWthUGlSWXJlU2ZWaHc?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 04:00:30 GMT"
+          "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Business Recorder",
+          "source": "Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMk54YzRVSW5nTm5mem5yMlNlOHlMT1NiRC1URDk2ZE42M0tlck45b1gtYmxfNm1rZ2RZSU1UZVJUWC15RTd4dUQzSG1DYmg5TlZPeE11ZGlNbDFkR0lGeEtqeVljNGJ5M2xXRk9sODVoeVVCRGREdlFqV1dkTGxqRTB2LTlsajhTd2kxZ2FaSVc2alV3eXgzYlBYS0l4T0hieVpETEZORVI0clVyS1k1TGZB0gFWQVVfeXFMT3hwNGxSYTdsS182Wm1ZNE5Dd2hkTkhWT1lzMjI1Ri1TS2JDX2lYWGduNTFISWU4VGZNYy0tYlJ1bWJjcnY0a2hJUWV6clZRajNCc3U4cXc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:54:36 GMT"
         },
         {
-          "title": "Yemen's Houthis seize strategic Red Sea port of Mokha - BBC",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUTBldk5ZbDBRTF9rN0o3bHNMWGtaRUp1R2xlSDJWSThBc1VSc2NGc2hLMDZMZVFnUE1FTTJSNzM4VG01WFlKMnRWaGlIdGVfeW1aZHNGRi1yZw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 09:20:45 GMT"
+          "title": "Crude Oil Jumps as Houthi Attacks Threaten Saudi Exports and Hormuz Talks Remain Delayed - Kalkine India",
+          "source": "Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEZXV2RVWlY2TDZVby1fT2VtYTRicXc5NUtZSUdHVU5GQTBBcGdjVVlFbXVSeHhXSi0tb0Q2OERLbFFKdElKamZPX2N5Unp5Q1VGRHJGUDFLbTg3RUFiS2VUQl91U3dOeGtGdlhheUlkLVVMM0gwMEpCMVliQUREOWpKTkU2ZVRlUjJQZG4wN0hzQXVzTzBSOXFqLTF5N1RndGNuMjJRaGJ6WGlLbnhTS2QyX2pwNk1mallpenZQVjZTVXJXX0lZc21FWQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:25:00 GMT"
         },
         {
-          "title": "How Yemen’s Houthis Are Raising the Stakes in the Iran War - Bloomberg.com",
-          "source": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZU5DaGpPSmxIbm1KUXNPN0JCZnp0NGtkZWZLdGhydUN0TU1Fb0ZSNjJrRk50Y1lucmVpb1BvX0NhaC1sdTdaY2ZfU1NnMUh0X0ttZFFVa0p4QjZVY3FtRWREYUhzYUlJZ29GVGt5cTdRZms0Z190TVYtbTdhQVJHMEtseVRDbkJUXy1SNlRzNUNJMXVuWThiNmFWUE5OTktINGZnLTBxcWg4cWFnRmxFdkpjbXA?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 09:44:05 GMT"
+          "title": "Saudi Pipeline Shut, Houthis Advance: Why Nifty Faces Fresh Oil Risk - NiftyTrader",
+          "source": "NiftyTrader",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUNiQjJ0dmNtbDhvV3ljSXd0aG1pX2IycHF0WDdEMmd6c1dqYWcyZEpaeGdlbkJPdVJDRlp6aFpCamt0TnlxeDFYallKUTYyWEJfbGNYTmVFZEhuM2o3MXRVQVc4N1p6LU5DRmpSMy1INzF3TEdRSzNnTTRBRnZSeTJkSHNxMDF6?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 06:31:27 GMT"
         },
         {
-          "title": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn?oc=5",
-          "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT"
+          "title": "Brent surges 5% to $107 | Houthis hit Saudi oil pipeline | Nifty to see gap down opening - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFFkX19aQjFBYWtVT3BnUlZ0ckZJVGxsYWpvRWx3X2FJd3I4TDZPQjJieGx1Q2c5RlNuUnE1MnU4T1VUVVhteHBkRzJocXlGWTZ0RFdYeDRpT2xwTFl4OFBmOVNnUlpKVVdRbFJRdk5LaEp5cC11VlQwNUZmZEk3MklvYThES3llUTJoMEdPU0xjUlQ4VXVGZFQwQUx0VUVBX1pkTXE0cUZiQ0FkTDJfdEluX1JjZ1dteV9EM0VuM1p0OTZ2Q0RsNHhiYk9uZHNjbUd4ZXBpalk0TzZvMExxX3kzS2JtdmI0MUHSAe8BQVVfeXFMTjRVakdDcFRDRlJTV2tLUUZUMlRwZkMyUndkMEFQNmpPWG92ckJ4NFVRTnFSVE91WlJYU0JnaFR5eDVwMXVhLTRPdWkyZUJ3eEx2LUs4Tm1GOE4yMVR0djR0c1BRdms3X2h3dmM3M0d5R0JwX2syem00dWJIMDhCclZ2Z3d4UkhPWU5Idlc5S0FOX25FcGgzUFVnNS1xUl9OSllpYkwzdDhHZXhzTndxYUhzUW4tb25LZW43LXlRNUQ3aXhKYUJrS2JSam52R2s5dFF1TlJfZndVQ09adVZudmwxeUhEZnlScTVGMWhsQUk?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 03:04:24 GMT"
         },
         {
-          "title": "Saudi oil pipeline may be hit as Houthi attacks escalate: report - Gulf News",
-          "source": "Gulf News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEFpd2YxcG9vLTJUM2hGamQtcXN1VXZwcmZSeVBjVlBnSmVqQmx2TDFtODA1eGxUY1JDclF3NFdwMkl4TXRLeE5vb3Bna19lVWlMeU9rQ0Z6bG5XcHVfNVA0OUptS2JxZ1R2SU5lSUtlZFpYdDFFTUs2bVV0cWQzNTNaXzlVZl9saVpnVGxDSEg4bkdCNHQ1dEhMX1VXSmp5WEY4WGtkMlBsdWFhQ1hOV19R0gHEAUFVX3lxTE03eFF6ZllxcGNWNFF2UElwMUswcjlOUUUwMndGTXFEOHV5THM1NFNKb3ZhUWZrbUxRMVRxdEh4STdWamJlTnROaHFxSlFnbnZ4VG9UOFJVMEIwMDR4eXZidDlXVVBpcVlCdmpnS1gtNUxyTlZlcHd6MUVxelk5RGRrR29DcDNTRzZyVko1QllnNFBlOEQxWnUxWjhsQVFieW9wc1ZzQVBLaDlCVmRXcXRYS21VS2l3cE50VFp0V2hZeXlKUXg?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 02:31:27 GMT"
+          "title": "Gift Nifty Flat; Gulf Tensions Hit Sentiment - HDFC Sky",
+          "source": "HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGlXWmVfTThjQmRIOEhQT0RGeXpuZWZ5M055RmRRT3pfcHVRMWZXVW42REhpTEpscnVQRXQxNEJpVUtFcU5HTzBhQVlLR3VLb3ZPTGtPRHpnSzYwM01mZ2RwU2lOSEU3OG5pVzQxdnJSV1JxVVFVbzhzOW15eWtnOGxFTllDM3BZNWRIdTdRMW5pSUVtWUpPeHcyVzJQVDd3YTJOWmhHTmwyT2xyd3k5MDVNeFhGWWlBWldfc3p2a2pyV29HSWlkaWlHeV83LXRCT0RwMWhCdk1YN3FxSEZKV21UVkc?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 03:32:27 GMT"
         },
         {
-          "title": "Houthis seize strategic island, Saudis close pipeline as fighting escalates - CBC",
-          "source": "CBC",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1UyUFpkSGtGVUhVUmJCcXNWUUpqV2VzTlk2a2w5V01MWU12M3VxMXZHdlM3VVJGRW5yWVYzVHVyX2JIOEZzUmJGNFd3ZHFKbkFFZUVzWWJJazJmRHZ3UjhWNjRrVGFNVEs3cUdjZDYzaEgzUzQ2RjVKanNabjkzQ3c4aDVZZTRHSTBqNXBHTEFYQQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:06:52 GMT"
+          "title": "Gold Prices Retreat Below $4,300-Mark as Middle East Oil Risks Stoke Inflation Fears - NiftyTrader",
+          "source": "NiftyTrader",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94YjBncG15bzVoZlN6YXhuVVRiU3hvM2tMSm56M0l1THVPRHhLelNsY3hjYk1WUnJ6S0JyeHVYNlpwbnRoeEtoVmluY2RickpfR1FzajhPYXZHSXU4b3FVVXpZeld1S3p6RDJXVnFQYjkyZS0xbUcxcC1VWQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 13:35:59 GMT"
         },
         {
-          "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says - cnbc.com",
-          "source": "cnbc.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUZmU0NNWkJ4dWdsLVV3LVZBMzFkTjh2cTBFZmNRRDVHczFkZHJVdWFmWFMxMUZ2N3ZlczFUbHBtSGk1QXdTTGVXTFZPVlF0cmh5RUlJbUdTM0FMYmxTUjNxQURpaGk1QlZEWWxkaER1LUhKNFNzSTFwRFljX25nYnh3UGp0MkEx0gGOAUFVX3lxTE5PNnJudUJ5aUFST0EyYy1vX3FWVnhZWE9DRXRCS0VRenhhQ1pXMWRuMFhIb0ZHSktjOHI0ZnV3azMyRVBjVkRxbktYY3k4dWhueUFncmd2MzE0YU1tVnQtVlRRNFcwSnE5alpmRnR6dkRyd3BvS3FiQmY1RFhuUzVFTk13RHczT1FtUUhmM0E?oc=5",
-          "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT"
+          "title": "Sensex, Nifty Extend Losing Streak as Surging Crude Oil Prices Rattle Markets - Daily Pioneer",
+          "source": "Daily Pioneer",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPamJKMVJmXzByVTJTdVREdEc3dXVpY0l3NFloV1VhNU5Kc3NDOFdRdlgya0FTOFFubi1CQnFaUmZVaUxHb1NtcnJmXzkzS1RUR1ZoM3dfSVdMX2dEYk1PX0Y2VFkxVWFUUWNhdXBMOE0wOFBmTG1WME9NV09xR3pMRVZ2Sk9wbDExa0N4aw?oc=5",
+          "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
         },
         {
-          "title": "Houthis seize Yemen's Mokha port on the Red Sea as attacks on Saudi Arabia escalate - thenationalnews.com",
-          "source": "thenationalnews.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzVmYVBOcjU3TTNFdTdrQ1VhU2FWbFFYcng5QS1fWVJxVVozNnVBelRDRE9pOEo5ZWpKS1N6WmpVSFdXb3lGQllYT2pUT1RuWW9hTk9oM0JhNlgxTHAtMnRsZjdSX2RqZi1iLVc1LXlpWGlWbU00WVUzdUlfMzVybTZIU0VnY2lKQ2pYTzVTTQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 20:00:03 GMT"
+          "title": "Inconclusive US-Iran talks, oil prices to steer markets this week: Analysts - Business Standard",
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYnBaV0F0RjJYVV81Y3lWUFNOWV9yWF9pYU4zN2pjdS1CMk1jUDBvWm1sYVNWV25ZdXpUb0NCVE9BVzJ3ajNxNlVkYk1ESGVqS2R3NGpqQlNPUWFvOWllMFNzNDdzcm9tYzVJZ09rZ3RNR2lYeTBwQTdNT3hkbF9OUzJWajlOQ0NaODMzNGZfYkRaOUtmV3VLcWhDR3FNVC1Ha0lVdDJKQkhMdXBwRWszTmdENmUtMlp4NmJmQUtrdVNka0o4UUpLczdGaXg2bzlUa1ktaGE3QdIB3AFBVV95cUxPdnBIN3M3RFBRMl9acEVUTVcxT25DZmJSRTVYNFN4MkwwNzhPTEJKYlV6SjBKUW95YXk2eFZVSEVJWFQxaHZmazlfSzZWMVFUbTdkTE5LR01FXzk0YzYxZkFOdmktMGdDeHREYkhtLWVtUFZLYldySVY0VGdTUWJyT1libHhQVnJ6ZnAyeklYd1FiWEpiSnM5anZCQjdCeG0ta2M4TjRzVU0wOUd3RllMOVhGQjNLNnJxRjc4Sy1RXy1BQzFmY05TdFljWm4yZ3FCNEU2aVdVT3lsWUJE?oc=5",
+          "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT"
         },
         {
-          "title": "Houthi rebels in Yemen seize strategic islands tightening grip on Red Sea shipping route; Saudi Arabia shuts vital pipeline after attack | Akashvani News - News On AIR",
-          "source": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFIzTmg4VEpfMU9EbGxyc3lEVEtNRUlraUpjTUhLZVRjYzVfX3pWN3lDUVZpd05tVE9SaXB4OXpaRVR3RnVqcms4ZUUyTXZzVHJOUGJDT0ZLUjF5TFN5TWxIOTM5bXE4a0NIeDR1ZzNjc3ZFVEUtTENGXzlnaTRVLVhRLTVqMVN5Z3c?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 23:43:23 GMT"
+          "title": "US Stocks Slip at open: Nasdaq Futures Down 1.5% as Oil Jumps Nearly 3%, AI Fears Weigh - NiftyTrader",
+          "source": "NiftyTrader",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVdUZEhFcW9uOWJ6aTBQQVoxOXRQa05yNlFrWEZWRmxEeDlmalRsdy00VmhGYUpzNnNJTGc3MVNCQ1BmY0M0R2ZrSmpFMzd0WlFwRGRkMFlVME9kaUlTVFBncFhDV3prMkxSa0VjS1BURmxwa0sxVDB2aGlOTlJpVFQtWEc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 10:39:24 GMT"
         },
         {
-          "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch - The Guardian",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHppUWxidEExeFZVdm5ScWdwemlCMnp5cDhzVURHbnQtSUdGRHhxcGUxTnRFaW90bGpVVTI3dGpRWlFlbUNKVjNaNXpCQzFVcVVZbExpb0wxaG1vNGtMbVZEUXZvMzVDTk1Mem80R3VocUtKckVhRGpvVWdjQUNfMGN0clNHR3JSSjFVUWh2R2k0c25SR0hVTy13Nlh2YkJwZjlfYk1KLXhfQQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:44:00 GMT"
+          "title": "LIVE: Oil Above $100, Trump-Iran Tensions; Will Nifty Crack Below 23,800? | Opening Bell - Moneycontrol.com",
+          "source": "Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVEZlYzg2anZsTndfTWpTNHAwcDJqSDVJcnpyNG9WMGFEc0wtdU5jRHpyNmlsRmxILVdYX3I2SEFkaXhyNHZmT1drN1FkRmdOS0RlUy1nNk01OTJMMFFBZVcwSkMtZGtFT3J4dUNkZEF3T2g2ZkpTdkFnck55cmEtWWNWR3pYbkVQZUdrdXJXT0xhNHQ5QUEySmhKdjMzdHJpb083a3FQZW92VXRLaExvZDJIRi1veEI5V3hPX1dtaUxfOV85MjBWcGE3UVd4V1ZmX1hjaG4yVGt1ZDYyU2VQRHV6ZmF4QWZH0gHuAUFVX3lxTE5QTFV2SHVsMGl3NmxJQmJEQU1yX3U4a19zZGt4c2NNM1JFbllWVEZHM3J2ZW5xbzZUTzdWSDZ2YzRFdWYtdXlmeExmVWVxdzBlWVFfd0xfRmplaEFERkQzcTJLYlo2UmVQTDhvTWQ4R2V6a1pUYkZxUDFZUDBWdjBFWGJKTTI2VzJLSmNONTlwSzJyTzBvNnJyS3dKb0VqWUNsTlFFNzl5TXRYYWdFUTF3WnQzdU9ORzNTR3YzaDE2Uk12UjNNZ09qcmJ6MVNpMTB6c2pNUGM5NTNIYXIwU2V3akdXRGdRNFBDeW1VeVE?oc=5",
+          "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT"
         }
       ]
     },
     "Japan": {
-      "query": "紅海 フーシ 攻撃",
+      "query": "サウジ パイプライン 原油価格",
       "items": [
         {
-          "title": "イエメンのフーシ派、紅海沿岸の港湾都市モカを制圧との報道 - BBC",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2MjZoWjAxbk83SnVmTnVsTFRRNEM0TnBDdVlOVFZ5NG1zMktIdkRNX2RGWW9XUEp3QlB6V1FDSDhxaEJjSFJodWFGU2hxZEhIUENZQ2I1cXFxeDhlWF9z0gFkQVVfeXFMTWtURm45WS13X291a1FTeUFpZzdLbDAxMmdfdnpXUHhIZjQtbUU1dXVNQy1RMDljRnB1RkxILUVHd19rYkw2d1E3V09pOTJDODduZ3pyUTl1ZDhvaU1lZnpqd19CbQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 02:32:28 GMT"
+          "title": "原油先物1％続伸、サウジのパイプライン停止とフーシ派攻撃で - ロイター",
+          "source": "ロイター",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUNU42Wl9OdmR5b0FuMXlzcUtMUlpObWhMUzNodTE0Z0VDS1k2MW4tUUhtNWlPeGFZR1lSYW5jUHVQd0JPb1ZRWGxtSjJrU0lDekQyNWRUT0Zxb0VlMUc2VnAtZkdmcUNFcVhEWjFyOWVOdmlodDJRMG5hWlY?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:58:43 GMT"
         },
         {
-          "title": "タイズ西で紅海の後退後、イエメン軍がフーシ派に反撃 - アラブニュース",
-          "source": "アラブニュース",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPOG00UzZhb3lCQ0VsZWJXblh1VUt5cXVsc2Q4aUlweXA3ZFpEVlBhc05VZEY2NlMta2MxZHRWN185M0pLUXQ3VmptUFJpbEtXamFTTm4tOEJ2ZmNxWXR2ZXQxZnU2cWw5MnM1UEtUaHA2R0VtS3ZaRDFpVzRtbVEtTTBvMk5uRmJiY09JOVNYTGd5c3NVVkxFY2FrVXR2dEtDRXRSZnlKNWVWdmluTUh2VUFvZjJtSE9FQWJEWUp4VGFWbmRxNkZ3Z3RNcUg3eDllalRrdTJPVVlFcnZLcno0WTZPVWp5SmNTckRTZ0c2OU9sd1V1MmJiZXpieS1HMmtZV3FPZ2s5UV9rb1BqVlVEWDNmUldjTTdKQ3dOZ2hGaVV6dlhRMktkZjcyMGo2MXRyZy0xaDluWnpUUEJMTTJpeHY0NjctUTNjbkZob2FsWEJnZzRwaXZ5VVdfbkU2ZjdiQTFCUXhpMXJOcW5RczE2UGlabUdsVzQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 06:19:19 GMT"
+          "title": "サウジの石油パイプライン、ドローン攻撃で閉鎖…国際原油価格が再び急騰（中央日報日本語版） - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uem5BQlNqX3lGODhUbl81LUh5ZnJ6Y3o0b19lSjB3U2FpMG84YlhWNVcwbGhOYVJFMGEwd201bTZ5MmVNUnp6T0dXbW9LMVZZOHFMVWRDbHJVUm5FN1I2UFJMblJHYVJiQWp2MXliWkt3UEFLa2l1VXlWUjZtVDg?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 01:39:36 GMT"
         },
         {
-          "title": "フーシ、紅海沿岸の全域を制圧か 二つの海上要衝、同時に高まる危機 [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞",
+          "title": "サウジ原油拠点、在庫数日分か パイプライン攻撃で供給停止の恐れ [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞",
           "source": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40OWlSX1dLSTJlVFF4OFlfOWRvR3ltY0U2dzBBUGg3T0R6ZkN3cjZZanhhWEZtbXBIVk54cFNqLS1SaHNfRE1kU2lnaHdJR1kxSmU1a0w2UlhzMy1rMGg0QWlVQ2RITmM?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 18:33:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1QnpXQVJHRjVfODZackViOEFDaFZlZVBla1FhNHExSmRtU1AxS0NlbFF5SmZSREc3by1QQWVPM3ZEMWh5dnhwMnJEc2VqQmhyekl3ZDJuaTA5YzQ2ZkF4NzltM3dod0U?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 11:02:16 GMT"
         },
         {
-          "title": "イエメンの武装組織フーシ派が紅海南部にある戦略的要衝「ハニシュ諸島」を制圧 サウジアラビア空軍基地も攻撃「大きな損害を与えた」と主張（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-          "source": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZmVVR015TTZmdkxwR1VrS0Y4RDRER2lnZm5Ya2lsQ2lIenBySUM5dE8tRjlPQk1yVGpNQzJ5aEE4SjZuZlYta2NXeDVwcDJjS3BCdkhOOFdDZ20zOFBHTkh1REYwQjRlV29rUjZENVVTT3F2MFdlWExjRVFCRWs?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 13:54:12 GMT"
+          "title": "攻撃受けたサウジのパイプライン“復旧に3～5週間”か 原油価格高騰のおそれも（2026年9月14日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+          "source": "日テレNEWS NNN",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0JBTVR6eHhDWXhRYk1ldHl1dmJuMzZqOEM0Tm14aUpJZGZqM2o2ek0tU2RGY3BtTFo5bTJiUHhINlc3WHdVajdUekU4VWpyUkU3aUJNZVdnd2JBOGo3OWh6bzZFQnRFVEI4MldCYzFfcXI0aUZ0NnQ4NlNOc1JTLWNIZjE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 03:19:00 GMT"
         },
         {
-          "title": "フーシの紅海沿岸制圧受け、責任のなすりつけ合い始まる 「米サウジの途方もない大失態」(1/2) - CNN.co.jp",
-          "source": "CNN.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95dWZiRjRNVGZCdGIxWWdJUGxTbVdxd0I5VXdCX0JkRjdBWkdmS0t5OHdsQnpaS3FzbTloMVMwM0pSbmFQMUZYMDdMS2o5cjg1Yk9n?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 03:46:00 GMT"
+          "title": "原油価格上昇､サウジのパイプライン停止 - shikiho.toyokeizai.net",
+          "source": "shikiho.toyokeizai.net",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkYndIYkVHaVBsZ3Zod3U5clc0Y2pJZUFtOWl2eDBxR0Q2WjVGaGNnd3pSTjVRZVIxdmZhZTVKUFowT2g0enV1aVd3OEZvRzhkNnFtLVp1TQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 23:50:00 GMT"
         },
         {
-          "title": "フーシ派、紅海の要衝で影響拡大 イラン、米への圧力強化か - 時事ドットコム",
-          "source": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83OGtOT3IzdW5MU3o3T1k3X1kxc0tjVURmRzlqU2tVUHExbDQxYjJ5cDd6TjRRcXhPSzJhTUNGRWdJUUJNa3NQYWZQQjRpQVh1ZEN3M3JnSW5LUmg3V1lFb2FhRQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 11:33:00 GMT"
+          "title": "ＮＹ原油時間外 102ドル台乗せる サウジのパイプライン復旧に1カ月か - みんかぶ FX/為替",
+          "source": "みんかぶ FX/為替",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45SW5aMS1HOFhJeVBfOG41OHF2UmxYQnRSc1llWVJHckpLcTk5RmNNc3BybDYxM2JDb2VaVmRRWGx0c3BlaW8tUw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 01:40:57 GMT"
         },
         {
-          "title": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大 - Reuters",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUlickFocHdLYkVFSnRKclVRdkF5T041RWltLWlHZHNzdU5UWjdRcm1nWlBzdG5RU185TmRRX0t0Tkx0LWRYREhRMkotTlhod29EWE53WTZMeHM3RWZYYXd4ZEw2MDJRZENkRndnRVlGNkFTNmFOUmNTR0ZrUXNsbDNrRnFSZw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 10:56:00 GMT"
-        },
-        {
-          "title": "フーシ派幹部を取材 標的は… ホルムズ海峡に代わる原油輸送ルート相次ぎ攻撃・制圧 - テレ朝NEWS",
-          "source": "テレ朝NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gb2ZXTV9wbU1nYVFsYk5GQjFuVTJaWVgyVDJWZlhCLWl5ZlFrRFdEXzJDQlR0dmdYVmxMNFdfODF3bjFWVzktdjMtTDEtUGVmR21qNm5FQ3ZtWDZramxLUHFma2VEakxMVnphRVU3TjdkN3RMb1NzSWRB?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 10:17:00 GMT"
-        },
-        {
-          "title": "フーシ派が攻撃を激化させる中、米国はジレンマに陥っているのだろうか？ - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTlXOExIbzNTRkg4RUdwUzFfOXB1V2Z1RlItMWItOEpRSlVQTExpZi1EMTNtNlY1d2s4Nl9KeGQ0RGhnRWVCRkNzY2o5UUlwRlBHZVFoSXRsVEUtQjRUVnRJNnRMbDQ2RVFHSWhOcWc4b1BlQjltY2dtWV9GQUlDVTRn?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 02:29:24 GMT"
-        },
-        {
-          "title": "イラン「ホルムズで14日にオマーンと合意」 フーシは紅海側で攻勢 - 日本経済新聞",
+          "title": "サウジ、複数の攻撃受け東西の原油パイプライン停止 ホルムズ代替ルート - 日本経済新聞",
           "source": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9naDV3WlhJUHNfMlNkWE9qTWlNU1oyUFE1MDEzeHZfdWpyU1lKdkhxaE5DVzQxWkI0TzRZOUlYdThhWmRUQWl0UmZVYS1EUWNYQlZJc0VmOW9nTi1UdWc5WGtsdFVpdkJNZ3Yyaw?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 09:22:43 GMT"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iYkdISW5OYml5X2ozMUZSdHNqSHdaalBGck04eDA4aHUyOFkzMGl1VFREWVZGQmhFNExWRnBwdDVCeWxyWUhRTEpRYzFjcUxRM3FGdXVJRDhNcm5wd2hKQTNJMnBQaWZ3VHpCbA?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:03:53 GMT"
         },
         {
-          "title": "サウジ東西パイプラインが停止 ホルムズ代替路、複数の攻撃 紅海周辺でフーシ派掌握進む - 産経ニュース",
-          "source": "産経ニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVzNGZ3hvX2NwTndHV05zYUJmR0xRYXh3OXg4aEJWWUlQb1dDZzJoNEhzT0cyTFJOMXJvNUVHYWFZbEJWWTlfYWUtQUh4VFlHUmtpM0hXYjFRcG1iM3R4Ulg1ZFBQcThocWNrakN3NEY4TjRmY1E?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 10:14:01 GMT"
+          "title": "中東の緊張により供給懸念が深まり、原油価格が2%以上上昇 - アラブニュース",
+          "source": "アラブニュース",
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNbHRBU041R2l4YWJQMWFhRDlaWG5lUWZNaUdVWDd5eWZTUFVLZk8zLUhPVHFlRkw2Z0d4SHB4OGNrSXpucUM5V19YSFFsdFo4X0M1WjhwYWRvamxHREczZzd1eDJrM29DRTZXY0VWbFVhdG45R3hZeTNYVlM2TTBOa252M0xYSnpVSnRvbDBfN1NsSGpTMEFqdjZtdFVab3FrcV9iWXJ4eTZaTG10eDRCdjktcmV2RTVOSUt6VHRCUnpnWWg0TEhKbjY0NGJUeFA0Qy1YVTl2YW5UT0ZPdTUwNXNYX3M2a00wOGFtNW4tbjVKbjFRYkxLNllZOVQtalc5RGdpR0RnVHdoOGFXS0N1ZXpFbGdma01sUEt1MkVZcVhYdjFrSE5RS2hudjJ5Mm45Z0lfSWZBRnVNZzNnTTVhak00cktrajZWNC1sZ3VXOFFCVDhuNHhBRjBSQUpQbXRwWm1vT0tyZ21hV3VldXpJOU1FUVNxYTVYdGZvY1RaZ1I?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 18:38:01 GMT"
         },
         {
-          "title": "フーシの紅海海峡制圧、米イラン戦闘に影響必至 両国の思惑は - 朝日新聞",
-          "source": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeTJEblJYRm0wMktkeUZmR25xTmQzdEkxUTZCNEhWaUVkajItUVdlcThvZW5Wak1oT28zVUFpc09CS2dYS1lCbUZNTks1d1ZOTUtuaXNrR2Q5d0szYWRfUFFseDNrQkE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 02:50:00 GMT"
+          "title": "原油上昇、サウジが主要パイプライン停止－エネルギー危機深刻化（Bloomberg） - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZDBTX2VhbUVmamdjZldjd2JnbU1zak1jeWI0cmRXd3llOFA0c1dGbzlLMVBxSkw2Q2hpZjdmSlo4Z1M0WDdrQVFtd0FCVlNiNmdGeGp1eU55VUN1TmRKU0c3dkY4cnMyOUhYb0tOdVlqbElqaWpiWmV5MXR5ZE0?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 22:06:35 GMT"
+        },
+        {
+          "title": "親イラン勢力フーシ派によるサウジ攻撃、主要パイプライン閉鎖で原油価格上昇（字幕・14日） - ロイター",
+          "source": "ロイター",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc2gydF80blM4SS1LV0lIc1JfcVgyRFRFX2gyUGJURlVoYXNZUGl5Z0FwZnZSRXhjclNQbmZ4czNYOEhuUHFmemJ4Q05vdFp2VjdyMEoyR0dmTVdhRUc5MVlJSFlJTTY1MXNERG5BaGtES2dfaHlqRXRNUDZvVXhVcHdBSnkzVTFxZVE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 02:39:28 GMT"
+        },
+        {
+          "title": "サウジ パイプライン復旧に3～5週 - news.yahoo.co.jp",
+          "source": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZQm9aUmxoNkVlM0lhaEl5blFzRUQ4MkdYa0Z2OGRoUEtIdy1RZEdNdGZxa3JHX0RnMVRJZFRxc3h5bnBhQnpLcUZlS1E3NzNy?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:11:52 GMT"
+        },
+        {
+          "title": "COMMENTARY: コラム：石油価格、イラン攻撃による急騰から持久戦へ - ロイター",
+          "source": "ロイター",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GZmg4VGZnV0ZuQUduMTN1VmFKM3FnUjc5bWRyTjFrZ3o0VTlQbVVhbmNMYnhGRUxkc19kOWN3S2JMOTJhdGk3S3F6Z0FwUnZtNHNaWlRQN253YVFnY1hWeWtZVDd6VFM3WG5jSi1KdmJBRkV1SUJyR1lFWlk?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 03:31:34 GMT"
         }
       ]
     },
     "France": {
-      "query": "Houthis Bab el-Mandeb",
+      "query": "Houthis Arabie saoudite pétrole",
       "items": [
         {
-          "title": "En s'emparant de l’île de Périm, les Houthis prennent le contrôle du détroit de Bab el-Mandeb - Mer et Marine",
-          "source": "Mer et Marine",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSU55OWRoQ0tEdGxhMlk3bTRFMkNpNEg1SlRpMm56Wl9ISGUzdmVieTFHd3pLcHNUamItSjk5bmJJZnlzcHBjTUxrVFVNdzZwNVluWGJtVmh4SS1yM2F4VG11ZjFoMkd4Sm9DaU1fTF9KTVNFS2dQR1pSTV95a0thRTNNVGhvTGZhV09rMXl2emVhUkMxb1FKVXNBU2RwLXpPdWkwRjJXWFQxaVRReDB3bHpvbTdYQXdZOFUtODZPclVPMUpkUkxnbXllOXRfQm10Ul90d0ZjZw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 22:25:00 GMT"
+          "title": "Le pétrole dopé par les hostilités entre l'Arabie saoudite et les Houthis - Prix du baril",
+          "source": "Prix du baril",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSEZJVWpPREg0RmVxQnpZNlp2LTIwZ2J6TGFVNkdyWnhReFZZYW9XdUFWYV9NZTFWd2U5YWlOX01qNlIzUjhDZUI3VTdLeDZJbWJESnlwbmdoeDNOTVREdEIxdEFDNXVxV3BBWWNCZWdub3M5UTNJbkdjSlotY0Z4eFBwczU4M21McEhCRmpVeGc2M0xnOHZEXy04Y3Y0U0FVUmNDb2IzdXFOTHRpZkFxYy0tUkNmTnQwSjh3VXJn?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 12:13:00 GMT"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : le pétrole en nette hausse après la fermeture d’un oléoduc clé en Arabie saoudite - Le Parisien",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQX2pPSzBKX0psSlNSdjJPTHNHSnc4OXdiaEhzeFpfb2Vsc1Z3aVJCb1Azb3VDSS0wWHpjUkVFUDgzNVhxQm1UbldCcC1KOWF5Y0pMOE9tSnJpYW84eTR3bEV1WENUenFnUmtXNk1INzZZclcxZDVWb1ZBRlpzRkJiU0tmbWdFeDFYOGZzbU0yU0dtbjdmbkxRRDRzNUVTQkZVMV83VlE1d0pEYXNDUmgxMUYzYXp2UDdTU09hMWhYaEpjWG5fXzNqUDdMVnl3V2NRTzZHdVVkZGxseEltNHBOczMyMjgwa0paZmV0a0FIV0J4WTBub1lMVnZGVHhoMjRJQWtVTDEybFQ2dEJnTEpobi1iMTNuZWdnUlE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 06:22:15 GMT"
+        },
+        {
+          "title": "Face aux menaces des Houthis, l’Arabie Saoudite inquiète et isolée - liberation.fr",
+          "source": "liberation.fr",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXJpMlVwcXVxZkpuMUN4N2phYUNRRWF4b2xabW1qLTFxYU1nSzJBTTBCdFctRHJnUHJqMGl4T0taNkJHY0w2UVdiMXd5TktTMEZCRXlFaDZCbVBYU0ZiejU0aVhSSFlHOXdtUlRnTmc5ZGUwTUh5Q2dLMGN0Zm42UTQzaHZxNV91Tm93S2NkeTVBQTd2LVR0VHRwY0dXTGktb09ITUlyR1dpOGtHRUZ3UzFTRGpNLXVsX3JZZTl0SWNfY3RfWm9wZEhha3IzcEtNYjZxMU9xZ1RSeFZIMmxEZ1Rsb2toTGpnU3c?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:12:38 GMT"
+        },
+        {
+          "title": "Pétrole : l'Arabie saoudite, visée par des drones, coupe son pipeline stratégique qui contourne Ormuz - Les Echos",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXgwWHA3dS1ZR0xkY3dyMTRvR0dIRk1vMW1adlRlVXhaSmNzZVNMa0JKYkluT2xBSC1KQl95NkQ2WTRMWUNOdElLTWV3MkJBcU5SZ3E3SjlOYjVNSGtvc3V6UDJJb0VuN1gycWFzcFdSQmNYZEliVzY1c3o0OWVBRWpwTVRBYk80MlNCbTZIZXZjX0NnejZ1NW9pTkgzWDk2WmlEUnJFWjlHZVhqV241aWtEa0N4ZmJWQjJrMWVDOUQtZw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 06:24:44 GMT"
+        },
+        {
+          "title": "Info éco - Guerre au Moyen-Orient : le baril de pétrole à plus de 100 dollars - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdlhvbzg4clBmMlZXUU9zZzFDcU5teEtpa09Bb1ZjYTQwNVNxWUY1bERJakozbTBBNzlJbTZya1JBUlJXbmlaUktWWGdSZS1OSXJRSXlMZTBwWkx2b3NfczZRYmo3ZGlBc2NSaEN1TnUwemZQeUtNbks3Z3dkUE9POXFJN011RFh6MmRMRGFFTG1uaWI1LXRNN0d2OUVXTmFYOWFEblUtNDVhQ1lhZnlRUVZ0MngzcXcxZFBJSkhia0NBSDhXSFRDYUhZOHdlUWMwcS0yUndObE5pUGV3ejFzZU1YNVB6U2xlVXNZWXNvQnR5dw?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:54:30 GMT"
+        },
+        {
+          "title": "Les Houthis frappent l’Arabie saoudite, l’Iran dément toute implication dans la guerre au Yémen - Le Devoir",
+          "source": "Le Devoir",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0lDUlRTeFlORVE0VThibnJPVGdocDN1OHVXY3QzT2hkRENkSnI5Nmg2RjhTbGUtZHI4T19pVDBlYU1LOWtWT2toUkxwQ1RKUHdyTFdsY3pHcnRKT3NJRW9xaDQ0VmVCRm9SaEZQa0VEZGlXYU44TVpMNmtqWEl1RW1IY0R5ek15ajU5QjFXNUpUTFgzdWxuMHl6cER5TUNQQXNqb0dQamRMTW1BTExRN2w1TnpwajY4SFJIR1NfSEN2Z1JvQlE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 02:32:38 GMT"
+        },
+        {
+          "title": "Le pipeline Est-Ouest de l’Arabie saoudite attaqué par les Houthis, le cours du pétrole pourrait encore bondir - lavoixdunord.fr",
+          "source": "lavoixdunord.fr",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTh1Sy1nVXo0NlVwQjYwOHdodndXLXlTZkZHOGRhQU5uN0tIVi0yclZObjVXb1dIVllOc3lMcWIwMUtLclpkU0lrb25ycndXenNHMFc3dnAwcTZUZmZ6WElqNlVqczBOSGY0ajZETDk3Rm1jZmZLR1JwZUlEWEJrUDlzYURJQmNuRnE2dXNud1psR0NDb2VZd19WaXBOaVRCbVAxcWFMblVrblBpZGN0cTlSWWxSd1dMRHdhdC0ydjl6RmVLVUlFcGpWa3A?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 09:00:15 GMT"
+        },
+        {
+          "title": "Le baril de Brent dépasse les 107 dollars après des frappes en Arabie saoudite - La Libre.be",
+          "source": "La Libre.be",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVNuWUlPNk1Ga0YwaEpVU3ZZSVNmZ0FuY05HYWduVTBsQWlqRy1Tc09PaGR0R25XYklRU09xNzFILWNkNHJCVm1UalFtT3BNUW5LNEM0UFdSaWpISDk1QVRpdEEzaFVzNlJzdlFMNGJQZU1UQ3Bhc0lIV3o3RnZoQ0swaDdQQldERU4xU2pPMGhXaFNReWVaUEx0NGtCSkJVb2lFdE1rLWxzdFQwOUhHN09udHAyQ0U3MGpqek1OSmY?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:29:00 GMT"
         },
         {
           "title": "Bab el-Mandeb en feu, risque de choc pétrolier mondial et conséquences économiques immédiates - Atlantico",
@@ -326,103 +368,110 @@
           "pubDate": "Sat, 12 Sep 2026 06:07:27 GMT"
         },
         {
+          "title": "L'Arabie Saoudite ferme le robinet de son oléoduc est-ouest, les prix du pétrole explosent - L'Humanité",
+          "source": "L'Humanité",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3Z5UHJBS0xSTHNOVHpaZW03RHhXZVF4RTBKX29xeXFydWhBcFpBcGFkUGYzNjhKRWl3cURwTXpRN2YzZnM0MS1idDdlUENZREtYb3BkSjNqNmNNRmhHaFA1cDFZbW9qcXp1R0xGeXFhdmZWb2puSHczcUZMZUdVczJxc3h4TDl0eDhVUWp0LUFJSkNLWE9qMjhsUC1yUnpDMzQ3blY3eFFma2lGSUY1RzRLQjF1dEZqOTNHSXU3ZjdjbGR1N3hua09SRHg2V1E?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Yémen : les Houthis s’emparent du détroit de Bab el-Mandeb après une offensive éclair, l’Arabie saoudite prise en étau - Sud Ouest",
+          "source": "Sud Ouest",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZWwxRjlHN2FYcGV0ZXo1YkhRQVI1YlJvTF96MEMxVlhfaFAzSVVrclVwUkNwSVB3SVRJOWxMUkp4WHdpbEc4bDJlRWhELUltQnhPZUFKS1NoQmwycjFIODM4SzBDSU1iS1JfYjFYUWhCY2ZMMlFXRFFQRzJqcW9aOVZla3p5VzRlMzdIdXRtcVZRVkEtVU9sQmg3SmxGWGZnV251N3ZSRUlqY2JId3htZ1luWmhmeGM2elphLU9wbG1WLVYwNXRJc3lSS3EwXzZaVmRnNnpteURaWHc4YURIUDVHSFVNNkh0OWZWN2JNMGU4VjFOcDlkWVNfb1EwVF9UQjJ4ZGVGTHZycnM?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 16:33:27 GMT"
+        },
+        {
           "title": "Détroit de Bab el-Mandeb au Yémen : les nouvelles menaces des Houthis pourraient-elles déclencher une crise du transport maritime en mer Rouge ? - BBC",
           "source": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83NnFRVlhEWkRjRFIydVNPMU5sRlZRdF9zVmZoVE1uNFc2VTVrT2trcVBOZXZLOVd2NkR4WjRha0xIVjAzdUNXNVhKeDNoM3JuSzVYbzFQRGhPcGE5bXfSAWNBVV95cUxPb0pwSHF4bnNENXM3YVJPdFdnQlVuYXNqTWJ2MFdqRzJrZjliLWE0N3VfeENqS3RGNkxtcDFDS29meHp2OWtKT1RpdjJkOXZtcmpScUJRdlprREwxbnZncTFmTm8?oc=5",
           "pubDate": "Mon, 14 Sep 2026 12:07:09 GMT"
-        },
-        {
-          "title": "Pourquoi la prise de contrôle du détroit de Bab-el-Mandeb par les Houthis inquiète ? - franceinfo.fr",
-          "source": "franceinfo.fr",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMjE3WjJkWTctckVncFRJQUNHVGdBZkZEUHF4dTkyc3NNX0xSeFh3SFZXcnA0RnQza0pRcnVxZ2hUb1k0SmhBdmNWYVVYTUNCdFFMOWhWZTAtTWFsd1JRaTZwbUZFS3FKc3M0MlpkM1lWVk1HVzhyU1lEdVFaczFWNG54TkNzcEZIQ2xaekkzMVF5aDlvTl9RbUNTQlN2Q3JPc3BFclVENWlaUHJNN3NhYmNRWFlfOGNqTGZHcFYzd1RCa3N4TXFPSmJmZkJYaDVrWW1QU1padHFCb0ZyNmFqY1ZaRWhqZjkwZnJXZVZWYVZtUQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 10:30:02 GMT"
-        },
-        {
-          "title": "Après une attaque éclair, les Houthis revendiquent le contrôle du stratégique détroit de Bab el-Mandeb - Radio France",
-          "source": "Radio France",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHpVWlE1czV4X1hlNEJ2cTk4end6UXhQeHpmRk1pbkVDck9zZUlScXhWOTY5N1Y1SlNwWnlkOWNWVXJLeENyVFd5TU54QVRHZlpCT0FYdlZVZEN5b3JJd2ptb3prU3BCRWdPSlQwNzFvM3hIeExiUlpvblNYUURMbGNZc09nQTZ2VGZYVm8wUnFVVjJmUUp5MFd4UmFvNmxkYXJ1R1FXdmZDY0lhRmhCSGgyZVdvU0RPWUp2NFR3dTc?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 11:10:00 GMT"
-        },
-        {
-          "title": "Moyen-Orient : les Houthis contrôlent le détroit de Bab el-Mandeb et verrouillent la mer Rouge, passage stratégique pour le transport maritime international - Sud Ouest",
-          "source": "Sud Ouest",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOMF9la255V0ZoQk8yYmU3dEdEZkFSdk5sR1UtbFRZcVVUQWhyR09uQTRLRElSZUNyRnFBaUtXNVlUcjNzTVhtTE54X0pLeG5QcVZWcnQ2QUowekZ4Sm00RXBkS0hsNVdaelZTdDRyZHVmd3hTd1dQU050MWpKY2NRUlZvM1hiamlwejljdzdZVHhFeFFaVDdnY0d3bzIzS20tbXhaem5aQjVndkxDR1NpVUVhQUZpR1hpSy0tSUtlbFp6TWdDYmNyNlROMWxwaGhaWVZFekh6Vkt2dVY3alo4RDQ0czdDTThBVzdRQzhwMjc1ZktQM3YyTmhiVHhPdHFIOU53bkh4VEtVWEVNalAwV1lnZFNNSlFyT3BqMHdnak8zYmVNYXN3STY3VTJOUXlEUGd0dk1oOWo3Ymx2TFE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 08:22:10 GMT"
-        },
-        {
-          "title": "Yémen: les Houthis s'emparent du détroit stratégique de Bab el-Mandeb après la prise de Mokha - tv5monde",
-          "source": "tv5monde",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGhxQUJwOXNlRGhxdHBvRHVrcnVXdUxXQU4xeUNQbmlxLTRENi1taWRqanFpV1ZQaUhnemc3U2laNjJWdF9kcjlsUlktZnJ2NHdnT0h6NGo0UkZxWG5nVjFua1pXaE1GQ1ctcm1ad2tjR3FrV1MyQ01YaUVNc3Bib2tqdGtLWl9kSG5XWXZKQTRMOWp0bG1rSFZlSXQxdFVhX2JXN19leE5yUkRYUmhtUDdHaGdJQUxlV0Y0bHlQYkNFd0VOMzVKNG9fajhTTW1TcEFhVU9fb0VKZzZwTDI4?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 05:00:00 GMT"
-        },
-        {
-          "title": "Les houthistes prennent le contrôle du détroit stratégique de Bab el-Mandeb à l'entrée de la mer Rouge - Les Echos",
-          "source": "Les Echos",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaTRhX0E3RGdaMHMxUmVmbW1FcVRPMHhHVV94S3BLbm5wSV9ES3ZhZXdPcFdwV09BMHhwX203SVBxa3NxcGdlVkFfYTRzTXpTdXFtRXYxdWJtQmRHaTBYS2Zpd1R6VU41QVZCN2RQQUM5cHdBeWRPeUxZaHlHcFJRRzJtVUJBMmRHN2piT2kyX0hCWTRWV0pFOHl4RThlU2dlUmRINVNpM3NTcVVUekdjMEFDVlJyNEc2amt3VkJiLVJCUWE5bi1iQUZua1dyYmNRV1pqRlY4MzBtVmdXY2cxQzQtcU96djltaklVcU4wQXI1Zw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 17:39:31 GMT"
-        },
-        {
-          "title": "« Dans le détroit de Bab el-Mandeb, l’Iran abat une carte stratégique déterminante face aux États-Unis » - Le Point",
-          "source": "Le Point",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmJIRUZFcll6WWZLaEhjUlQ2QXEtbjc0UEEzaXNQNERvckxpVzJIVlMyNElDLVhMNGJNOXRLRncwWkZPMGZKXzEzOHRmWFFUaDQ2VW1ramU5bzFVb1pkZmZsem5ZdGlkQnB3TUVCaHVGSFlHQlBNc0JFZC10aWh1b29VMTBJRG5RbldNeGxDNlRfdFUxSnFoSm8tYkFsTFJITGVRa3NROE1MTzZsNXgyRjB4c3AxYy04WVBrTnUxZE4tOXVCUmxkQ3R5MWpDZDhrdVZQNWlxMng5MmtTSlJGdHZ2eUlEdGJkQVlz?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 16:00:00 GMT"
-        },
-        {
-          "title": "D’Ormuz à Bab el-Mandeb, le pétrole saoudien pris en étau entre deux détroits - Libération",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGJQM0hud0ZDbnZMWFV2QUxoWDFJekpWdXp2MU11YVZ1OXdhNFplQ3NNU2U0ZDZJNzNwMkpKYTh5d3Y2c3NSclZvbmdEUXUzUXY2dTRVQndUQ1k2Q3dFazdHT3RkbG5kalJoZV9zUkRLQ1RYWjVrYUdhbi1HYnVYYWlfZk85X3o0WTFVdFBVTE5obXVwNXVlcjNob2pBSEFoUkdYTXB4a0t6WXpSbG9jMndDbUpWcFp1WFZCUkpCT0hOc21OSkdreERXZTlzYlN1dEdXZzNwOVpaWHJmWm9ybF94RFlPTWl1RkE4NXcxem9jN0VFRkJJXw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 18:21:00 GMT"
-        },
-        {
-          "title": "En s’emparant de Bab El-Mandeb, les houthistes offrent un autre détroit à l’Iran - Courrier international",
-          "source": "Courrier international",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZUdNeVNNOXZ5TWdsakx1anJKVHcwaHc3anZ3MDlsM1VjQWh6TUtDQ3hSZ1ktdXNRWkRuMld4aEdfZlRKV2ZkT1p0OEhWbFdnVGNOOTNlTS1UWGl3NHhkR254OUhHVWVnVDg1NmVBTGhHOVpHR2hvLTBnNjZ0alJWVFZ0S1o0OU82N3J0ZTVDNzUwU1JWaTNPc2JOR3RfeHhYZUIxb281VENjZjFfanFRUXpfRUdfS2h1VnlPVklvSDJuMHJnaEdWdlB2eFFxY1AwRXQ0VVhvTQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 17:23:52 GMT"
-        },
-        {
-          "title": "« La première fois qu’il y a autant de missiles » : les Houthis frappent l’Arabie saoudite, l’Iran dément toute implication - Le Parisien",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOc254RUZRMXNMdnRyaFVwUDBBWkUxT0dZT3RDR1dFUVdKRE9DZnI2ZUYwckVsUXk2OWM3elhrU0M5R2Q3SDVRZVhwbUV0bGNZTlhQMnNTeVVweHN5Z3FrM045ZjltdDNMUjM2M2VVR1dzN0NvZTg0c1ZUTGpEZFNndFQtUWV2d01fNWtObndQOVlDTk1jZWNPNUhubDMwNzJUeGxObEVVWFdNM3E3ZzY4TFdQQ0hyUUZmSDNUSTFSa0FhNDJuVkVubHNuR0h3UTVWRDFma1BxQnNKRmdSMXRYNEpUckNqN21XcEpuWEpFdFJkMGpmbDhMZnhHR1dZVUtiYXhHTmdRNDlaVGV1cVJrZ0RyS3ZmN1FlRXJIclJ6Tmk?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:09:29 GMT"
         }
       ]
     },
     "Germany": {
-      "query": "Huthis Angriff Saudi-Arabien",
-      "items": []
-    },
-    "Brazil": {
-      "query": "Houthis Mar Vermelho",
+      "query": "Ölpreis Saudi-Arabien Huthis",
       "items": [
         {
-          "title": "Houthis fazem ofensiva contra base aérea saudita e avançam pela costa do Mar Vermelho - Opera Mundi",
-          "source": "Opera Mundi",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1oxcHE1OThSck9fR1RlNEt5VzlHVmVJbDV5OGFDLU5oU0NUY2hjdkswMjN0U2ZYRmdvUTVWcmIxVWlDOGxxODU2cTZOV1YxU2w4dDVmNkVabjhmbjFYMGxHS0Yxem1nbVVZUy1YM1RFWFJVMU1jaElKQ3Jxc1Z2anhLNm9IN3RvX3ptemxWRG9QZi0zUXdnOFpHVVdNNEVmcGdtNW54T2ZrWUVMdmFDd2VraGxZUQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 16:10:00 GMT"
+          "title": "Saudi-Arabien unter Druck - Experten warnen vor steigenden Spritpreisen - tagesschau.de",
+          "source": "tagesschau.de",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbG1lQU5DNmJ6RklfbDBlZGViMy1KOVVNWjI4cXNoSUdLYnVVQ3RMaXo1NWFyUG5nWTIxWU9XRFhuN0ZhbklNSmVEV0tTZkF5VFY0VTVzMldpTXQ4SF9iQ2c5UmxrY1JYTEtUTTBpbG5kXzB3d1lfUktWbS0tblcwdWxVZHE2M0FnS3lN?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 17:32:13 GMT"
         },
         {
-          "title": "Arábia Saudita paralisa oleoduto e houthis reforçam controle sobre Mar Vermelho - Terra",
-          "source": "Terra",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0RoMTlRblpiX2o4LXVFMVF5blJHZkVkblNPby1YS3ZyX0RVNFFQdHBrTjRwUWVJakRnSllSSjZjZE1yQ3JlUExFMFZZTzJQNWFlUEM3T0g5emtjX3lkNWpvY25mSkt6UGJUWEMzbXBzNmR1eWRhYngwTVdSNDl1c0hnaWdlLUZ0SThhTHdLVGhZZzllbW1HWTB6S01RX0dJQWc5UEJId3VIZlNJdjc2NjctU0hrakVGb1o1bzhxT0R0NlAyZUgtLVMzNzFYdmM0VXVxYWxyaGlQVkd0THlxdE9ZaVJEUGFuYXY2MDd1M3Nmbl9lR1JmUA?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 17:03:00 GMT"
+          "title": "Droht Benzinpreis-Explosion? Saudi-Arabiens Ölrouten geraten von zwei Seiten massiv unter Druck - Frankfurter Rundschau",
+          "source": "Frankfurter Rundschau",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakpoMF9BR0FjOTBBdENpTmR4dGtwelRTMU5pVGtLcldxVVZOMW5lZXdLTVJ5ckRIZ21SMGdhYTJDVkRHU1NtakJPTk1VcXNRVFhZTUNWOVFJejRvZmstOTExYWQtM2I2OFpybmVXeV9UWndLdzVNa0NpWXFFanhOUlRrbGR2d2RrSUtkZlVCRjVFVmFuZjFiWFdfUy1yQ0Vwc1ZITQ?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 08:58:49 GMT"
         },
         {
-          "title": "Análise: Houthis ameaçam rota vital do Mar Vermelho - CNN Brasil",
-          "source": "CNN Brasil",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUwxNW1peUNTc1M4OEJrRFZKQ3JfZVZDN1h6NGlfYkgyZ0xsdlFOZldDeEhmX1dkWllkaTk4cTlWODZ1UE5jSGtWbzdJcWQyLS1QekJCT0RUNFdqMHNEWmhjNHNaVVBQcVlnbGhEd1Y2OWdGdWROa3dObE5GWXJOWTFLSDFlcUM5VGUteW10VVRXSHo2ZlhPWWx3?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 08:00:57 GMT"
+          "title": "Saudi-Arabiens Ölexporte unter Druck: Wichtige Pipeline stillgelegt - zdfheute.de",
+          "source": "zdfheute.de",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOFd2UWE0MmV2R3F6TkhqSWRIaWFYNjJXeVFJNlhyNHhWRGxEZWs2c196SHlsRmxmVjM5cWdEenRSWG9Mb3RJbjNLU1kya2g0bHFvdFc0RjU2dzhQTVBoclhIdUtqb0gzb0tQckd4MGZhVmdES0lIaXRFZ3ZzcDNBU3drOXQ1ZVBJNWc?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 07:41:00 GMT"
         },
         {
-          "title": "Arábia Saudita fecha oleoduto e houthis controlam tráfego marítimo no Mar Vermelho | Médio Oriente - Público",
-          "source": "Público",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMllWWEJqeFgySjREeEZQSUl4NjJmem9LQUtxX2VaUlRzRjBLbWdvTXBuZ1dSY193OGJxLWhfZF9XUk10eWF0Yk14OFZocmV4c3hYMDVlOGdMWFBzTUE4WGVIMzJ4azZURUt2aDNaOEJoV2hXTkNkdzRYX2QzdUJwU09TS3AwTjRiRVh2aUJwbG00dGtmQ0FNNDZ6SlNFTDFKa3JmdV9hTVRFQl9ENWNfNVY3a0NqTndhQl9DOFlyOTg0NWc3NFZWWU9tZ1pkQQ?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 08:00:29 GMT"
+          "title": "Saudi-Arabien in der Zange: Huthis rücken vor, Pipeline brennt, Trump legt auf - T-Online",
+          "source": "T-Online",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUljV3ZDTW5mSDZGUGQ5bDZFbEhtQWJHMUhvdDA1WGdmVEF1SUxPNlpOVHdzNk9scXpGRjhTak55WUNuQnZuV1cxcXU1S0s4VFcwaDc2TGRqdmwyRTlSRlZoRUdKN1RsRGFoaW1oc2s3TXhkMHBVdDRYb0QtVmdlSTJuc2t3SkdiclIzbWRPSmFjZVhsSVJqaGVRTkY3Yk5UZUtWVEJPMU9TUnpCLU5iMDRLYzAxMEdOMU1vampVTlRZZ0hSeXNhOUtfa2pCZ0RZNkZUQjlORmhOOW93UXhQZndFNnkwUF9iR0E?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 21:46:14 GMT"
         },
         {
-          "title": "Houthis chegam a cidade e a ilha estratégicas no Iêmen e ficam próximos de controlar acesso ao Mar Vermelho, diz agência - G1",
-          "source": "G1",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWphaVF1c2lJUTFTTWlINkFwQU5BQnd0UGJHNE9EYTNnTHpiZmJPcV91MmtDOHVUVzBqUzdfSC1taGFrSHFySjRPMjQ4MWpQNjJxQzBZbHBUczRfend0RDdjWnNCdHBGZERqemV2TWprZGtyOGU0eWNHYklJWGhtdXRmd1pMSGs0dGxXdFMyaXdxT0tTSVpPOEs3UklQazlRblJGbTZ3RjhTMktNZm4tVFZXekhLRnpQU0l1ejdiUXVOV2ppd0IwLUJDbHVvT0o0WGsweTlNLS1LTGl3YWR5dkRxc9IB8gFBVV95cUxNZUJJY3JtM0FqdWhCOEFXWXhfZVZzOFZPcU1aelR0cU9lVVU4cEM0X0VXU3pxbTJ4aHpDY0lsNkliVl9QaUQtZkh5VVlLa1hSbkxaTWV3eEY4a2pSTmMyTzUzRW1zTUpYcnFCVVBubFdXZUc1azctb202b1NVOGFFYml3WmJObnIxQ1FoTzFUSHdyeEF5S0x3VkpsNVJrcWtRRTZYQVBQaUJfQXlBQjBlY2hSZVFKdU5nZlZXNlhtQ0dpTFU4dWRHTElMTEpZRldLT3Qyajk2WVM2aUJ1b2lhM1FSemlqOHdyaVhXcDNETUlaQQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 09:29:42 GMT"
+          "title": "Ölpreis-Schock: Ruinieren diese Huthis jetzt unsere Weltwirtschaft? - BILD",
+          "source": "BILD",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaTVpNTBOMTh1bE1RSXhXNG1rVFdJTUF1SmJDOXMxcVlhRFowS0p1V0JNNDF3Vll2blhUNGhxWWprTjJOYjRhbC1DVEYzbm1aSElwNlA5d05BNl9aYldSaTk5OGRHTGFNeGtiaDVYNVZ0NTR5dV9uNDEzcjk1UFI4V0hHSjA3RF9PMzdGTHQxcmxkN2NETlZKdEcta1NiMGt6cHprV1RJZWtoYjhoM3JvVG1xalZualhScnlhTmkyclcwYlgzWmxtV0ZwNjRRQXJkOVBLUGdlZGZsOENaSTU1cA?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 13:25:59 GMT"
+        },
+        {
+          "title": "Huthi-Miliz greift nach Meerenge: Jetzt droht der nächste Ölpreis-Schock - derwesten.de",
+          "source": "derwesten.de",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNTFwQkVLQ0RJZmRUenpDT3dON2pMeXJScVBxQnlFSmRGZHFFZFdBbHlVN1VaLTVyQjExYS1QY3VUN3NiZi04aUJ5cnFZdGxFRzRwRTllTmFHZnVJa1FNQkFDRDlJY0xwOUFSa0h4b3pkMEpZVVBxXzFhVl9YajA?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 16:40:29 GMT"
+        },
+        {
+          "title": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck - tagesschau.de",
+          "source": "tagesschau.de",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMkkzZG9jTUgzX1lBdmQzd2hXcUNFbUpGbGc4ZWJUUDdubmp5Z3Z3MW1tQ28yWTFxQ3dXaWtzMmdIdDNaaVRlLVpPWE1UQkxpRjUyanhVeVpyTjBibVNiRTBmbF9PUUREVTFoWXRtbGNBbF9UZDFaTy1BNEpWbHZJOXpETQ?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 15:56:00 GMT"
+        },
+        {
+          "title": "Trump verweigert Hilfe, Huthi kontrollieren Bab al-Mandab: Saudi-Arabien verliert seine letzte Ölroute - Frankfurter Rundschau",
+          "source": "Frankfurter Rundschau",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnlkZ2ZhZk1SenVfUW4tZ2R4VFQxSG1DaW5rbGx3YnVqRXEtWE1YVUFVOVhhQWxiaWR1UmkxYlFsak1DVGV6eC1DOHNTMENGV0FBbVNmQWFleHVDdlJZemJsOHZBSnNyQnFUcG5KSVpvUWwxMU8wd1JsYlNiVm90MTN1aXpiMDVBSkFWcWY0U1psdlRuNVNkdmlFSzhkUDdJUjdpcGtDczR6TDg2U3Z0b0Y0clFMd3RsUS1oTjJFMmVvNFk?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Nach Angriff auf Saudi-Pipeline und Huthi-Vormarsch droht Ölpreis-Anstieg - Der Standard",
+          "source": "Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWNwOG5kcWVfX2RFcnM3S1NYYVNtUkxqcUpmd3lzbkQ3b3k4cFFPV2FBVWo3elNaWGNoNGdyNGtYbmNNUll2VDZjQUt6VExCeldFRmFzbDBod1FjQ0JodUZMSjhvYklzcHpMVTlWdHBucktBcnkxQzd4Z3lrZk01RElaVGY4aWo1MXNoZmxCMzJYMm1WdkVQVHRVWmVCVGVydlpLZ0xZcHdCWEhLdEstSXFtaDFJUkZOdHdWSEFvUlFpaUxkRXlzRmticw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT"
+        },
+        {
+          "title": "Saudi-Arabien: Zentrale Pipeline nach Angriff stillgelegt - ORF",
+          "source": "ORF",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pOG1INml0b05iemZQT2E4TWlQdUZadjJDQ0M0a0w1ZTZmY3h6QVZJb1FpdnNVY1ZwN2hYTy0tcHVlWWVtSUE?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 16:14:09 GMT"
+        },
+        {
+          "title": "Börse am Mittag mit Dietmar Deffner: Huthi-Angriffe auf saudi-arabische Anlagen lassen Ölpreis steigen - Video - WELT",
+          "source": "WELT",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcXJNWDgxeHBSaXBtYkkydGIydVZQczNfdU5UUFpMblJUcU8tOUpndGNrNTBpMTVSbFNScTlzaFYxZTg1OXBXSVBGa21zZGkwa0VNQTkzXzZzTkQwUE0tMEdvSVEzVTRjaDJDTkZmclFLbVNRc09QNkl4YmttZE9yNlNTS1JiTmkwQVhac2toNDhRVEdnNW16MGNsWXUwenJ3UUlXWG5McjZmTXB6R1hMMXVhaWdycTJ6MGlvb2ZYY0RJQnNvRUFnR0UycTJ3bVdZZEptSjVYTkJIbmlORGdsNllZR0NfUlZFREdOeVYzVlF5bEJ4X3NJRTBQLTBydw?oc=5",
+          "pubDate": "Tue, 08 Sep 2026 12:43:09 GMT"
+        },
+        {
+          "title": "Huthi-Miliz meldet Kontrolle über Bab al-Mandab – Ölpreis zieht spürbar an - T-Online",
+          "source": "T-Online",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHlORzk2d09IdTY0S2UtTjlSYzFpR0NFaHFkVG1DRWJRUDZWQmVaajlnVUJyYnVrVGJYNVpCVnd6NTljbUFsODNGb3loZXJqMFlmektkZWl6NWVybVQyM1hYZWUzVF9rQkxreVBLb21XOGdLOEthaXNyVXBHaTBIa2FKQ0E2YmVibE95WkZ0TlByU1JUZnA3T2JHSUJGdTlic1NWdl90bVJ3bkJObEN3VndIVEZhaDZoQ2dSdFp6M08wd0t3N3c?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 05:57:55 GMT"
+        }
+      ]
+    },
+    "Brazil": {
+      "query": "Houthis Arábia Saudita petróleo",
+      "items": [
+        {
+          "title": "Houthis voltam a atacar Arábia Saudita, e negociações sobre Ormuz seguem travadas - Valor Econômico",
+          "source": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3hTQ3ZWUkdGNmtSVTltV0dXQlJpcnZhRGFZSlEyVmpoVzVlNFBVV0M4WUJSNVZxUk9jYnA2U091S0J6YTlKWEtvRjFrY25HanVDY3NPdmhnOFBDYVVkQlVjdUpqcHlYNG0zV2ZCdWJIcktiQlJ1SVZqVDV0a1RTRzJGalVrOGw0aHlJWmFodk55c1pBYkdpelAtbFhYY3E3UU92djdtYVpiREtjTVdIV2xDemdfaDZaVGY3ZFhSRGVFUkhLdnhOcDNDRFbSAdsBQVVfeXFMTll0SGV3QnpGbHJ4c2JEZTdiVk9kUWFIc0g2bTRjSXNPalZVNThhaTZVVkdmb3pyeDlHd2VVUzhIT1Y4QkxnTFVZWmQ2ZnZ5QVNyMURQWGFfZVcxWVRzQm1BYkhWYUk2Z3dKMVZZSkRlN0s1VTV4R1Fsc3RCQ1VWTEVNbktCTWZrQllCbTZaOENuT0hVOWQwdGFEM1g4ZWZNTEo0c3VTcENfekcybllqQXFOdmQ1UEhzX1FWU3pzREtMREZrXzhlVU54dnRibFhIS1FwbmdzYmx4bVRZ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:59:57 GMT"
         },
         {
           "title": "EUA, Arábia Saudita e Iêmen trocam acusações após avanço dos Houthis - CNN Brasil",
@@ -431,93 +480,111 @@
           "pubDate": "Sat, 12 Sep 2026 19:05:36 GMT"
         },
         {
-          "title": "Houthis tomam ilhas no mar Vermelho e elevam risco para transporte de petróleo - Revista Empreende",
-          "source": "Revista Empreende",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTHJydkl4NVhybFpqTlRlak1IcV9ZejZ6Zkw0SzVLR0hhTTB4X0IyelBOS0RyZ19ISWRnaTlnWWZHdW9vakl0eVIxanlzNzJNWnB1RDZsazJRZjNhcE5JT19uZjNLSURlT09EOS00Vm0ydDU3TXJ5UUw1c1ZPbnBodEw3aXRTem84U3RiMWtjRXB0S0dwU1dWTXJyblZja1FSenNlUFpObTZmMGtHWkEyc2JNb3MzSDZTYm5PXzZfSXdHVFdqaEo3SzFNUThyQUtuTG0wNUx5TjVTX1hENUhyZEFINzdkMzNKMlE?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 06:38:35 GMT"
+          "title": "Petróleo Brent ultrapassa US$107 com aumento das preocupações com suprimento da Arábia Saudita - Terra",
+          "source": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ2FEanlOVzJuOWVMQzJmeUxqT3hBWFVrdHpxQXVnVEpkeWhmSVEtcWlHbmxQNHkzM0dxcDl6Zlo5X0N2NkdRTkJiZWo0cG9qQXpORzNLVjBzN1Q0M1FNb052MmlRZEJOaUNlRm13OGJMZ0ZPWUNKY0JkcFRRblRDelUxZWN4QllEWjNoM2RtdFVhSDVENDdYUWlfN3BzazBBZUlFQjVkTnpKUmdxMTR5dFJ1OWppVjgxQ2xzVXpPc2lyS2V2Mzg4MHZfRmZ3aEVvT3BPVTRLaksyMW1JVllQMGJQZi1xV0NObk1BX3N1WEdTU2l3OThPUXVGUEwtOGZ0cFV1ZFFzYUJIT3M?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:43:00 GMT"
         },
         {
-          "title": "Iêmen: em derrota para Trump, houthis avançam no Mar Vermelho - Revista Movimento",
-          "source": "Revista Movimento",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdG15UEJXTmJGUEVoVjNHc01xVEF4a2ZuSEdtOEhHVmIyZVFoeFdHMkFqQnJ2Sm1DTmFLTW9zMnE3NVJvaDQ0YlNMSWstOVMwOTN1RFFkOTBKd0V0UmljU2RJMU95TzlmLVZ6bk1Uc25SbC1ZVi1hVlpmc3kzTFQ5Zy1QMDdSc3NWTXpKQWN2WWlkOUNBaE9WWVpGQS1KdWxEUkE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 11:00:00 GMT"
+          "title": "Arábia Saudita promete resposta firme aos ataques houthis - Folha PE",
+          "source": "Folha PE",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM282aXBTMC1OMms2MXJhdEtxVFBBR2tLUHYtWk40NU1VYkdxdU9Jci05cC1yblVHQXFUYWdZQmM3WXA4YjVHblFXcVplTkdVMDdfTWVIdXZfeUhrcXNpUUEzS294RTN4Yk5RWHJod1dSOFZqQlNBbjlVaU05WEl5alZOaHVrbW9IV0twdEh3MUZEclYtQ3VqSWRtYXYzYjhKS3VnUzFUSdIBpwFBVV95cUxNM282aXBTMC1OMms2MXJhdEtxVFBBR2tLUHYtWk40NU1VYkdxdU9Jci05cC1yblVHQXFUYWdZQmM3WXA4YjVHblFXcVplTkdVMDdfTWVIdXZfeUhrcXNpUUEzS294RTN4Yk5RWHJod1dSOFZqQlNBbjlVaU05WEl5alZOaHVrbW9IV0twdEh3MUZEclYtQ3VqSWRtYXYzYjhKS3VnUzFUSQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:51:46 GMT"
         },
         {
-          "title": "Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal - Valor Econômico",
-          "source": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWdpUk55emZUZWJ0WmFEMGpWY0FSbFRpQy0zWUFhZVVOVHlEZTV3WlZKMTNfVWU5YWhEMkRCcEVtSmZ2N3FvRWMtMk52dlNUUlNacG5GeERTRkJkV2lvRElHT0xxSkxxczh1dG5OSXA0WWJfelhaZmV2QjRhZi1PeUtYMlJUeFVZQ1FaNXQ1Uk4yMjNPZkh6V2g1TFBEWnJha0tmaEFRRkQ0OTZyT1lUWWM5TDdWT1p2SEI0a2RmRXBPS1dJSEVGMnNMa3Bqa2pXQm9JeWh5c9IB5gFBVV95cUxNN2V4UVd6LU92bkMyMTdwdVVFVWU2eDZGNjR4Um5lT3lsSUNfa3N1ZWpVNnVyQTI5RmtYOE1ISUVjUTFKejdNR1pBUzVVd2NhYkVISUpkZFpUeEs4Y0Robkt4eG9FQTlzVnhLSlRpSHZnMEpyVkxLM255S2p4RlBrem15MGVodnRsQ1VzLWRWY0w2ancxYW9vWDFBTlR5TzgwTTI4N09iZFFNZFNTOS1nVEZLRzhCQlZvR2NIUDUxenZ2MzVhdWs5cnFDNUhmU2I3blIta1EybzFpakhqZlNkdFBFREtjdw?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 16:16:01 GMT"
+          "title": "Houthis atacam Arábia Saudita e impasse em Ormuz eleva tensão - Brasil 247",
+          "source": "Brasil 247",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemp3VmxHMmlRNWQzMWI1NjVrTkh2MkNQdGY2WXdDaUx4Yy1hMWh4Z0pKVEFtc0o5WXl2V1lGbS10TDhSN2p4U09SNmF1RnFncHdwYmllY1p5cFR0djN1TEdndU5TcHV4YWFBSlhaU2Z6UmY5VXpqbG96bDQ4N2pWQ01ULUp0b0wxNGNEd184Q1hTOVo0WEJQUmRR?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 08:36:00 GMT"
         },
         {
-          "title": "Rebeldes pró-Irã tomam costa do mar Vermelho no Iêmen - 11/09/2026 - Mundo - Folha de S.Paulo",
+          "title": "Guerra no mar Vermelho ameaça 4% do petróleo do mundo - 13/09/2026 - Mundo - Folha de S.Paulo",
           "source": "Folha de S.Paulo",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTNacE40M3d1dXNZa1MzeDg4Q3ZyQkV5TklDOTkyNWhZSlRBbGswNHMzTnEyTkg2TGthQ0xtc3hMU19rTUZzWmVicVREdHVGUV90cTFGXzRJMVI2TFhBd2h3alJ0OEw1eWRjcHZ6Vno2eHNCZ1h5YlZPYjlqeFNDM0VvTXcxcUE4M285MHlxRGFLbThFamxXaDR5RkdKSEJ5SzZTQ1FEcjJ5dkVPdVFaYzg0cUJJQQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 11:29:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW82Z3J6TlRvenZ3NENNdmZXT0JwRlFkcTZGS081SVB3Z281dmluNTFjenRMclRROTFrdUlSZ2EzNjQ4RUFYTU5vZnB0elE5RE9TWEJCQ1ppZVp2cU9RaFFXaEVBX1llVlhGVlJKd25idFRnclZWODBHTnVOeXg0ZXVsajZ0SDlLYUsyaldHdXZvMnZoVWQyUWtGdXRpb0Jna3ZBbw?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 13:39:00 GMT"
         },
         {
-          "title": "Houthis do Iêmen tomam o controle de ilha crucial com acesso ao Mar Vermelho - Estadão",
-          "source": "Estadão",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMms4TWhaMVhqcmkySmFJdHlJRjFUSHZnRnpjMk54Rml6UUNGT2NCX0s3bmliSEoxdFZtUUY2ZzJwU0Q1Y2hCNVU0UU4wMGZaSG05bm56TGQ5czRuTW5pR0NsUHJQQUN2elk1ZEE3MEhXb25LUzFwNXRCZDJMQjluQUcwOEd4YXNwUzFHV3BnNDBPUGIwLV9UMDZvYzVvbTJ6ZnNGLTJGY2tMX2xlZVhadlBTZDI2NDNNZWJMa2ZjSDVyU0lRV0kyN09B?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 15:52:21 GMT"
+          "title": "Crise no Golfo Pérsico: Reunião sobre Ormuz cancelada e ataques a sauditas - IstoÉ",
+          "source": "IstoÉ",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRF9FZW1ZV3hjWmI2QlMzbXVsMGlCWmFubmVfS2RhWndzS002UFZIdFQwMkhDejNEV2F1SUVmOTdUaUw3V25KZWxNVXlaN3FQdDhKSVVGd0dnb2trTV9raW5tYTdVNXhUZWIxeEpPTnJESUs3dHVkb3RvUVJPbHhtR0l6eU05M2R5Y0FoLVNnckc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 16:42:00 GMT"
         },
         {
-          "title": "Houthis chegam a ilha estratégica na entrada do estreito de Bab el-Mandeb, no Mar Vermelho - Valor Econômico",
-          "source": "Valor Econômico",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLXVKeUxSLVoxZ1FmbFFOWWdXbEdwQ3FKNDM0YjJlakliM1M1dVROWkNUSGpxOE1fRDliXzUtQk96TGFPMmhvSmlER3MtZmc2SzdXVnpPbnhwU0R6OGJYX29GMjQ4RDFjc29kc0pMd0NlLWQzeUF6RnFlZXh4UzdjbHQzQ0o0OFFnRkx1aGVleVkxS1VsN0liSTlWVi0zV3lJaDIybWZ5UTNWOXBPaXQ4bnQzS2YxUTdLOVB0LWJ3dzlsTGVKSC1iY1gzaGRQTklwcVJIbzhnRGZtS2fSAeoBQVVfeXFMUHl2OHFXMDZNOF9kTEIwU2NDRDJHU1c1bjhROERScnlDZGhqV0FtcFB0a3F4Q3pIb0xYNkRwdjB6RmxaNjhqVkNnTkR6VGwyeU9EZjgtYUM2ZmxmdGVtUnh6bDNPQnIyaWZyWnVvbDFiQmd4ZEJPb1RoY0NHZ3ZXSE1Rc2xtLVZwQWwzaUV4N0w1RVVMOGlSd21STmY4RmxWNkpPdF8xMzdOYkh2MS1uSE5Fa3JKZDJTdWdFOHlOMlI0Umx0NXdtNGtsSTFWRUhMMTBQSk1may1Sa2VKbVF6aE1uY2JnUkV2Unp3?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 11:36:52 GMT"
+          "title": "Irã nega envolvimento em ataques dos houthis; petróleo Brent supera US$ 107 - Exame",
+          "source": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX196ZmRyNTZVOXpZRWtQR3Q2Z0o3VHIya0ZiTUs4bVA1dTJ5MTJtdlZxOEhVSmxycXlGSkgzWjg2enowNnYyUndOQWlvbjZBQU9jZmwtQTJ6anVWVU1DQjlHQWVJeWRfUUhWTU90cEcxODA1V0tLcnlNUTd0eVFCOXdBUG1BWjJTRzZIQm1UV2tPWXpEemdHcGVVTHlhc1E?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:14:28 GMT"
+        },
+        {
+          "title": "Ataques em Ormuz e na Arábia Saudita soam alerta para nova alta do petróleo - InfoMoney",
+          "source": "InfoMoney",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlhyMG9rMV90cjhpQnRxem5pN1JLMHU2WnE1aGRfQ0UxQlJ5R0JicmhTYTc4dmRTUHpTU2VIT1NXQkVqQ1JFRGdzY2UxOXZ2d3Z3N1U2R2RBUG1SeEZuM05GaUp0Q0ZNcUtWdVFGdjRrd1A4S3lVaFhPRVJhUkl1S1FJb2JwVHBQWkpmMzZXZHJzZnIxS2NyaHBtMnN6QkFELTBTOXlydlpPWERlX204eVVrMS3SAboBQVVfeXFMUE5oUk0xblN3OGMtUWRTQjBxM1F4dVZ2bktUeGVJX2I3NE9sMHQ5SUNyVXl4Tm82d2Q0MGZ5TDRQeFpTWUR1X3d6UVAwS0IwSlJ4ODBETWRTT1hiczBmblRKYjlaN1QzLVloSDQ0eVFCMVlDRnR0cF91YmI5Tm55SkN5MmY5YTNvaUhFSi11S252MXRheUV6OTgxTWxWN2JFcU5NUV9WcDhIYW1qYkNNNFdWM1NqNUhLRmxn?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 17:42:19 GMT"
+        },
+        {
+          "title": "PETRÓLEO PASSA DE 109 DÓLARES COM OS ATAQUES DOS TERRORISTAS HOUTHIS, APOIADOS PELO IRÃ, CONTRA O SUL DA ARÁBIA SAUDITA - Petronotícias",
+          "source": "Petronotícias",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUXFWak4walBLRWZaQnJET3c5cUY3RGRYbG1PdHh5VzlPUVVPM2NVd1lybVBpOFZwLTYzcWNiaGhtZ3ZiUVlqdWJaVnVDbmVyTFNhdURhR2UyT2tBWUkxUldlaEFTSUF5dXpUeG1ZaGFXelJtVThWZDRNa0JBRWtScVdhQmFFMzV3dEFMUlpYU1RYNUg4b09odzhxRW9MNlVqTG9qY0pnY3o0TlVpOTFKbWZVWDhJcmphWTJsbmRUVUFNcDluNTJoUGk2X1AwVENDa2Z5d3MzbGo3SUItQ3NXaA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 15:00:00 GMT"
+        },
+        {
+          "title": "O que está em jogo na tomada de cidades por Houthis para o comércio mundial - CNN Brasil",
+          "source": "CNN Brasil",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0FxdmZPMkNmb1g1MHNtallRRnBYeU5iOC04ajlrRzlkLUl1UmJoZzBHQUNsT1h4QTRVY0hMTVA1OHdIbFJ3dnJ1dnE0NUtiQTR2RmIzbHlQcVo5Q0tEMmtCZkFNRkZScGRMa1FNemVHc1lBOE5SV2tXaFlkNVhLdUc2ZTYtbUE0dDdYeXJoeDVnU0Y1UHNPNXUtbjFMbHBfc1Znb2NMTmlWWElhQmw4YUd1cGFXZzJ3R1E?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 08:27:11 GMT"
+        },
+        {
+          "title": "Petróleo fecha em alta após ataques na Arábia Saudita gerarem preocupações com oferta - Terra",
+          "source": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWm51aktVLTBkWG5oTzJaWkt3Z21MSDM2Vlh0Y3d2QjhWTTVoQlZDV3FGQ1Jnc1ZmNU5odGN5MFIyLW13bTFabVlEdWJNNjI3NWhVTjNDREVyS1VsRm9JYmhvOUltLWZFaS0yMmYzSjBhZnBXQy1HRFZPclN2VXpFWEdycEdSMHMtbjNGM0ZuWE1BeEtRMXRsSHFIcmgtOVJIMHl3R1EyVlBfdTNxSjN5NGlWRFZxeXNrMldjT1QzV25BdE9hSUh4NG9uUzJkZlB0OTFhWnUwNWN0SHdaRlRHdHlaY1I1VHM1alF5MndLVlEzTHlVa0g3UA?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 20:30:00 GMT"
         }
       ]
     },
     "Russia": {
-      "query": "Хуситы Баб-эль-Мандеб",
+      "query": "хуситы Саудовская Аравия нефть",
       "items": [
         {
-          "title": "Хуситы захватили новые йеменские острова в Красном море, усилив контроль над Баб-эль-Мандебом - Euronews.com",
-          "source": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUl3TUlLQlhTMWlSdVBuQ0ZUOHhfcGgyaW4tNlRhc0ZIQ0lZRWtndkdmMnhoSWJsdjZuQzNqYU5Ib0o4OXpaU2ZYc2hCYjVZRDdOTHU2YnZuUlVCbEdZeDEzWEMybTdVbUZvelpJUG1pNzB1RUo3RTNocHg2VWllVlpHb3RGUG1kZTktallLMmx6MFZjckhnLUFpbkkxT2NWNmxDREx0MllzYWhJQVVkZA?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 11:04:37 GMT"
+          "title": "Как повлияют атаки хуситов на нефть и судоходство в Ормузе - Эксперт",
+          "source": "Эксперт",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GMlVPZ0FBSmdpWERvQkhrU0NLZ1I1WGh5WUtPWElPTXpCRUdPTGRVMDlfN293eW05SXk2eXFPTldISnZIUzJHQU93YmxPRm5LMWw0UmhSb0dXTi15WndHQjBGSXFqemRXeHFR?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:00:00 GMT"
         },
         {
-          "title": "Хуситы заявили, что не создавали препятствий для судоходства в Баб-эль-Мандебе - Интерфакс",
+          "title": "Саудовская Аравия ищет защиты от хуситов в Британии - OilCapital",
+          "source": "OilCapital",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZG1mb19veTZpOXhRNG1WZUhmUGgyT0g4NXI2TTRQR1lJTVk0ZG85cHFod25tZE1iRldLT29ueUp4UXhRSl9LUEwxcG1vX1hvYXhxSWFER1paZjdYel9oT1RYdVNiUTdNZmNzUTVhYVgyaVhzanhvX2lKRklMQUl1UmdLeHd3VEs1cXBLQ3M0c3QtRDZ4Nko0T25SME90Mm9DM3VGaG5B?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:17:00 GMT"
+        },
+        {
+          "title": "Хуситы вновь наносят удары по объектам Саудовской Аравии на фоне срыва переговоров по Ормузскому проливу — Reuters - Smart-Lab",
+          "source": "Smart-Lab",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbHhaX2NOMVFJRUprTWhacS16OEpCYnBKckdTQklWb3R2WU9FbFg5ZzdkaUtoaEJFQTJpajF2dmhsT3cwVU9GQi1NVHZmZVkwX0xHYQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:02:38 GMT"
+        },
+        {
+          "title": "США отказали Саудовской Аравии в военной поддержке против хуситов - СМИ - Вестник Кавказа",
+          "source": "Вестник Кавказа",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNC1uejlmY1hjYXBfdUhVQXBrU29PUDR0cnFTZ3NMX0x3OTdXRFBtcDRMa3FKdG54WFBkZjFRdmo5aXNHVHpRM0dZUld5WGFNcHBoeFU4dFNoZHI0eU5DZmdacWd4WWdjUEI0d3FiTGp0cjV2bHN5VlcyUURsQm9zWUFpd2QtNDZDNmhScFplNXlhVTdxNWhkaEhxam5JcVh5S2NfYUF30gFKQVVfeXFMUExYRjR3V1Jwb2twMWwxYUFHOEZoMjBjUDh4V0p2VVRtQm1aOHpycUVpc0lYUzVUcWpSNE5Ta1lrNVhRcjhpWVQ1dkE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:02:41 GMT"
+        },
+        {
+          "title": "Хуситы, Саудовская Аравия и Баб-эль-Мандеб: что известно и чего пока нельзя утверждать - Казинформ",
+          "source": "Казинформ",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHZKdjJDc3JDeWRlQjBodkpsSllwWVpwdVoxN0h6cVZ4aGZyckpKRks1TW1RV2wwaFpGSVJWN0ZFTlQtTlNoNVNReTE4UXJHeENVNVdkTDBjcmlHS3ZHZmxvNmRXazgwX0thUTJEUGY4N0VmdzlTcXZlNUluUGdpOC03bl9VeHJjZXJUY2s0M09sVFdYdUxfNVlOUnBhU2FranFFNmE2NTNOaGwzb2l4bjZ2djQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:48:16 GMT"
+        },
+        {
+          "title": "Нефть Brent подорожала до $107,44 за баррель - Интерфакс",
           "source": "Интерфакс",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aM21MY1JwSEktcHhVQ3V6Z3VaYTB5MWMwYlQ2SVJzYkU2VElVYV9TdkhrVkwxZUt4ZzFmYjBweDNqTkx5R0g2Qmg1djE0QdIBS0FVX3lxTE1KSG1RQnBKMFZyUC0tLUEyRGh2YmR4M19oOWZxcEZBaGFFS09Pdm40SFpQQlFTVmtUN1NGQzVBbFk5UE94SGlYYy04dw?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 19:48:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sajAyeVhzbGtuN0tSQnRpV1NRb2dia1R1UExYN05BcVA2V3lXVTBjeGV3cjZxcVlfdE1uRXhsdWRjNU5nQUxFMExEUdIBS0FVX3lxTE9sajAyeVhzbGtuN0tSQnRpV1NRb2dia1R1UExYN05BcVA2V3lXVTBjeGV3cjZxcVlfdE1uRXhsdWRjNU5nQUxFMExEUQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:35:00 GMT"
         },
         {
-          "title": "Между двумя проливами — как хуситы повышают ставки в региональном противостоянии - Вестник Кавказа",
-          "source": "Вестник Кавказа",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFIxeFBVcXNpREcwQ1hNRTVqX3ZYcWZNTjh0cWRzQXNzWjlyMGZiZFNDbUJ1OG1adUpEcEZIenQ0YjhlNUlVdExaWHM0RXZ4bWpUX0RvU1dJUUhaLVZoQU95UXgxdlhpak9aZjJoSVFkMFJKVXlMa3hrRjJIcUhTaUc1LXpSVlIxM2lqZHRFbWZ1VlgwX2hTZkN6bFRDMHRpaGxtdWJyNkFRQWZWbVdtck9sMUhoS03SAUpBVV95cUxNSDZtNWNBcXFwV201Ui00QjcwLXgyZEJKYnpQd2tBYWZ3WHZnbWd4YVdGSzk2R2hlR1hNRWJrV1dSeVQ3bFJBTXVwdw?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 07:35:54 GMT"
-        },
-        {
-          "title": "Пока Трамп обвиняет Украину, хуситы открыли новый фронт в войне на Ближнем Востоке: что происходит и как это бьет по нефтяным путям - nv.ua",
-          "source": "nv.ua",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHAwTTFtQmZyV09xSm9qMmtyNVhNWlNiQmR1dDNOLVIyNTRqOW5lMkV6QXNDWUR4WG00OU9GUEpmaUFOTmNnVE1ySVdjaXBhd1EyTmllLVVLLTZRRWlSN0xKclBNRHNGOW5ZeENIVFlvbS1vdms2Wld2cHBxMmdFb0ZCc1RGTU9pNHhXTEwzSW5sN2wxamdsSjFCMDlMaEQ0RWtaZHpxWm9vd1JtZ0M4cnJzV3lkdkdPczRTMXFrMXhDMVpZcGQxYmJjLTRpTzBCQjVmeDVB0gHDAUFVX3lxTE05clhGbWtlVk9lUnBoS2ZzZUd1T1Z1Ym5xRExELXJ3dkxwaE1mRllvZk1LVENmZ0pGSU1uMlRYMXRQY1VBWGllMmxyc0wwVC1BdXhjcFhwc2Y1dnhpQjE3NFh3LVlPS1kyWWZBa0hGUkNUZlpEVXRqQmdpSEtEbEd6cUFwMUlINnVTVUlxcTB4b0UxZ2JaTlNwTDNJblJ1cGYtSERwUGFSZGtHWmpyWWptVmxpWWRybTNram1TSWtTLXdaQQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:54:47 GMT"
-        },
-        {
-          "title": "Более 70 судов прошли через Баб-эль-Мандебский пролив за два дня - Life.ru",
-          "source": "Life.ru",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0ZGTXJZUFBZb2xGQ2NGRi1NMTRDUW1EQnotdTVaWWM3U09iaG9relVDVEo5bGVYWXBqN3lSa1Q3NDFHdmdjQlB5V1FqTzhobXkzSHI0N19lLWdCcUhPOC0xTEFrazBCY1d6NjVTQ0VXY0JBamUxQkxqYkp0ZHZKWFFHSjQtTnJWZ0hzQg?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 22:08:00 GMT"
-        },
-        {
-          "title": "Война в Йемене 2026: что значит захват побережья Красного моря и удар по Саудовской Аравии? - Вестник Кавказа",
-          "source": "Вестник Кавказа",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2hxemVWdnZQT09laTNzanNVajhtMzN3Y25Lbk9Pc3ctNzlZYTdWc0NKR2hycFFQUEgwRVUtcXpSOXNLcG5PN1lXclZlTEpzempxQVpBNXJnUlh0THdfdmhxZFhpT3pBZTV1dGV1Ml9EWGlFWjE0OUNseWp5ZzRkeGpmQXFKRGw3WUZza2NJSk4tZkpmWTNTOTdSRmZod0VsWHN0Zkw1MDh1MkZZUTZVUXZEQlJjUjBjSkU4X3EzR3RadThhQnfSAUpBVV95cUxNY3dpYUg2VVVId3BhLU9jNmJwSU8xQTVPOTBGMUh1V2wyY1AxTDdWczVGM0JpR0R5dGZBNVJOTlZzYXZNbDk3LXVvZw?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 06:03:57 GMT"
-        },
-        {
-          "title": "Израиль: хуситы стали огромной силой после взятия под контроль пролива Баб-эль-Мандеб - EADaily",
-          "source": "EADaily",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFN3dEdYZzRoYTlOVXZMRnFuT0VfbXJGY05YRFA0UlltNms4N2ZMbU5ac1RLUGQyX0JWc0RoNHl5cGJuMTdEdTVodF9scTdPTG1jV3FSTzhIZTdlR0hNMktvQmZzdnVwTTY0RkZ1bHRDM1F3SUlBQk5EajJVa2haczRDSTR5S0M2R1hvQ0xDU3pWLTVDTGpZTWpGYklSNE51YXBIQWE4bUpmWDhXcFB5UjZqOGRfUzkxYlNIbFY1TdIBwwFBVV95cUxPc1U4RnltNmZLSTNVRjNaT3VtZDBnbGl3NFlpVkxTRkhjWjBWVnB6aDJLNXNlcHJ5OUFaaWJORU8tSFVmSW9hbUozQ1pPNUZpLTNzLW1Mc0NpODdzWjZWSmpoVlRoNjZlcmRibEh0bmZDRjJybEtGVlZ0bDJpQ0liUTJ3SnNQb2RodHhHZlllNHEyRVdZTzlBMnBWalg0amYwaVEwNWZnY3JtUW9FcnNFUUJBYmN3MUFJcU93NnBZTnNEa2s?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 17:55:00 GMT"
-        },
-        {
-          "title": "Хуситы захватили ключевой остров в Баб-эль-Мандебском проливе после того, как Трамп отказался наносить по ним удары, пишут СМИ - Zerkalo",
-          "source": "Zerkalo",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnUkpiNkJ2UkFHSlVOZUY5UkplOGF1WjB4YUh3REZDZFAzU2lSalgwanJfcWpSei1qU29GUnllZ0tDWWZDcUF4TGswbUFvcmxDOUU4?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 05:28:00 GMT"
+          "title": "Саудовская Аравия запросила военную помощь у Великобритании из-за угрозы со стороны хуситов - Русская служба The Moscow Times",
+          "source": "Русская служба The Moscow Times",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON0YtWW9FaXVrVS04NXJZUHJ2MjN0M093SUdSTk5Hc2ZZTGlndzZoSC1OalR3cVd2QlFwalRKRzRKbWtOM0dlb3FOdE0tTDNrdTA4dHo4SlNScXNOekZSYzNXcTE4YUVNYVNjdXItbS1rQkE5dGtadW5zdXVwNHdJTS1aQkVEdlFLMWpyOThRTk5fZncyMkZZNWdZZEVCYms1MlFrVlJHdHFDNTMwVmNEempWWlJkZUo2X3hDSHpyQ1c1TkJqTjBCYVRlODc5Q2NPeWNZSDBfSnhXTjl4?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:49:00 GMT"
         },
         {
           "title": "Зачем хуситы пытаются блокировать Баб-эль-Мандебский пролив? Текстовая версия подкаста «Что это было» - BBC",
@@ -526,111 +593,111 @@
           "pubDate": "Fri, 11 Sep 2026 16:49:41 GMT"
         },
         {
-          "title": "Йеменские хуситы захватили порт Моха и наступают на Баб-эль-Мандеб - Радио Свобода",
-          "source": "Радио Свобода",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU5WSjktamVGZFZiVWZtSzZnc09ibmlYdVpqOEFuUUVrVjNvQXpDT19aMDB1SlB5V3V5U0pWanFFeEhvNWdQOVVGY1hFMkZTY1ZvV2UxdjUxM1BqZGJndFJsNG9OTm9JZkxvZ2ExN1daYTV2RTZuWVE3Ym5sb1hVaC03djBkeDJ2dkh6dVFxWUtVZldjMlpjOGJtYmF5RHRMUktKWHBOR1hyOVnSAa4BQVVfeXFMT2ZoTTlRRTZTcmpKMXpCenpMd0JfNDJNYkNOTFJBU3ltOUpPcVM0TVNqdHdKejkzN2J4dDZUQlBQMVl0SExJd0N1VlpHck9xSVFFOHl4Mm1DNnFiZ1RwTkRwTmFGbXhHOU5ZZWJ4Z0R5dTM2OVJ5dF84OXU1OVZOTUIzblIza2dnUG94dFNOSVNZbllzS2cyTUs3T1JKcWUxd1BHbmU5Qi1uVV9FVHBR?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 16:04:22 GMT"
+          "title": "Саудовская Аравия закрыла ключевой нефтепровод после атаки - DW.com",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHVxcUlyblNiWkJCcVo1V0lwcjBKbU1SV1JmWkJfRnVUeVg3VWdSQ3dfMy10a3BRb0twMU1PZzhvRTduT0tJa3l3VG11SnU1bm8zT2Jja2NFbDg0SkpYNHE5M3dpa0JVT2plVHhyYjFQcXFwNW93Tlp5enIwc3hiN2k3aV9fMG1ab01xWk9sc0pTX19TRkZlREhR0gGaAUFVX3lxTE1oTTdfTVl2U0I1LTBWWFZ4UE1MMGRGM21KalR5VzhwUW9xSVRtQ0E2cEdBZEN4clN4MHVNMTJucEo5UTFoeDNERmowQzFlaG85V2REQy1KRVJ4YU12d2hDTjZpZ1JTZy1jYTAwTk9KNjdMMEFrUzRVWEM2VEhjZHNmc002UWZIdUZoTFdPVDh2eU1WR3NIc1d3VUE?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 09:04:39 GMT"
         },
         {
-          "title": "Хуситы взяли под контроль Баб-эль-Мандебский пролив — один из ключевых маршрутов вывоза нефти на Ближнем Востоке - Meduza",
-          "source": "Meduza",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk5rM2xzVFk4ZlJ6dlFrT3Y2a0tiYmxLRFdBT3VKQXFPMGtqNXNnQ1VfZ0pqMGNaRUZOdXRWVXV1T0dDUmg4MnhKWHBFbERRak1jNkZfYmZoT3FvMXpBb0htZnI1MzNlcXVWNXgtbWFiRHhlVkp1OUhnaENtRVNPN05VSjlfc3JYcVJuaWJjOHZ4eUlGZ1ZxS0lvaEczMGZyY2lxQnBtNmpQdWZzY2pmQkJXbzF1WUdsc1A5ZTJxT0UycXFrbEdSaF9RZEl6eXNYbFU4NElLRndlS0hKS2NlQ9IB5gFBVV95cUxOOVdZQ1hWTEh1YVBjRndpOEZ4NzV0ZFZjY2xaLTQ3bUVwMHdTN2E4akJPcVp0OVBLajBhY0lqYkp0ejFSYzVGNlB2ZGhSYk9YQzJ2LUNTUXd2Zy0yUnB6bGkzSE9mdVBJQmYzN0p1VWh5bkltYzY2LVRiMldRYnoyRkJmYkFKN2ZJOUFaeTZsbWxTY3UybzBMbThMbDhsVHVoeGJDMDdCSXNEeGNwUktZTWJmZmVlSlYtdHJGaV9jSVBEeVJEVXd1VWYwOHduUENvbDgzeWQwYzliZVZRSU5jMHRHVUVWUQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:41:00 GMT"
+          "title": "Саудовская Аравия нанесла удары по Йемену на фоне попыток хуситов заблокировать экспорт её нефти - CGTN",
+          "source": "CGTN",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mMV9leHR0dXVoNzBKV3VLUTlZUHFhSndFMlVDMTBRNlNvQXdUVnhmS0tETE1TdlltNDB5b00tRUsyc0dyVEZQekJ0bEhlcXJmd1FYZGZXRFBDclB0a0x2RlluSlBUSVE?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:15:39 GMT"
         },
         {
-          "title": "Хуситы заявили, что не создавали препятствий для судоходства в Баб-эль-Мандебе - Интерфакс",
-          "source": "Интерфакс",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KSG1RQnBKMFZyUC0tLUEyRGh2YmR4M19oOWZxcEZBaGFFS09Pdm40SFpQQlFTVmtUN1NGQzVBbFk5UE94SGlYYy04d9IBS0FVX3lxTE1KSG1RQnBKMFZyUC0tLUEyRGh2YmR4M19oOWZxcEZBaGFFS09Pdm40SFpQQlFTVmtUN1NGQzVBbFk5UE94SGlYYy04dw?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 19:48:00 GMT"
+          "title": "Хуситы против всех (кроме Ирана). Очередной кризис на Ближнем Востоке: йеменские радикалы захватили порт Мокку, Иран торжествует, цены на нефть взлетели - Новая газета Европа",
+          "source": "Новая газета Европа",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTNqNVVheHhleWhQQ1NaUExCeWR2TUtjVjNaLTRxM0djdjB6VjVQUzNsazdLaXJndTJBWDRDajhqY2RNUzRhUUUzLWp1OEllbF9KSU1xbXR6NTgxUWxmaGVrT0xERDBubmN3VnYwdlNJU29JY2wxcTFGeXpqWXVYRDhScXBTblnSAYcBQVVfeXFMUC0zajVVYXh4ZXloUENTWlBMQnlkdk1LY1YzWi00cTNHY3YwelY1UFMzbGs3S2lyZ3UyQVg0Q2o4amNkTVM0YVFFMy1qdThJZWxfSklNcW10ejU4MVFsZmhla09MREQwbm5jd1Z2MHZTSVNvSWNsMXExRnl6all1WEQ4UnFwU25Z?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 10:56:34 GMT"
+        },
+        {
+          "title": "Конфликт между хуситами и Саудовской Аравией подливает масла в огонь на Ближнем Востоке. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEpSU01TVUFBR0VtcU93NWVFYjdqSk1MajZUM3o4b0c0MWduLXBFQVBZSmwzVzZsRFo1UTdqd1JLTkhEYWlQNmlDVW40WmV6a2pHaFdJVHd6bm1IR2ctbm5KNEQzY2lKamE3ejFRXzVDQnFzSGFzbE1Jc25IUmlGMjVZOXpGSV93QzJwcFJIR0laSktiREg0?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 02:57:08 GMT"
         }
       ]
     },
     "Egypt": {
-      "query": "الحوثيون باب المندب",
+      "query": "الحوثيين السعودية النفط",
       "items": [
         {
-          "title": "الحوثيون يصلون باب المندب، ما أهمية المناطق التي سيطروا عليها؟ - BBC",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TVkhrZU9Lb215c0FoSEtBcXFLUFUxRHRVOGoyZVlJcUlGbGNYNjRzYXlrWUVIb2hKaXZ4UkhuQWhTQnBBM2N1Y3Q3d1htQmRkRTZPejM3ZXV0YkRG0gFiQVVfeXFMTUFuVkhueHZQRTBrU1lwWUJmUnRib3pWRGVSNDJDR0x3ZFhmWTFIR0duenV1SGV3UjVGVmVpS0llN3pqbzRhUWF4M0VpRXEyOGFoRGNNWXVuZWVySFRjWXFMc0E?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 14:02:32 GMT"
+          "title": "تهديد الحوثيين يغيّر حركة النفط عبر مضيق باب المندب.. ماذا تكشف الأرقام؟ - CNN Arabic",
+          "source": "CNN Arabic",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmp2OFBtZlY0ODFNYU5lQ2gwRnJjN3Y1TmQwZEJKWVFVb29WYzl5Z1JRc09tWGNxQmtUVVY3VDdjVUFXdlhoWTNJbjBuS0dLWi1Xa2RKd1VjeFlyQ29JSU5KWmUycVFNSHd5cEVlRG1QRzR2Z3NSZGd1VTdJR2l3aVlXTlhmbmNrRGtlOVNGaHM4N3VyWWNNemE0c0loV2FaX0E?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 10:23:23 GMT"
         },
         {
-          "title": "خبير علاقات دولية: تحريك الحوثيين يستهدف السيطرة على باب المندب وتوسيع دائرة الصراع - اليوم السابع",
+          "title": "جزيرة ميون: استيلاء الحوثيين على جزيرة بريم يعزز سيطرتهم على ممر حيوي لشحن النفط – الغارديان - bbc.com",
+          "source": "bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85eUF1Rm5qNXdwSzk5R3lrVjNhZHZUMm5jNkR5RGFKOEJZRVVaTVY1NkFqTm1nMTNaYTVfNEZQVWhkOHdWeDJSR25oTlhBTTE3VTBsTkI1NmgzcFYt0gFiQVVfeXFMUFlhZTNpcE1hcEVnT2tsNWU4UzJ2Wng0QlBlZXdHcW13Q0xZb19vTVpaTzd3cEk4OV92Q082aGw4NXlVU2ljOG5sTkpXOEptYTlnMWc2c1dIeUtsejl1QXNpQ3c?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 13:05:56 GMT"
+        },
+        {
+          "title": "أستاذ علوم سياسية: الهجمات الحوثية على السعودية نتيجة ضغط إيرانى لرفع أسعار النفط - اليوم السابع",
           "source": "اليوم السابع",
-          "link": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPSjBpejNYSklmY0dkNUxPRDhXTmFTZHBod1BISS1SdFR3WFhnb1Nza2ZvT3RJemdhYmhzQzBGTzNzSkhQeUNlWTFIWXdBc2Z6WWpIeHpCa3M3dE5WRFNCWUdBazdoTFY5Y2I2Y0lVbVQwbjVWQmFnZGkyaWhZVjF0bVhFbmpnbEdFTzJsM0xPRzBnRVMwWWFtbldkNDBTWU14dm1GR0FZTG4zY2RGTHo2MHlfcXlwa1I2dldCN05nd2RQQmVvOHdjd0huV3JuUWcxVXVocml4enRhZjN5cEI1WXZXaUN4LVkyTEdMbXhrcE5KVVExY0YwS3hjdVpWbS1GTWk5a3gybl9qamRYTUVNakVEZGFRRlVJbVBQTUFQQlpNQjhkeDB5ZWVVZTBVSS01dFllZnNoZHRiZS1XYWQwZmpJQWJXZGRFRWtsdHVHaWxJVkxnQkhsQmdQdHVYemVWRFE2WXVUdUQxMkYwZVpvcE9wZ3hzM0J5Tmc5ZDM2SzktWnc2eF8yZFZKVFkwMEVHYjNFWGplWEc4aDh4N0NodHRKWnpPcDc1VG4wOFNfTzVBN0NHaWtMWmx5alo2bUh1NnhNNHhWbHN4b1IzTHRLc2ROa1hqY094RE11NjVKZE5FdWFxOGpZUldiS09XT2UzOE9GYmE0SkRiVXhJbFFUZGNYR0Z6aUQ1cHVGOXVR0gGIBEFVX3lxTE9Selo0UG1sX2M2WEhOQVpLRVh5dWVQMlppZmQycGN5dThpZEpUQk56Vmt1dHlfY1ZEc3BEQnpVMU9sb1BGVW5oQWJBeVZiVFA1clNNREdoOWV4WVhnVko3eWltWWdwUmZLcXNmTlVqc3dnRHhWSGJIYmRfbXlYV0xsQ0pNOTdZOEZ2d3FDQ3pQN1llcVNZeF93TmlJcFVKXzJzcDI5TW5mU2hwSHYyZzB1cWNabTY4NzRMQ3VuLTFZNzc4WjkzNTh3LURMcEswWHp4Sko2eG8yNEtTUDNZVlA3R2NKRDRibnphZklOTEQ3NlNJb3Z5c2ZqcVVHalBVRUFJVHh6RXJwYVZXT3BKUE40WVBYUXM2YTcyS2pEWi1Obm9UZTI5TkZXbWtldGxfZ0c1SmExZ2lhbDVYdmIxOVBHalE1V3F0UFpiOFNFd1gzRE9BRENGcjVwTDZlZ3otMlAxUjFFQ0w1RDhsZWpsTzNSYVVPUHJLN1V1T3dyRVJPTWpsb3NVT2RCQTIwdjE1Q29QVHJaWDJ4YThzYkkwWVRMbmhacnRyRDMtSGpFc2pkQlR4VEtoSnZsMHhFaDI5Qi1SVUI0QXJDNlZ0eUNVbVpfRDRxekk3MWdiY0Q1c1otMWptNDAtSWk1UDh5VWRUdWljcTBRVG90eFB2Um1hQWU3aU1mUkpCZ08?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 09:00:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQeDNaTjdVYjZrdnc1c2lKQWJ2SzBXdzduLTcxRmFVOGM2ZHJNNGdCLXRqQmpmc1hFMHcxdXJMZ3JoaG9aVEt2WV9SanJ3N2duaW1RTUJJU1VhekFtZ2xiR1JfeUFUeU1IcEFWenJtemo5VVZOaEEzVW1sbXFHZ1BsbnNRUDRSWEY1ZmN3VFZxaGE2ckRod1JiRUxDN1ZCY0t4aWR2SmVqdWI1N2w0Q3U0aDMyR0lmb2tPSUNEMWkydDVaaEpNeDZ1VXpmdE9rTzlkZDU1SWpxQnE1MXM2cm5BcTk5dHNLRTBMeG5QanBRTUtacC1EanBIbkVpZVl4Y2dHY3M3dTlsTE8xcXd2R09MMzlPak5QZHBmNk5IREVBQVYxaVoxa212YVdEWXZXbHJmTV9MbnY1cmNMWkhxcFVEd0Y0RGlKWTQzQlBhcjB3b2VmVll3dGtwVXVQT01TWmUzendHSEF0UFdCWXVtRzVHUVBQWlE4WFlYQXFLeXJ3U3ZEbWdkMHN3YkliZkxPTE5aNTF1NzB1VTFuRmV4Q2xVRUhZclcwbU1wZ3hNY3ZVSWdqZ2Q4RHlORERKaXJuVVBHczlRTm1vbHN3UElCUmlSaHowUkRrNEVyMW4zbm9DbXZFME93anZYR3JIVzk0YzZOSWZxVG1yUHBBcE1yTnhINVIzZWd6UnJvQTB3M2V4cm00a2xOSVHSAZAEQVVfeXFMT2s5a1VtTTNXUHdUaWI4VWdDaFFCenBEYTBGVFMxUHFKUU1HN1lERnJkUXdZbXdOZzhOY0M1RFNWV0NPMlM1WkdOMGRjc1VMUGZ5X0pod2JEaFgyTkJwSWpxNE55UFZrS0lhZHpzQnpzVnQzMWV2T2dIZUNhclkwUU1OY2lBTUlIVFQ2ZHQ4RHZYOHA2NXVTTEc5X2lSVGpVQy1XbVhZNVRqUWd1LWhHamVISk12aVcybWtqdkpxeS1yOGZxLXZENWxQR3lsX3dPV3ZYT3lHMHQ0WjMyQmd4RFh4YVhTSERGVUIxZXkxRkwtb2RmNmJCcmhGenhlUjlKa2FIYnljQXg5TmdSaUVxTXo1SFNfakpjZEllWVFSOEY3Yjc1MkNURElzUWJDeklENFA5azlJclpvQVZBR093U1gyTmhtSWg1d3FmN0dwWERfbFZkR2FhQlcxN0pzdUJ6MHZ3UFpEVHVOdW0yQUZfamg4LUZ1Zm1MOEhFd2xPMUlrN2RUQUM2OUJNejBDdTF1b2ZBLUhUUnlIXzBuSkhUUWxKMEFCcTJ5QnJZWEIxOEtrOERUWm8wY1g0TTEyUGUyS0JEMDFkRENGekZkeHN5aDFQV0VnVElMdXpXaWNHQzNJTC16V3lwai1uNnZIeVBVVS1CUGEwSTNPc1lfOWJ4aFhybDVtVFlIc0RMOENDTGxf?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 11:00:00 GMT"
         },
         {
-          "title": "\"اتصلوا بي\".. هل تخلى ترمب عن باب المندب للحوثيين؟ - الجزيرة نت",
-          "source": "الجزيرة نت",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPQ29pRF9jb0YyUEJ6WTNtMGs3bTVaQXJBNTdDRnJTelBuUDdDbnpuTUM1a0RzSUlLWXVmNnYwT2FWNzdsVWVTMExZZ1hwZjFScDZ2c2MtNGdMS2p3U0tKRkU1TmxRZjZqNDFQQ3BRemJucF9mT1hHb2NoT3ZPV0VJX1hxUDNqbkhXcDFBaGtoWEYtUWZHQm91eEY3ZWxHcV9SY3ExeDJQVmotUHBxTUNPclJOMTFmbWRJQUQtUTZNMkNJX1FRR0s4TEVtOHdJSjVHdFNRSEQxaFdPWnNfQ2h1eHRVaGZmV2dmRzB3Y3JERWFxWnFkbmtadVl2SE1QMF9FQ3l5X2pwb3pRdExMSFozbzZfaVdCZXRuSXhxRlV2RzR1U1RtSjU4ZWxHZndfZDF4eDd6WHVJc2x4OHlvVXB2cnN3LXFfZ2pucnVVU0RvQmczaDlhWU55SHJ30gHfAkFVX3lxTFBnNmRzTmkzakZBcU9OdlJYVVNoNm9sdThPd2F6NGRmcnpPbUJIWkRoWHF6ZG9lQ2J2Nkh6eWxKdlNGb0prbDZfMWhhUnd2bURjOEU1X2FpcEt3MHdLZGxVY1RUV1Bua0k3QXphNXRRM1huUlV2UDg3NUhaLV9USFUyMVhXbzlTOHRJalA4Y3dTYmtjNlUyNE55a3QyT3ZUcThPbmg3RHFOTGxNUDU2M2pON2ZGRnY3UU9RRGRjaXNkNE9vZ0NmMGE2cGxyUnFiUmZySWxIZDI1ellTcHFrZ094X0pqQl9IYnNWOWQybmE2Rm5QN3dBbzgtVFpDOG9CTW03Z3FoUlBIaXFfVlgxcWI3emVmNTVpb2JaVTdwa2xCLU8xcUlucmUxcmdyQlNZb3liU2pGRXUtT0lUTUdKVW53bThYUnNwenNVTUlmdFd3R095RzVLRXBSQ0hNODl0Zw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 19:34:25 GMT"
+          "title": "أسعار النفط تتخطى 108 دولارات للبرميل لأول مرة منذ 4 أشهر - Masrawy",
+          "source": "Masrawy",
+          "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOYjlOSWlLZlF1aU80aGtVbXUyVzRfRzRGVF9mOUxWVFM2ZEVOWG9helpQR0h0RW90dWdwb1ppOUtFb2dZWmpkWlY4RDNDZ0l0WUJ5a0pDXzdZZjNkdGE4Z3lla2M0V1N3RW1jS01kZnY4LVQzNEZIY3FLR0NtUWp5QTMydTY2dURCdHRfMEYta1JVVnZKQVFlYlpoZmRkZFlhV0U2ZkVndDhYNm00Y3BfQzJybWtQejVGZmpDOHZoZXdqNXFnYnZ2MkhUQzcyZGVHSTdCanFsVTEzSlFGeUU2QW83TnZzM05kd3JQcXZoUDlxV19tMzU3VzRIUUtFZ1pKVENLUDF1cE81cnNIdkltY1hlcldxOG5faDNXNEpJaWlUckhLd2U0NDFvTEtYbl85TGFTY0FwRXh1a2JhMGRUQnBpRThZUy1oOHZBM2U2TDJCRTlQcThBZ1JWTFl4ZDJwTVJQVkZLbHlXNzd1V0lCcXBRajJjNEVkd084R1ZwSEhnU0luVWl1UktsYzhxaFg3QmtDdmZXRG9CVzNlOFhxVzBWUnZJXzhIU1BYMEhkWWNENEdMbGlTaFJHd2Z3UEdrb2dPbHNadGgtVkp1VDhURkhNeGllc2VTc1F0MUN1cEV5d9IB5wNBVV95cUxOMDI1S2xGUUlnaVZod1l3cnJPUzJIeF9VdDY5OFBTTVpaT3hnbTN2VFlabDhXVEpVbnNPVVdkaXVaU2lqaEtsNDZiT2ZNYjF4WTVOdVFMNW5TWHpOUE8yR2FoajlVREJYTEV5YnRka1kzcXVOYXJGcE1OQnlZaVJsR2M1clFxXy1CcWNTaUJ3Y0dsanlDdEhJNERYc1V3ajhmSEtLMWNSa3RYLTRtR3NJNXJVQTZsOERiQ3NWQlBxZ0xPdEtDNjU3ZmZIelFWS1JBOC1LeXRTR3BlX3poQU5jN0VpalZZbVFUeWk1a0RRa2RxNXIwUlpBeEN5YjhkdXdUMUg1OUZ3bE9KN3VyLTdzWTcyYU9lOUhaMFc4NF9BRkNldXdQdUJuUVNXZGYzLUxiaHVHcTJxbkVoZGhwOU1ZSnVhTm9ZVDRvRGxTdjN1a0IwUUxwNHl1clhLd2s4Q1ZFOHc4VF95b25RWTZnRnRKNXdtUFo0OWdRRTJuY1BoT01LSDVVbFpaazF4WC0zMXdFV3k0Y3dNd1BqMVkwWmlJOGNRY1lOX2cxUWljbG15MHdMRE03QW5DNGNmUGpZdGZma21PQVVpRTFzQ0ttcWdOWmM5dDZQYXVJMFVOUmZJNFAyMTN1dVYw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 12:03:48 GMT"
         },
         {
-          "title": "قناة السويس: كيف ستتأثر باضطراب الملاحة عبر مضيق باب المندب؟ - BBC",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4bTFjbEI0TU5renlobnRDWG96LVNFUVNzNzRiNHJsSTRVb2NqN2h3UFlNcWk1WnVNRGVZTmQ1aTVzalBhT0NJckZSODMxdlZ3OHhFRV9PeWxOR2x30gFiQVVfeXFMUDkyMUtSU2FtUjc4S1RRVV9GZGhZbUNIclJvVFRHWUhyeHNTOTQ4YVl2RGRzQWQyOFVvN25zRXdtbllNNGh5V1pDZ3N4RTZ3VXVXTTdqMXpyYkI3bmpqMjJHOVE?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 06:59:34 GMT"
+          "title": "السعودية توقف خط أنابيب نفط مع تشديد الحوثيين قبضتهم على البحر الأحمر - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15OC05SE1KOWlyVi1iLVhIdmJxalZKTEg3OVZJRnk3UklwdXR1LWtFbmRzcnRUcGs3V1hwNUtwMUY5Z0xNUUlrY29WeVJhWkN6MkxWaWE5WWpTcDJCeW5ObFVWcXFlOTA1WlVJVVpPVkdyRnJoMHZaTnJCcw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 03:20:02 GMT"
         },
         {
-          "title": "تحليل: كيف أصبح باب المندب ورقة إيران الرابحة؟ - CNN Arabic",
-          "source": "CNN Arabic",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGt1Q2lSUHZ1Ynd2QUM0N2hWR3c4eFJrZGlhRUx3X3FQRnlfeEZ5YllmMXJGVG9OS1NPSVQtaXd2MC1kemxCcnBHdGJjbXhWZUhLdUlFRXNOU3N1ZXVfLU9MR0hNdnBsSlg4YjY3cjdlbm1xaDI3aXdKMnVwRGtSbjBTV0IxYXo5aS05ekJJVDBjNEd2QUNReXpMeHpLd05lVFFNanJkbTFmTUNtMEIxaXE4bjdqbXhacXROa2gyRFNJY2xVeWc?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:07:33 GMT"
+          "title": "الحوثيون يوسعون نفوذهم في البحر الأحمر ويزيدون الضغوط على السعودية - France 24",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPbGtUWUg5bnFQNzJSVHVsa1NPeXpiajQ0QTJPdGQ4eS1odGU2dml0bklfVVljeUh3NUpXdmZBUTB2UnBqNFdxcGJZYkF6anJ5Umhxbk94YlRNYkllWlczdWNFSllocjNRYVBnX2ppcTZpamN4RkhwcXBMdWFaRzI0anRUSHFzaldsaHotbWtfLTVTM0VnMkdnM0dwZnE4dU00X2dWak5vaFRCTS1BaHFMaXN2Nnp4X2N3ZnZnX1A4RUlVc1FtbExTSUJVdnhwSG40NEhHSFRHWFc4cTY0VXcwcWtUbkVUQ0RZOEFDdktMX1pVeHhBSzhwd3o4b3cxTHNPYmlEUDBRd0E3Q043TEkzRVNlcl94WjFPRFBPOWVlUXJjRmtaamxGLXhRMVVQamNMdWVtTUhIb2VFZGxoQVJGelQyS0pTb3NmVG1HNUZLcGVGWEFUREJSalNwNDJUUFpOeXZpTUhVZkl0TmpVc0w2NE9TUTREMHlsd3MzM0JMcmZRZnBYRnJOSHhVTkt3UXpvZFlJZ1B0ZVBtVVhnMDByV25taVVOUWxlZXVLSE14NWhvODkyX3BkVGZQdXZyZjJRbWNKckJsYldIellWYXl2SkplS3RmOGtQU0V1ZFVtQkZTUmNhVjd4ODFlTEJsU3hNT3dEekdFb050clRQTk56NGg3M0lkM2RSSllLcUxQV0UwUXRPSmtjRjJuZUl1N2Q3R3FzSEdXM0JrMFQ4WkxhSlF1Q2hObERKM3YzT2dHX1pFM281Vmp2U2ZYbw?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:28:51 GMT"
         },
         {
-          "title": "تطور ميداني في باب المندب.. الحوثيون يسيطرون على جبال كهبوب - سكاي نيوز عربية",
-          "source": "سكاي نيوز عربية",
-          "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOZ0xnMEUzak1GNHV5NExrOVRpS1FjMENLQUZnbWt3TEVKNl95QjExb0ZnQm5zLUg2Q25iazNQRW5od1Q0RWlmUHBZQUdlTU5NT0JsTzBGTDdoanktV1ZTamNQSUN5LTdpN09FVVVYd05MRkFHdThwLV85bUhReU1zNmV2d201Y0xMVktYNm0xUU5YWTI0dFItU2FySFVNUDJnbV9rRXppTGNrZWNOZS1RYjY4UzVTdUsyRDlzcWNUZm5LVlY5MFNsa1o0NVhrSV9mQ3laNXduMFRxWkZwVmFVN28zY1A4MXN2eEtHOXlyVlpLZVNWTmczaXZEYWRsZEhIY3pWT2lfMFM0U2tVVGREeDVZYUlZYV9DM2k4ckxwM0FHSlZTNm5jUUl3T2lJTDdtVEw5V1BKbzk5OGZiRWc2dVdyUUZ6dTZ3VE1kRHVlOWpyWk1OQndOd2xaRWttMUt2ajQ5a085RWRwaDZZZC1odjVGMnlKZGVzUlNOWHJLQnZlZHhZTHJDREE3WlJvYkxzY1A4UXYxSmxFc1N5S0ZwVTVnNkxScjdXMXMxNVFUcGpZcmNHSUlmQmh6TWVRLWs10gHGA0FVX3lxTFByVUF2bmR4MFctaVNadTMxcTVjQ0JncjdtQWZCX3d6VmhJNngzeWNnNnBleXEwc0VpZUNVcnVzUVhuSVFVMUUzWGlqSnVuNVNJb21MNGFYcWh0SUV4Zk03Q0pEZS03d0U4cDVJRFRCNzlhZHp6bTV5UmZVMGhuNjBKazNOVnFNaDZZY0hRbzZBWWwwTURPVjBuekJ0RGNWN1FfQXVvTWViaTg4QkZ3WTRHaFFjay1uaXB2OUZ4YUEyWUoweFJHaTRFQkJScjE3YmVxX0ozdmxpY21mOGxQejhEQ2xreWx0TG0wdnp2TkJFSUtrdDVDUjNEVzFEeGJTRmQ5ZUxEc2c2LTlpbkFjOGQxaFVYOEdjc1ZkWm5MQnBKZlUxV1I2ckhhdUZ3bWdremN4cGZxT0FtWUFEeTBOWWxCUjNEcGM5SzRfaGQ1akZDSDVDdVFhOEN1Q0tKeHVWVHhrNi00cTA5YUZyNGNXMFNNU0QxRlUwejh6cDc0bE1mZm9QWTNZUndMT0xneDctVWZ3cmpHSjg2aThKNHp5THExUXRMbGlqZ0lJQmtVUHQ0MjNycEJPNFRZTlBJeVROMFFNTHdhY2c?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 05:43:00 GMT"
+          "title": "السعودية تتعهد بالرد \"بحزم\" على هجمات للحوثيين... - جريدة الغد",
+          "source": "جريدة الغد",
+          "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPQnRUTUVfVnlOMVEzckRiaWd3ZFZDdVAtZWx4WWYwWTFiUzBhN0RGekFJNlFwMmlkZ3haQnROdUNEU0x3blV1RUp3X29ibWZWWGpCR3NXUFpZOHlVTXZaUi1ydVhyUHYtMnNya2JHeENqYVJ6b0Rnd0l5blpOc2s1aFc5a3hQd21zdTZma3FnSGZYSFhIdFVSbUxVU25zeUhSclNSbURZWUVwT0daLUthRUxKTWJ0Qy0zNFhFeXc0dHl4SjV0R2U3TXJFakRBNjFreTJvdVdmQjdkSnJneG5DM3BXX2tUcm1YajBjVWV3R1ZTd2Fsbk5GM1ZhTDk1N0JJWklKODBuejVrRmhMSmlrRlNYcmdZeWxLLWFFNzdwZF90Sk1HbFo5QjI2TUhQb0hXVm8yQjVyYXBTVTMtZ0Jvd21fN0FfNG12MmFaNXdjVDlEelV4TVJiMFBHaXNSS19Ua2cwVzBJZ3I2VG0yR2VEb0p3V1lZSEc1RWI5aXduZkhtRmJXRVk4bjRMNi1Xdi1neE9LZXN6bTNlb0FDRjRaUGpaYVRxM1I2QUE0Q3E2Q2g5eXZwOUNkTlRFeDJvVkYyNUJiNGp1ZFNkdjFKOUR5SXdaZUQtZWFhX1U0?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 05:30:26 GMT"
         },
         {
-          "title": "مصر ترفض طلب الحوثيين التنسيق بشأن الملاحة في باب المندب - middle-east-online.com",
-          "source": "middle-east-online.com",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOUlNaYmpmazY1STZxRDE0bExlVHNaY0ZPdjc1YnBFN1JIbUdLWHhfZ1J0cUdvWWRkblFmOWM0TTZaZlZTV3g3N1lVd3pad3M5UUtqcXFnR0QwNHd0WHhObTBveG1xeW1INWI1ejNxaFhZMmc0OWh3NzlXaTR5bmdQMU9heXppZzQwNE5BRnRGWDFnUVFfZFdXeGxXUk1TWWFRZnpsUW1tVTRLUV8zY291eU9yVkhUNEN6dVRJU0dxbFdoZzkwaW5qQkNJRTNneExVdUN2Ui14MGV6XzFWRmp3RDZ2RDA1UlBpOVc2b1dVeGdCUHcwNWJ6THd0c0k1V05rSktId3g5UkVMSjVSQ2RYVEEtT2Zxek01QlFBNTdwNTVpUUE4REpJRU5WbVdBQVZsWENyeUN2QWd5ZFRMaEVBV3RqUndPR05BZWlPcXh3WTRuUS02bHkydlBicGVpWEZOd1JsVml0Yk50VjhQbG42TUhBa1R1ODc1QjlwT1ZkUkMxcW44RU1LWUV2NWxoTU9iVTRPTk03VjI4cGdVSVdyVXhOU3V1N1FWYkZFQm9mT0R6cFdaTmNhckw1bzNTb2YyTEc0U3laeXZvUQ?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:09:06 GMT"
+          "title": "النفط يشتعل فوق 107 دولارات.. خط سعودي يتوقف و4% من الإمدادات العالمية تحت التهديد - بوابة المصرف",
+          "source": "بوابة المصرف",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQ2s4Ni1HSU53b3ExN190YXZMd1hKWEprWUxMRmhBTUdfWG9hYjVLVENGOGxZNVJ3bVFsY3lXZm5TX1AtVGxhZE81LWJnWU00ekZZalFLMFRoYTF1T3NOU1NnWDJrN0JOUHZTYmpwYzNncFczNHM4OGsxOU90ZFVCemFpaGt4U29URnMxWEhBenpoeVp4bkV1VWdFYVVvUEliVmJFdFdaQXBUU1NzN3NlUXFWQkVqT1B6WW1DOXlHRlQ1aE9YaklBZjR5SEYxbkE5Tk9LSG9Dc3QyaU1GdXVFdjhsM1JIZWNobHkxZHh0T1RrTVh5MGdQNUhnVjJLMWRfdzcyTkRyWlhHM05pbFhheDh2ckVRaUxuWnRoVjI5RU04YV9ha2xHZlhLRlZ0c2JkZlJtQm4wdzBNVUFGcUlGdlhLWWtZUQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 04:51:22 GMT"
         },
         {
-          "title": "ليست مجرد جبال.. لماذا قد تغير كهبوب معادلة باب المندب؟ - سكاي نيوز عربية",
-          "source": "سكاي نيوز عربية",
-          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPOXpGc1A2bFpNcjIwWXAtcG1BMmxlV0FKREhfdWhuMlRISjZTRl91a3BpREUtVDVuS2NkSzEwSFB3RjZYeDZ0T3BEM0tNRm1ORXplaHJSWExzcDBOWEo0SmE0SVllMDZSOUdjUjg5OUY3QXFtZl85ZURuUWdTWXU5S2NUQnRxOXRBQ2hvMENMYW5mLUViUVZWdVVPaXl0REEtUXJ4elFGS1BaWk1iTHNKV2F2dWNTUmFseEJqa2dzMEdxQXF4UTE3b3ZRNXozYVFjVHFsakFKVzhtYjZrN1I5UkJUejNRUThPY2xVeFJnbzkzdVNTMVB2OUtEaEZEV2syenZjVjZsMVlEYThMQVpJX0hxLTNPak9ScmR0dHFoa0ZFTDl1VXBTcUJ1RU5vQXptcDhFeTRuQ2hJT1BBbU1Sby1RemlNM09HX29YNHZrZlhQLUo5cXdkc01mY3FRcXJIblZRYWJsb0ZrUDItM3dmMkQ4a1Brc0JDaUJvempUX29ZR09VY0xUUEpaMGFjeXZsSzRlY2xsd1lrUzczQmR2NTg1UnlhWk9xUi1DalBwT2Fyd9IBtwNBVV95cUxNR2NVenQ4b2JfX2NTVDVmUjkxeFlWQ2VZUkxPRnppTi1xTFZESERVOVBOX2hKaVkta0ZWNERrS0VsUW9kT1dRTEd6b2djUjJubkFnd0Fyd0ZKZGlGWUl0QWNmUDJyUUdCQktDUmNLNlFQWnFFWDdFTFU3WTUzTVFRdFBsWWc4VlFrUDY4aU84dkRoT0ktdVFSa05WaHMxdkF4MDVvTy1BUjB0cWY2NDZvaEZ1bk1HTXNIT2VWZWhiRTZBcVV5ODVtVzRITGF0Yko4N2pWdFU2cmE1NjljTlNOdEVHaGhhU0xqYU9uaDFHbmlfSmU4anVINnQ2NzZsQ0RXUHhEWTFoRnpuOUpCdWxQWmdlUVhXRnZveVRoWVd2UlZmck4ta2Nlb2lKVEdQUzNQMlNoeFRhWGwzeEFESnlWMTNGSk8zRHh3eDBoRHJIRUJsQnR5WEhYTVhOZU1zRU9lZGlYV0hDempDQ2NIQkFzOTRJb1V4N0NXRWF3VUt1a1FuaG5mcmJ1T0ZqdHRKTjEzN3ltSlROUXlnNUdaWW0xcnJlTVNoTXpkbW1rd25iWWVmdjc1Nlc4?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 05:49:25 GMT"
+          "title": "ارتفاع أسعار النفط مع هجمات الحوثيين على السعودية وتأجيل محادثات هرمز - sa.investing.com",
+          "source": "sa.investing.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96X2RmTEM2aTJHMms5WnVVQUNiVXNPZ3ZtQ1VaWlZoc1BuRmU3cU9GaEdTR0czNXBoenJublZtZ0pGTGVEUEF0czlBeVBWSlV5NEVuWXAwQ19zRmgyR0VPRkNMV3F5T20wSVJlYjkxWQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:55:00 GMT"
         },
         {
-          "title": "الحوثيون: الملاحة بباب المندب آمنة باستثناء السفن السعودية - CNN Arabic",
-          "source": "CNN Arabic",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWHBkZkdsNUs2SVlGTzRSa3V5VnhtYjhESGJ3ZXhtRVpvY0xtR2tTWWRTbW9keVlYWmkwY281ZjVwTUpwNGFvTVJZVFpvdGxLWjlOWTFLTHZwbEVxUEZFNEZTYzVXbjE2cEJUb3lwallPZWZZQldLZnZZUW1GMExEcmRQeVZ0d24xNVRkdHl3NDNnY1NhMDM0YkRSZWJINTczZUpGVWtkcUJVZGVnaEUyMG1tczh5V0JscmswSHpVbDZqX0JpcFHSAdABQVVfeXFMTnZZMEpzcnZiX0FlOWlaMF9RWVhtVTdTc19oRmZDd2xHX05CMUJSampLQVVWOTRKMWk0eU1QZldKbVdaRDZlcWVoRFpIV09EdFFvWkVsLTllaE5wVVJOZkE5bWUzd3lLYW1sSUhFRmFXdGxaclRpOGdpV3ltWU1JemE5Zml2cUQtRzhjVDEtZ0JGSjEzS0M2dzAtOTJPN3EzeHJ6SjNOaGVZcHg3N0k1ODdYNzhVN0FRR1RaM3ptYW1MN1JER1NXaWMzME5RMGVnNQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 14:02:55 GMT"
+          "title": "السعودية بين فكي هرمز وباب المندب .. إلى أين يتجه النفط؟ - DW.com",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxORmlVbVpKdzhvbTdSWjBqaGoxTnhFRm1UZXZSaXhsYmlIcXhQUGRKX0JrYXFXb3pXcl9jNV9QZjFzRzdTYXQydEgtemRNcW1fOVhYOTBXR3NJUGV3ZzBEaDNhNllWSlM0bWpCal9YZ1VJLVZGeC0xM3RXcWg3bUVCSmtqc21ueGxkOExUMzFHMEJBdmZLM0VzdGR5NEVXVzR0UmVQQmVhNzB3ZlNjelVQdGkwWTNSZ0pyT2VIWUE5cW9RcXRPeVdVVkw0SWEtckdCQTJUSEtpZEI2T2tQb0RjNzRLTV9veC1wNGs2N19JeUFIeF93Q0haUXFINXNHVk5tc0k4QUhLdzFXcjBTQloxOXEyeVh4S29ScnhibExTd3NlMndaQUtKZlgyZ3p6cEUxZVhoYy0xMF9YZjN2R1oyMG9NaXFHa1BRaHAydFRDZjFPazJ1N2pfWlRlMHJ2QW15WVNuOGwwOWtmak5kRTRjakhwOUZkLVRIOWhQVWFscEJ6bU1LaEx2aGZMcVBBZG9Uc05kWnNDRFNLZ09PYVF1TTVwSmsxSTlEX1pwaFZTMnVXc3BnR3BlRnhEX3N6SnI1RVBhRVNiWnN0WmNmYkHSAc4DQVVfeXFMUDE2dk9Qa08yN0hUV3doM19QaTRta2FoSndkQUhsTC1vaFJxT3JJNjlMa3J5Z1pTU3dob2ZST0ZCMHRJQk83aVc3TFhBb2J0YzNfVksyTXQyeUhiM2tGbHF3Xzk1cHdDVUhvWVFDM1o2YWsxWnBDU19hWEFMOW0xb1F6SUtGclNpZnhpM1V1MExBUzh6d0dQZGhZQjEtSjE4aVNwbjhTNVNjX3RJdV85UDVfaDBpenU2bnNaelNZZjVDZUp2Z1lkQjF6eW1palkwQ0hxX2hxRlFubkZ5ZFJYQUpZMWVsM0QtTm53TkZBYVV5TVFMY2hRNVkzQ1FSbUNIYWZJSmpYNXZYcER2WW5Td1JZT3NPcF95OXJNZ2RBQUx1ZWg3UGRiMlFXTzZuQ2xqQ1dCU1VfZ0dQSW5zbHRyTFAwQm9CMkVoYzZ1akYwenFwcGladHhUMkk1Sm9hNFBHVFRWVGo2Nmk0LVlBaTd5QndXSHNSRWlWNjBQRUxXLUh3ODhrS0h2OVNRNTRKUC1MZkY5N09CemZxdVpaa2NBVmJfbklXVTFlSlRuWlFKTHpVZXV2MUg1NXRfQ1pvbC04S0tYbFR4R1RfeC00Sml3?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 18:51:11 GMT"
         },
         {
-          "title": "كيف قرأت إسرائيل تداعيات سيطرة الحوثيين على باب المندب؟ - الجزيرة نت",
-          "source": "الجزيرة نت",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUU1Ea2pOZ180T3FqeWp4akJoVkhqZjJRUlRzU0VBdkIyUVM5ak1vbGp3WmZKRGRuN3NUaElqUVFVUW0tdUdYNXBYOXdTWG1QM1BySDh2MVFHUlZOQTZTanV2NTBmZXlEeXh1djJSbkJwNlgwZEd3V0Q0ZXJ2YmdNZElCS0ZhemtBekhmY1d2VWVQcXBtc041b2lGdnUyM0paUkx0UXhPY3p3cTNkTkpUSW95aGYyOXBkRnByetIBwgFBVV95cUxNNHhnTHRrdGtSazRpXzFKOFRCYV83cVpQZVI1dWZabzVvYkNVMWR5ZEpHNHdwYXVuS3owdDEyM2pIcmNtcmE1amRuUlB6Rmg5S004Slo0RlRkYV9jX1RialJja1pQdzlwekpXY0EyblhtNTJaSFMwOTh6aGRIQTFoQ2szMHJJUFJjbkVibmlSaUdxemltTlBCdXJtMnFUQjkwN2xzdXZhUEh0Sm5SaGlNT3pXUDVNbFNfdXNmUDJUVFRhUQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 20:43:59 GMT"
+          "title": "الحوثيون يصعّدون هجماتهم على السعودية - ANHA",
+          "source": "ANHA",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tUWFoX0YxaHdJdm1mS1VVX0pGSmlTOVFNTFduSVhvaUZpbzVOOFJscmFJU001TEJMZ2hsc2FUMEQyOXg1RVE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 06:41:30 GMT"
         },
         {
-          "title": "الحوثيون وباب المندب.. تهديد جديد للملاحة الدولية - سكاي نيوز عربية",
-          "source": "سكاي نيوز عربية",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQMDVqanhMWFc2dk4tendaYmpTOVp0THoxbjdBSFpsQnBpX2NVbHBHQlpTWXdMelo0MVlGUnlVUndkUGo3eEFEc2twNlFkQjdiX2lWLTUtMzZ0eFBFYlN3N3plWThpZzNQNTRSeHlxSndwWVZXeUJ3eTI5T1BCLUVOOVhuMXhEMUxHOWYzZFZ3TDVnYmVoVGxMMUhrcl8zeFU3NFdvQXVlOFpTS1dLWm41TjljT3lLanZvaktTb3JSdHNyMVdFNmlYeEFBRWtoOHRSN0k5YjNwM18wQWZjeDE4MC13eDg4c2YxaUZSeUJtcG0yNzhMaW8zR282c0NDS2xubWM3ai12YnFjbVNCRVM1R3dneVRVV0s5TFlqcmJCa0VNT2hGS3EzY0lPR3N0Ym5nU1BjeHhMLUNTemRwbUl6WmVTaDhxMG1pR29FU1doaTdlMWVtSXg3TERKVG9VbVMwbmtJQ1kyVE95aEJSa2syM3c1STJoc2Z5QWhJX1dLQjZoU0ZQTGM2NlQxSFluT0VuaGhEOTFWRUdBeUlJRWswYk90cEIxX2NlRldZZWVuMEl3TjJtLUE?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 23:59:12 GMT"
-        },
-        {
-          "title": "الحوثيون يضيقون الخناق على باب المندب.. ورفض أميركي للتدخل - سكاي نيوز عربية",
-          "source": "سكاي نيوز عربية",
-          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPLUhYcnRFRnd0Z29xb09fYzZYaHRCQ1pxZWVwS0taRHlzajU2NElLZWx6RElGR1FDelQ4dkc2YlJSdmRqUGRsMnNpRUN4b2RUcVpoWTRyVTM4T2hTeXNrUGVCZGtUb2QwcGd5T1JnUy1QVUo5LWdMTWFpOVN0d28zUGY2amFLWUY3cGk0clR6MnIwWjlnY1FmUVBlbWZLOTd4MldjTVo1VG1uVThPM0htMkE0emgtTVQ0MTZJV1pZVzU3OC1xRXFFMlNjeERwZWp1NFA5d0lGMERsOGs5U3RTRGpxRmJtdlJIbkVvdVd1MGh5MFJBdGhwczVpS3lHaW5rUEdDOXZIajFyalhIOE9qRTc5OXMzdnp2S3NHNm1ob1lWRGFLVS1UbUFjT0VCNDFKY2tlVVJ2NkZGWXZHb09VdXRSQlFiWjZraXNzbkc2YXU2WExaeU1SanI5cGN3MUFfY2JlclhlNU1hZ0IyNjQ5OU1vc1kyQzBxTnZGQ2t5eUFXWEdJV2JnNFFfdjlkTnFLMDB1WTBpZTJSR05FcjlLa19MMW9NSkc4bGhmdlBxMHFmc0F4M1hoQlN2U2s0Z1JleWkyN3JFdmpHSFpNbU9RWdIB1gNBVV95cUxNNDNlNV9ISUpZeXgyb2dqc1hnZlJrN3owQ0VxRkRubHRxYm9Wa1VVdF9Dd0pCYldCWGt4X0VqUjRNT0JkNjZVR1RsaUlkVTAtUDI0alBQSkR3ekNoTnllQXNQLU9MWmw5OTZpLXRXUW1XLWFmeTduOXRoVDRwMERFc3ZJTG5EQWppNEZScVZwY2hhRlZUbE5VU2ZTVGp2WXl1ZFFUNlNUUWpPTXVMS01ncVJyNEdfZkJxYXJvbTNkU2lCU3lMLXA5Y2JxeWRhVkllczVHVldJQ0pHblpnR2hfMy02RFZBYm1EY2IwYkJzLVk3UUdneE1HU1ZUZlpkc01MQmxRQUVBMDVKVzltUzBhMDNreDAwQzRMU3pFSUdwallsQVpZWURxMXlGMHB1WkRtWU1KeGh3TThDTnpNN2JPTWtSVTNudUszdU9yWVFQTy1zeUdlSTA1blQ3YWZkY29uazREeFBWS183SWNuRU1Bb29fRmdMWUQ0RHh3M096bE9Ta0pGY2tya2M5OGd6OXNNTkZRTGhyZHFIYTRJMVBidGRhX01fWmFUQ01hWkM5SHdMV2dBdzBENXlIQzBieWRBODJUWG5yZ2RsQjZLNVhkQXBkV2pWQQ?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 07:40:00 GMT"
+          "title": "هجوم على سفينة تجارية إيرانية في مضيق هرمز، وترامب يرجّح وقوف إيران خلف استهداف السعودية - bbc.com",
+          "source": "bbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51NnpFTm1MZHlUYzNLaTBhRm1odjNjQlpEbE1ZZkgtM3VsUlY3bW91WFAxQVBPSnM4Rzg5Nzc3eWc2a0VjMmtKTWxyOFdCaUlqekRDNGlRd192Z3U40gFiQVVfeXFMT3lMWlg2eDZIakVRYkNBN2h3dXRFWWVpR1VkWjdiZXliX1lKc0U5aXdHcUdKVzd5R0xmRFpkYkd2alhSaFcta2dDc0tzaXN5V24yaVF2aGl3X1laVHVaSEwyOWc?oc=5",
+          "pubDate": "Sun, 13 Sep 2026 05:47:38 GMT"
         }
       ]
     },
     "China": {
-      "query": "胡塞武装 红海 袭击",
+      "query": "胡塞武装 沙特 油价",
       "items": [
-        {
-          "title": "也门胡塞武装攻占穆哈 红海航运管控格局生变 - 新华网",
-          "source": "新华网",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGcmREci14ZXVWMjRzNUtpYk5sLTFfampTbzR6ZVluOVVQOEM0YUlXZ2UzcUYwUEphcWZNLU1lczBjcGVrZzhDWWc4d2Vzc1RqQTVweU5WeUZkNDBKQmVQeHZVUFBpTkUxSThHZ3hRSVpZNUY2NFAyd3BNTlhLZUk?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 08:40:42 GMT"
-        },
         {
           "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地 - 华尔街见闻",
           "source": "华尔街见闻",
@@ -638,64 +705,70 @@
           "pubDate": "Mon, 14 Sep 2026 15:44:13 GMT"
         },
         {
-          "title": "副总统万斯：美国正就“动荡”的也门危机与沙特阿拉伯、阿联酋和胡塞武装进行接触 - 美国之音",
-          "source": "美国之音",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWoyYU1ETnRpN0t1QXhJSjlOcGdLbjFtRUFEZ09oR3VXSG1RUWMya0NCLUpWYWkwaVlWRE9JZDgzeHhWWUZzeU11OHlKZGRDYmhHck45MXBvNHJyNzZub1V5dGx0bUo0aTRDbDZsd3dnQ3hVSTdqNzlKeVZWVTlwRUpxSkhRYnFDYU5mU2RRNWtDV0RRWFlETFdFRmxETHJneGxlZTZKOEF1dVpfdzQtZXkyUzFPZzNIUEhSVlRWSm9fMlh4QXZ4VTlhV3lUd9IBzgFBVV95cUxNUWoyYU1ETnRpN0t1QXhJSjlOcGdLbjFtRUFEZ09oR3VXSG1RUWMya0NCLUpWYWkwaVlWRE9JZDgzeHhWWUZzeU11OHlKZGRDYmhHck45MXBvNHJyNzZub1V5dGx0bUo0aTRDbDZsd3dnQ3hVSTdqNzlKeVZWVTlwRUpxSkhRYnFDYU5mU2RRNWtDV0RRWFlETFdFRmxETHJneGxlZTZKOEF1dVpfdzQtZXkyUzFPZzNIUEhSVlRWSm9fMlh4QXZ4VTlhV3lUdw?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 21:06:37 GMT"
+          "title": "胡塞猛攻沙特空军基地，海湾伊朗会谈推迟，VTB遭制裁，油价还要涨？_国际原油市场 - 黄金网",
+          "source": "黄金网",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FalFCZDdpenJaMzV5VDREbHdZRzVMSXdKZ3pJZEFnQ2t3RWZON0F3bTBnOW1HT0thNll0c2Y3a3BxSThNQVlweENQeUZHMl8xQjI3MjN1RTA1YUE3WnIzYXVjM3RfNHhJX2I3cg?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 02:23:01 GMT"
         },
         {
-          "title": "胡塞武装夺取也门红海战略要地 曼德海峡航运恐受更大牵制 - 财新",
-          "source": "财新",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wempCRDVYcnIwcVVfWGs2bDB5RWJNT2lTUUVSU1k3OVNaWWFicUJOVnVnTXFPbTByR1dpMzlVbEotbG1iVE85TmdMaGZBeXRRSC1VeXI1NzZqTGpyYV81TkJMWFk5dGItTUE?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 12:21:00 GMT"
-        },
-        {
-          "title": "也门政府军袭击红海沿岸胡塞武装，自7月来数万平民逃离家园 - RFI",
+          "title": "伊朗战争开辟新战线：也门胡塞武装迅速控制曼德海峡，恐将进一步推高国际油价 - RFI",
           "source": "RFI",
-          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQeUlGUU5hdnAtM0kycGRpSWRsbFFndWRZMW52NG1fZFAyUWZ3cTNXS0hLSDl0MW12ZjBxM2NYeTRJZ2h5S2Rhdjh6OXY2V3ZTNWZuYThHRHpKTnJRTDZUeU9CcHRqcWUwQzJzMllmdmZ0U3lQNHJPV3psY2pxaUFRQXplaEFxMkRNVmdYQUZFVE5ia3dFLWllR3VablVMYVlLZG4yVjdJb1g4MFJmVDhNWFFCZUo1ZVZPX2llNGwwelZpX2J4NHFyUy1KYldENzNDWjZ3UHJnb2dwOS1aZDBWVkhSRHZxR3pYaWNYX0hxWjV2Q3Y3TXJnbW43OWp6dzRqZ2VkM1VxZjZBX3ZpUXplNDBsTkV0NGYydnB4UVd0YUtqX3hqRmxMQ3dkNE8zWkRqZG1OdzJHTS1FS2FFcHB2RlJrMU04OUxmNk5RY1pNeVE3SmQ4alpFVEh1U3RHbXM1Wm1oYm5YV3c2dzJkMTI4dk1Wd1dIVVluX1ZnUzBxWE5qeXdmZDZ0UjdjM0E5NFJBQVc2OWpjMzljZ1pyWDAtQmJ6aXE?oc=5",
-          "pubDate": "Sat, 12 Sep 2026 21:29:11 GMT"
+          "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxNX25YaW9YaHI5aWJybVVaY1l6cjk4MkYxdGR5Z2dqa2lZYl95MnVyRnl3RVpYZVZmalpEQzBnSU4tVGZ2eXFPQkFJZjhHYkJlQktnT2ktbm9LblFmWDkwU0EtQndvb1FxaGJyVzE3bmFENUdybTlyeVMzYnItUnJqWkR5TVI1RlFBZFAwUDFfOGNtZlQteFBMVGtJaFJPUTFaZ0VrSkZhazlTbTllM3dpNS1EVHd1WmNqVndVRXlZRms4LWpDbkppOXZ0Y2tDTTZIQWhQMlF0VUVudnlnQ3JMN19Bck4xZXFWZFdjU1RxRmNGNU50SFUzNU8zLXRhTVc5SEZlaWhTMDZmNXZIMTlWZmNsMHZrUTNpbGowZU5lVHlvU2JtZ2FtOWdpMXBiLWtxaEdmNERHX3U5RENDeEtURDNjYjcwakxoNHpsMnRTbS1iUzJ6Mzlvb3dZdHJHZHNMT2h3SXlGbXhDZlg3WWQyRnMtMkpkaXdKVGswMFAxMGQ3VG1uQnZlcHZfQzZkdWc4QVdJMDRsbzVlekUxanhnQXdKNl9oNmpwdUhvY1FqVTJ2QXNSdGQ5WlVPRFVBQ1JSbExMVUZVRU1xNGUxUjlma1JaMVRMS0g1dXQ2anJXMVNzRlU4V3phbmhvSko?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 19:36:08 GMT"
         },
         {
-          "title": "亲伊朗的胡塞武装称：“封锁沙特海域”…红海将被阻断？ - 朝鮮日報中文版",
-          "source": "朝鮮日報中文版",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGhvS1pVVGxuXzd1Wkl6ZldkaER0NWc3Q1otOWtpeGx3SVFPZm9hVXFyX08yaVJEc0dNWlJrbTFjcFZtOXdQa1NFN0tIQzFqaTQ5X0xMYi1JU1ZQX2YxY29qYzdabDNaQXFLcGpteHZ1SXRnanVsZGVzVTFYNVFnaXNZcFFTWVRuUFFWZzBHUzZfT2VRSHBRQlZzczB6dER6?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 03:08:44 GMT"
-        },
-        {
-          "title": "胡塞连夺关键据点，沙特大规模报复的概率逐渐上升-市场参考 - 金十数据",
-          "source": "金十数据",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fak8wdVFMZ25MUnNuYk1YU1ZVY1I1UE9Yd2dsQTR1TTFJTTVFWjktSlJVenBGYWhNeTZrNEZ5bldhUmNrUXNOVFVmc1MzRm8?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 14:32:48 GMT"
-        },
-        {
-          "title": "胡塞武装速控红海？中东局势乱上加乱丨夜观天下 - 四川在线",
-          "source": "四川在线",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5seEhZQko3TkcwVzJkc3BQSmNNZy1YQy1HVGZld3BYTVVraEpzV1pDTGVMSkhGeGFLanhIUDc0MHh2LU11ZG9sOHc5WWdxQXN1dnZTYWVyNG9tQzBoenFJMw?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 12:31:17 GMT"
-        },
-        {
-          "title": "胡塞武装夺取也门红海战略要地 - Sohu",
-          "source": "Sohu",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2dIVHJVYk9DcmExeC1ydkdkdW84aFZ3cDdFeUZBNGUwOUFXOE54ZFdjeUdqbmtDNm9TNlYtSGJNY013cm8xTE1QaExLd3phd3hsalAzQzlwc3NoTFZvQmtEcEtxZUFITFdlcEhyd25MSnp6XzQzbHB5VDcxVEdDS2hFU1lIUkV4?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 08:13:36 GMT"
-        },
-        {
-          "title": "也门胡塞武装与沙特互相袭击 - 荆楚网",
-          "source": "荆楚网",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2MXgwamFhbzRvRlFUTjI0V29Ta3Q0MGdZWUt0c2hsVmx5Y1Z0TElwVmlwbjhyQU1vM2RZZldpbzh6YkpVeTdZb1ZYaUZIRm01V01qTTR5TXd3ckhjTlp2b3dDVmZsaXFjWVlKaWJhdHg0QQ?oc=5",
-          "pubDate": "Sun, 13 Sep 2026 06:13:00 GMT"
-        },
-        {
-          "title": "胡塞武装再次袭击沙特，霍尔木兹海峡面临更大威胁 - IDNFinancials",
+          "title": "胡塞武装导弹和无人机袭击沙特南部，油价上涨 - IDNFinancials",
           "source": "IDNFinancials",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPUUhYQlpnVG43azE4RGNXQlZodTJ2RzdxTHZZbWItdGlCbzJMczNzNVVXYmxJMmRqazNycUxJRmloc25ocWFkNkV2d1laZnQ1Z3ZGLUFhTXB4TGtzTFVwZGp4eHpuZE44ckc1OWdXMm9VTTVqMENleHJmM2lmOUZZeVRXeElKdld3bVh2NkFJSjVzSTUxYklJRkplQ25DWEI3MV8zSFJJQ0NfbDczb1RoTEhVZDBJNUk1QVpGNENhOTVrMTBfUWhtVzZoY0RlU3JLVmNyaGZtb2FHMlg4MW8wRzZxMEFaU01KTEppMlJOR1ZOQTB6UFBiNjUwNUdoZURRTEVVQUhZS01WNThISVFPcFFjN2lJRk5Jd21XMlg4WU9lQXc2MnItTTNKTUlBOHoxZWYzbGQ0VkVMamE5c1NTZ3RRaFlXdVBWNEg3Z3hOZWF6MWlQeEsxOVJZTlJXa3M?oc=5",
-          "pubDate": "Tue, 15 Sep 2026 06:40:00 GMT"
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPNFBsODJ6YXVMUEVid0JaT2hCN0ZRRHByaW5sbzV6M2lTWWJLaTBXTGVpcmhVcHJwRFdNbTlwa0ZSdE9CdkQtS2poZW51d25WYVIxbEN1emJic2ExY2dGVWs2U1E0MGFkMC1VU3gtS0pZWk9RcW5nV3hWaDlDMmRVaFJEMVE2MkJ5XzJUd0plUE4tOGV3ZHBqcjJLWi1lbmhkUUNOcXQtcnpkTWoyUnMzVnFQUlI4VHVIVDNGakwwQlJ5akJjd3V4cjdZczJOSjhIeUVpcHVLYllTc2Q3alZNZllCM3A4Rl9nSnFHRmNCRTVJN1JaMXVCZkpRSGNlNnVhT0c3aEtoRXdHVGh5Q1hxT212Y3JicXF1VXRmejlXX044enE5MlNFaDRFaVRUakRjWTJ5QjZ1QnNrRS1rd25meUhZbjhBX00?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 09:20:00 GMT"
         },
         {
-          "title": "国际新闻早知道丨胡塞武装称除沙特外其余国家船只红海航行安全俄美乌或在近期举行三方会晤 - 央广网",
-          "source": "央广网",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vMkpmR3ZNc3B2UDlQdnBhWDVzWXEyVEdENjdmNlRwWlJTRi1SQ1VoSmFGTWRSUlRaNHZoT3lsc3R6clktVzJuN0syNTFNOXlfcDhXamRzMDU5M0cwVFA0ZjVPYkg2SW90?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 22:49:10 GMT"
+          "title": "油价继续走高，布伦特原油逼近108美元 - 新浪财经",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHcteV9kenhvV2pWRzZsTDd0V1R0ZmJONlFUaWxHWFlfMHBGSExrN0hrbGg3OTZsV2t0ZEJ4bzI2NkdHWXdxYWdBWTI5TUQ3dmQtSlV3Rl9Lb2gzdjU5OTM4YWx6bjREblgyeTVneWljRE5zWXExemNYcWNKSTBvNHJLbXFCQXk1NkE?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 08:47:55 GMT"
+        },
+        {
+          "title": "油价“200美元噩梦”逼近？沙特输油大动脉遭袭关闭+双海峡航运受扰，全球石油供应持续承压港美股资讯 - hstong.com",
+          "source": "hstong.com",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ram5QbVU5aVdVNjFkZlZaRUNHbm1JYXpwN2YzbkxUNDM4NUtqSmp0eXN6dVdZTWlRbVB3M3BvZWxaNXZYYm1NV2t3eTlQREQyOGhmb2E3Um1EdEtZcmgxenpB?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 07:05:00 GMT"
+        },
+        {
+          "title": "胡塞武装袭击沙特阿拉伯，霍尔木兹海峡谈判延迟，油价上涨 提供者 Investing.com - 英为财情 Investing.com",
+          "source": "英为财情 Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IejlTaGFrbHdwaFpfalpCTmluQjFXTjNZeWN4azhiQXplS1ZpUGdwNV9zUFhIN2hQRC1YUUFjVjg4TUFGT3FCX3B5ZVJQYWJ4LXQyVkRFRVc4aGh3cUJFam1IVnFQbFZqeDM0UVRfWQ?oc=5",
+          "pubDate": "Tue, 15 Sep 2026 00:55:00 GMT"
+        },
+        {
+          "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压 - 封面新闻",
+          "source": "封面新闻",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zLXBvZEdqT3lzYXVpaUNkNlZOY2pidjljUXBqeG5xbGY5akZfazY2T09KS05NbEtlZG14YzgwTUVLVjZQbk5QTUI4T1FnTTBxS0JKb29tbFk0akl5aTJUelRPWFZPWEpKUnVHNnZvMHJlWm9CRHZv?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 08:04:00 GMT"
+        },
+        {
+          "title": "油价“破百”背后：胡塞武装正猛烈攻击沙特！ - 财联社",
+          "source": "财联社",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tb2oyQkF2OXFBRWtfYWdBSG8wNmVQdllUbGdCQ3V6THhPSHpGdE4yR2RnMmdNMFgxalg5LTlwUTdyazNRTmc?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 10:57:00 GMT"
+        },
+        {
+          "title": "胡塞武装袭击沙特并控制红海岛屿，油价上涨且霍尔木兹海峡谈判推迟| 乌克兰新闻- #Mezha - Межа. Новини України.",
+          "source": "Межа. Новини України.",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRGlzLUN3N0FyYmt5TEdxd2x1cjVWc1p2VlhMRkhZbFB4NVE4ZE0tTHhVODZVRVJrMFZsVFBsaGNuSC0wUFViYlNVaUtkLXdjb1VjckJESVd1NXZ5dHZQTWJlODhYb0ZJNEc0cg?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 22:07:00 GMT"
+        },
+        {
+          "title": "一周热榜精选：CPI后美联储加息概率逼近90%！沙特东西输油管道暂时关闭-市场参考 - 金十数据",
+          "source": "金十数据",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlUXU4NEdtVnpFa2hyV3JPVHBUMWoyOTdYM0lCd25Fcm40bGpjaFB0djhmY3VFY01rNzZXQ19oVWVvM0I1dGVlS2kxLXh3SWc?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 11:07:05 GMT"
+        },
+        {
+          "title": "国际油价深夜大涨！ - 东方财富",
+          "source": "东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRGJVR2NMODZwdWpxalRoOVJlbGhQdE5QMERuOTMyNlZ6VHNnLTVTNEJ3RTZFek93eG1iREVDYjZPUTRXSGF3ZDNVRHM3VzM4ZjI4allGRnNFSEpnNWhBSw?oc=5",
+          "pubDate": "Sat, 12 Sep 2026 12:48:21 GMT"
         }
       ]
     }

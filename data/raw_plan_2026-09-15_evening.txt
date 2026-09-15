@@ -1,19 +1,17 @@
-```json
 {
-  "event": "胡塞武装袭击沙特城市并控制曼德海峡岛屿，红海航运与中东局势急剧升级，油价大涨",
-  "event_title": "红海危机与胡塞袭击升级",
-  "why": "该事件被美、印、日、法、德、巴西、埃及、中国等至少8国头条共同报道，且沙特安全、全球油价、航运中断、联合国安理会紧急会议等视角在西方、海湾、俄、中媒体间差异极大。",
+  "event": "胡塞武装大规模袭击沙特设施致东西管道受损、油价跳涨5%，中东能源供应危机牵动全球",
+  "event_title": "胡塞袭击沙特与油价危机",
+  "why": "被美英法德日印巴俄埃中全部10国报道，既有军事冲突又引发全球油价、债市连锁反应，且沙特、伊朗、美俄各方叙事差异极大。",
   "queries": {
-    "US": "Houthi Red Sea attacks",
-    "UK": "Houthis Red Sea shipping",
-    "India": "Red Sea Houthi attack Saudi",
-    "Japan": "紅海 フーシ 攻撃",
-    "France": "Houthis Bab el-Mandeb",
-    "Germany": "Huthis Angriff Saudi-Arabien",
-    "Brazil": "Houthis Mar Vermelho",
-    "Russia": "Хуситы Баб-эль-Мандеб",
-    "Egypt": "الحوثيون باب المندب",
-    "China": "胡塞武装 红海 袭击"
+    "US": "Saudi pipeline oil prices",
+    "UK": "Houthis Saudi Arabia strikes",
+    "India": "oil prices Saudi pipeline Nifty",
+    "Japan": "サウジ パイプライン 原油価格",
+    "France": "Houthis Arabie saoudite pétrole",
+    "Germany": "Ölpreis Saudi-Arabien Huthis",
+    "Brazil": "Houthis Arábia Saudita petróleo",
+    "Russia": "хуситы Саудовская Аравия нефть",
+    "Egypt": "الحوثيين السعودية النفط",
+    "China": "胡塞武装 沙特 油价"
   }
 }
-```

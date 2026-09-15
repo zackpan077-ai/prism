@@ -1,125 +1,122 @@
 {
   "findings": [
-    {"title": "德国搜索词下完全无结果，是最显著的『缺席』信号", "body": "在搜索词『Huthis Angriff Saudi-Arabien』下，德国版 Google News 无任何对齐报道。但德国当天头版中 DIE WELT 与 DIE ZEIT 出现『Benzin- und Dieselpreise: Söder verlangt Maßnahmen, um hohe Spritpreise erträglicher zu machen』（汽油柴油价格：泽德要求采取措施使高油价更可承受），说明油价上涨已间接进入德国议程，但红海军事事件本身未成为德国新闻的直接议题——事件以『国内油价政治』的形式被消化，而非地缘冲突叙事。"},
-    {"title": "美国头版完全未触及该事件，国内政治压倒性主导", "body": "美国对齐报道数量充分（12条），且角度多元——从 NBC News 的『Strikes shut down key Saudi pipeline as Iran-backed Houthis tighten grip on crucial shipping lane』到 Bloomberg 的『How Yemen's Houthis Are Raising the Stakes in the Iran War』。但当天美国头版前10条全部是最高法院、AI政策、McConnell 复出等国内议题，红海危机没有挤进头版。多国报道反而聚焦美国的『不作为』：俄罗斯 Zerkalo 称『хуситы…после того, как Трамп отказался наносить по ним удары』（在特朗普拒绝打击他们之后），埃及 Al Jazeera 标题直接问『هل تخلى ترمب عن باب المندب للحوثيين؟』（特朗普是否放弃了曼德海峡？）。"},
-    {"title": "法国框架高度聚焦『海峡控制权』，将其解读为伊朗对美国的一张牌", "body": "法国12条标题中有9条以 Bab el-Mandeb（曼德海峡）为核心词，并普遍建立伊朗—胡塞联动叙事：Le Point 标题为『Dans le détroit de Bab el-Mandeb, l』Iran abat une carte stratégique déterminante face aux États-Unis』（在曼德海峡，伊朗对美国打出了一张决定性的战略牌）；Courrier international 称『En s』emparant de Bab El-Mandeb, les houthistes offrent un autre détroit à l』Iran』（胡塞把另一条海峡送给了伊朗）。Libération 则给出地理包围视角『D』Ormuz à Bab el-Mandeb, le pétrole saoudien pris en étau entre deux détroits』（从霍尔木兹到曼德，沙特石油被两条海峡钳住）。"},
-    {"title": "日本视角突出霍尔木兹海峡的『替代路线』被切断", "body": "日本多篇标题强调红海是对霍尔木兹的替代输油通道：産経新聞『サウジ東西パイプラインが停止 ホルムズ代替路、複数の攻撃』（沙特东西管道停运——霍尔木兹替代路线遭多处攻击）；テレ朝NEWS『ホルムズ海峡に代わる原油輸送ルート相次ぎ攻撃・制圧』（替代霍尔木兹的原油运输路线接连遭攻击与占领）。且该事件进入日本头版：NHK 头版第4条即为『損壊したサウジのパイプライン『復旧までに3～5週間』 報道』，显著度高于多数国家。"},
-    {"title": "埃及视角独有：苏伊士运河命运与『胡塞求协调被拒』的独家角度", "body": "埃及报道直接关联本国命脉：BBC Arabic『قناة السويس: كيف ستتأثر باضطراب الملاحة عبر مضيق باب المندب؟』（苏伊士运河：将如何受曼德海峡航运动荡影响？）。英国 The New Arab 的『Exclusive: Egypt rejects Houthi bid for Red Sea shipping talks』（独家：埃及拒绝胡塞的红海航运谈判提议）与埃及 middle-east-online 的『مصر ترفض طلب الحوثيين التنسيق بشأن الملاحة في باب المندب』相互印证这一独家角度。此外 CNN Arabic 引述胡塞说法『الملاحة بباب المندب آمنة باستثناء السفن السعودية』（曼德海峡航运安全，沙特船只除外），这一『选择性安全』承诺的细节在其他语言中少见。"},
-    {"title": "中国报道突出『美国接触胡塞』的角度，头版未包含该事件", "body": "中国对齐报道中出现其他国家没有的角度：美国之音中文版『副总裁万斯：美国正就『动荡』的也门危机与沙特阿拉伯、阿联酋和胡塞武装进行接触』，以及央广网『胡塞武装称除沙特外其余国家船只红海航行安全』。但当天中国头版前10条以国内政治与金砖议题为主，红海事件未上头版；且头版出现『五角大楼报告：美在中东基地和外交机构受重大损失』，提供了一个与美国本土叙事相悖的框架。"}
+    {"title": "谁没上头版：多数国家头版被内政占据，该事件仅进入财经频道", "body": "检查十国当天头版：美国头版是最高法院与AI议题，英国是Lucy Letby调查，日本是无人机通信失联，巴西是最高法院争议，中国是领导人活动，印度是UPI收费——均未把沙特管道遇袭放上头版。例外是法国（France 24头版第一条即『Pourquoi les forces yéménites n'ont-elles pas réussi à stopper l'offensive des Houthis ?』）、德国（Tagesspiegel头版『Kanzler Merz kündigt Entleichterungen bei Spritpreisen an』直接关联油价对国内的影响）和埃及（BBC阿语头版『السعودية تتعهّد بالرد بحزم』、塞西与MBS通话）——即离地缘或油价冲击越近，显著度越高。"},
+    {"title": "经济框架 vs 安全框架的分野", "body": "美国标题几乎全是油价与供应链：『Oil Prices Jump as Attacks Choke Off Saudi Energy Supply』（NYT）、『Oil's safety net is fraying』（CNBC）；印度更聚焦本国股市：『Nifty to see gap down opening』（Moneycontrol）、『Sensex, Nifty Extend Losing Streak』。而英国与法国更多用战争与外交框架：『Houthi strikes on Saudi Arabia injure 13 and drag kingdom back into war』（The Times）、『Face aux menaces des Houthis, l'Arabie Saoudite inquiète et isolée』（Libération）。沙特被袭击造成的伤亡（13人受伤）只在英、法、阿语媒体出现，美印基本不提。"},
+    {"title": "沙特『求助被拒』的独家角度集中在欧洲与俄罗斯", "body": "德国与俄罗斯媒体突出沙特孤立无援：『Trump verweigert Hilfe』（FR）、『Trump legt auf』（T-Online）、『США отказали Саудовской Аравии в военной поддержке』（Вестник Кавказа）、『Саудовская Аравия ищет защиты от хуситов в Британии』（OilCapital）。CBS亦报『MBS pressed Trump to strike Houthis』。这一角度在印度、日本、中国的标题中完全缺席。"},
+    {"title": "对胡塞武装的定性差异：唯一使用『恐怖分子』的是巴西媒体", "body": "绝大多数国家中性称『Houthis / الحوثيين / 胡塞武装』，但巴西Petronotícias全大写标题称『OS TERRORISTAS HOUTHIS, APOIADOS PELO IRÃ』，是全部样本中唯一直接定性为恐怖分子并明确点名伊朗支持的。相对地，法国Le Devoir强调『l'Iran dément toute implication』，埃及BBC阿语同样报道德黑兰否认，呈现的是争议而非断言。"},
+    {"title": "日本独有的『库存与复旧时间』细节框架", "body": "日本标题提供别国少见的操作性细节：朝日新闻『在庫数日分か』（库存只够数日）、日テレ与雅虎『復旧に3～5週間』（修复需3-5周）、日经点明『ホルムズ代替ルート』（该管道是霍尔木兹的替代路线）。这些具体数字在其他国家标题中基本不出现，反映日本媒体对供应中断持续性的高度关注。"}
   ],
   "quote_comparison": {
-    "intro": "同一事件核心事实——胡塞武装控制曼德海峡/红海要地——在各语种标题中的定性对比",
+    "intro": "对比各国对『胡塞武装袭击沙特』这一行为的定性措辞",
     "rows": [
-      ["法国 · Le Point", "« Dans le détroit de Bab el-Mandeb, l』Iran abat une carte stratégique déterminante face aux États-Unis »", "定性为伊朗对美国打出的『决定性战略牌』，直接归因于伊朗"],
-      ["英国 · Chatham House", "The Houthis』 capture of Mocha has transformed the war in Yemen – and the geopolitics of the Red Sea", "定性为『改变了也门战争和红海地缘政治』，强调格局性后果"],
-      ["埃及 · CNN Arabic", "الوثيون: الملاحة بباب المندب آمنة باستثناء السفن السعودية", "直接转述胡塞声明，给出『除沙特船只外航运安全』的细节"],
-      ["俄罗斯 · Интерфакс", "Хуситы заявили, что не создавали препятствий для судоходства в Баб-эль-Мандебе", "强调胡塞官方否认阻碍航运的说法，与其他国家『扼住咽喉』框架形成对照"],
-      ["俄罗斯 · Zerkalo", "…после того, как Трамп отказался наносить по ним удары, пишут СМИ", "把事件与美国拒绝打击挂钩，聚焦华盛顿的决策缺席"],
-      ["美国 · NBC News", "Iran-backed Houthis tighten grip on crucial shipping lane", "以『伊朗支持的』作前置定性词，突出支持关系"],
-      ["巴西 · Revista Movimento", "Iêmen: em derrota para Trump, houthis avançam no Mar Vermelho", "定性为『特朗普的失败』，将事件框定为美方挫败"],
-      ["中国 · 央广网", "胡塞武装称除沙特外其余国家船只红海航行安全", "同样采用胡塞官方口径的『选择性安全』表述"],
-      ["日本 · 朝日新聞", "フーシ、紅海沿岸の全域を制圧か 二つの海上要衝、同時に高まる危機", "使用『全域制圧か』的推测性表述，强调两处要冲同时告急"]
+      ["巴西 · Petronotícias", "PETRÓLEO PASSA DE 109 DÓLARES COM OS ATAQUES DOS TERRORISTAS HOUTHIS, APOIADOS PELO IRÃ", "全大写加『恐怖分子』『伊朗支持』双重定性，样本中措辞最激烈"],
+      ["英国 · The Times", "Houthi strikes on Saudi Arabia injure 13 and drag kingdom back into war", "强调伤亡数字与『拖回战争』的历史延续定性"],
+      ["中国 · 财联社", "油价『破百』背后：胡塞武装正猛烈攻击沙特！", "中性的『胡塞武装』＋感叹语气，重心在油价"],
+      ["法国 · Le Devoir", "l'Iran dément toute implication dans la guerre au Yémen", "引入伊朗否认方说法，呈现争议双方"],
+      ["俄罗斯 · Эксперт", "Как повлияют атаки хуситов на нефть и судоходство в Ормузе", "去定性化，纯分析视角聚焦航运与油价"]
     ]
   },
   "countries": {
     "US": {
       "name": "美国",
-      "frame": "伊朗代理人扩张与全球航运/油价冲击，但头版完全被国内政治占据",
-      "unique": "强调对沙特本土的袭击与管道关闭的能源后果（AP、NBC），以及美国面临的『困境』反思",
+      "frame": "油价与供应链冲击，兼及美国国内借贷成本上升",
+      "unique": "将事件与美国国债收益率破5%挂钩（NBC、Guardian），视角其他国家没有",
       "headlines": [
-        {"source": "NBC News", "original": "Strikes shut down key Saudi pipeline as Iran-backed Houthis tighten grip on crucial shipping lane - NBC News", "zh": "袭击致沙特关键管道关闭，伊朗支持的胡塞武装收紧对关键航道的控制"},
-        {"source": "AP News", "original": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News", "zh": "遭无人机袭击的沙特管道将停运数周，进一步限制石油流量"},
-        {"source": "Bloomberg.com", "original": "How Yemen』s Houthis Are Raising the Stakes in the Iran War - Bloomberg.com", "zh": "也门胡塞武装如何在伊朗战争中抬高赌注"}
+        {"source": "The New York Times", "original": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply", "zh": "袭击扼住沙特能源供应，油价跳涨"},
+        {"source": "CNBC", "original": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline", "zh": "沙特抢修关键管道之际，石油安全网正在磨损"},
+        {"source": "AP News", "original": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow", "zh": "遭无人机袭击的沙特管道将停运数周，进一步限制石油流量"}
       ]
     },
     "UK": {
       "name": "英国",
-      "frame": "全球航运咽喉与沙特能源基础设施危机，附深度地缘分析",
-      "unique": "Chatham House 智库式长线分析（『改变了战争』）；The New Arab 独家报道埃及拒绝胡塞谈判提议",
+      "frame": "战争升级与沙特外交困境，油价是次要元素",
+      "unique": "独家披露MBS曾敦促特朗普打击胡塞（CBS），并关注英国是否军援沙特（Bloomberg）",
       "headlines": [
-        {"source": "Reuters", "original": "Saudi Arabia faces nightmare scenario as Houthis threaten shipping route and drones close pipeline - Fortune", "zh": ""},
-        {"source": "Chatham House", "original": "The Houthis』 capture of Mocha has transformed the war in Yemen – and the geopolitics of the Red Sea - Chatham House", "zh": "胡塞夺取穆哈已改变了也门战争——以及红海的地缘政治"},
-        {"source": "nytimes.com", "original": "Why the Houthis』 Lightning Advance Threatens Global Shipping - nytimes.com", "zh": "为何胡塞的闪电推进威胁全球航运"}
+        {"source": "The Times", "original": "Houthi strikes on Saudi Arabia injure 13 and drag kingdom back into war", "zh": "胡塞袭击致沙特13人受伤，王国被拖回战争"},
+        {"source": "CBS News", "original": "Saudi Arabia's MBS pressed Trump to strike Houthis in Yemen, sources say", "zh": "消息人士称沙特MBS曾敦促特朗普打击也门胡塞"},
+        {"source": "Bloomberg.com", "original": "UK Mulls Supporting Saudis Amid Fears of Houthi Economic Hit", "zh": "担忧胡塞经济冲击，英国考虑支持沙特"}
       ]
     },
     "India": {
       "name": "印度",
-      "frame": "沙特遭袭与红海出口中断，关注能源与航运安全；头版有一条沙特民防消息进入",
-      "unique": "官方媒体 Akashvani（全印电台）以汇总式标题梳理事件；CNN 的『a f***-up of epic proportions』追责叙事在印度搜索结果中显著出现",
+      "frame": "油价上涨对Nifty/Sensex和卢比资产的直接冲击",
+      "unique": "几乎每个标题都落到印度股市开盘预测（gap down opening、23,800点位），是他国没有的本国市场视角",
       "headlines": [
-        {"source": "Akashvani News - News On AIR", "original": "Houthi rebels in Yemen seize strategic islands tightening grip on Red Sea shipping route; Saudi Arabia shuts vital pipeline after attack | Akashvani News - News On AIR", "zh": "也门胡塞叛军夺取战略岛屿收紧红海航运控制；沙特遇袭后关闭重要管道"},
-        {"source": "Reuters", "original": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters", "zh": "随着胡塞袭击威胁上升，沙特红海石油出口陷入黑暗"},
-        {"source": "CNN", "original": "『A f***-up of epic proportions』: Blame game begins after Iran-backed Houthis』 lightning advance down Red Sea coast - CNN", "zh": "『史诗级的大失误』：伊朗支持的胡塞在红海沿岸闪电推进后，追责游戏开始"}
+        {"source": "Moneycontrol.com", "original": "Brent surges 5% to $107 | Houthis hit Saudi oil pipeline | Nifty to see gap down opening", "zh": "布伦特暴涨5%至107美元｜胡塞打击沙特管道｜Nifty料低开"},
+        {"source": "NiftyTrader", "original": "Saudi Pipeline Shut, Houthis Advance: Why Nifty Faces Fresh Oil Risk", "zh": "沙特管道关闭、胡塞推进：Nifty缘何面临新的油价风险"},
+        {"source": "Business Recorder", "original": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields", "zh": "油价与债券收益率高企，印度Nifty 50收于五个月低点"}
       ]
     },
     "Japan": {
       "name": "日本",
-      "frame": "霍尔木兹替代路线被切断的能源安全危机，事件登上头版",
-      "unique": "多角度集中于『霍尔木兹替代通道』叙事；有对胡塞干部的采访（テレ朝）；日经报道伊朗与阿曼在霍尔木兹的协议作为对侧信息",
+      "frame": "供应中断持续性与管道复旧时间的技术性细节",
+      "unique": "独家给出『库存数日分』『復旧に3～5週間』等具体数字，并点明管道的霍尔木兹替代功能",
       "headlines": [
-        {"source": "産経ニュース", "original": "サウジ東西パイプラインが停止 ホルムズ代替路、複数の攻撃 紅海周辺でフーシ派掌握進む - 産経ニュース", "zh": "沙特东西管道停运，霍尔木兹替代路线遭多处攻击，胡塞在红海周边控制扩大"},
-        {"source": "朝日新聞", "original": "フーシ、紅海沿岸の全域を制圧か 二つの海上要衝、同時に高まる危機 [米・イスラエルのイラン攻撃 イラン情勢] - 朝日新聞", "zh": "胡塞或已控制红海沿岸全域，两处海上要冲同时告急"},
-        {"source": "日本経済新聞", "original": "イラン「ホルムズで14日にオマーンと合意」 フーシは紅海側で攻勢 - 日本経済新聞", "zh": "伊朗称『14日在霍尔木兹与阿曼达成协议』，胡塞在红海一侧发动攻势"}
+        {"source": "朝日新聞", "original": "サウジ原油拠点、在庫数日分か パイプライン攻撃で供給停止の恐れ [米・イスラエルのイラン攻撃 イラン情勢]", "zh": "沙特原油基地库存仅数日，管道袭击或致供应停止"},
+        {"source": "日本経済新聞", "original": "サウジ、複数の攻撃受け東西の原油パイプライン停止 ホルムズ代替ルート", "zh": "沙特遭多处攻击，东西原油管道停运——霍尔木兹替代路线"},
+        {"source": "日テレNEWS NNN", "original": "攻撃受けたサウジのパイプライン“復旧に3～5週間”か 原油価格高騰のおそれも（2026年9月14日掲載）", "zh": "遭袭沙特管道修复或需3～5周，油价恐高企"}
       ]
     },
     "France": {
       "name": "法国",
-      "frame": "曼德海峡被胡塞夺取＝伊朗获得对美战略筹码",
-      "unique": "Le Parisien 引述『La première fois qu』il y a autant de missiles』（第一次有这么多导弹）并报道伊朗否认参与；Libération 的『两海峡钳形』地理叙事为法国独有",
+      "frame": "沙特被围困与全球石油冲击风险，兼顾伊朗角色争议",
+      "unique": "多条标题聚焦曼德海峡被胡塞夺取（Sud Ouest、BBC），并把事件与法国国内油价民生（渔民封锁油库、黄马甲复活担忧）连上头版",
       "headlines": [
-        {"source": "Le Point", "original": "« Dans le détroit de Bab el-Mandeb, l』Iran abat une carte stratégique déterminante face aux États-Unis » - Le Point", "zh": "『在曼德海峡，伊朗对美国打出了一张决定性的战略牌』"},
-        {"source": "Libération", "original": "D』Ormuz à Bab el-Mandeb, le pétrole saoudien pris en étau entre deux détroits - Libération", "zh": "从霍尔木兹到曼德，沙特石油被两条海峡钳住"},
-        {"source": "Le Parisien", "original": "« La première fois qu』il y a autant de missiles » : les Houthis frappent l』Arabie saoudite, l』Iran dément toute implication - Le Parisien", "zh": "『第一次有这么多导弹』：胡塞打击沙特，伊朗否认任何参与"}
+        {"source": "liberation.fr", "original": "Face aux menaces des Houthis, l’Arabie Saoudite inquiète et isolée", "zh": "面对胡塞威胁，沙特忧虑且孤立"},
+        {"source": "Les Echos", "original": "Pétrole : l'Arabie saoudite, visée par des drones, coupe son pipeline stratégique qui contourne Ormuz", "zh": "石油：沙特遭无人机袭击，切断绕开霍尔木兹的战略管道"},
+        {"source": "Sud Ouest", "original": "Yémen : les Houthis s’emparent du détroit de Bab el-Mandeb après une offensive éclair, l'Arabie saoudite prise en étau", "zh": "也门：胡塞闪电攻势后夺取曼德海峡，沙特陷入钳形包围"}
       ]
     },
     "Germany": {
       "name": "德国",
-      "frame": "对齐搜索无结果；事件仅以国内油价政治的形式间接进入头版议程",
-      "unique": "完全缺席对齐报道本身即最重要信号——德国媒体在所搜关键词下未聚合红海事件",
+      "frame": "沙特两面受压与德国油价/汽油价格冲击",
+      "unique": "强烈突出特朗普拒绝援助的戏剧性（『Trump verweigert Hilfe』『Trump legt auf』），并直接连到总理梅茨宣布缓解油价措施的头版新闻",
       "headlines": [
-        {"source": "DIE ZEIT", "original": "Benzin- und Dieselpreise: Söder verlangt Maßnahmen, um hohe Spritpreise erträglicher zu machen - DIE ZEIT", "zh": "汽油柴油价格：泽德要求采取措施使高油价更可承受"}
+        {"source": "Frankfurter Rundschau", "original": "Trump verweigert Hilfe, Huthi kontrollieren Bab al-Mandab: Saudi-Arabien verliert seine letzte Ölroute", "zh": "特朗普拒绝援助，胡塞控制曼德海峡：沙特失去最后石油通道"},
+        {"source": "tagesschau.de", "original": "Saudi-Arabien unter Druck - Experten warnen vor steigenden Spritpreisen", "zh": "沙特承压——专家警告油价上涨"},
+        {"source": "T-Online", "original": "Saudi-Arabien in der Zange: Huthis rücken vor, Pipeline brennt, Trump legt auf", "zh": "沙特陷入钳形包围：胡塞推进、管道起火、特朗普挂断电话"}
       ]
     },
     "Brazil": {
       "name": "巴西",
-      "frame": "红海航运与石油运输风险，头版完全被国内政治（STF风波）占据",
-      "unique": "Revista Movimento 将事件定性为『em derrota para Trump』（特朗普的失败）；Valor Econômico 转述胡塞『航运安全正常』的说法，与多数国家的危机框架形成对照",
+      "frame": "油价上涨与霍尔木兹谈判僵局，兼顾多方相互指责",
+      "unique": "Petronotícias独家使用『恐怖分子』定性并点名伊朗支持，CNN Brasil独家关注胡塞占城对世界贸易的影响",
       "headlines": [
-        {"source": "Revista Movimento", "original": "Iêmen: em derrota para Trump, houthis avançam no Mar Vermelho - Revista Movimento", "zh": "也门：胡塞在红海推进，对特朗普是一次失败"},
-        {"source": "Valor Econômico", "original": "Houthis afirmam que navegação no Mar Vermelho e em Bab el-Mandeb está segura e normal - Valor Econômico", "zh": "胡塞称红海和曼德海峡航运安全正常"},
-        {"source": "Folha de S.Paulo", "original": "Rebeldes pró-Irã tomam costa do mar Vermelho no Iêmen - 11/09/2026 - Mundo - Folha de S.Paulo", "zh": "亲伊朗叛军夺取也门红海沿岸"}
+        {"source": "Petronotícias", "original": "PETRÓLEO PASSA DE 109 DÓLARES COM OS ATAQUES DOS TERRORISTAS HOUTHIS, APOIADOS PELO IRÃ, CONTRA O SUL DA ARÁBIA SAUDITA", "zh": "伊朗支持的胡塞恐怖分子袭击沙特南部，石油突破109美元"},
+        {"source": "CNN Brasil", "original": "O que está em jogo na tomada de cidades por Houthis para o comércio mundial", "zh": "胡塞夺城对世界贸易意味着什么"},
+        {"source": "Valor Econômico", "original": "Houthis voltam a atacar Arábia Saudita, e negociações sobre Ormuz seguem travadas", "zh": "胡塞再度袭击沙特，霍尔木兹谈判仍陷僵局"}
       ]
     },
     "Russia": {
       "name": "俄罗斯",
-      "frame": "曼德海峡易手与地区对抗升级，头版完全聚焦俄乌战争，未含红海事件",
-      "unique": "Интерфакс 与 Life.ru 转述胡塞口径（『未阻碍航运』『两天内70余船通过』）；Zerkalo 把事件与『特朗普拒绝打击』挂钩；nv.ua 角度称『特朗普指责乌克兰之际胡塞开辟新战线』",
+      "frame": "油价上涨与沙特的孤立求助，倾向呈现西方阵营裂痕",
+      "unique": "多家媒体聚焦『美国拒绝军援沙特』『沙特向英国求保护』，这一阵营内讧角度是俄媒最突出的框架",
       "headlines": [
-        {"source": "Интерфакс", "original": "Хуситы заявили, что не создавали препятствий для судоходства в Баб-эль-Мандебе - Интерфакс", "zh": "胡塞声明未对曼德海峡航运制造障碍"},
-        {"source": "Meduza", "original": "Хуситы взяли под контроль Баб-эль-Мандебский пролив — один из ключевых маршрутов вывоза нефти на Ближнем Востоке - Meduza", "zh": "胡塞控制曼德海峡——中东石油外运的关键路线之一"},
-        {"source": "Zerkalo", "original": "Хуситы захватили ключевой остров в Баб-эль-Мандебском проливе после того, как Трамп отказался наносить по ним удары, пишут СМИ - Zerkalo", "zh": "媒体称：在特朗普拒绝打击胡塞之后，胡塞夺取曼德海峡关键岛屿"}
+        {"source": "Вестник Кавказа", "original": "США отказали Саудовской Аравии в военной поддержке против хуситов - СМИ", "zh": "媒体报道：美国拒绝向沙特提供对抗胡塞的军事支持"},
+        {"source": "Русская служба The Moscow Times", "original": "Саудовская Аравия запросила военную помощь у Великобритании из-за угрозы со стороны хуситов", "zh": "因胡塞威胁，沙特向英国请求军事援助"},
+        {"source": "Эксперт", "original": "Как повлияют атаки хуситов на нефть и судоходство в Ормузе", "zh": "胡塞袭击将如何影响霍尔木兹的石油与航运"}
       ]
     },
     "Egypt": {
       "name": "埃及",
-      "frame": "曼德海峡危机直接威胁苏伊士运河，埃及成为利益攸关方；事件密集进入头版区",
-      "unique": "苏伊士运河影响分析（BBC Arabic）；胡塞称『除沙特船只外航运安全』的细节；安理会将开紧急会议（欧巴林请求）；沙特王储当日访埃及的联动背景",
+      "frame": "红海与曼德海峡控制权之争，强调伊朗幕后角色争议",
+      "unique": "当天头版即有塞西与MBS通话（『مصلحة مصر والسعودية واحدة』，埃及与沙特利益一致），并出现政治学教授将袭击归因伊朗施压抬油价的独家解读",
       "headlines": [
-        {"source": "BBC", "original": "قناة السويس: كيف ستتأثر باضطراب الملاحة عبر مضيق باب المندب؟ - BBC", "zh": "苏伊士运河：将如何受曼德海峡航运动荡影响？"},
-        {"source": "CNN Arabic", "original": "الوثيون: الملاحة بباب المندب آمنة باستثناء السفن السعودية - CNN Arabic", "zh": "胡塞：曼德海峡航运安全，沙特船只除外"},
-        {"source": "middle-east-online.com", "original": "مصر ترفض طلب الحوثيين التنسيق بشأن الملاحة في باب المندب - middle-east-online.com", "zh": "埃及拒绝胡塞关于曼德海峡航运协调的请求"}
+        {"source": "اليوم السابع", "original": "أستاذ علوم سياسية: الهجمات الحوثية على السعودية نتيجة ضغط إيرانى لرفع أسعار النفط", "zh": "政治学教授：胡塞袭击沙特是伊朗施压抬高油价的结果"},
+        {"source": "Reuters", "original": "السعودية توقف خط أنابيب نفط مع تشديد الحوثيين قبضتهم على البحر الأحمر", "zh": "沙特停止石油管道，胡塞加紧控制红海"},
+        {"source": "DW.com", "original": "السعودية بين فكي هرمز وباب المندب .. إلى أين يتجه النفط؟", "zh": "沙特夹在霍尔木兹与曼德海峡之间……石油将走向何方？"}
       ]
     },
     "China": {
       "name": "中国",
-      "frame": "红海航运格局生变与中东局势升级，头版以国内政治和金砖议题为主",
-      "unique": "美国之音中文版报道万斯称美国正与沙特、阿联酋和胡塞『接触』——这一外交接触角度在其他国家标题中未见；央广网转述胡塞『除沙特外船只安全』的说法",
+      "frame": "全球能源供应承压与油价走势，兼及海湾伊朗会谈推迟",
+      "unique": "出现『油价200美元噩梦』『锁喉曼德海峡』等夸张化修辞（hstong、封面新闻），并把CPI与美联储加息概率捆绑解读",
       "headlines": [
-        {"source": "新华网", "original": "也门胡塞武装攻占穆哈 红海航运管控格局生变 - 新华网", "zh": ""},
-        {"source": "美国之音", "original": "副总裁万斯：美国正就『动荡』的也门危机与沙特阿拉伯、阿联酋和胡塞武装进行接触 - 美国之音", "zh": ""},
-        {"source": "财新", "original": "胡塞武装夺取也门红海战略要地 曼德海峡航运恐受更大牵制 - 财新", "zh": ""}
+        {"source": "财联社", "original": "油价“破百”背后：胡塞武装正猛烈攻击沙特！", "zh": ""},
+        {"source": "封面新闻", "original": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压", "zh": ""},
+        {"source": "华尔街见闻", "original": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地", "zh": ""}
       ]
     }
   },
-  "limitation": "数据仅来自各国 Google News 聚合的标题快照，搜索词本身（如法国用『Bab el-Mandeb』）会系统性筛选报道角度，且头版与搜索结果的时间窗可能不完全重合，德国的零结果尤其可能是搜索词匹配问题而非真正的报道缺席。"
+  "limitation": "数据仅为单一事件日的一组标题样本且搜索词各国不同，无法据此推断各国媒体整体立场，且未见沙特本国与胡塞方面媒体的直接报道。"
 }
